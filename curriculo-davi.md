@@ -11,29 +11,29 @@
 - **GitHub:** [DaviBauerr](https://github.com/DaviBauerr) 🔗
 
 ## Educação 🏫
-![Education](https://images.unsplash.com/photo-1503676260728-1c00da094a0b?ixlib=rb-1.2.1&auto=format&fit=crop&w=50&q=80)
+![Education](https://img.imageboss.me/revista-cdn/cdn/44463/b1250c626075e5da5ab6fef7cfbf8637e0c6d32a.jpg?1682696027)
 - **[Sua formação acadêmica]**  
-  - **Instituição:** [Nome da Instituição]
-  - **Curso:** [Nome do Curso]
-  - **Ano de Conclusão:** [Ano de Conclusão]
+  - **Instituição:** [Ensino Fundamental]
+  - **Curso:** [Hellow Blumenau]
+  - **Ano de Conclusão:** [Em andamento]
 
 ## Empresas que eu gostaria de Trabalhar 💼
-![Work](https://images.unsplash.com/photo-1522071820081-009f0129c71c?ixlib=rb-1.2.1&auto=format&fit=crop&w=50&q=80)
-  - **Empresa1:** [Nome da Empresa]
-  - **Empresa2:** [Nome da Empresa]
-  - **Empresa3:** [Nome da Empresa]
+![Work](https://agilize.com.br/blog/wp-content/uploads/2024/03/Untitled-3-1.webp)
+  - **Empresa1:** Meta
+  - **Empresa2:** Google
+  - **Empresa3:** Microsoft
 
 ## Habilidades que eu quero Desenvolver🛠️
-![Skills](https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?ixlib=rb-1.2.1&auto=format&fit=crop&w=50&q=80)
+![Skills](https://www.findup.com.br/wp-content/uploads/2020/11/iStock-988045382.jpg)
 - **[Lista de habilidades]**
-  - Habilidade 1
-  - Habilidade 2
+  - Aprender a programar rapidamente
+  - Fazer um aplicativo bem ativo e útil
 
 ## Com o Hellow eu Aprendi 🎉
-![Trophy](https://images.unsplash.com/photo-1579586331215-3f8e6c0a5f86?ixlib=rb-1.2.1&auto=format&fit=crop&w=50&q=80)
+![Trophy](https://play-lh.googleusercontent.com/XVWVhVq5s0_ME8DAGCEVEAM-vRiU0RvWH6DhYIfJHdYi2lwx-8L0YIK-YT0uEH-PFg)
 - **[Aprendizados]**
-  - Aprendizado 1
-  - Aprendizado 2
+  - A mexer com Git
+  - A salvar arquivos usando GitBash
 
 ## GIF Motivacional 
-![Motivational GIF](https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif)
+![Motivational GIF](https://media.tenor.com/IjlZSFqgRKwAAAAi/alien-pls.gif)
