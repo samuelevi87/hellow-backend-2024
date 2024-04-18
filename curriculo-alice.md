@@ -10,29 +10,29 @@ v
 - **GitHub:** [alice-kauling](https://www.github.com/alicekauling) 🌹
 
 ## Educação 🏫
-![Education](https://images.unsplash.com/photo-1503676260728-1c00da094a0b?ixlib=rb-1.2.1&auto=format&fit=crop&w=50&q=80)
+![Education](https://img.cancaonova.com/cnimages/canais/uploads/sites/6/2014/01/formacao_o-que-a-educacao-pode-fazer-pelo-coracao-humano-1.jpg)
 - **[Sua formação acadêmica]**  
-  - **Instituição:** [Nome da Instituição]
-  - **Curso:** [Nome do Curso]
-  - **Ano de Conclusão:** [Ano de Conclusão]
+  - **Instituição:** [Senai]
+  - **Curso:** [Hellow backend]
+  - **Ano de Conclusão:** [Em andamento]
 
 ## Empresas que eu gostaria de Trabalhar 💼
-![Work](https://images.unsplash.com/photo-1522071820081-009f0129c71c?ixlib=rb-1.2.1&auto=format&fit=crop&w=50&q=80)
-  - **Empresa1:** [Nome da Empresa]
-  - **Empresa2:** [Nome da Empresa]
-  - **Empresa3:** [Nome da Empresa]
+![Work](https://assets-site.staticpipefy.com/production/wp-content/uploads/2020/07/avel-chuklanov-DUmFLtMeAbQ-unsplash-2.jpg)
+  - **Empresa1:** [Ailos]
+  - **Empresa2:** [Philips]
+  - **Empresa3:** []
 
 ## Habilidades que eu quero Desenvolver🛠️
-![Skills](https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?ixlib=rb-1.2.1&auto=format&fit=crop&w=50&q=80)
+![Skills](https://www.curriculum.com.br/blog/wp-content/uploads/2017/12/Post-Carreiras.png)
 - **[Lista de habilidades]**
   - Habilidade 1
   - Habilidade 2
 
 ## Com o Hellow eu Aprendi 🎉
-![Trophy](https://images.unsplash.com/photo-1579586331215-3f8e6c0a5f86?ixlib=rb-1.2.1&auto=format&fit=crop&w=50&q=80)
+![Trophy](https://www.nube.com.br/media/noticias/2019/08/15/16473/1_873x437.jpg)
 - **[Aprendizados]**
   - Aprendizado 1
   - Aprendizado 2
 
-## GIF Motivacional 
-![Motivational GIF](https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif)
+## GIF Motivacional
+![Motivational GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW56bTVkMnBxb2FnZ21xYmJkaXRmbXoweHRla203b3hvbjlwcXVxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6FqVyHItkF4d0KJ07V/giphy.gif)
