@@ -1,4 +1,5 @@
 
+
 # Meu Currículo Hellow 🌟
 
 ![Header](https://www.insper.edu.br/wp-content/uploads/2023/04/Linguagen-de-programacao-2-shutterstock_1680857539.jpg.jpeg)
@@ -11,23 +12,23 @@
 
 
 ## Educação 🏫
-![Education](https://images.unsplash.com/photo-1503676260728-1c00da094a0b?ixlib=rb-1.2.1&auto=format&fit=crop&w=50&q=80)
+![Education](https://files.tecnoblog.net/wp-content/uploads/2016/04/caderno_caneta.jpg)
 - **[Sua formação acadêmica]**  
-  - **Instituição:** [Nome da Instituição]
-  - **Curso:** [Nome do Curso]
-  - **Ano de Conclusão:** [Ano de Conclusão]
+  - **Instituição:** senai
+  - **Curso:** hellow-backhend
+  - **Ano de Conclusão:** Loading
 
 ## Empresas que eu gostaria de Trabalhar 💼
 ![Work](https://images.unsplash.com/photo-1522071820081-009f0129c71c?ixlib=rb-1.2.1&auto=format&fit=crop&w=50&q=80)
-  - **Empresa1:** [Nome da Empresa]
-  - **Empresa2:** [Nome da Empresa]
-  - **Empresa3:** [Nome da Empresa]
+  - **Empresa1:** Microsoft
+  - **Empresa2:** Apple
+  - **Empresa3:** Sony
 
 ## Habilidades que eu quero Desenvolver🛠️
-![Skills](https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?ixlib=rb-1.2.1&auto=format&fit=crop&w=50&q=80)
+![Skills]()
 - **[Lista de habilidades]**
-  - Habilidade 1
-  - Habilidade 2
+  - Habilidade 1 comunicação
+  - Habilidade 2 racisocìnio
 
 ## Com o Hellow eu Aprendi 🎉
 ![Trophy](https://images.unsplash.com/photo-1579586331215-3f8e6c0a5f86?ixlib=rb-1.2.1&auto=format&fit=crop&w=50&q=80)
