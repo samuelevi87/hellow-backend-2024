@@ -15,7 +15,7 @@
 ![Education](https://files.tecnoblog.net/wp-content/uploads/2016/04/caderno_caneta.jpg)
 - **[Sua formação acadêmica]**  
   - **Instituição:** senai
-  - **Curso:** hellow-backhend
+  - **Curso:** hellow-backend
   - **Ano de Conclusão:** Loading
 
 ## Empresas que eu gostaria de Trabalhar 💼
