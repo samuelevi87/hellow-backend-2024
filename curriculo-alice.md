@@ -18,9 +18,9 @@ v
 
 ## Empresas que eu gostaria de Trabalhar 💼
 ![Work](https://assets-site.staticpipefy.com/production/wp-content/uploads/2020/07/avel-chuklanov-DUmFLtMeAbQ-unsplash-2.jpg)
-  - **Empresa1:** [Ailos]
+  - **Empresa1:** [ central Ailos]
   - **Empresa2:** [Philips]
-  - **Empresa3:** []
+  - **Empresa3:** [sênior]
 
 ## Habilidades que eu quero Desenvolver🛠️
 ![Skills](https://www.curriculum.com.br/blog/wp-content/uploads/2017/12/Post-Carreiras.png)
