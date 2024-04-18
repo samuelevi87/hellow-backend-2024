@@ -11,29 +11,46 @@
 - **GitHub:** [JezreelDlugoss](https://github.com/JezreelDlugoss) 🔗
 
 ## Educação 🏫
-![Education](https://images.unsplash.com/photo-1503676260728-1c00da094a0b?ixlib=rb-1.2.1&auto=format&fit=crop&w=50&q=80)
-- **[Sua formação acadêmica]**  
-  - **Instituição:** [Nome da Instituição]
-  - **Curso:** [Nome do Curso]
-  - **Ano de Conclusão:** [Ano de Conclusão]
+![Education](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLXHxtxxzqFRlAJaDCzOyAtixHh5tmg8IKma3nyYz16w&s)
+- **[Ensino Fudamental II]**  *Em andamento*
+  - **Instituição:** EBMB Tiradentes e Prof JUlia Stzalkowska
+  - **Curso:** 9 ano
+  - **Ano de Conclusão:** 2024
+- **[Ingles]]**  *Em Andamento*
+  - **Instituição:** Jumper
+  - **Curso:** Inglês Basico
+  - **Ano de Conclusão:** 2024
+- **[Informatica]**  *Em Andamento*
+  - **Instituição:** Jumper
+  - **Curso:** Informatica (Pacote Office)
+  - **Ano de Conclusão:** 2024
+- **[Hellow]**  
+  - **Instituição:** Senai
+  - **Curso:** Trilha DEV - Hellow BackEnd
+  - **Ano de Conclusão:** 2024
 
 ## Empresas que eu gostaria de Trabalhar 💼
-![Work](https://images.unsplash.com/photo-1522071820081-009f0129c71c?ixlib=rb-1.2.1&auto=format&fit=crop&w=50&q=80)
-  - **Empresa1:** [Nome da Empresa]
-  - **Empresa2:** [Nome da Empresa]
-  - **Empresa3:** [Nome da Empresa]
+![Work](https://media2.giphy.com/media/TLnWsIBRegQyWxG4Dw/giphy.webp?cid=790b76119s4tc3ylhq860qyi4rnredq7ser7fi6mv0jk9taz&ep=v1_gifs_search&rid=giphy.webp&ct=g)
+  - **Empresa1:** Sênior 
+  - ![Senior](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu8pBSw5NywOBaiXXJZgvFib7oGTspNsfMkdnUPBwohw&s)
+  - **Empresa2:** Google
+  - ![Google](https://media4.giphy.com/media/5NPhdqmyRxn8I/giphy.webp?cid=790b76115vmgby6mdqywalo941l6oabnrxmzuo3rhf0odoeh&ep=v1_gifs_search&rid=giphy.webp&ct=g)
+  - **Empresa3:** Facebook
+  - ![Facebook](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXoMFtNYy-gfuvVnQkKSiDAmfYt0ynmaGz55WPNbUPZw&s)
 
 ## Habilidades que eu quero Desenvolver🛠️
-![Skills](https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?ixlib=rb-1.2.1&auto=format&fit=crop&w=50&q=80)
+![Skills](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNci8vMTxrTYA4-mjcLikUVICUq7dcowp5DdPiXQ2b0w&s)
 - **[Lista de habilidades]**
-  - Habilidade 1
-  - Habilidade 2
+  - Aprender JavaScript
+ ![js](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0Kw-gPYLHgUqz6vdeyzU_B3cHTgwj-tIX66Ugtv7wNQ&s)
+  - Aprender Python
+  ![python](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAfbG2qFSS5c9d7PKn3OjRC6CE6vJzlwyyI5vl75GN2g&s)
 
 ## Com o Hellow eu Aprendi 🎉
-![Trophy](https://images.unsplash.com/photo-1579586331215-3f8e6c0a5f86?ixlib=rb-1.2.1&auto=format&fit=crop&w=50&q=80)
+![Trophy](https://cdn-icons-png.flaticon.com/512/4823/4823722.png)
 - **[Aprendizados]**
-  - Aprendizado 1
-  - Aprendizado 2
+  - Git
+  - Clonar Repositório
 
 ## GIF Motivacional 
-![Motivational GIF](https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif)
+![Motivational GIF](https://media.giphy.com/media/DYH297XiCS2Ck/giphy.gif?cid=ecf05e47ypz7w9yltw7qvw0po935sjj8kf21snof2ebv2xlt&ep=v1_gifs_search&rid=giphy.gif&ct=g)
