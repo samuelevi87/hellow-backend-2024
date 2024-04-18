@@ -1,19 +1,20 @@
 
 # Meu Currículo Hellow 🌟
 
-![Header](https://www.insper.edu.br/wp-content/uploads/2023/04/Linguagen-de-programacao-2-shutterstock_1680857539.jpg.jpeg)
+![Header](https://images.velog.io/images/sonaky47/post/859be0c9-0086-4013-b514-ee454df8f913/python.png)
+
 
 ## Dados Pessoais 📄
 
-- **Nome:** Vitor Leandro Nestor Da Fonseca 😎
-- **Email:** vitor_fonseca@estudante.sesisenai.org.br
-- **GitHub:** [vitorlned](https://www.github.com/vitorlned)
-
+- **Nome:** Vitor Rondon
+- **Email:** vitor_rondon1@estudante.sesi.senai.org.br
+- **Instagram:** [Link do seu Instagram]
+- **GitHub:** [VITORKDF](https://github.com/VITORKDF)
 
 ## Educação 🏫
 ![Education](https://images.unsplash.com/photo-1503676260728-1c00da094a0b?ixlib=rb-1.2.1&auto=format&fit=crop&w=50&q=80)
 - **[Sua formação acadêmica]**  
-  - **Instituição:** [Nome da Instituição]
+  - **Instituição:**
   - **Curso:** [Nome do Curso]
   - **Ano de Conclusão:** [Ano de Conclusão]
 
