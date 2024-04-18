@@ -10,31 +10,31 @@
 - **GitHub:** [bernardotomio](https://github.com/bernardotomio) 🔗
 
 ## Educação 🏫
-![Education](https://images.unsplash.com/photo-1503676260728-1c00da094a0b?ixlib=rb-1.2.1&auto=format&fit=crop&w=50&q=80)
+![Education](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuS_g1hg9QYs71KvKR1PXea7y3aLLUb9b-RpSHcwTVCQ&s)
 - **Ensino Fundamental**  
   - **Instituição**:**E.B.M. Bilíngue Prof. Fernando Ostermann**
   - **Ano de Conclusão**: **2024**
+- **Trilha DEV - Hellow backend**  
+  - **Instituição**:**SENAI**
+  - **Ano de Conclusão**: **2024**
 
 ## Empresas que eu gostaria de Trabalhar 💼
-![Work](https://images.unsplash.com/photo-1522071820081-009f0129c71c?ixlib=rb-1.2.1&auto=format&fit=crop&w=50&q=80)
-  - **Empresa1:** [Nome da Empresa]
-  - **Empresa2:** [Nome da Empresa]
-  - **Empresa3:** [Nome da Empresa]
+![Work](https://netrinoimages.s3.eu-west-2.amazonaws.com/2018/11/20/562992/286476/apple_logo_3d_model_c4d_max_obj_fbx_ma_lwo_3ds_3dm_stl_2998695.jpg)
+  - **Empresa1:** Apple
+  - **Empresa2:** Sênior
+  - **Empresa3:** Microsoft
 
 ## Habilidades que eu quero Desenvolver🛠️
-![Skills](https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?ixlib=rb-1.2.1&auto=format&fit=crop&w=50&q=80)
+![Skills](https://exchangenow.net/upload/como_funciona_a_bolsa_de_valores.jpg)
 - **[Lista de habilidades]**
-  - Habilidade 1
-  - Habilidade 2
-
+  - Programação Avançada
+  - Bolsa de Valores
 ## Com o Hellow eu Aprendi 🎉
-![Trophy](https://images.unsplash.com/photo-1579586331215-3f8e6c0a5f86?ixlib=rb-1.2.1&auto=format&fit=crop&w=50&q=80)
+![Trophy](https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png)
 - **[Aprendizados]**
-  - Aprendizado 1
-  - Aprendizado 2
+  - Git Hub
+  - Clonar um Repositório
 
 ## GIF Motivacional 
-![Motivational GIF](https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif)
+![Motivational GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDgzN2F3MzdoZ252eGRsMm9vY2hlZ3lxbGNxOWloZ3YzOGlyYWZhNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9DPDoWMicL4nU3NC/giphy.gif)
 
-C --> D
-```
