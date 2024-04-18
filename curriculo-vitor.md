@@ -12,20 +12,20 @@
 - **GitHub:** [VITORKDF](https://github.com/VITORKDF)
 
 ## Educação 🏫
-![Education](https://images.unsplash.com/photo-1503676260728-1c00da094a0b?ixlib=rb-1.2.1&auto=format&fit=crop&w=50&q=80)
+![Education](https://noticiasconcursos.com.br/wp-content/uploads/2020/11/noticiasconcursos.com.br-7-termos-de-educacao-que-estao-em-alta-termos-da-educacao-scaled.jpg)
 - **[Sua formação acadêmica]**  
   - **Instituição:**
   - **Curso:** [Nome do Curso]
   - **Ano de Conclusão:** [Ano de Conclusão]
 
 ## Empresas que eu gostaria de Trabalhar 💼
-![Work](https://images.unsplash.com/photo-1522071820081-009f0129c71c?ixlib=rb-1.2.1&auto=format&fit=crop&w=50&q=80)
+![Work](https://classic.exame.com/wp-content/uploads/2022/06/EMPODERAR-3.jpg?quality=70&strip=info&w=1024)
   - **Empresa1:** [Nome da Empresa]
   - **Empresa2:** [Nome da Empresa]
   - **Empresa3:** [Nome da Empresa]
 
 ## Habilidades que eu quero Desenvolver🛠️
-![Skills](https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?ixlib=rb-1.2.1&auto=format&fit=crop&w=50&q=80)
+![Skills]()
 - **[Lista de habilidades]**
   - Habilidade 1
   - Habilidade 2
@@ -37,4 +37,4 @@
   - Aprendizado 2
 
 ## GIF Motivacional 
-![Motivational GIF](https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif)
+![Motivational GIF](https://media1.tenor.com/m/zZBeekcxu_EAAAAC/cat-silly.gif)
