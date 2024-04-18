@@ -11,21 +11,21 @@
 ## Educação 🏫
 ![Education](https://images.unsplash.com/photo-1503676260728-1c00da094a0b?ixlib=rb-1.2.1&auto=format&fit=crop&w=50&q=80)
 - **[Sua formação acadêmica]**  
-  - **Instituição:** [Nome da Instituição]
-  - **Curso:** [Nome do Curso]
-  - **Ano de Conclusão:** [Ano de Conclusão]
+  - **Instituição:** E.B.M.B. Gustavo Richard
+  - **Curso:** Hellow
+  - **Ano de Conclusão:** 2024
 
 ## Empresas que eu gostaria de Trabalhar 💼
 ![Work](https://images.unsplash.com/photo-1522071820081-009f0129c71c?ixlib=rb-1.2.1&auto=format&fit=crop&w=50&q=80)
-  - **Empresa1:** [Nome da Empresa]
-  - **Empresa2:** [Nome da Empresa]
-  - **Empresa3:** [Nome da Empresa]
+  - **Empresa1:** Sênior
+  - **Empresa2:** AmbevTech
+  - **Empresa3:** 
 
 ## Habilidades que eu quero Desenvolver🛠️
 ![Skills](https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?ixlib=rb-1.2.1&auto=format&fit=crop&w=50&q=80)
 - **[Lista de habilidades]**
-  - Habilidade 1
-  - Habilidade 2
+  - Desenvolvimento de Games
+  - Programar IA's
 
 ## Com o Hellow eu Aprendi 🎉
 ![Trophy](https://images.unsplash.com/photo-1579586331215-3f8e6c0a5f86?ixlib=rb-1.2.1&auto=format&fit=crop&w=50&q=80)
