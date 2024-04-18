@@ -11,29 +11,37 @@
 - **GitHub:** [HenriqueCorrea02](https://www.github.com/HenriqueCorrea02) 🔗
 
 ## Educação 🏫
-![Education](https://images.unsplash.com/photo-1503676260728-1c00da094a0b?ixlib=rb-1.2.1&auto=format&fit=crop&w=50&q=80)
+![Education](https://www.youbilingue.com.br/blog/wp-content/uploads/2019/06/capa-blog-diferenciar-escola-min.png)
 - **[Sua formação acadêmica]**  
-  - **Instituição:** [Nome da Instituição]
-  - **Curso:** [Nome do Curso]
-  - **Ano de Conclusão:** [Ano de Conclusão]
+  - **Instituição:** [Senai]
+  - **Curso:** [Trilha dev hellow backend]
+  - **Ano de Conclusão:** [2024]
+- **[Sua formação acadêmica]**  
+  - **Instituição:** [E.B.M. Paulina Wagner]
+  - **Curso:** [Ensino Fundamental 2]
+  - **Ano de Conclusão:** [2024]
+- **[Sua formação acadêmica]**  
+  - **Instituição:** [Viabiliza]
+  - **Curso:** [Inglês, informática, robótica]
+  - **Ano de Conclusão:** [2024]
 
 ## Empresas que eu gostaria de Trabalhar 💼
-![Work](https://images.unsplash.com/photo-1522071820081-009f0129c71c?ixlib=rb-1.2.1&auto=format&fit=crop&w=50&q=80)
-  - **Empresa1:** [Nome da Empresa]
-  - **Empresa2:** [Nome da Empresa]
-  - **Empresa3:** [Nome da Empresa]
+![Work](https://www.infomoney.com.br/wp-content/uploads/2019/08/carteira-de-trabalho-7.jpg?fit=900%2C600&quality=70&strip=all)
+  - **Empresa1:** []
+  - **Empresa2:** []
+  - **Empresa3:** []
 
 ## Habilidades que eu quero Desenvolver🛠️
-![Skills](https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?ixlib=rb-1.2.1&auto=format&fit=crop&w=50&q=80)
+![Skills](https://cate.prefeitura.sp.gov.br/wp-content/uploads/2020/03/GettyImages-1164414770_editada.jpg)
 - **[Lista de habilidades]**
-  - Habilidade 1
-  - Habilidade 2
+  - Velocidade de reação
+  - Trabalho em equipe
 
 ## Com o Hellow eu Aprendi 🎉
-![Trophy](https://images.unsplash.com/photo-1579586331215-3f8e6c0a5f86?ixlib=rb-1.2.1&auto=format&fit=crop&w=50&q=80)
+![Trophy](https://play-lh.googleusercontent.com/XVWVhVq5s0_ME8DAGCEVEAM-vRiU0RvWH6DhYIfJHdYi2lwx-8L0YIK-YT0uEH-PFg)
 - **[Aprendizados]**
-  - Aprendizado 1
-  - Aprendizado 2
+  - Mecher no aplicativo GitHub
+  - Programar e criar um currículo virtual
 
 ## GIF Motivacional 
-![Motivational GIF](https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif)
+![Motivational GIF](https://media.giphy.com/media/olAik8MhYOB9K/giphy.gif?cid=ecf05e475665zo7lj6ou30sgv1hu9sa8dug92jvbtpms78ks&ep=v1_gifs_search&rid=giphy.gif&ct=g)
