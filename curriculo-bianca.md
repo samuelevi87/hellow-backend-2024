@@ -11,29 +11,34 @@
 - **GitHub:** [biancagieseler](https://www.github.com/biancagieseler) 🦋
 
 ## Educação 🏫
-![Education](https://images.unsplash.com/photo-1503676260728-1c00da094a0b?ixlib=rb-1.2.1&auto=format&fit=crop&w=50&q=80)
+![Education](https://todospelaeducacao.org.br/wordpress/wp-content/uploads/2020/10/thumb-irs.jpg)
+
 - **[Sua formação acadêmica]**  
-  - **Instituição:** [Nome da Instituição]
-  - **Curso:** [Nome do Curso]
-  - **Ano de Conclusão:** [Ano de Conclusão]
+  - **Instituição:** Senai
+  - **Curso:** Hellow Backend 
+  - **Ano de Conclusão:** Em Andamento
+
+  **Instituição:** E.B.M. Anita Garibladi 
+  - **Curso:** Ensino Fundamental 
+  - **Ano de Conclusão:** 2025
+
 
 ## Empresas que eu gostaria de Trabalhar 💼
-![Work](https://images.unsplash.com/photo-1522071820081-009f0129c71c?ixlib=rb-1.2.1&auto=format&fit=crop&w=50&q=80)
-  - **Empresa1:** [Nome da Empresa]
-  - **Empresa2:** [Nome da Empresa]
-  - **Empresa3:** [Nome da Empresa]
-
+![Work](https://static.significados.com.br/foto/pessoas-no-trabalho-cke.jpg)
+  - **Empresa1:** Central Ailos 
+  - **Empresa2:** Philips 
+  - **Empresa3:** Sênior 
 ## Habilidades que eu quero Desenvolver🛠️
-![Skills](https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?ixlib=rb-1.2.1&auto=format&fit=crop&w=50&q=80)
+![Skills](https://annelisegripp.com.br/wp-content/uploads/2015/09/habilidades.jpg)
 - **[Lista de habilidades]**
   - Habilidade 1
   - Habilidade 2
 
 ## Com o Hellow eu Aprendi 🎉
-![Trophy](https://images.unsplash.com/photo-1579586331215-3f8e6c0a5f86?ixlib=rb-1.2.1&auto=format&fit=crop&w=50&q=80)
+![Trophy](https://images.vexels.com/media/users/3/307669/isolated/lists/1c89921fc4b9e9ff3e1d00228ce98c49-um-trofa-u-para-o-vencedor.png)
 - **[Aprendizados]**
   - Aprendizado 1
   - Aprendizado 2
 
 ## GIF Motivacional 
-![Motivational GIF](https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif)
+![Motivational GIF](https://media4.giphy.com/media/r49zgiCebaE0yd6UNn/giphy.webp?cid=ecf05e47ifw101otkvlx0kwkv28egmkxhg90r7ngfg4f7gzp&ep=v1_gifs_search&rid=giphy.webp&ct=g)
