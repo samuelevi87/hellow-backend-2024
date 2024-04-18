@@ -13,7 +13,7 @@
 - **[Sua formação acadêmica]**  
   - **Instituição:** E.B.M.B. Gustavo Richard
   - **Curso:** Hellow Backend
-  - **Ano de Conclusão:** 2024
+  - **Ano de Conclusão:** Em andamento
 
 ## Empresas que eu gostaria de Trabalhar 💼
 ![Work](https://images.unsplash.com/photo-1522071820081-009f0129c71c?ixlib=rb-1.2.1&auto=format&fit=crop&w=50&q=80)
