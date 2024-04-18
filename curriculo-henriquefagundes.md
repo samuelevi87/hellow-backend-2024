@@ -34,4 +34,4 @@
   - Aprendizado 2
 
 ## GIF Motivacional 
-![Motivational GIF](<iframe src="https://giphy.com/embed/ErZ8hv5eO92JW" width="480" height="271" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/kawaii-wink-ErZ8hv5eO92JW">via GIPHY</a></p>)
+![Motivational GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzdkOXNkNjE0YXFjcXRtc2hzbHhhcWp1OWZ4cTB4Y3N2YmZnZ3dubSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ErZ8hv5eO92JW/giphy.gif)
