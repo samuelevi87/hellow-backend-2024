@@ -31,4 +31,20 @@ Da explicação do professor, de poder conhecer o SENAI, poder vir para o SENAI 
 ### Sentimento do dia:
 ![Alt Text](https://media4.giphy.com/media/JIX9t2j0ZTN9S/giphy.webp?cid=790b76116h7b50tsxdy6zumncefo93vlh0ga0s5jn1qvbwvz&ep=v1_gifs_search&rid=giphy.webp&ct=g)
 
+---
+## Data: [25-04-2024]
 
+### O que aprendi hoje:
+O básico de como fazer calculos no Java, como fazer o diário de Bordo.
+
+### O que achei mais difícil:
+Entender a como fazer calculos no Java, uma certa dificuldade sobre os tipos de dados.
+
+### O que mais gostei:
+De entender o básico do básico sobre Java.
+
+### Sentimento do dia:
+![Alt Text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3k1bGEwaDYyOXBiM2VsNDFoZGl3ZHpiNDlodXd4eGlpM3QxN25qcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.webp)
+
+
+---
