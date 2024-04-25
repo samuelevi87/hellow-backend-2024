@@ -29,5 +29,18 @@ Eu achei legal usar os comandos do Git pois você consegue abrir varias coisas, 
 ### Sentimento do dia:
 ![Alt Text](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTI3dnpncTkwc3I3MnVqbHpvdmMwODVwYnB5MG9ubjQzaGd4MDlhYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nDSlfqf0gn5g4/giphy.gif)
 
+## Data: [25-04-2024]
 
+### O que aprendi hoje:
+hoje nós começamos a programar uma calculadora e começamos o nosso diário de bordo.
+
+### O que achei mais difícil:
+Eu achei bem complexo programar a calculadora pois tem que montar varios códigos, por isso que eu achei essa parte mais difício.
+
+### O que mais gostei:
+Eu gostei mais do começo do diário de bordo.
+
+### Sentimento do dia:
+![Alt Text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2hwaGxsNGw5NmhxaHd2eXZxaDFoajJncHF3YXFuMmFkZXJpdmtxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UO5elnTqo4vSg/giphy.gif)
+Escolha um GIF que melhor represente seu sentimento sobre a aula de hoje. Você pode usar sites como Giphy para encontrar o GIF perfeito.
 
