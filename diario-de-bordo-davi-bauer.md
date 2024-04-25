@@ -29,7 +29,7 @@ De aprender a mexer com o git, para oque ele serve e comandos ou como usar o git
 ### Sentimento do dia:
 ![No momento, estou achanto muito interessante.](https://media1.tenor.com/m/_UMS7ECci0MAAAAC/elysian-thumbs-up-cat.gif)
 
-
+---
 ## Data: [11-04-2024]
 
 ### O que aprendi hoje:
@@ -43,4 +43,17 @@ De tudo
 
 ### Sentimento do dia:
 ![confuso](https://media1.tenor.com/m/tqERWt8lBYEAAAAC/calculating-puzzled.gif)
-Escolha um GIF que melhor represente seu sentimento sobre a aula de hoje. Você pode usar sites como Giphy para encontrar o GIF perfeito.
+
+---
+## Data: [25-04-2024]
+
+### O que aprendi hoje:
+A programar no  Intellig e sobre a linguagem java, oque é variavel e como fazer uma calculadora básica
+
+### O que achei mais difícil:
+Só não peguei muito a parte dos números (longo, curdo , etc).E um pouco na parte do ingles (só um pouco).
+
+### O que mais gostei:
+Da hora que nós fizemos a calculadora.
+### Sentimento do dia:
+![Alt Text](https://media1.tenor.com/m/o8Clr9tGyyQAAAAC/really-good-information-lewis-jackson.gif)
