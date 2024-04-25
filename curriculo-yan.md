@@ -33,7 +33,7 @@
 ![Trophy](https://avatars.githubusercontent.com/u/18133?s=280&v=4)
 - **[Aprendizados]**
   - Sobre git
-  - Como fazer um comit
+  - Como fazer um commit
 
 ## GIF Motivacional 
 ![Motivational GIF](https://media1.tenor.com/m/Bhd6kBlrpNgAAAAC/alex-turner-kiss.gif)
