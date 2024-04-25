@@ -29,6 +29,20 @@ de aprender e mexer no git hub e tbm espero saber sobre programação pois é di
 ### Sentimento do dia:
 ![Alt Text](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHB6dWZsejE1bGY3bHNtNGN4YXQxZGdvMmpndXh5cjhwa2xoYnljciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AjTbbjwPr1kZiuoYmX/giphy.gif)
 
+---
+Data: [25-04-2024]
+
+### O que aprendi hoje:
+aprendi variaveis e tipos de dados e usar o java 
+
+### O que achei mais difícil:
+nada, eu acho que é meio simples mas complexo ao msm tempo
+### O que mais gostei:
+aprender sobre o java 
+
+### Sentimento do dia:
+![Alt Text](https://media1.tenor.com/m/vXgJEPq9IlsAAAAd/shy-dog-shy-shiba.gif)
 
 
+ 
 
