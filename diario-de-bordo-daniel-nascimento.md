@@ -30,3 +30,17 @@ Gostei de saber como é o Git Bash e como funciona os comandos.
 ### Sentimento do dia:
 ![Feliz](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHZzdmZ2eHYwaG9nYTZqZGpuZ2d1ZzZudHR2aDNieXpvNjFyaWRpMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C3brYLms1bhv2/giphy.gif)
 
+## Data: [25-04-2024]
+
+### O que aprendi hoje:
+Aprendi a usar o Intellij IDEA e fizemos o nosso Diário de bordo.
+
+### O que achei mais difícil:
+Saber como usar Intellij IDEA.
+
+### O que mais gostei:
+Gostei de saber sobre o int,double,e long.
+
+### Sentimento do dia:
+![Legal](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjYzeWU0dWhiamlodTJicTIwdnNpYm53b3JmNzR6cXZ4ZTY2c2N6NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif)
+
