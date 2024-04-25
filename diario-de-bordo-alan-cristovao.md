@@ -32,7 +32,8 @@ da explicaçao do professor
 
 ---
 
-## Data: [24-04-2024]
+## Data: [25
+-04-2024]
 
 ### O que aprendi hoje:
 **O basico sobre calculos no java e como fazer o diario de bordo**
