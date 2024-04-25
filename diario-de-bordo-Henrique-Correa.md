@@ -32,3 +32,19 @@ Gostei muito dos programas, dos professores e fiz amigos novos.
 Escolha um GIF que melhor represente seu sentimento sobre a aula de hoje. Você pode usar sites como Giphy para encontrar o GIF perfeito.
 
 ---
+## Data: [25-04-2024]
+
+### O que aprendi hoje:
+Aprendi mais alguns comandos no git, aprendi oq são variáveis e algumas contas matemáticas usando comandos no intellij.
+
+### O que achei mais difícil:
+Usar o atalho sout.
+
+### O que mais gostei:
+Fazer os programas e eprender sobre as variáveis
+
+### Sentimento do dia:
+![Animado](https://media.giphy.com/media/D8d9waDRkLu7U8Jlar/giphy.gif?cid=790b7611qu86y6679yd0b32h86u3n1u3xb41lukjfuc4jy4f&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+Escolha um GIF que melhor represente seu sentimento sobre a aula de hoje. Você pode usar sites como Giphy para encontrar o GIF perfeito.
+
+---
