@@ -30,3 +30,17 @@ O don't pad, tambem gostei do primeiro dia pois podemos jogar kour.io.
 ### Sentimento do dia:
 ![Normal](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDh6N3Z0cHBtZTN3MTZ4dDkyYmV5NWd4cmxmcHY4bGk3aG91anlueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohc1efuII5OH9tLJm/giphy.gif)
 
+## Data: [25-04-2024]
+
+### O que aprendi hoje:
+Aprendi a linguagem de java, variaveis e tipos de dados e começamos nosso Diário de Bordo.
+
+### O que achei mais difícil:
+As regras do java são um pouco complicadas mas no fim da pra entender.
+### O que mais gostei:
+Ultilizar os comandos do java.
+
+### Sentimento do dia:
+![Feliz](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXozdW41ZzJhbmRzazBjaTYwanA3MTdpeXNwdzV2d3I5bTdnNjczeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/guufsF0Az3Lpu/giphy.gif)
+
+
