@@ -19,7 +19,7 @@
   .
 
   - **Instituição:** SENAI
-  - **Curso:** Trilha DEV - Hellow Backend
+  - **Curso:** Trilha DEV - Hellow Backend.
   - **Ano de Conclusão:** 2024
 
 ## Empresas que eu gostaria de Trabalhar 💼
