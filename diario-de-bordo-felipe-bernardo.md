@@ -30,4 +30,19 @@ Eu gostei muito de fazer esse curso com meus amigos e mudar um pouco de minha ro
 ### Sentimento do dia:
 ![estou muito feliz](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjlsaTJvMDg2MHFleHk4Znk2dDh1eWY0OTZ1eWh3bXIweDR6aWRkdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHIRLHtNwxpjIFqPdV/giphy.gif)
 .
+---
+##  [25-04-2024]
 
+### O que aprendi hoje:
+Hoje aprendemos a linguagem do java  .
+
+### O que achei mais difícil:
+Naõ achei nada dificil hoje.
+
+### O que mais gostei:
+gostei de estar aprendendo um novo assunto hoje sobre a linguagem do java.
+
+### Sentimento do dia:
+![facil facil!](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnI4ejZtdjR6dXdwcDFmeXZra3V3NGNmazdpYmoxcWNnYWxud294aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oF5oUYTOhvFnO/giphy.gif)
+
+.
