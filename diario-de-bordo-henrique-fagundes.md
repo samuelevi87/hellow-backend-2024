@@ -1,6 +1,6 @@
 # Diário de Bordo - [Hellow 2024/Trilha DEV Backend]
 
-## Data: [11 e 18-04-2024]
+## Data: [11-04-2024 e 18-04-2024]
 
 ### O que aprendi hoje:
 Eu aprendi a usar o Git, e comandos básicos como push, pull, cp, commit, entre outros, para lançar para o GitHub, mas eu já conhecia o GitHub e Git.
@@ -13,6 +13,22 @@ Gostei bastante da dinâmica da aula, e também que podemos fazer alterações o
 
 ### Sentimento do dia:
 ![a](https://media1.tenor.com/m/QjKM7KoWgxEAAAAd/big-brain-genius.gif)
+
+
+---
+## Data: [25-04-2024]
+
+### O que aprendi hoje:
+Hoje aprendi sobre os tipos de variáveis e como elas funcionam em Java, e também a estrutura básica do código.
+
+### O que achei mais difícil:
+Não entendi muito bem a diferença entre a variável do tipo long e int.
+
+### O que mais gostei:
+Eu gostei da introdução à linguagem de programação Java, e da explicação do professor.
+
+### Sentimento do dia:
+![Programming](https://media1.tenor.com/m/uYP_Nkq8VPsAAAAd/coding-hello-world.gif)
 
 
 ---
