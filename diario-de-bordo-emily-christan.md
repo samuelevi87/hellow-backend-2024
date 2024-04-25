@@ -32,3 +32,16 @@ Até agora eu gostei de fazer nosso currículo, e também do que eu gostei do SE
 
 
 ---
+## Data: [25-04-2024]
+
+### O que aprendi hoje:
+Começamos com o nosso diário de bordo, falamos sobre a aula do github, começamos com a primeira aula de variáveis e tipos de dados.
+
+### O que achei mais difícil:
+Memoririzar as variáveis.
+
+### O que mais gostei:
+Que começamos um assunto novo, e porque estou conseguindo memorizar aos poucos os códigos do github.
+
+### Sentimento do dia:
+![Pensativa](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmFpenl4YjU5dDEwZmd2bGVuNWljeTZ4OWxvejNkM2RhMzE0NWthdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d3mlE7uhX8KFgEmY/giphy.gif)
