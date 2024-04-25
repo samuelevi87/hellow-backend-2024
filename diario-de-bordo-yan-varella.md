@@ -30,4 +30,17 @@ O que mais gostei foi ver o que eu fazia se transformar em algo, como uma pasta,
 ### Sentimento do dia:
 ![Até agora estou achando bem interessante, as aulas estão bem intuitivas](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDI4MzdmcHYxM2UxNDk0b2Mza3BlbjFqYmQ2MW8xM3VkcTFueHBtYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0MYHEI0xktKCVjri/giphy.gif)
 
+---
+## Data: [D25-04-2024]
 
+### O que aprendi hoje:
+Hoje eu aprendi sobre o java, o que são variáveis, e como calcular minha idade.
+
+### O que achei mais difícil:
+Achei difícil me adaptar a um novo programa depois de usar o outro por duas aulas.
+
+### O que mais gostei:
+O que mais gostei foi ter um conteúdo sobre a linguagem, com explicações. O programa foi apresentado de forma bem didática.
+
+### Sentimento do dia:
+![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnI4Ymc0aXUydTd2cW1ub2pxOHJvZDc0NWkzd3hkcDZ6cTV4ZjhjdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif)
