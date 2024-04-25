@@ -32,3 +32,17 @@ Fazer os comandos e ver que consegui concluir o objetivo.
 ![confuso](https://media4.giphy.com/media/lkdH8FmImcGoylv3t3/200.webp?cid=ecf05e47cpgbaoocnvyh1bj33h7mi3yp4x6mbyns0nfnatpf&ep=v1_gifs_search&rid=200.webp&ct=g)
 
 ---
+
+## Data: [25-04-2024]
+
+### O que aprendi hoje:
+Hoje iniciamos nosso diario de bordo, aprendi o que é variaveis e tipos de dados e iniciamos no Java.
+
+### O que achei mais difícil:
+Fazer os codigos era um pouco mais dificil, porém, ainda assim foi tranquilo.
+
+### O que mais gostei:
+eu gostei de fazer os codigos e ver os resultados de contas e etc.
+
+### Sentimento do dia:
+![animado](https://media.giphy.com/media/GeimqsH0TLDt4tScGw/giphy.gif?cid=790b7611dt6oymdukltcd80lzvkwif36nygta0epm28zfn7n&ep=v1_gifs_search&rid=giphy.gif&ct=g)
