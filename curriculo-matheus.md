@@ -12,7 +12,7 @@
 ## Educação 🏫
 ![Education](https://portaldogestor.com.br/wp-content/uploads/2024/02/educacaox.jpg)
 
-- **[]**  
+- **[E.B.M.Prof Adelaide Starke]**  
   - **Instituição:** [Senai]
   - **Curso:** [Hellow Beck End]
   - **Ano de Conclusão:** [2024]
