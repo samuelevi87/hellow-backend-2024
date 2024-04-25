@@ -16,4 +16,22 @@
 
 ---
 
+# Diário de Bordo - [Hellow 2024/Trilha DEV Backend]
+
+## Data: [25-04-2024]
+
+### O que aprendi hoje:
+**O basico sobre como fazer calculos no Java**
+**Aprendi a fazer o diário de bordo**
+
+### O que achei mais difícil:
+**Entender e lembrar o que cada comando faz**
+
+### O que mais gostei:
+**Entender como um computador lê codigos**
+
+### Sentimento do dia:
+![Alt Text](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3p2ejJwd3FpM2ZrNG90aWxsMGo0b2c0c2xoaHp3b2dmd2hmNWc2cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WRQBXSCnEFJIuxktnw/200.webp)
+
+---
 
