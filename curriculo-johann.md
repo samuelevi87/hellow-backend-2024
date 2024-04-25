@@ -33,7 +33,7 @@
 ## Com o Hellow eu Aprendi 🎉
 ![Trophy](https://mensagens.culturamix.com/blog/wp-content/uploads/2020/04/Sucesso-Profissional-3.png)
 - **[Aprendizados]**
-  - Usar o Github
-  - Criar Branch
+  - O basico do GitHub
+  - O basico de logica de pogramação
 
-![Motivational GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTJlMm5tM2Fna2VieTRsdmx6dXpteW1sbGRhN2FtZzg2NXlraGhmZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif)
+![Motivational GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHhnOW1uNXN3emVnb2hxYzRwejR3ZXYzNjcyaGpkcmcwdWlhZ2FnMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/B4dt6rXq6nABilHTYM/200.webp)
