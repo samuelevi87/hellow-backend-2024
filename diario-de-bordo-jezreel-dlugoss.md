@@ -34,3 +34,22 @@ Gostei da experiencia, achei daora fazer as coisas na pratica.
 ![Feliz](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzd5dDNnMjN4dWw2bW4wOTVzbzF0ZjhoNjN5cnRodndzeDl1ZXc5dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kiBcwEXegBTACmVOnE/giphy-downsized-large.gif)
 Escolha um GIF que melhor represente seu sentimento sobre a aula de hoje. Você pode usar sites como Giphy para encontrar o GIF perfeito.
 
+---
+
+## Data: [25-04-2024]
+
+### O que aprendi hoje:
+Descreva em detalhes o que você aprendeu durante a aula de hoje. Tente ser o mais específico possível, mencionando conceitos, técnicas ou insights que foram importantes para você.
+eu aprendi a fazer variaveis no Java
+
+### O que achei mais difícil:
+Explique quais partes da aula de hoje foram mais desafiadoras para você e por quê. Isso pode incluir tópicos que você achou complexos, perguntas que permaneceram sem resposta ou habilidades que você sentiu que precisava desenvolver mais.
+Nada
+
+### O que mais gostei:
+Compartilhe o que você mais gostou na aula de hoje. Isso pode ser um tópico específico que foi discutido, uma atividade prática que foi realizada, ou mesmo uma história ou exemplo que o professor compartilhou.
+Fazer a variavel na pratica
+
+### Sentimento do dia:
+![Alt Text](https://media1.tenor.com/m/i6izoAbmrfQAAAAC/eis.gif)
+Escolha um GIF que melhor represente seu sentimento sobre a aula de hoje. Você pode usar sites como Giphy para encontrar o GIF perfeito.
