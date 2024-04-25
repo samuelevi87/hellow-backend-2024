@@ -30,5 +30,19 @@ da explicaçao do professor
 ### Sentimento do dia:
 ![Alt Text](https://media3.giphy.com/media/xT1XH20RPY6rBmMBLa/200.webp?cid=790b7611kz3z6sb65un11h70hp0ytqwv9lqe1mew7zh6h7oe&ep=v1_gifs_search&rid=200.webp&ct=g)
 
+---
 
+## Data: [24-04-2024]
+
+### O que aprendi hoje:
+**O basico sobre calculos no java e como fazer o diario de bordo**
+
+### O que achei mais difícil:
+**Lembrar e enterder como cada comando funciona**
+
+### O que mais gostei:
+**como nao é tao dificil quanto parece**
+
+### Sentimento do dia:
+![Alt Text](https://media1.giphy.com/media/IPbS5R4fSUl5S/giphy.webp?cid=790b7611incamnoolsl9lk05cbiwij6btnx8vdvwe7xzlish&ep=v1_gifs_search&rid=giphy.webp&ct=g)
 
