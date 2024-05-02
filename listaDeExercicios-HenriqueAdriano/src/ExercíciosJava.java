@@ -171,7 +171,7 @@ public class ExercíciosJava {
      */
     public static void exercicio19(){
         String frase="Java é uma linguagem de programação";
-        System.out.println(frase);
+        System.out.println("Minha frase é:"+frase);
     }
 
 
