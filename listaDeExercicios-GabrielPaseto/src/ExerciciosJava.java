@@ -117,13 +117,13 @@ public class ExerciciosJava {
      * Em seguida, imprima a opção do menu com uma mensagem adequada.
      */
     public static void exercicio13() {
-        char opçaoMenu = 'C';
-        System.out.println("A opção do menu é: " + opçaoMenu);
+        char opcaoMenu = 'C';
+        System.out.println("A opção do menu é: " + opcaoMenu);
     }
 
     /**
      * Declare uma variável do tipo boolean chamada "solBrilha" e atribua a ela o valor true.
-     * seguida, imprima se o sol está brilhaEmndo ou não com uma mensagem adequada.
+     * seguida, imprima uma mensagem adequada.
      */
     public static void exercicio14() {
         boolean solBrilha = true;
@@ -184,7 +184,5 @@ public class ExerciciosJava {
         int idadeDoUsuario = 30;
         System.out.println("A idade do usuario é: " + idadeDoUsuario);
     }
-    /**
-     *
-     */
+
 }
