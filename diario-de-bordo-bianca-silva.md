@@ -46,4 +46,18 @@ que começamos um assunto novo
 ### Sentimento do dia:
 ![empolgada](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Z4aWN5ZHZjc2xqeW9mNjFkaDFpaGhiZ240b2dvNXhvdmZwaHZwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aytfmWUWilju4owE1H/giphy.gif) 
 
+---
+## Data: [02-05-2024]
+
+### O que aprendi hoje:
+Hoje aprendi a programar um pouco no Java ,com alugun exercícios avaliativos.
+
+### O que achei mais difícil:
+Em algumas das atividades senti mais dificuldade .
+
+### O que mais gostei:
+Que consegui fazer a maioria das questões sem o auxilio do professor. 
+### Sentimento do dia:
+![Me sentindo inteligente](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2R0cWRuN2JlZzBweGgxdGF1eXY4MDV4dGxoeWxhaHNsanVvajFvMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o0vwzuFwCGAFO/giphy.gif)
+
 
