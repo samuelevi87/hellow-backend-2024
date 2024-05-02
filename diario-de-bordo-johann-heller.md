@@ -35,3 +35,20 @@
 
 ---
 
+# Diário de Bordo - [Hellow 2024/Trilha DEV Backend]
+
+## Data: [02-05-2024]
+
+### O que aprendi hoje:
+**Aprendi a fazer codigos no java**
+**Aprendi**
+
+### O que achei mais difícil:
+**Achei a aula bem de boa**
+
+### O que mais gostei:
+**Ter entendido melhor como funciona o java**
+
+### Sentimento do dia:
+![Alt Text](https://media0.giphy.com/media/3NtY188QaxDdC/giphy.webp?cid=82a1493bw28y4xsfv90x7kq6ag9n16rnd3p7b393givjevhx&ep=v1_gifs_trending&rid=giphy.webp&ct=g)
+
