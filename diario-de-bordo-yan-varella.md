@@ -31,7 +31,7 @@ O que mais gostei foi ver o que eu fazia se transformar em algo, como uma pasta,
 ![Até agora estou achando bem interessante, as aulas estão bem intuitivas](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDI4MzdmcHYxM2UxNDk0b2Mza3BlbjFqYmQ2MW8xM3VkcTFueHBtYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0MYHEI0xktKCVjri/giphy.gif)
 
 ---
-## Data: [D25-04-2024]
+## Data: [25-04-2024]
 
 ### O que aprendi hoje:
 Hoje eu aprendi sobre o java, o que são variáveis, e como calcular minha idade.

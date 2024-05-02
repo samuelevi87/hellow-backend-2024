@@ -4,7 +4,8 @@ public class Main {
         int anoAtual = 2024;
         int anoNascimento = 2009;
         int idade = anoAtual-anoNascimento;
-        String nome = "Yan Varella";
+        String nome = "Yan Eduardo" +
+                ;
 
         System.out.println("Meu nome é: " + nome);
         System.out.println("Idade: " + idade);
