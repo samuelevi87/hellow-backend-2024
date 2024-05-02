@@ -48,3 +48,18 @@ Fazer os programas e eprender sobre as variáveis
 Escolha um GIF que melhor represente seu sentimento sobre a aula de hoje. Você pode usar sites como Giphy para encontrar o GIF perfeito.
 
 ---
+## Data: [DD-MM-AAA]
+
+### O que aprendi hoje:
+Nós fizemos algumas atividades usando o java e seus comandos.
+
+### O que achei mais difícil:
+Eu achei copiar as quetões para o java.
+
+### O que mais gostei:
+Os programas que nós fizemos.
+
+### Sentimento do dia:
+![Alt Text](https://media.giphy.com/media/MUHNdrm3vk7MoyUsCO/giphy.gif?cid=82a1493btw34c3ez8trhrgjf4jox4aj2u4lb4pulv9et2fs9&ep=v1_gifs_trending&rid=giphy.gif&ct=g)
+
+---
