@@ -45,8 +45,9 @@ lembrar dos comandos do commit.
 o que eu mais gostei foi das variaveis em java.
 
 ### Sentimento do dia:
-![Alt Text](URL_DO_GIF)
-Escolha um GIF que melhor represente seu sentimento sobre a aula de hoje. Você pode usar sites como Giphy para encontrar o GIF perfeito.
+![Alt Text](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnhteDFuaG5lajc4d3pncTFkdjY3OXJqYmZkNm40YThseGhoZ3QwOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oFzlZ4Jti0EF5JWGA/200.webp)
+
+
 ---
 
 
