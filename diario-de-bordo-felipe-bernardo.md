@@ -46,3 +46,17 @@ gostei de estar aprendendo um novo assunto hoje sobre a linguagem do java.
 ![facil facil!](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnI4ejZtdjR6dXdwcDFmeXZra3V3NGNmazdpYmoxcWNnYWxud294aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oF5oUYTOhvFnO/giphy.gif)
 
 .
+---
+## Data: [02-05-24]
+
+### O que aprendi hoje:
+aprendemos a fazer exercicios do java .
+
+### O que achei mais difícil:
+fazer os exercicios por completo.
+
+### O que mais gostei:
+da avaliação
+
+### Sentimento do dia:
+![Alt Text](URL_DO_GIF)
