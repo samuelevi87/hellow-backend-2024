@@ -31,7 +31,22 @@ de toda aula em geral mas se tivesse que falar do que mais gostei destacaria a c
 ### Sentimento do dia:
 ![alegria extrema](https://media1.giphy.com/media/yoJC2GnSClbPOkV0eA/giphy.webp?cid=82a1493bbhdy2d0dzqim7r8lkjnoi8ndp5p65mz9h197ljnl&ep=v1_gifs_trending&rid=giphy.webp&ct=g)
  
+ ---
 
+## Data: [25-04-2024]
+
+### O que aprendi hoje:
+inicio e variaveis em java.
+
+### O que achei mais difícil:
+lembrar dos comandos do commit.
+
+### O que mais gostei:
+o que eu mais gostei foi das variaveis em java.
+
+### Sentimento do dia:
+![Alt Text](URL_DO_GIF)
+Escolha um GIF que melhor represente seu sentimento sobre a aula de hoje. Você pode usar sites como Giphy para encontrar o GIF perfeito.
 ---
 
 
