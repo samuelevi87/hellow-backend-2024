@@ -45,3 +45,17 @@ Que começamos um assunto novo, e porque estou conseguindo memorizar aos poucos 
 
 ### Sentimento do dia:
 ![Pensativa](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmFpenl4YjU5dDEwZmd2bGVuNWljeTZ4OWxvejNkM2RhMzE0NWthdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d3mlE7uhX8KFgEmY/giphy.gif)
+
+---
+## Data: [02-05-2024]
+
+### O que aprendi hoje:
+Hoje eu aprendi a programar no Java, com exercícios para testar nossos conhecimentos.
+### O que achei mais difícil:
+Teve alguns exercícios que eu tive mais dificuldade, que era de colocar ponto de interrogação para fazer uma pergunta, por isso precisei do auxíio do professor.
+
+### O que mais gostei:
+No começo da aula pensei que não ia conseguir fazer os execícios, mas como eu ia fazendo começou a fluir, e eu consegui fazer.
+
+### Sentimento do dia:
+![Felicidade](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG43dmRybWQ5ZXMzMnc1amF6ZnZuNHFkNzNwN3hiYnM2aWR2bTQ4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiN0CNHgoRf1Ha7CM/giphy.gif)
