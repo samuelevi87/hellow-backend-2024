@@ -19,12 +19,12 @@ Escolha um GIF que melhor represente seu sentimento sobre a aula de hoje. Você 
 Data: [11 e 18-04-2024]
 
 ### O que aprendi hoje:
-eu aprendi git log, git push, git pull, fazer um curriculo, git clone git status
-### O que achei mais difícil:
-nada.
+aprender sobre o github
 
+### O que achei mais difícil:
+nada
 ### O que mais gostei:
-de aprender e mexer no git hub e tbm espero saber sobre programação pois é divertido.
+aprender sobre o github
 
 ### Sentimento do dia:
 ![Alt Text](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHB6dWZsejE1bGY3bHNtNGN4YXQxZGdvMmpndXh5cjhwa2xoYnljciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AjTbbjwPr1kZiuoYmX/giphy.gif)
@@ -44,5 +44,18 @@ aprender sobre o java
 ![Alt Text](https://media1.tenor.com/m/vXgJEPq9IlsAAAAd/shy-dog-shy-shiba.gif)
 
 
- 
+ ---
+  ## Data: [02-05-2024]
+
+### O que aprendi hoje:
+sobre o double o int o System boolean e o String char
+
+### O que achei mais difícil:
+so me confundi 
+
+### O que mais gostei:
+tudo.
+
+### Sentimento do dia:
+![Alt Text](https://media1.tenor.com/m/bgBQwUxX8VkAAAAC/cat-meme-laughing-gif.gif)
 
