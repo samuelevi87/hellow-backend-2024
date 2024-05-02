@@ -7,5 +7,5 @@ public class Main {
   String nome = "Victor Fidelis";
         System.out.println("Meu nome é: " + nome);
         System.out.println("Idade: " + idade);
-    }
+   n, }
 }
