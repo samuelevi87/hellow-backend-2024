@@ -45,4 +45,20 @@ Fazer os codigos era um pouco mais dificil, porém, ainda assim foi tranquilo.
 eu gostei de fazer os codigos e ver os resultados de contas e etc.
 
 ### Sentimento do dia:
-![animado](https://media.giphy.com/media/GeimqsH0TLDt4tScGw/giphy.gif?cid=790b7611dt6oymdukltcd80lzvkwif36nygta0epm28zfn7n&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+![animado](https://media0.giphy.com/media/OLY40BwPRUWic/200.webp?cid=ecf05e472v0ll6x467bgyxabuc6takraergdf8a2r9xmurih&ep=v1_gifs_search&rid=200.webp&ct=g)
+
+---
+
+## Data: [02-05-2024]
+
+### O que aprendi hoje:
+Aprendi diversos codigos e fiz uma lista de exercicios.
+
+### O que achei mais difícil:
+No começo foi dificil colocar os codigos, só que depois que eu aprendi fico facil.
+
+### O que mais gostei:
+De fazer os codigos sozinho e ver que deu certo.
+
+### Sentimento do dia:
+![surpreso](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGQwbWVyNTM0MHBndjVyOWxkOGluY294MHc5bnM1cmZ6eXdzeXM2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dg4TxjYikCpiGd7tYs/giphy.gif)
