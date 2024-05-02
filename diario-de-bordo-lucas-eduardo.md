@@ -50,3 +50,22 @@ Fazer os codigos
 
 ### Sentimento do dia:
 ![Alegre](https://media.giphy.com/media/13ByqbM0hgfN7y/giphy.gif?cid=ecf05e47d9q4klqynflvxgecozyieibmjf07bzcujrq4h6eq&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
+
+
+## Data: [02-05-2024]
+
+### O que aprendi hoje:
+Mexer no Java, colocando os codigos
+
+### O que achei mais difícil:
+Fazer os codigos
+
+### O que mais gostei:
+Fazer os codigos e executar eles
+
+### Sentimento do dia:
+![Cansativo](https://media.giphy.com/media/gwjociZExlDqAJWXgO/giphy.gif?cid=ecf05e47wdqsxwtr7h9hu4dbkrxvnpoiwo7iik2xng76qokc&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
+
+---
