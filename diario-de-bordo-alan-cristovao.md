@@ -46,3 +46,20 @@ da explicaçao do professor
 ### Sentimento do dia:
 ![Alt Text](https://media1.giphy.com/media/IPbS5R4fSUl5S/giphy.webp?cid=790b7611incamnoolsl9lk05cbiwij6btnx8vdvwe7xzlish&ep=v1_gifs_search&rid=giphy.webp&ct=g)
 
+---
+
+## Data: [02-05-2024]
+
+### O que aprendi hoje:
+**Aprendi a fazer codigos no java**
+
+### O que achei mais difícil:
+**Nada**
+
+### O que mais gostei:
+**Ter conseguidos fazer as ativades sem problemas**
+
+### Sentimento do dia:
+![Alt Text](https://media2.giphy.com/media/Dg4TxjYikCpiGd7tYs/giphy.webp?cid=790b7611l48c2mj0gmjiwr6ot33oh5wh6jxcryyf44p5h0tq&ep=v1_gifs_trending&rid=giphy.webp&ct=g)
+
+---
