@@ -20,13 +20,13 @@ Escolha um GIF que melhor represente seu sentimento sobre a aula de hoje. Você 
 ## Data: [11 e 18-04-2024]
 
 ### O que aprendi hoje:
-Aprendi o básico sobre Github, achei interessante, pois não conhecia esse universo de programação.
+**Aprendi o básico sobre Github, achei interessante, pois não conhecia esse universo de programação.**
 
 ### O que achei mais difícil:
-Lembrar dos comandos de git, como git push, etc... Como não faz parte do dia a dia acaba que esqueço isso. Acho o preço dos lanches caros.
+**Lembrar dos comandos de git, como git push, etc... Como não faz parte do dia a dia acaba que esqueço isso. Acho o preço dos lanches caros.**
 
 ### O que mais gostei:
-Da explicação do professor, de poder conhecer o SENAI, poder vir para o SENAI com meu amigo de escola.
+**Da explicação do professor, de poder conhecer o SENAI, poder vir para o SENAI com meu amigo de escola.**
 
 ### Sentimento do dia:
 ![Alt Text](https://media4.giphy.com/media/JIX9t2j0ZTN9S/giphy.webp?cid=790b76116h7b50tsxdy6zumncefo93vlh0ga0s5jn1qvbwvz&ep=v1_gifs_search&rid=giphy.webp&ct=g)
@@ -35,16 +35,32 @@ Da explicação do professor, de poder conhecer o SENAI, poder vir para o SENAI 
 ## Data: [25-04-2024]
 
 ### O que aprendi hoje:
-O básico de como fazer calculos no Java, como fazer o diário de Bordo.
+**O básico de como fazer calculos no Java, como fazer o diário de Bordo.**
 
 ### O que achei mais difícil:
-Entender a como fazer calculos no Java, uma certa dificuldade sobre os tipos de dados.
+**Entender a como fazer calculos no Java, uma certa dificuldade sobre os tipos de dados.**
 
 ### O que mais gostei:
-De entender o básico do básico sobre Java.
+**De entender o básico do básico sobre Java.**
 
 ### Sentimento do dia:
 ![Alt Text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3k1bGEwaDYyOXBiM2VsNDFoZGl3ZHpiNDlodXd4eGlpM3QxN25qcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.webp)
+
+
+---
+## Data: [02-05-2024]
+
+### O que aprendi hoje:
+**Aprendi mais sobre Java, como códigos que não tinha entendido na aula passada.**
+
+### O que achei mais difícil:
+**Até entender os exercícios eu achei difícil, porém depois de um tempo connsegui entender.**
+
+### O que mais gostei:
+**De conseguir entender o que era uma duvida.**
+
+### Sentimento do dia:
+![Alt Text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTRoMHltNGRxb3J5bXN6emE5amxucnN2dWNhamd6OHBwNnprMWgyeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pzryvxGeykOxeC0fWb/200.webp)
 
 
 ---
