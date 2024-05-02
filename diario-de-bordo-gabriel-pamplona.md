@@ -16,5 +16,47 @@ Compartilhe o que você mais gostou na aula de hoje. Isso pode ser um tópico es
 Escolha um GIF que melhor represente seu sentimento sobre a aula de hoje. Você pode usar sites como Giphy para encontrar o GIF perfeito.
 
 ---
+ Data: [11-04-2024]
 
+### O que aprendi hoje:
+Aprendi o git log, git push, git pull, git clone, e estamos fazendo o curriculo sobre nós e aprendendo a usar o git hub
 
+### O que achei mais difícil:
+Fazer os comandos. 
+### O que mais gostei:
+de usar o git 
+
+### Sentimento do dia:
+![Alt Text](https://media.tenor.com/x8znY78QrWwAAAAj/surprised-shocked.gif)
+Escolha um GIF que melhor represente seu sentimento sobre a aula de hoje. Você pode usar sites como Giphy para encontrar o GIF perfeito.
+
+---
+## Data: [25-04-2024]
+
+### O que aprendi hoje:
+aprendi variaveis sobre o java 
+### O que achei mais difícil:
+aprender sobre o que cada codigo faz 
+
+### O que mais gostei:
+aprender a usar o java
+
+### Sentimento do dia:
+![Alt Text](https://media1.tenor.com/m/U7jIQj1rbN4AAAAd/bom-dia-cachorro.gif)
+Escolha um GIF que melhor represente seu sentimento sobre a aula de hoje. Você pode usar sites como Giphy para encontrar o GIF perfeito.
+
+---
+## Data: [02-05-2024]
+
+### O que aprendi hoje:
+aprendi a mexer int, double, System, String, char, booblean
+
+### O que achei mais difícil:
+descobrir o que cada codigos faz.
+
+### O que mais gostei:
+Tudo.
+
+### Sentimento do dia:
+![Alt Text](https://media.tenor.com/8tgG_KyJqqwAAAAj/happy-happy-happy-happy.gif)
+Escolha um GIF que melhor represente seu sentimento sobre a aula de hoje. Você pode usar sites como Giphy para encontrar o GIF perfeito.
