@@ -28,5 +28,30 @@ dos espaços grandes do senai e dos codigos.
 
 ### Sentimento do dia:
 ![stonks](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmh2eTg1azZzbndsNGg0NGdkYnlubDl3bDlvcGlicXB2Nm9oeTRmNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YnkMcHgNIMW4Yfmjxr/giphy.gif)
- 
 
+
+
+## Data: [25-04-2024]
+
+### O que aprendi hoje:
+fizemos o diario de bordo, aprendi um pouco de java.
+
+### O que achei mais difícil:
+java script e os seus codigos.
+### O que mais gostei:
+da aula e, de mexer no java
+### Sentimento do dia:
+![animado](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG96a2lpcjAwbWdsOWplaGpkOHQ2Z3hodjBmb3c2dWI1dGU1b3Z4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aQwvKKi4Lv3t63nZl9/giphy.gif)
+
+
+## Data: [02-05-2024]
+
+### O que aprendi hoje:
+aprendi a declarar uma variavel e aprendi mais sobre java.
+
+### O que achei mais difícil:
+java no inicio dos seus codigos.
+### O que mais gostei:
+de aprender a mexer com os codigos.
+### Sentimento do dia:
+![feliz](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWhzdHZ5cjNieDJvd2ZndXF4ODcxNnQwNjd2dHFuMmRjMzB1NjJ2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMHxhOfscxPfIfm/giphy.gif)
