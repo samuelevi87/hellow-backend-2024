@@ -162,7 +162,8 @@ public class ExerciciosJava {
      *  Em seguida, imprima se está chovendo ou não com uma mensagem adequada.
      */
     public static void exercicio18(){
-
+    boolean chovendo = false;
+        System.out.println("Está chovendo: " + chovendo);
     }
 
     /**
