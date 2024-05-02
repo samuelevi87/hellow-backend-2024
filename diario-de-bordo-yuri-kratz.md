@@ -30,21 +30,25 @@ de toda aula em geral mas se tivesse que falar do que mais gostei destacaria a c
 
 ### Sentimento do dia:
 ![alegria extrema](https://media1.giphy.com/media/yoJC2GnSClbPOkV0eA/giphy.webp?cid=82a1493bbhdy2d0dzqim7r8lkjnoi8ndp5p65mz9h197ljnl&ep=v1_gifs_trending&rid=giphy.webp&ct=g)
+ 
 
 ---
 
-## Data: [25-04-2024]
+
+## Data: [02-05-2024]
 
 ### O que aprendi hoje:
-Primeira parte da aula-comandos git, diário de bordo.   Segunda parte da aula-A base sobre java como:int, double, long entre outros.
+atividades sobre java e suas variaveis, assim gerando uma melhor compreençao do conteudo.
 
 ### O que achei mais difícil:
-o inglês envolvido nesta aula, nos comandos de java foram um pouco complicadas, mas de longe a parte mais complicada foi memorizar o que cada comando java faz, ou consegue fazer.
-
+fazer commit para mim foi o mais dificil, lembrar de todos estes comandos ainda é dificil.
 
 ### O que mais gostei:
-a coisa que eu mais gostei desta aula foi a segunda parte da aula, onde começamos a apremder um pouco de java, principalmente one fizemos os comandos na pratica.
+das atividades, pois elas incetivam a pensar mais, diferente das aulas normais, onde trmos a resposta facil e rapido.
 
 ### Sentimento do dia:
-![pensativo](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDZpYTBwazIzanZzcGRlYWh2dnEyNzd2d3lka2E4OGdoMXFsZng0MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/UP9ItQNj52DsM3e29m/giphy.webp)
+![Alt Text](https://media3.giphy.com/media/GVKHEH8M5MLIWiqZVz/giphy.webp?cid=790b7611m3dehax9mom3ugiwu01obkrsmov391o33qlbww9p&ep=v1_gifs_search&rid=giphy.webp&ct=g)
+
+
+
 
