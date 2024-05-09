@@ -64,3 +64,20 @@ Escolha um GIF que melhor represente seu sentimento sobre a aula de hoje. Você 
 
 
 ---
+# Diário de Bordo - [Hellow 2024/Trilha DEV Backend]
+
+## Data: [DD-MM-AAA]
+
+### O que aprendi hoje:
+**O básico de uma programaçao de um mini jogo.**
+
+### O que achei mais difícil:
+**Algumas coisas que eu nao sabia, que ainda nao tinha sido ensinado, e também que não tinhamos entendido.**
+
+### O que mais gostei:
+**De poder jogar o jogo que o professor tinha feito, e também, de poder de poder entender um pouco sobre o conteudo, apesar de ter coisas que eu ainda nao entendi.**
+
+### Sentimento do dia:
+![Alt Text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnVhNmRybzNsajZ3MmxtMHB3dzc4b2drbHo5amM1dDg2ZTloYjlmYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MlwKxHLlZdKWQ/giphy.gif)
+
+---
