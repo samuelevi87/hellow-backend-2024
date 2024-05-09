@@ -57,3 +57,32 @@ Só não peguei muito a parte dos números (longo, curdo , etc).E um pouco na pa
 Da hora que nós fizemos a calculadora.
 ### Sentimento do dia:
 ![Alt Text](https://media1.tenor.com/m/o8Clr9tGyyQAAAAC/really-good-information-lewis-jackson.gif)
+## Data: [02-05-2024]
+
+### O que aprendi hoje:
+A fazer calculos e sobre as variáveis.
+
+### O que achei mais difícil:
+Fazer o git bash
+
+### O que mais gostei:
+De fazer as atividades, já sabia fazer pelo portugol, mais nunca olhei sobre esse Intellij. 
+
+### Sentimento do dia:
+![Alt Text](https://media1.tenor.com/m/egiMyQhmFqwAAAAd/manual-do-mundo-world-manual-diy.gif)
+
+---
+## Data: [09-05-2024]
+
+### O que aprendi hoje:
+Aprendi a usar o comendo "else", "void", "&&", "||" e else if
+
+### O que achei mais difícil:
+memorisar todos, quase memorisei tudo 
+
+### O que mais gostei:
+De fazer o exercisio condicional
+### Sentimento do dia:
+![Alt Text](https://media.tenor.com/vOjhKXwKiYYAAAAi/pepe-thumbs-up.gif)
+
+---
