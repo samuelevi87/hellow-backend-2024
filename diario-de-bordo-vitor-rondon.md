@@ -59,3 +59,17 @@ tudo.
 ### Sentimento do dia:
 ![Alt Text](https://media1.tenor.com/m/bgBQwUxX8VkAAAAC/cat-meme-laughing-gif.gif)
 
+---
+## Data: [09-05-2024]
+
+### O que aprendi hoje:
+sobre o Scanner else if, else Exercicios condicionais logica de programaçao.
+
+### O que achei mais difícil:
+nada.
+
+### O que mais gostei:
+cada vez ficar mais perto sobre o conhecimento sobre programaçao e bastante do jogo que jogamos.
+
+### Sentimento do dia:
+![Alt Text]()
