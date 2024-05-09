@@ -63,3 +63,18 @@ da explicaçao do professor
 ![Alt Text](https://media2.giphy.com/media/Dg4TxjYikCpiGd7tYs/giphy.webp?cid=790b7611l48c2mj0gmjiwr6ot33oh5wh6jxcryyf44p5h0tq&ep=v1_gifs_trending&rid=giphy.webp&ct=g)
 
 ---
+## Data: [DD-MM-AAA]
+
+### O que aprendi hoje:
+**O basico sobre um programa de um mini jogo**
+
+### O que achei mais difícil:
+**Entender os comandos e como executalos**
+
+### O que mais gostei:
+**Jogar o mini jogo**
+
+### Sentimento do dia:
+![Alt Text](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGVreDNsNmJvajIzdWR1NHd1bjRnYWowMDdkYWRyZzRkbmwyYW45MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4KQjtNtXNuwzAy1Kb/giphy.gif)
+
+---
