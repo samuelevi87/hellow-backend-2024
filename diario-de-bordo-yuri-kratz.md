@@ -65,6 +65,23 @@ das atividades, pois elas incetivam a pensar mais, diferente das aulas normais, 
 ### Sentimento do dia:
 ![Alt Text](https://media3.giphy.com/media/GVKHEH8M5MLIWiqZVz/giphy.webp?cid=790b7611m3dehax9mom3ugiwu01obkrsmov391o33qlbww9p&ep=v1_gifs_search&rid=giphy.webp&ct=g)
 
+---
+
+## Data: [09-05-2024]
+
+### O que aprendi hoje:
+atraves de exercicios aprendi a fazer perguntas por meio de codigos javas e criar respostas correspondentes.
+
+### O que achei mais difícil:
+colocar com presiçao as chaves que abrem e fechem.
+
+### O que mais gostei:
+dos exercicios, sao exelentes quando se tratam de aprender, pois nos desafiam assim fazendo a gente pensar a mais!.
+
+### Sentimento do dia:
+![Alt Text](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXVoN3h4M2ZmdGxodW9ibHM0em02cWQ1eWY5bHl4cjluMWswbWVyOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WTC2jb3deS4LMFp8Lz/200.webp)
+
+
 
 
 
