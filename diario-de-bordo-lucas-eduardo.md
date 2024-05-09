@@ -69,3 +69,17 @@ Fazer os codigos e executar eles
 
 
 ---
+
+## Data: [09-05-2024]
+
+### O que aprendi hoje:
+Operadores booleanos e estruturas condicionais
+
+### O que achei mais difícil:
+Resolver os problemas
+
+### O que mais gostei:
+Usar um jogo feito no Java
+
+### Sentimento do dia:
+![Sono](https://media.giphy.com/media/CydKHIihBxqlQEUvEO/giphy.gif?cid=ecf05e47f77bxha3kw9sm1lt3k43y7dxy1olt851wgb0cyka&ep=v1_gifs_search&rid=giphy.gif&ct=g)
