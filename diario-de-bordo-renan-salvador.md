@@ -54,3 +54,22 @@ Oque mais me agradou na aula durante o dia foi por as variaveis na pratica.
 ### Sentimento do dia:
 ![Rapido](https://media1.tenor.com/m/C7nlQBCQVxIAAAAd/huechuu-beomgyu.gif)
 Escolha um GIF que melhor represente seu sentimento sobre a aula de hoje. Você pode usar sites como Giphy para encontrar o GIF perfeito.
+
+------
+## Data: [09-05-2024]
+
+### O que aprendi hoje:
+Descreva em detalhes o que você aprendeu durante a aula de hoje. Tente ser o mais específico possível, mencionando conceitos, técnicas ou insights que foram importantes para você.
+ Na de hoje eu adquiri os conhecimentos de usar estruturas condicionais
+
+### O que achei mais difícil:
+Explique quais partes da aula de hoje foram mais desafiadoras para você e por quê. Isso pode incluir tópicos que você achou complexos, perguntas que permaneceram sem resposta ou habilidades que você sentiu que precisava desenvolver mais.
+ Durante a aula de hoje minha maior dificuldade foi saber aonde colocar cada comando no Inteljj
+
+### O que mais gostei:
+Compartilhe o que você mais gostou na aula de hoje. Isso pode ser um tópico específico que foi discutido, uma atividade prática que foi realizada, ou mesmo uma história ou exemplo que o professor compartilhou.
+Gostei muito do jogo que nosso professor Samuel Levi, ILY ( I love you) teacher <3
+
+### Sentimento do dia:
+![Sonolento](https://media1.tenor.com/m/_w5Lemi_198AAAAC/sleepy-so-sleepy.gif)
+
