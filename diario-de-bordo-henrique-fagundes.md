@@ -32,6 +32,21 @@ Eu gostei da introdução à linguagem de programação Java, e da explicação 
 
 
 ---
+## Data: [09-05-2024]
+
+### O que aprendi hoje:
+Aprendi a fazer perguntas e respostas na linguagem de programação Java.
+
+### O que achei mais difícil:
+Achei mais difícil a estruturação do código, pois posso facilmente me confundir caso aconteça algum erro.
+
+### O que mais gostei:
+Eu gostei bastante do "jogo" que o professor fez, com perguntas e dependendo da resposta aconteceria algo diferente, com vários caminhos a se seguir.
+
+### Sentimento do dia:
+![funny programming gif](https://media1.tenor.com/m/x7FrMk4q10IAAAAd/hacker-reality-colored-keyboard.gif)
+
+---
 ## Data: [DD-MM-AAAA]
 
 ### O que aprendi hoje:
