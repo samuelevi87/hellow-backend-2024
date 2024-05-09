@@ -44,7 +44,7 @@ Achei mais difícil a estruturação do código, pois posso facilmente me confun
 Eu gostei bastante do "jogo" que o professor fez, com perguntas e dependendo da resposta aconteceria algo diferente, com vários caminhos a se seguir.
 
 ### Sentimento do dia:
-![funny programming gif](https://media1.tenor.com/m/x7FrMk4q10IAAAAd/hacker-reality-colored-keyboard.gif)
+![funny](https://media1.tenor.com/m/x7FrMk4q10IAAAAd/hacker-reality-colored-keyboard.gif)
 
 ---
 ## Data: [DD-MM-AAAA]
