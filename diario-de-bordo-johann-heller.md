@@ -52,3 +52,22 @@
 ### Sentimento do dia:
 ![Alt Text](https://media0.giphy.com/media/3NtY188QaxDdC/giphy.webp?cid=82a1493bw28y4xsfv90x7kq6ag9n16rnd3p7b393givjevhx&ep=v1_gifs_trending&rid=giphy.webp&ct=g)
 
+---
+
+# Diário de Bordo - [Hellow 2024/Trilha DEV Backend]
+
+## Data: [11 e 18-04-2024]
+
+### O que aprendi hoje:
+**Aprendi como funciona um mini jogo em java**
+
+### O que achei mais difícil:
+**Fazer o mini jogo**
+
+### O que mais gostei:
+**De jogar o mini jogo que o professor fez**
+
+### Sentimento do dia:
+![Alt Text](https://media1.giphy.com/media/qixJFUXq1UNLa/giphy.webp?cid=790b76117lxahvi7q1t003pfad9j05u0vgrqsqnicxusodre&ep=v1_gifs_search&rid=giphy.webp&ct=g)
+
+---

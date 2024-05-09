@@ -36,6 +36,7 @@ public class ExerciciosJava {
         System.out.println("valor: " + verdadeiro);
     }
 
+
     /**
      * Declare duas variáveis do tipo inteiro, "numero1" e "numero2", e atribua a elas os valores 10 e 20,
      * respectivamente. Em seguida, calcule e imprima a soma desses dois números.
@@ -115,8 +116,8 @@ public class ExerciciosJava {
      * a opção do menu com uma mensagem adequada.
      */
     public static void exercicio13() {
-        char opçaomenu = 'C';
-        System.out.println("Opçaomenu é: " + opçaomenu);
+        char opcaomenu = 'C';
+        System.out.println("Popupmenu é: " + opcaomenu);
     }
 
     /**
