@@ -32,8 +32,8 @@ O don't pad, tambem gostei do primeiro dia pois podemos jogar kour.io.
 
 ## Data: [25-04-2024]
 
+Aprendi a linguagem de java, variáveis e tipos de dados e começamos nosso Diário de Bordo.
 ### O que aprendi hoje:
-Aprendi a linguagem de java, variaveis e tipos de dados e começamos nosso Diário de Bordo.
 
 ### O que achei mais difícil:
 As regras do java são um pouco complicadas mas no fim da pra entender.
@@ -42,5 +42,18 @@ Ultilizar os comandos do java.
 
 ### Sentimento do dia:
 ![Feliz](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXozdW41ZzJhbmRzazBjaTYwanA3MTdpeXNwdzV2d3I5bTdnNjczeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/guufsF0Az3Lpu/giphy.gif)
+## Data: [09-05-2024]
+
+### O que aprendi hoje:
+Aprendi a fazer jogos dentro do java,e estruturas condicionais.
+### O que achei mais difícil:
+Comer um tijolo com presunto e descobrir os erros.
+
+### O que mais gostei:
+De fazer alterações no jogo do prof e tambem o abordagem de ensino do professor.
+
+### Sentimento do dia:
+![](https://i.pinimg.com/originals/73/c9/f8/73c9f8f4c8f51c1144d551d9fdd42a23.gif)
+Eu sem descobrir os erros
 
 
