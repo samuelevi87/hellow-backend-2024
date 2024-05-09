@@ -60,3 +60,21 @@ da avaliação
 
 ### Sentimento do dia:
 ![Alt Text](URL_DO_GIF)
+
+
+## Data: [09-05-24]
+
+### O que aprendi hoje:
+aprendemos hoje a fazer um jogo e brincar com ele
+ .
+
+### O que achei mais difícil:
+tudo, menos fazer o jogo .
+
+### O que mais gostei:
+eu gostei muito de jogo d oprofessor e principalmente modificar o jogo dele.
+
+### Sentimento do dia:
+![alegria](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGk3a3F0ZzJrdTd2ZGQzd3hwZG9yZTQ1dTR4a2hnNzV0ZWU1aHVyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MUHNdrm3vk7MoyUsCO/giphy.gif)
+
+---
