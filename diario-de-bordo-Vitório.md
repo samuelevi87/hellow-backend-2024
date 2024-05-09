@@ -76,3 +76,18 @@ tudo
 Eu ao ver que o pão de queijo ficou mais barato:
 ![felicidade..?](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWg0MjI1b3BnOWxyMHZ5dnU3amZmZWtvc2FzMmNteHVjNzUzcHF0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kZFnMLCv4LTXPiMgTQ/giphy.gif)
 
+## Data: [09-05-2024]
+
+### O que aprendi hoje:
+a fazer joguinho👍
+
+
+### O que achei mais difícil:
+comer aquele concreto com queijo
+
+### O que mais gostei:
+ver minha irmã antes de vir pro senai
+
+### Sentimento do dia:
+eu comendo concreto com queijo:
+![satisfeito.](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHZvNm0wZXZoYTkwcXgzb3l5dGs4bG83YXl5NnBnYm1hcGFjMTBxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YZyn5FlDj8O5O/giphy.gif)
