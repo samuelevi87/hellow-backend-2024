@@ -57,4 +57,19 @@ De como ultilizar os comandos.
 ### Sentimento do dia:
 ![Entusiasmado](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHN0djBpZ2Vzbm5qNTU0aXh1eG1hMW5ua3Z1YmsxZ3dmcjdleW02MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Urm8pbzek1SXC/giphy.gif)
 
+## Data: [09-05-2024]
+
+### O que aprendi hoje:
+Hoje fizemos uma atividade com o java, 
+e jogamos o jogo Decida o Caminho.
+
+### O que achei mais difícil:
+Nada.
+
+### O que mais gostei:
+De saber o que são &&(E),||(OU),
+!=(Diferente) e ==(Igual).
+
+### Sentimento do dia:
+![legal](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3JqYzVrcWg3cGMyYnhkdnlmejZuMnQ0dHA4NzJnejB0NHVxaWdtNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CMusK7pwT9KNrDeXPZ/giphy.gif)
 
