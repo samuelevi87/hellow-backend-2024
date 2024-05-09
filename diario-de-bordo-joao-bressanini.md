@@ -1,5 +1,6 @@
 # Diário de Bordo - [Hellow 2024/Trilha DEV Backend]
 
+
 ## Data: [DD-MM-AAA]
 
 ### O que aprendi hoje:
@@ -62,3 +63,20 @@ De fazer os codigos sozinho e ver que deu certo.
 
 ### Sentimento do dia:
 ![surpreso](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGQwbWVyNTM0MHBndjVyOWxkOGluY294MHc5bnM1cmZ6eXdzeXM2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dg4TxjYikCpiGd7tYs/giphy.gif)
+
+---
+
+## Data: [09-06-2024]
+
+### O que aprendi hoje:
+Hoje eu aprendi o que são estruturas condicionais,  os operadores booleanos e o que cada um faz,etc.
+
+### O que achei mais difícil:
+Eu achei mais dificil os comandos e a ordem deles.
+
+### O que mais gostei:
+de jogar o jogo decida o caminho.
+
+### Sentimento do dia:
+![animado](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYndmZDhvbmI0dzEzd2kycnN0eWF4cjV3cTBuZnQxeGY2OHJjYWFmdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Fu3OjBQiCs3s0ZuLY3/giphy.gif)
+
