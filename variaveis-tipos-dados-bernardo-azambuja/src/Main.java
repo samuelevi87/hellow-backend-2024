@@ -8,6 +8,11 @@ public class Main {
         System.out.println("Idade: "+idade);
         System.out.println("Meu nome é: " + nome);
 
+        int currentYear = 2024;
+        int bornYear =  1999;
+        int age = currentYear-bornYear;
+        System.out.println("Tenho "+age+" anos");
+
 
 
     }
