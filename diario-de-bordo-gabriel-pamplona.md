@@ -60,3 +60,18 @@ Tudo.
 ### Sentimento do dia:
 ![Alt Text](https://media.tenor.com/8tgG_KyJqqwAAAAj/happy-happy-happy-happy.gif)
 Escolha um GIF que melhor represente seu sentimento sobre a aula de hoje. Você pode usar sites como Giphy para encontrar o GIF perfeito.
+
+---
+## Data: [09/05/2024]
+### O que aprendi hoje:
+Scanner, else if, else, fazer umas perguntas usando esses comandos.
+
+### O que achei mais difícil:
+Nada
+
+### O que mais gostei:
+A parte das perguntas que o prof passou
+
+### Sentimento do dia:
+![Alt Text](https://media1.tenor.com/m/PQ0j-WG-UdQAAAAC/easy.gif)
+Escolha um GIF que melhor represente seu sentimento sobre a aula de hoje. Você pode usar sites como Giphy para encontrar o GIF perfeito.
