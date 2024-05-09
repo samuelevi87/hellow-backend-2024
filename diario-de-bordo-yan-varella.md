@@ -44,3 +44,51 @@ O que mais gostei foi ter um conteúdo sobre a linguagem, com explicações. O p
 
 ### Sentimento do dia:
 ![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnI4Ymc0aXUydTd2cW1ub2pxOHJvZDc0NWkzd3hkcDZ6cTV4ZjhjdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif)
+
+---
+## Data: [02-05-2024]
+
+### O que aprendi hoje:
+Aprendi mais sobre variáveis 
+
+### O que achei mais difícil:
+Foi lembrar sobre como fazer um git commit
+
+### O que mais gostei:
+O que mais gostei foi de escrever as atividades.
+
+### Sentimento do dia:
+![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb29lZTJvMzdwcDhxbzlna2s2eG44ZDN5MmR6OXp3OW80emptcjhjbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ThrM4jEi2lBxd7X2yz/giphy.gif)
+
+
+---
+## Data: [11 e 18-04-2024]
+
+### O que aprendi hoje:
+Eu aprendi a fazer uma conta no github e mexer na HUB do github, o que significa o git, como ele funciona e por que ele é importante.
+
+### O que achei mais difícil:
+O que achei mais difícil foi lembrar de todos os comandos e termos presentes no git.
+
+### O que mais gostei:
+O que mais gostei foi ver o que eu fazia se transformar em algo, como uma pasta, etc.
+
+### Sentimento do dia:
+![Até agora estou achando bem interessante, as aulas estão bem intuitivas](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDI4MzdmcHYxM2UxNDk0b2Mza3BlbjFqYmQ2MW8xM3VkcTFueHBtYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0MYHEI0xktKCVjri/giphy.gif)
+
+---
+## Data: [09-05-2024]
+
+### O que aprendi hoje:
+Hoje eu aprendi sobre Estruturas Condicionais, e como podemos usá-las na programação e também na vida
+
+### O que achei mais difícil:
+Foi de conseguir digerir todas as novas informações e logo em seguida já fazer uma atividade
+
+### O que mais gostei:
+O que mais gostei foi do RPG de texto, um ótimo jeito de nos apresentar ao assunto.
+
+### Sentimento do dia:
+![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXl1djg3NzNoeGRkYmsxNDMzeHd2Z2lza2p5b3J0NjFyejFjN2U5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wFYec89PodTG0/giphy.gif)
+
+
