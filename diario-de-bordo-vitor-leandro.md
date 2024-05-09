@@ -55,3 +55,15 @@ java no inicio dos seus codigos.
 de aprender a mexer com os codigos.
 ### Sentimento do dia:
 ![feliz](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWhzdHZ5cjNieDJvd2ZndXF4ODcxNnQwNjd2dHFuMmRjMzB1NjJ2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMHxhOfscxPfIfm/giphy.gif)
+
+## Data: [09-05-2024]
+
+### O que aprendi hoje:
+aprendi if e scanner para ter mais de uma resposta
+
+### O que achei mais difícil:
+entender como como usar if e scanner
+### O que mais gostei:
+de entender
+### Sentimento do dia:
+![animados](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemdsd2gyODRuZjZmeTFheGg4bmsycW5ieHhkZzN0cWl2OHh3M3RieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2rAymIAgxG0IvnIxZy/giphy.gif)
