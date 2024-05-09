@@ -57,4 +57,16 @@ Eu gostei mais de fazer a prova.
 ### Sentimento do dia:
 ![Alt Text](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGQwbWVyNTM0MHBndjVyOWxkOGluY294MHc5bnM1cmZ6eXdzeXM2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dg4TxjYikCpiGd7tYs/giphy.gif)
 
+## Data: [09-05-2024]
+
+### O que aprendi hoje:
+hoje fizemos algumas atividades com o Java e vimos um jogo que o Professor fez o nome é Decida o caminho.
+
+### O que achei mais difícil:
+Nada.
+### O que mais gostei:
+Eu gostei de tudo principalmente o jogo.
+### Sentimento do dia:
+![Alt Text](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWhjYzJ1aGY3bjNxcXdkN2puOHd5Z2d1ZWk0a2pjcXY4YnhnY2ZxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3NtY188QaxDdC/giphy.gif)
+
 
