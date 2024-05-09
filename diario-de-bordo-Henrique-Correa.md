@@ -63,3 +63,19 @@ Os programas que nós fizemos.
 ![Alt Text](https://media.giphy.com/media/MUHNdrm3vk7MoyUsCO/giphy.gif?cid=82a1493btw34c3ez8trhrgjf4jox4aj2u4lb4pulv9et2fs9&ep=v1_gifs_trending&rid=giphy.gif&ct=g)
 
 ---
+## Data: [09-05-2024]
+
+### O que aprendi hoje:
+Hoje eu aprendi a fazer operadores booleanos, fizemos alguns exercícios no Intellij e como comparar os resultados das variáveis, se são verdadeiros ou falsos.
+
+### O que achei mais difícil:
+Eu achei mais difícil a parte de escrever os comandos e como ultilizar cada operador.
+
+### O que mais gostei:
+Eu gostei do jogo, achei muito legal e também fazer as linhas de código.
+
+### Sentimento do dia:
+![Alt Text](https://media.giphy.com/media/DBW3BniaWrFo4/giphy.gif?cid=790b7611ca7weui5dw7bp6vspe2r0eaesjklfskmhx8xjpfk&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
+
+---
