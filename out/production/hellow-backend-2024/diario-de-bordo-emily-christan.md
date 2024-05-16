@@ -59,18 +59,3 @@ No começo da aula pensei que não ia conseguir fazer os execícios, mas como eu
 
 ### Sentimento do dia:
 ![Felicidade](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG43dmRybWQ5ZXMzMnc1amF6ZnZuNHFkNzNwN3hiYnM2aWR2bTQ4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiN0CNHgoRf1Ha7CM/giphy.gif)
-
-
----
-## Data: [16-05-2024]
-
-### O que aprendi hoje:
-Eu aprendi hoje sobre como resolver um jogo que o professor criou.
-
-### O que achei mais difícil:
-Sobre entender tanto código.
-### O que mais gostei:
-Que a gente jogou.
-
-### Sentimento do dia:
-![Feliz](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2gwaXRmZmJsYjg2eXdqdnVwbTF6b2RmcHR4M2x2cTNoOHdqNnltOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EOpZ7XsVfTN2E/giphy.gif)
