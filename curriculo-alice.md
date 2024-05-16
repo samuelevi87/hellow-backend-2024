@@ -6,7 +6,7 @@ v
 ## Dados Pessoais 📄
 
 - **Nome:** Alice vitória Kauling 💖
-- **Email:** alicekauling@estudante.sesisenai.org.br 
+- **Email:** alicekauling@estudantesesisenai.org.br 
 - **GitHub:** [alice-kauling](https://www.github.com/alicekauling) 🌹
 
 ## Educação 🏫
