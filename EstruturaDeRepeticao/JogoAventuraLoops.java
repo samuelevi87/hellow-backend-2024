@@ -13,7 +13,7 @@ public class JogoAventuraLoops {
     private static Scanner entradaDoTeclado = new Scanner(System.in);
     private static Random numeroAleatorio = new Random();
     private static int frutasColetadas = 0;
-    private static boolean chaveEncontrada = false;
+    private static boolean chaveEncontrada = true;
     private static int passosLabirinto = 0;
     private static int posicaoX = 0;
     private static int posicaoY = 0;
@@ -68,7 +68,7 @@ public class JogoAventuraLoops {
 
         switch (escolha) {
             case 1: coletarFrutas(); break;
-            case 2: atravessarRio(); break;
+            case 2:  atravessarRio(); break;
             case 3: desviarObstaculos(); break;
             default: System.out.println("Escolha inválida! Tente novamente."); florestaEncantada(); // Reinicia a escolha se inválida
         }

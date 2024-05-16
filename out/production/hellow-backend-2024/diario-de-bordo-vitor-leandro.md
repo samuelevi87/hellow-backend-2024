@@ -67,27 +67,3 @@ entender como como usar if e scanner
 de entender
 ### Sentimento do dia:
 ![animados](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemdsd2gyODRuZjZmeTFheGg4bmsycW5ieHhkZzN0cWl2OHh3M3RieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2rAymIAgxG0IvnIxZy/giphy.gif)
- 
-## Data: [02-05-2024]
-
-### O que aprendi hoje:
-aprendi a declarar uma variavel e aprendi mais sobre java.
-
-### O que achei mais difícil:
-java no inicio dos seus codigos.
-### O que mais gostei:
-de aprender a mexer com os codigos.
-### Sentimento do dia:
-![feliz](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWhzdHZ5cjNieDJvd2ZndXF4ODcxNnQwNjd2dHFuMmRjMzB1NjJ2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMHxhOfscxPfIfm/giphy.gif)
-
-## Data: [16-05-2024]
-
-### O que aprendi hoje:
-aprendi o que e "for" e "while"
-
-### O que achei mais difícil:
-entender como jogar
-### O que mais gostei:
-o jogo que jogamos
-### Sentimento do dia:
-![animados](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTFrd2hiOTNpNm5wNXIxZ3NkaWpyOXV4ZHNxbjluZW4zZjdvdTdvYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WRQBXSCnEFJIuxktnw/giphy.gif)
