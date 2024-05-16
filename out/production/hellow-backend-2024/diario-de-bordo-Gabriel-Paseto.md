@@ -81,21 +81,3 @@ Escolha um GIF que melhor represente seu sentimento sobre a aula de hoje. Você 
 ![Alt Text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnVhNmRybzNsajZ3MmxtMHB3dzc4b2drbHo5amM1dDg2ZTloYjlmYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MlwKxHLlZdKWQ/giphy.gif)
 
 ---
-# Diário de Bordo - [Hellow 2024/Trilha DEV Backend]
-
-## Data: [DD-MM-AAA]
-
-### O que aprendi hoje:
-Mais um pouco sobre os jogos.
-
-### O que achei mais difícil:
-Entender o conteudo
-
-### O que mais gostei:
-Podermos jogar tambem, e jogar no pc a vontade
-
-### Sentimento do dia:
-![Alt Text](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXNpdG80b29qenc0aXM4ZXUxanIzamp1YjR0d2pzb3NsMXUxODVwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mT3Cp4PWvVnPoGSlpN/giphy.gif)
-
-
----
