@@ -56,7 +56,7 @@ public class JogoAventuraLoops {
      * Apresenta a Floresta Encantada e seus desafios com loops.
      * @throws InterruptedException Para lidar com interrupções durante o delay.
      */
-    private static void florestaEncantada() throws InterruptedException {
+    private static void   florestaEncantada() throws InterruptedException {
         System.out.println("\nVocê chegou à Floresta Encantada. Escolha um caminho:");
         Thread.sleep(1000);
         System.out.println("1. Bifurcação das Frutas");

@@ -1,4 +1,4 @@
-public class Main {
+public class Main5 {
     public static void main(String[] args) {
         System.out.println("Começando em Java");
         int anoAtual = 2024;
