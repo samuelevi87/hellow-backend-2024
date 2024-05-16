@@ -1,4 +1,4 @@
-public class Main {
+public class Main23 {
     public static void main(String[] args) {
         System.out.println("Hello world!");
         ExerciciosJava.exercicio01();

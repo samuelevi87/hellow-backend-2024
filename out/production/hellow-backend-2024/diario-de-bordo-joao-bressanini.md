@@ -80,19 +80,3 @@ de jogar o jogo decida o caminho.
 ### Sentimento do dia:
 ![animado](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYndmZDhvbmI0dzEzd2kycnN0eWF4cjV3cTBuZnQxeGY2OHJjYWFmdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Fu3OjBQiCs3s0ZuLY3/giphy.gif)
 
----
-
-## Data: [16-05-2024]
-
-### O que aprendi hoje:
-eu aprendi a mexer com as estruturas de repetições.
-
-### O que achei mais difícil:
-aprender os codigos e quando usar eles.
-### O que mais gostei:
-jogar o jogo aventura loops.
-### Sentimento do dia:
-![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHF4MjVidTdpNWM1dTE4aHF5ZWl1dW4xaGQweWxtbjl6emEwaTEyMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/k1Psl92gw7YPSPYFKm/giphy.gif)
-
-
----
