@@ -2,7 +2,7 @@
 
 ## Data: [DD-MM-AAA]
 
-### O que  aprendi hoje:
+### O que aprendi hoje:
 Descreva em detalhes o que você aprendeu durante a aula de hoje. Tente ser o mais específico possível, mencionando conceitos, técnicas ou insights que foram importantes para você.
 
 ### O que achei mais difícil:
@@ -82,19 +82,6 @@ dos exercicios, sao exelentes quando se tratam de aprender, pois nos desafiam as
 ![Alt Text](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXVoN3h4M2ZmdGxodW9ibHM0em02cWQ1eWY5bHl4cjluMWswbWVyOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WTC2jb3deS4LMFp8Lz/200.webp)
 
 
----
 
-## Data: [16/05/2024]
-
-### O que  aprendi hoje:
-estruturas de repetiçao, 
-### O que achei mais difícil:
-estruturas de repetiçao.
-
-### O que mais gostei:
-jogos interativos, no caso deste dia aventura loops.
-
-### Sentimento do dia:
-![Alt Text](https://media0.giphy.com/media/9Us9bQAkDf53u7T76E/200.webp?cid=82a1493b0k4515rz78loupj92djxb6d4szm7btn5jcu8mhl5&ep=v1_gifs_trending&rid=200.webp&ct=g)
 
 
