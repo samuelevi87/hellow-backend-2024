@@ -6,7 +6,7 @@ import java.util.Scanner;
  * @see <a href="https://www.linkedin.com/in/samuel-levi-alves/">samuel-levi-alves</a>
  * @version 1.0.0
  */
-public class JogoDecidaOCaminho {
+public class JogoDecidaOCaminho9 {
 
     /**
      * Scanner para ler a entrada do usuário.
@@ -31,6 +31,7 @@ public class JogoDecidaOCaminho {
 
         if (escolha.equals("sim")) {
             dentroDaFloresta();
+
         } else {
             System.out.println("Você decidiu não entrar na floresta. Fim da aventura!");
         }

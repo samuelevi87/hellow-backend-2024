@@ -8,7 +8,8 @@ import java.util.Scanner;
  * @author Samuel Levi Araújo Alves @see <a href="https://www.linkedin.com/in/samuel-levi-alves/">samuel-levi-alves</a>
  * @version 1.0.0
  */
-public class JogoAventuraLoops {
+public class
+        JogoAventuraLoops {
 
     private static Scanner entradaDoTeclado = new Scanner(System.in);
     private static Random numeroAleatorio = new Random();
