@@ -24,7 +24,7 @@ public class JoãoRezendeExerciciosCondicionais {
         } else if (temperatura >= 25 && tempo.equals("ensolarado")) {
             System.out.println("Piquenique no Parque!");
         } else {
-            System.out.println("Vamos ler um livro em casa!");
+            System.out.println("Vamos ler um livro em casa!s");
         }
         entrada.close();
     }
