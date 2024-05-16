@@ -73,16 +73,3 @@ Gostei muito do jogo que nosso professor Samuel Levi, ILY ( I love you) teacher 
 ### Sentimento do dia:
 ![Sonolento](https://media1.tenor.com/m/_w5Lemi_198AAAAC/sleepy-so-sleepy.gif)
 
------
-
-## Data: [16-05-2024]
-
-### O que aprendi hoje:
-Hoje durante a aula, observei estrututas de repetição, com o nosso maravilhoso professor fazendo um jogo para a gente.
-### O que achei mais difícil:
-Novamente, decorar aonde se encaixa cada codigo.
-### O que mais gostei:
-Do jogo que o nosso professor produziu.
-
-### Sentimento do dia:
-![Confuso](https://media.tenor.com/ps311yAl4_wAAAAi/thinks-%D0%B4%D1%83%D0%BC%D0%B0%D0%B5%D1%82.gif)

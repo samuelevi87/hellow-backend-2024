@@ -1,11 +1,14 @@
 package EstruturaDeRepeticao;
 
+import org.w3c.dom.ls.LSOutput;
+
 import java.util.Random;
 import java.util.Scanner;
 
 /**
  * Jogo de aventura interativo que ensina o uso de loops while e for em Java.
  * @author Samuel Levi Araújo Alves @see <a href="https://www.linkedin.com/in/samuel-levi-alves/">samuel-levi-alves</a>
+ *32
  * @version 1.0.0
  */
 public class JogoAventuraLoops {
@@ -43,7 +46,7 @@ public class JogoAventuraLoops {
      * Apresenta a introdução da história do jogo com delays para facilitar a leitura.
      * @throws InterruptedException Para lidar com interrupções durante o delay.
      */
-    private static void introducao() throws InterruptedException {
+    private static void     introducao() throws InterruptedException {
         System.out.println("Bem-vindo ao Reino dos Loops!");
         Thread.sleep(1000);
         System.out.println("Você é um aventureiro em busca do tesouro perdido.");
