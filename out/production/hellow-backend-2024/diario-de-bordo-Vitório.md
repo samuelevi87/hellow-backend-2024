@@ -91,19 +91,3 @@ ver minha irmã antes de vir pro senai
 ### Sentimento do dia:
 eu comendo concreto com queijo:
 ![satisfeito.](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHZvNm0wZXZoYTkwcXgzb3l5dGs4bG83YXl5NnBnYm1hcGFjMTBxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YZyn5FlDj8O5O/giphy.gif)
-
-## Data: [16-05-2024]
-
-### O que aprendi hoje:
-a fazer joguinho difícil e a burlar os sistemas do professor😎
-
-
-### O que achei mais difícil:
-aguentar 4 babacas no intervalo.
-
-### O que mais gostei:
-ter comprado mais uma lata de coca para a minha coleção(e uma coca de vidro❤️❤️❤️)
-
-### Sentimento do dia:
-eu comendo pão com queijo derretido:
-![satisfeito.](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDh1dHMyeTd3NXk5MXphYTNjMWVkbmR1ZDFkcG80bWJiazQwZTk0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3osxY7eI6enqNBo2mQ/giphy.gif)

@@ -13,7 +13,7 @@ public class JogoAventuraLoops {
     private static Scanner entradaDoTeclado = new Scanner(System.in);
     private static Random numeroAleatorio = new Random();
     private static int frutasColetadas = 0;
-    private static boolean chaveEncontrada = false;
+    private static boolean chaveEncontrada = true;
     private static int passosLabirinto = 0;
     private static int posicaoX = 0;
     private static int posicaoY = 0;
@@ -26,7 +26,7 @@ public class JogoAventuraLoops {
         introducao();
         florestaEncantada();
 
-        if (frutasColetadas >= 10) { // Verifica se o jogador coletou frutas suficientes para prosseguir
+        if (frutasColetadas >= 20) { // Verifica se o jogador coletou frutas suficientes para prosseguir
             cavernaDesafios();
 
             if (chaveEncontrada) { // Verifica se o jogador encontrou a chave na caverna
@@ -45,11 +45,11 @@ public class JogoAventuraLoops {
      */
     private static void introducao() throws InterruptedException {
         System.out.println("Bem-vindo ao Reino dos Loops!");
-        Thread.sleep(1000);
+        Thread.sleep(100);
         System.out.println("Você é um aventureiro em busca do tesouro perdido.");
-        Thread.sleep(1000);
+        Thread.sleep(100);
         System.out.println("Prepare-se para enfrentar desafios e desvendar mistérios usando o poder dos loops!");
-        Thread.sleep(2000);
+        Thread.sleep(200);
     }
 
     /**
@@ -57,11 +57,11 @@ public class JogoAventuraLoops {
      * @throws InterruptedException Para lidar com interrupções durante o delay.
      */
     private static void florestaEncantada() throws InterruptedException {
-        System.out.println("\nVocê chegou à Floresta Encantada. Escolha um caminho:");
+        System.out.println("\nVocê chegou na esquina da sua rua. Escolha um caminho:");
         Thread.sleep(1000);
-        System.out.println("1. Bifurcação das Frutas");
-        System.out.println("2. Bifurcação do Rio");
-        System.out.println("3. Bifurcação dos Obstáculos");
+        System.out.println("1. Voltar para Casa");
+        System.out.println("2. ir para a Escola");
+        System.out.println("3. ir para a LanHouse");
 
         int escolha = entradaDoTeclado.nextInt();
         entradaDoTeclado.nextLine(); // Limpar o buffer
@@ -79,35 +79,35 @@ public class JogoAventuraLoops {
      * Demonstra o funcionamento de um loop for com um exemplo prático.
      */
     private static void coletarFrutas() throws InterruptedException {
-        System.out.println("\nVocê escolheu a Bifurcação das Frutas.");
+        System.out.println("\nVocê quiz ir para casa.");
         Thread.sleep(1000); // Delay para dar tempo de leitura
-        System.out.println("Para passar, você precisa coletar 10 frutas mágicas!");
+        System.out.println("Seu Pai te viu e ficou Bravo com Você! colete Frutas para deixa-lo feliz");
+        Thread.sleep(1500);
+
+        System.out.println("\n** Prepare-se para chutar a fruteira! **\n");
+        Thread.sleep(2000);
+        System.out.println("A cada chute, vai cair uma fruta.");
         Thread.sleep(2000);
 
-        System.out.println("\n** Prepare-se para usar o poder do loop for! **\n");
-        Thread.sleep(2000);
-        System.out.println("A cada repetição do loop, você colherá uma fruta...");
-        Thread.sleep(2000);
-
-        for (int i = 1; i <= 10; i++) {
-            System.out.println("Você encontrou uma fruta mágica! (" + i + "/10)");
+        for (int i = 1; i <= 20; i++) {
+            System.out.println("Você pegou uma Fruta! (" + i + "/20)");
             frutasColetadas++;
-            Thread.sleep(1000); // Delay para visualizar a coleta
+            Thread.sleep(10); // Delay para visualizar a coleta
         }
 
-        System.out.println("\nParabéns! Você coletou todas as frutas usando o loop for e pode seguir em frente!");
-        // ... (continuação da aventura)
+        System.out.println("\nParabéns! Você coletou todas as frutas e deixou seu pai feliz!");
+        labirintoTempo();
     }
 
     /**
-     * Desafio da Floresta Encantada: atravessar um rio pulando em pedras que aparecem em intervalos regulares.
-     * Utiliza um loop while para simular os pulos até alcançar a outra margem.
+     *
+     *
      */
     private static void atravessarRio() throws InterruptedException {
-        System.out.println("\nVocê escolheu a Bifurcação do Rio.");
+        System.out.println("\nVocê escolheu a escola.");
         Thread.sleep(1000);
-        System.out.println("Para atravessar, você precisa pular nas pedras que aparecem a cada 3 segundos.");
-        Thread.sleep(2000);
+        System.out.println("Precisa destruir as matérias.");
+        Thread.sleep(1500);
 
         int tempo = 0;
         boolean atravessou = false;
@@ -115,12 +115,12 @@ public class JogoAventuraLoops {
         while (!atravessou) {
             tempo += numeroAleatorio.nextInt(4) + 1; // Avança o tempo em 1 a 4 segundos
             if (tempo % 3 == 0) { // Verifica se passou um múltiplo de 3 segundos
-                System.out.println("Pule na pedra!");
+                System.out.println("Destrua o montro/professor!");
                 if (numeroAleatorio.nextBoolean()) { // 50% de chance de sucesso
                     atravessou = true;
-                    System.out.println("Você pulou com sucesso e atravessou o rio!");
+                    System.out.println("Você destruiu os monstros!");
                 } else {
-                    System.out.println("Ops! Você escorregou e caiu na água. Tente novamente!");
+                    System.out.println("Você foi forçado a copiar um livro inteiro, tente novamente!");
                     tempo = 0; // Reinicia o tempo
                 }
             }
@@ -129,13 +129,13 @@ public class JogoAventuraLoops {
     }
 
     /**
-     * Desafio da Floresta Encantada: desviar de obstáculos que surgem aleatoriamente.
+     * Desafio da escola: ...
      * Utiliza um loop while com condição de parada aleatória para simular os obstáculos.
      */
     private static void desviarObstaculos() throws InterruptedException {
-        System.out.println("\nVocê escolheu a Bifurcação dos Obstáculos.");
-        Thread.sleep(1000);
-        System.out.println("Desvie dos obstáculos para chegar ao outro lado!");
+        System.out.println("\nVocê escolheu a LanHouse.");
+        Thread.sleep(1500);
+        System.out.println("Mate seus amigos no Kour.io!!!");
         Thread.sleep(2000);
 
         int distancia = 0;
@@ -145,14 +145,14 @@ public class JogoAventuraLoops {
             distancia += numeroAleatorio.nextInt(5) + 1; // Avança de 1 a 5 metros
             if (numeroAleatorio.nextInt(10) < 3) { // 30% de chance de encontrar um obstáculo
                 encontrouObstaculo = true;
-                System.out.println("Ops! Você encontrou um obstáculo e se machucou. Tente novamente!");
+                System.out.println("Seu amigo acertou um Hs. você morreu!!!");
             } else {
-                System.out.println("Você avançou " + distancia + " metros.");
+                System.out.println("Você matou " + distancia + " inimigos!!!");
             }
         }
 
         if (!encontrouObstaculo) {
-            System.out.println("Parabéns! Você desviou de todos os obstáculos e chegou ao outro lado!");
+            System.out.println("Parabéns! Você ficou em Tp1!!!");
         }
         // ... (continuação da aventura)
     }
@@ -161,11 +161,11 @@ public class JogoAventuraLoops {
      * Apresenta a Caverna dos Desafios e seus enigmas com loops.
      */
     private static void cavernaDesafios() throws InterruptedException {
-        System.out.println("\nVocê chegou à Caverna dos Desafios. Escolha uma sala:");
+        System.out.println("\nVocê começou uma GunMode. Escolha um lado para seguir:");
         Thread.sleep(1000);
-        System.out.println("1. Sala da Fechadura");
-        System.out.println("2. Sala dos Blocos");
-        System.out.println("3. Sala da Mensagem Secreta");
+        System.out.println("1. corredor direito");
+        System.out.println("2. corredor esquerdo");
+        System.out.println("3. Meio");
 
         int escolha = entradaDoTeclado.nextInt();
         entradaDoTeclado.nextLine(); // Limpar o buffer
@@ -183,26 +183,26 @@ public class JogoAventuraLoops {
      * Utiliza um loop for para iterar pelas possíveis combinações.
      */
     private static void salaFechadura() throws InterruptedException {
-        System.out.println("\nVocê entrou na Sala da Fechadura.");
-        Thread.sleep(1000);
-        System.out.println("A fechadura tem uma combinação de 3 números entre 1 e 9.");
+        System.out.println("\nVocê foi pela lado direito, advinhe o possível pixel em que seu amigo sniper pode estar.");
+        Thread.sleep(3000);
+        System.out.println("tem 3 sky's, com pixels entre 1 e 2.");
         Thread.sleep(2000);
 
-        int[] combinacao = {numeroAleatorio.nextInt(9) + 1, numeroAleatorio.nextInt(9) + 1, numeroAleatorio.nextInt(9) + 1};
+        int[] combinacao = {numeroAleatorio.nextInt(2) + 1, numeroAleatorio.nextInt(2) + 1, numeroAleatorio.nextInt(2) + 1};
         int[] palpite = new int[3];
 
         while (true) {
-            System.out.println("Digite os 3 números da combinação (separados por espaço):");
+            System.out.println("Digite os 3 números da Sky's Pixel (separados por espaço):");
             for (int i = 0; i < 3; i++) {
                 palpite[i] = entradaDoTeclado.nextInt();
             }
 
             if (palpite[0] == combinacao[0] && palpite[1] == combinacao[1] && palpite[2] == combinacao[2]) {
-                System.out.println("Parabéns! Você abriu a fechadura!");
+                System.out.println("Parabéns! Você pegou o Sniper!!!");
                 chaveEncontrada = true; // Encontra a chave para usar mais tarde
                 break;
             } else {
-                System.out.println("Combinação incorreta. Tente novamente!");
+                System.out.println("O sniper te Matou, Newba!!!");
             }
         }
         // ... (continuação da aventura)
@@ -224,7 +224,7 @@ public class JogoAventuraLoops {
         System.out.println("Enquanto o caminho não estiver aberto e você tiver movimentos, o loop continuará...");
         Thread.sleep(2000);
 
-        int movimentosRestantes = 10;
+        int movimentosRestantes = 1000;
         boolean caminhoAberto = false;
         int posicaoBlocoX = 3; // Posição inicial do bloco
         int posicaoBlocoY = 2;
@@ -295,18 +295,18 @@ public class JogoAventuraLoops {
      * Utiliza um loop while para controlar os movimentos do jogador até encontrar a saída.
      */
     private static void labirintoTempo() throws InterruptedException {
-        System.out.println("\nVocê entrou no Labirinto do Tempo.");
+        System.out.println("\nVocê entrou No Valorant por um código. Você chegou no Bomb A.");
         Thread.sleep(1000);
-        System.out.println("Encontre a saída antes que o tempo acabe!");
+        System.out.println("Encontre a Spike antes que o tempo acabe!");
         Thread.sleep(2000);
 
-        System.out.println("\n** Prepare-se para usar o poder do loop while! **\n");
+        System.out.println("\n** Prepare-se para usar o Tp do Omen!!! **\n");
         Thread.sleep(2000);
-        System.out.println("Enquanto você não encontrar a saída e ainda tiver passos, o loop continuará...");
+        System.out.println("Enquanto você não encontrar a Spike e ainda tiver Tp's, A Spike continuará...");
         Thread.sleep(2000);
 
         boolean encontrouSaida = false;
-        int limitePassos = 50;
+        int limitePassos = 2000;
 
         while (!encontrouSaida && passosLabirinto < limitePassos) {
             System.out.println("\nPassos restantes: " + (limitePassos - passosLabirinto));
@@ -342,9 +342,10 @@ public class JogoAventuraLoops {
         }
 
         if (encontrouSaida) {
-            System.out.println("Parabéns! Você encontrou a saída do labirinto!");
+            System.out.println("Parabéns! Você encontrou a Spike e defusou!!!");
+            salaBlocos();
         } else {
-            System.out.println("O tempo acabou! Você ficou preso no labirinto.");
+            System.out.println("O tempo acabou! A Spike detonou e Você perdeu o round.");
         }
         // ... (continuação da aventura)
     }
