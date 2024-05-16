@@ -73,27 +73,3 @@ O resultado, mostrado no terminal. Eu gostei do jogo do professor muito maneiro 
 ### Sentimento do dia:
 ![Alt Text](https://media1.tenor.com/m/sZuz3S4b9ncAAAAC/lebron-james-lebron.gif)
 Escolha um GIF que melhor represente seu sentimento sobre a aula de hoje. Você pode usar sites como Giphy para encontrar o GIF perfeito.
-
----
-
-# Diário de Bordo - [Hellow 2024/Trilha DEV Backend]
-
-## Data: [16-05-2024]
-
-### O que aprendi hoje:
-Descreva em detalhes o que você aprendeu durante a aula de hoje. Tente ser o mais específico possível, mencionando conceitos, técnicas ou insights que foram importantes para você.
-Hoje eu aprendi e vi as estruturas de repetição
-
-### O que achei mais difícil:
-Explique quais partes da aula de hoje foram mais desafiadoras para você e por quê. Isso pode incluir tópicos que você achou complexos, perguntas que permaneceram sem resposta ou habilidades que você sentiu que precisava desenvolver mais.
-Hoje por fazer praticamnete nada, falo que não achei nada dificil.
-
-### O que mais gostei:
-Compartilhe o que você mais gostou na aula de hoje. Isso pode ser um tópico específico que foi discutido, uma atividade prática que foi realizada, ou mesmo uma história ou exemplo que o professor compartilhou.
-Jogo do professor.
-
-### Sentimento do dia:
-![Alt Text](https://media1.tenor.com/m/uKo6nF4UpCAAAAAd/magnus-carlsen-chess.gif)
-Escolha um GIF que melhor represente seu sentimento sobre a aula de hoje. Você pode usar sites como Giphy para encontrar o GIF perfeito.
-
----
