@@ -78,3 +78,17 @@ da explicaçao do professor
 ![Alt Text](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGVreDNsNmJvajIzdWR1NHd1bjRnYWowMDdkYWRyZzRkbmwyYW45MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4KQjtNtXNuwzAy1Kb/giphy.gif)
 
 ---
+# Diário de Bordo - [Hellow 2024/Trilha DEV Backend]
+
+## Data: [16-05-2024]
+
+### O que aprendi hoje:
+**Nada**
+### O que achei mais difícil:
+**Entender o conteudo**
+
+### O que mais gostei:
+**Jogar**
+
+### Sentimento do dia:
+![Alt Text](https://media0.giphy.com/media/rdma0nDFZMR32/200.webp?cid=790b7611aogj9nz88oil0z5q4vxclm7do8rumy0kprc6yem1&ep=v1_gifs_search&rid=200.webp&ct=g)
