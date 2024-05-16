@@ -47,36 +47,8 @@ dos exercicios
 ### Sentimento do dia:
 ![feliz](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXozdW41ZzJhbmRzazBjaTYwanA3MTdpeXNwdzV2d3I5bTdnNjczeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/guufsF0Az3Lpu/giphy.gif)
 
-# Diário de Bordo - [Hellow 2024/Trilha DEV Backend]
 
-## Data: [09-05-2024]
-
-### O que aprendi hoje:
-aprendi if e scanner para ter mais de uma resposta
-
-### O que achei mais difícil:
-executar
-
-### O que mais gostei:
-do jogo que o professor criou
-
-### Sentimento do dia:
-![feliz](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDN2eG4ycTVia2lhMHUycjBoam91bmJzeDNoeW9xMHU5cm1yZTQ4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dg4TxjYikCpiGd7tYs/giphy.gif)
  
-# # Diário de Bordo - [Hellow 2024/Trilha DEV Backend]
-
-## Data: [16-05-2024]
-
-### O que aprendi hoje:
-aprendi o que é "for" e "while"
-
-### O que achei mais difícil:
-as fases do jogo
-
-### O que mais gostei:
-do jogo que o professor criou
-
-### Sentimento do dia:
-![feliz](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG1nd3RxY3BucGxzajQ1bHJ2MHo5emFybDZ2aWZjM2luOXYyNXJraiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMHxhOfscxPfIfm/giphy.gifsssssss)
+# 
 
 

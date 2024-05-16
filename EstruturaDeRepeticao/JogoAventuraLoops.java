@@ -16,7 +16,6 @@ public class JogoAventuraLoops {
     private static boolean chaveEncontrada = false;
     private static int passosLabirinto = 0;
     private static int posicaoX = 0;
-    private static int posicaoY = 0;
 
     /**
      * Método principal que inicia o jogo e guia o jogador pela aventura.
