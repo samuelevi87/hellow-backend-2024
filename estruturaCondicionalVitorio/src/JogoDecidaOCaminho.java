@@ -155,7 +155,7 @@ public class JogoDecidaOCaminho {
             System.out.println("voce continua correndo");
             continuar();
         } else {
-            System.out.println("comi seu cu gostoso");
+            System.out.println("tu morreu");
         }
     }
 
