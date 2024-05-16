@@ -71,3 +71,19 @@
 ![Alt Text](https://media1.giphy.com/media/qixJFUXq1UNLa/giphy.webp?cid=790b76117lxahvi7q1t003pfad9j05u0vgrqsqnicxusodre&ep=v1_gifs_search&rid=giphy.webp&ct=g)
 
 ---
+
+# Diário de Bordo - [Hellow 2024/Trilha DEV Backend]
+
+## Data: [16/05/2024]
+
+### O que aprendi hoje:
+**Nada**
+
+### O que achei mais difícil:
+**entender o jogo que o professor fez**
+
+### O que mais gostei:
+**De jogar**
+
+### Sentimento do dia:
+![Alt Text](https://media3.giphy.com/media/NfzERYyiWcXU4/200.webp?cid=ecf05e47k7d735d15l3y60msqt36gbjajhbsogoeeso9rg5k&ep=v1_gifs_search&rid=200.webp&ct=g)
