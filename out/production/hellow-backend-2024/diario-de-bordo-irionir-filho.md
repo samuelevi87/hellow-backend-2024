@@ -44,4 +44,3 @@ oque eu gostei foi de criar um jogo achei muito maneiro e daora
 ### Sentimento do dia:
 ![](https://media1.tenor.com/m/8-GuLDkwPegAAAAd/friends-friends-tv.gif)
 Escolha um GIF que melhor represente seu sentimento sobre a aula de hoje. Você pode usar sites como Giphy para encontrar o GIF perfeito.
-
