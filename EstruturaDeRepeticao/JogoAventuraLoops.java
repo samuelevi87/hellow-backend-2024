@@ -34,7 +34,7 @@ public class JogoAventuraLoops {
             }
         }
 
-        if (passosLabirinto < 50) { // Verifica se o jogador saiu do labirinto a tempo
+        if (passosLabirinto < 10000) { // Verifica se o jogador saiu do labirinto a tempo
             torreMago();
         }
     }
@@ -224,7 +224,7 @@ public class JogoAventuraLoops {
         System.out.println("Enquanto o caminho não estiver aberto e você tiver movimentos, o loop continuará...");
         Thread.sleep(2000);
 
-        int movimentosRestantes = 10;
+        int movimentosRestantes = 1000;
         boolean caminhoAberto = false;
         int posicaoBlocoX = 3; // Posição inicial do bloco
         int posicaoBlocoY = 2;

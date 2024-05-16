@@ -15,8 +15,6 @@ Compartilhe o que você mais gostou na aula de hoje. Isso pode ser um tópico es
 ![Alt Text](URL_DO_GIF)
 Escolha um GIF que melhor represente seu sentimento sobre a aula de hoje. Você pode usar sites como Giphy para encontrar o GIF perfeito.
 
-
-
 ---
 ## Data: [11 e 18-04-2024]
 
@@ -30,8 +28,6 @@ Eu achei legal usar os comandos do Git pois você consegue abrir varias coisas, 
 
 ### Sentimento do dia:
 ![Alt Text](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTI3dnpncTkwc3I3MnVqbHpvdmMwODVwYnB5MG9ubjQzaGd4MDlhYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nDSlfqf0gn5g4/giphy.gif)
-
-
 
 ## Data: [25-04-2024]
 
@@ -47,8 +43,6 @@ Eu gostei mais de fazer o Diário de bordo.
 ### Sentimento do dia:
 ![Alt Text](https://camo.githubusercontent.com/4a7200e684fb6da0480bc774ac7adac2d936b00a72e205e60fe0ef6d54c1678a/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a457859326877614778734e4777354e6d68786148643265585a786144466f616a4a6e63484633595846754d6d466b5a584a70646d747862695a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f554f35656c6e54716f347653672f67697068792e676966)
 
-
-
 ## Data: [02-05-2024]
 
 ### O que aprendi hoje:
@@ -63,8 +57,6 @@ Eu gostei mais de fazer a prova.
 ### Sentimento do dia:
 ![Alt Text](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGQwbWVyNTM0MHBndjVyOWxkOGluY294MHc5bnM1cmZ6eXdzeXM2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dg4TxjYikCpiGd7tYs/giphy.gif)
 
-
-
 ## Data: [09-05-2024]
 
 ### O que aprendi hoje:
@@ -76,20 +68,5 @@ Nada.
 Eu gostei de tudo principalmente o jogo.
 ### Sentimento do dia:
 ![Alt Text](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWhjYzJ1aGY3bjNxcXdkN2puOHd5Z2d1ZWk0a2pjcXY4YnhnY2ZxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3NtY188QaxDdC/giphy.gif)
-
-
-## Data: [16-05-2024]
-
-### O que aprendi hoje:
-Hoje nos jogamos outro jogo que o professor programou.
-
-### O que achei mais difícil:
-Não fizemos nenhuma atividade então não achei nada difício.
-
-### O que mais gostei:
-eu gostei de jogar o jogo tava bem legal.
-
-### Sentimento do dia:
-![Alt Text](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTJhdGVyNTZ3bjBuaTB4eHkxcmliOHIwNnBoZGZ0anEyaW9nNnliZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/StKiS6x698JAl9d6cx/giphy.gif)
 
 
