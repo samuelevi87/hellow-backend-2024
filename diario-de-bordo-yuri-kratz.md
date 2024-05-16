@@ -87,7 +87,7 @@ dos exercicios, sao exelentes quando se tratam de aprender, pois nos desafiam as
 ## Data: [16/05/2024]
 
 ### O que  aprendi hoje:
-estruturas de repetiçao, 
+estruturas de repetiçao.
 ### O que achei mais difícil:
 estruturas de repetiçao.
 
