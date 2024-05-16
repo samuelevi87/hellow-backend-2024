@@ -24,8 +24,7 @@ public class JogoAventuraLoops {
      */
     public static void main(String[] args) throws InterruptedException {
         introducao();
-        florestaEncantada();
-
+         florestaEncantada();
         if (frutasColetadas >= 10) { // Verifica se o jogador coletou frutas suficientes para prosseguir
             cavernaDesafios();
 
@@ -70,7 +69,8 @@ public class JogoAventuraLoops {
             case 1: coletarFrutas(); break;
             case 2: atravessarRio(); break;
             case 3: desviarObstaculos(); break;
-            default: System.out.println("Escolha inválida! Tente novamente."); florestaEncantada(); // Reinicia a escolha se inválida
+            default: System.out.println("Escolha inválida! Tente novamente.");
+                florestaEncantada(); // Reinicia a escolha se inválida
         }
     }
 
