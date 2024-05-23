@@ -21,10 +21,9 @@ public class HenriqueAdriano_ExerciciosCondicionais {
 
         System.out.println("Como está o tempo?(ensolarado/chuvoso):");
         tempo = entrada.nextLine().toLowerCase();
-        tempo = entrada.nextLine().toLowerCase();
 
         if (temperatura >= 25){
-            System.out.println("Está quente, é dia de praia.");
+            System.out.println("Está quente, é dia de praia!");
 
         } else if (temperatura >= 15 && tempo.equals("ensolarado")) {
             System.out.println("O tempo está ótimo para ir ao Parque.");
@@ -41,7 +40,18 @@ public class HenriqueAdriano_ExerciciosCondicionais {
      * e roupas para qualquer clima na primavera e no outono.
      */
     public static void roupeiroInteligente() {
+        String estacao;
+        Scanner entrada = new Scanner(System.in);
 
+        System.out.println("Qual é a estação do ano?(Verão/Inverno/Outono/Primavera");
+        estacao = entrada.nextLine().toLowerCase();
+
+        if (estacao.equals("Verão"));{
+            System.out.println("Use roupas curtas como shorts e blusa de manga curta");
+
+        } else if (estacao.equals("Inverno"));{
+            System.out.println("Use roupas quentes como calças ");
+        }
     }
 
     /**

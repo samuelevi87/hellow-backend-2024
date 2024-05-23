@@ -28,7 +28,7 @@ public class ExercíciosJava {
      */
     public static void exercicio04(){
         boolean verdadeiro = true;
-        System.out.println("o valor é " + verdadeiro);
+        System.out.println("O valor é " + verdadeiro);
     }
 
     /**
@@ -56,7 +56,7 @@ public class ExercíciosJava {
      */
     public static void exercicio07(){
         char letra='B';
-        System.out.println("A letra escolhida é:"+letra);
+        System.out.println("A letra escolhida é: " + letra);
     }
 
 
@@ -65,7 +65,7 @@ public class ExercíciosJava {
      */
     public static void exercicio08(){
         boolean falso=false;
-        System.out.println("A variável é: "+ falso);
+        System.out.println("A variável é: " + falso);
     }
 
 
@@ -74,7 +74,7 @@ public class ExercíciosJava {
      */
     public static void exercicio09(){
         String nome="Henrique Adriano";
-        System.out.println("Meu nome é: "+ nome);
+        System.out.println("Meu nome é: " + nome);
     }
 
 
@@ -84,7 +84,7 @@ public class ExercíciosJava {
      */
     public static void exercicio10(){
         int quantidadeAlunos=30;
-        System.out.println("A quantidade de alunos são: " + quantidadeAlunos);
+        System.out.println("A quantidade de alunos é: " + quantidadeAlunos);
     }
 
 
@@ -94,7 +94,7 @@ public class ExercíciosJava {
      */
     public static void exercicio11(){
         int numeroDeEstudantes=20;
-        System.out.println("O número de alunos é: "+ numeroDeEstudantes);
+        System.out.println("O número de alunos é: " + numeroDeEstudantes);
     }
 
 
@@ -162,7 +162,7 @@ public class ExercíciosJava {
      */
     public static void exercicio18(){
         boolean chovendo=false;
-        System.out.println("Não esta chovendo:"+chovendo);
+        System.out.println("Não esta chovendo: " + chovendo);
     }
 
 
