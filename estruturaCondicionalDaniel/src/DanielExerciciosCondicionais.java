@@ -17,12 +17,14 @@ public class DanielExerciciosCondicionais {
         Scanner entrada = new Scanner(System.in);
         System.out.println("Qual a temperatura?: ");
         temperatura = entrada.nextInt();
-        System.out.println("Como está o tempo? (ensolarado/chuvoso): ");
-        tempo = entrada.nextLine().toLowerCase();
+        entrada.nextLine();
 
         if (temperatura >= 25){
             System.out.println("É dia de praia !");
-        } else if (temperatura >= 15 && tempo.equals("ensolarado")) {
+        } else if (temperatura >= 15 ) {
+            System.out.println("Como está o tempo? (ensolarado/cjuvosso): ");
+            tempo = entrada.nextLine().toLowerCase();
+            if (tempo.equals("ensolarado"));
             System.out.println("Piquenique no Parque!");
         }else {
             System.out.println("Vamos ler um livro em casa!");
@@ -36,15 +38,38 @@ public class DanielExerciciosCondicionais {
      * e roupas para qualquer clima na primavera e no outono.
      */
     public static void roupeiroInteligente() {
+        String estacao;
+        Scanner entrada = new Scanner(System.in);
+        estacao = entrada.nextLine().toLowerCase();
 
+        if (estacao.equals("verao")){
+            System.out.println("Mostrar roupas leves e frescas. ");
+        }else if (estacao.equals("invermo")) {
+            System.out.println("Apresentar opções quentinhas e aconchegantes. ");
+        }else if (estacao.equals("primavera") || estacao.equals("outono")){
+            System.out.println("Dar sugestões para qualquer tipo de clima.");
+        }else {
+            System.out.println("Digite uma opção válida!");
+            roupeiroInteligente();
     }
+        entrada.close();
 
     /**
      * A Máquina de Doces: Fornece um doce se a senha correta "abracadabra" for inserida.
      * Caso contrário, mostra uma mensagem de erro.
      */
     public static void maquinaDeDoces() {
+        String senhaCorreta = "abracadabra";
+        Scanner entrada = new Scanner(System.in);
+        System.out.println("Digite a senha: ");
+        String senhaDigitada = entrada.nextLine();
 
+        if (senhaCorreta.equals(senhaDigitada)) {
+            System.out.println("Aqui está seu doce!");
+        }else {
+            System.out.println("Senha incorreta. Tente Novamente!");
+            maquinaDeDoces();
+        } entrada.close();
     }
 
     /**
@@ -52,7 +77,13 @@ public class DanielExerciciosCondicionais {
      * com base na posição do rabo do gato.
      */
     public static void gatoMisterioso() {
+        boolean rabolevantado = true;
 
+        if (rabolevantado) {
+            System.out.println("A sorte está ao seu lado!");
+        }else {
+            System.out.println("Cuidado, pode haver um obstáculo á frente.");
+        }
     }
 
     /**

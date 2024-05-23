@@ -86,3 +86,16 @@ De jogar o jogo.
 ### Sentimento do dia:
 ![Bem](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazZ3YncyeTRham42d3FrbTRscWkwd3B3NGIxcWlvaGtrMG41ajFteCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HMpcgxAZs5YYHsbe8P/giphy.gif)
 
+## Data: [23-05-2024]
+
+### O que aprendi hoje:
+Hoje fizemos uma atividade com o java.
+
+### O que achei mais difícil:
+Eu achei difícil onde usar o int,boolean,string.
+
+### O que mais gostei:
+Fazer as atividadesdo java.
+
+### Sentimento do dia:
+![Bem](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWpzMDJsNGNsNTE0dHo2Z2Y3NXFiZnBybWF2ZzZwajNxamhtOHhkbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aczOIF52jzswwKKTfE/giphy.gif)
