@@ -62,6 +62,21 @@ Gostei que o professor fez um jogo inteiro apenas para explicar sobre estruturas
 ![idk](https://media1.tenor.com/m/e4rYatH_zuEAAAAd/ragnarok-online-magnus-exorcismus.gif)
 
 ---
+## Data: [23-05-2024]
+
+### O que aprendi hoje:
+Hoje fiz a prova sobre Java, pois havia faltado na aula que ela foi dada. Também aprendi a usar de forma melhor as variáveis, e a estrutura do código.
+
+### O que achei mais difícil:
+Achei mais difícil realizar a atividade, no entanto, não achei nada muito difícil.
+
+### O que mais gostei:
+Gostei de testar meus conhecimentos que já havia aprendido anteriormente.
+
+### Sentimento do dia:
+![gif](https://media1.tenor.com/m/qMH5o_XizbcAAAAd/but-here%27s-the-coder.gif)
+
+---
 ## Data: [DD-MM-AAAA]
 
 ### O que aprendi hoje:

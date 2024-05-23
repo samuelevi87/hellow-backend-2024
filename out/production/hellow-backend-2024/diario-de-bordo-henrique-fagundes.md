@@ -47,6 +47,21 @@ Eu gostei bastante do "jogo" que o professor fez, com perguntas e dependendo da 
 ![funny](https://media1.tenor.com/m/x7FrMk4q10IAAAAd/hacker-reality-colored-keyboard.gif)
 
 ---
+## Data: [16-05-2024]
+
+### O que aprendi hoje:
+Hoje aprendi sobre as estruturas "while" e "for" em Java.
+
+### O que achei mais difícil:
+Eu achei mais difícil zerar o jogo que o professor fez.
+
+### O que mais gostei:
+Gostei que o professor fez um jogo inteiro apenas para explicar sobre estruturas de repetição.
+
+### Sentimento do dia:
+![idk](https://media1.tenor.com/m/e4rYatH_zuEAAAAd/ragnarok-online-magnus-exorcismus.gif)
+
+---
 ## Data: [DD-MM-AAAA]
 
 ### O que aprendi hoje:
