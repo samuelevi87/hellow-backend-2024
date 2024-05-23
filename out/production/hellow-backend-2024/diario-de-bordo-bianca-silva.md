@@ -77,3 +77,16 @@ O jogo Decida o Caminho
 ![Alt Text](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTB2dGxveGIxNzNxNTVhNmViNHhvOXAzMnlpaWVhd3V4MG5vaXBleSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SqmkZ5IdwzTP2/giphy.gif)
 ---
 
+## Data: [16-05-2024]
+
+### O que aprendi hoje:
+Aprendemos sobre a estrutura de um jogo .
+
+### O que achei mais difícil:
+Entender para que e por que usar cada comando por que são muitos . 
+### O que mais gostei:
+De jogar .
+### Sentimento do dia:
+![Alt Text](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjM3aWc2cDA1Zmk2cnJiZmFvNXR5c3c3dm9qZXJuYXB5d2hqM2loYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zPbnEgxsPJOJSD3qfr/giphy.gif)
+
+---

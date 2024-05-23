@@ -83,8 +83,8 @@ public class ExerciciosJava {
      * Declare uma variável do tipo inteiro chamada "quantidadeAlunos" e atribua a ela um valor inicial de 30. Em seguida, imprima a quantidade de alunos com uma mensagem adequada.
      */
     public static void exercicio10() {
-        int quantidadedeAlunos = 30;
-        System.out.println("A quantidade de alunos é : " + quantidadedeAlunos);
+        int quantidaDeAlunos = 30;
+        System.out.println("A quantidade de alunos é : " + quantidaDeAlunos);
 
     }
 
@@ -109,8 +109,8 @@ public class ExerciciosJava {
      * Declare uma variável do tipo char chamada "opcaoMenu" e atribua a ela um valor inicial de 'C'. Em seguida, imprima a opção do menu com uma mensagem adequada.
      */
     public static void exercicio13() {
-        char opçaoMenu = 'C';
-        System.out.println("O valor é de : " + opçaoMenu);
+        char opcsaoMenu = 'C';
+        System.out.println("O valor é de : " + opcaoMenu);
 
     }
 
