@@ -74,7 +74,7 @@ public class ExerciciosJava {
      */
     public static void exercicio09() {
     String nome = "vitor";
-        System.out.println(nome);
+        System.out.println("o meu nome è : " + nome);
     }
 
     /**
@@ -125,7 +125,7 @@ public class ExerciciosJava {
     public static void exercicio15() {
     int largura = 5;
     int altura = 10;
-        System.out.println("A medida è: " + (altura*largura));
+        System.out.println("A medida do retangulo è: " + (altura*largura));
     }
 
     /**
@@ -157,7 +157,7 @@ public class ExerciciosJava {
      *Declare uma variável do tipo String chamada "frase" e atribua a ela uma frase sobre Java. Em seguida, imprima a frase com uma mensagem adequada.
      */
     public static void exercicio19() {
-        String frase = "aprender e divertido!";
+        String frase = "aprender è divertido!";
         System.out.println(frase);
 
     }
