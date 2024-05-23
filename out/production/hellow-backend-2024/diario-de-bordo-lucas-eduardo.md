@@ -79,7 +79,25 @@ Operadores booleanos e estruturas condicionais
 Resolver os problemas
 
 ### O que mais gostei:
-Usar um jogo feito no Java
+Usar um jogo feito no Java chamado decida o caminho
 
 ### Sentimento do dia:
 ![Sono](https://media.giphy.com/media/CydKHIihBxqlQEUvEO/giphy.gif?cid=ecf05e47f77bxha3kw9sm1lt3k43y7dxy1olt851wgb0cyka&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
+---
+
+## Data: [16-05-2024]
+
+### O que aprendi hoje:
+Mexer com estruturas de repetição
+
+### O que achei mais difícil:
+Nada
+
+### O que mais gostei:
+Jogar o jogo que o professor fez
+
+### Sentimento do dia:
+![Cansado](https://media.giphy.com/media/10PaIQMR3HH3fq/giphy.gif?cid=790b76118ssxdz0n82vwkmxdbzsuxhavmrvuxujw080unebg&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
+---

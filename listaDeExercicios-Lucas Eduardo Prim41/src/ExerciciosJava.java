@@ -126,13 +126,13 @@ public class ExerciciosJava {
     }
 
     public static void exercicio06() {
-    double preçoProduto = 59.99;
-        System.out.println("O preço é: " + preçoProduto);
+    double precoProduto = 59.99;
+        System.out.println("O preço é: " + precoProduto);
     }
 
     public static void exercicio07() {
-        char Letra = 'B';
-        System.out.println("A letra é: " + Letra);
+        char letra = 'B';
+        System.out.println("A letra é: " + letra);
     }
 
     public static void exercicio08() {
@@ -162,7 +162,7 @@ public class ExerciciosJava {
 
     public static void exercicio13() {
     char opcaoMenu = 'C';
-        System.out.println("A letra é: " + opcaoMenu);
+        System.out.println("A opção do menu é: " + opcaoMenu);
     }
 
     public static void exercicio14() {
@@ -174,7 +174,7 @@ public class ExerciciosJava {
     int largura = 5;
     int altura = 10;
     int soma = largura*altura;
-        System.out.println("O resultado é: " + (largura*altura));
+        System.out.println("A área do retângulo é: " + (largura*altura));
     }
 
     public static void exercicio16() {
@@ -193,8 +193,8 @@ public class ExerciciosJava {
     }
 
     public static void exercicio19() {
-    String frase = "legal";
-        System.out.println("Java é: " + frase);
+    String frase = "possibilita criar e executar multiplataformas";
+        System.out.println("Java: " + frase);
     }
 
     public static void exercicio20() {
