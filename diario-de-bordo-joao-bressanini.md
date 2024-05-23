@@ -75,7 +75,7 @@ Hoje eu aprendi o que são estruturas condicionais,  os operadores booleanos e o
 Eu achei mais dificil os comandos e a ordem deles.
 
 ### O que mais gostei:
-de jogar o jogo decida o caminho.
+De jogar o jogo decida o caminho.
 
 ### Sentimento do dia:
 ![animado](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYndmZDhvbmI0dzEzd2kycnN0eWF4cjV3cTBuZnQxeGY2OHJjYWFmdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Fu3OjBQiCs3s0ZuLY3/giphy.gif)
@@ -85,14 +85,30 @@ de jogar o jogo decida o caminho.
 ## Data: [16-05-2024]
 
 ### O que aprendi hoje:
-eu aprendi a mexer com as estruturas de repetições.
+Eu aprendi a mexer com as estruturas de repetições.
 
 ### O que achei mais difícil:
-aprender os codigos e quando usar eles.
+Aprender os codigos e quando usar eles.
 ### O que mais gostei:
-jogar o jogo aventura loops.
+Jogar o jogo aventura loops.
 ### Sentimento do dia:
 ![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHF4MjVidTdpNWM1dTE4aHF5ZWl1dW4xaGQweWxtbjl6emEwaTEyMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/k1Psl92gw7YPSPYFKm/giphy.gif)
 
+
+---
+
+## Data: [23-05-2024]
+
+### O que aprendi hoje:
+Correção da prova e Exercícios condicionais.
+
+### O que achei mais difícil:
+Entender os codigos no começo.
+
+### O que mais gostei:
+De fazer os codigos.
+
+### Sentimento do dia:
+![Alt Text](https://media.giphy.com/media/BPJmthQ3YRwD6QqcVD/giphy.gif?cid=82a1493bk6crgj59nfgdxj3d3q4glwac8w0xt2a4djixqd6f&ep=v1_gifs_trending&rid=giphy.gif&ct=g)
 
 ---
