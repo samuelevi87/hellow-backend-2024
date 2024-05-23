@@ -72,7 +72,7 @@ De saber o que são &&(E),||(OU),
 
 ### Sentimento do dia:
 ![legal](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3JqYzVrcWg3cGMyYnhkdnlmejZuMnQ0dHA4NzJnejB0NHVxaWdtNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CMusK7pwT9KNrDeXPZ/giphy.gif)
-## Data: [DD-MM-AAA]
+## Data: [16-05-2024]
 
 ### O que aprendi hoje:
 Hoje jogamos o jogo Aventura dos Loops.
