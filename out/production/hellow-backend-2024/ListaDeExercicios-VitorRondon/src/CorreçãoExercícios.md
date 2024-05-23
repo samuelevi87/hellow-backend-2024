@@ -6,7 +6,7 @@ A correção se concentrará em verificar se as variáveis foram declaradas e ut
    - Código do aluno:
      ```java
      public static void exercicios07() {
-         char letra = 'B';
+         char letra = 'b';
          System.out.println("A letra é: " + letra);
      }
      ```
@@ -17,7 +17,7 @@ A correção se concentrará em verificar se as variáveis foram declaradas e ut
    - Código do aluno:
      ```java
      public static void exercicios13() {
-         char opcaoMenu = 'C';
+         char opcaoMenu = 'c';
          System.out.println("A opcaomenu é: " + opcaoMenu);
      }
      ```
@@ -28,7 +28,7 @@ A correção se concentrará em verificar se as variáveis foram declaradas e ut
    - Código do aluno:
      ```java
      public static void exercicios17() {
-         char sexo = 'F';
+         char sexo = 'f';
          System.out.println("O sexo é: " + sexo);
      }
      ```

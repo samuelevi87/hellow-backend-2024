@@ -16,7 +16,7 @@ public class ExerciciosJava {
      */
     public static void exercicios02() {
         double peso = 68.5;
-        System.out.println("o peso é: " + peso);
+        System.out.println("O peso é: " + peso);
 
     }
 
@@ -120,7 +120,7 @@ public class ExerciciosJava {
      */
     public static void exercicios12() {
         double saldoBancario = 1500.75;
-        System.out.println("o saldo bancario é: " + saldoBancario);
+        System.out.println("O saldo bancario é: " + saldoBancario);
     }
 
 
@@ -140,7 +140,7 @@ public class ExerciciosJava {
      */
     public static void exercicios14() {
         boolean solBrilha = true;
-        System.out.println("sol brilha: " + solBrilha);
+        System.out.println("Sol brilha: " + solBrilha);
     }
 
 

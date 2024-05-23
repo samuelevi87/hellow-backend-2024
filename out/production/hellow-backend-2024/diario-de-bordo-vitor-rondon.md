@@ -73,3 +73,18 @@ cada vez ficar mais perto sobre o conhecimento sobre programaçao e bastante do 
 
 ### Sentimento do dia:
 ![Alt Text]()
+
+---
+## Data: [DD-MM-AAA]
+
+### O que aprendi hoje:
+sobre estruturas de repetiçao
+
+### O que achei mais difícil:
+fazer os codigos mas acertei 1
+
+### O que mais gostei:
+cada vez mais saber sobre programaçao
+
+### Sentimento do dia:
+![Alt Text](https://media.tenor.com/vWuKaXNsebMAAAAi/dog-sniff.gif)
