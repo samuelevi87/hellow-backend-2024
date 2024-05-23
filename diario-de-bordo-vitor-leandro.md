@@ -91,3 +91,15 @@ entender como jogar
 o jogo que jogamos
 ### Sentimento do dia:
 ![animados](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTFrd2hiOTNpNm5wNXIxZ3NkaWpyOXV4ZHNxbjluZW4zZjdvdTdvYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WRQBXSCnEFJIuxktnw/giphy.gif)
+
+## Data: [23-05-2024]
+
+### O que aprendi hoje:
+if else e if
+
+### O que achei mais difícil:
+fazer os exercicios
+### O que mais gostei:
+começar a fazer os exercicios
+### Sentimento do dia:
+![animados](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHZseDc4aGo0ZnI5cWJvYWpzZXloaTc3c2JncnJ3bWNkYW13a2VlbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B4dt6rXq6nABilHTYM/giphy.gif)

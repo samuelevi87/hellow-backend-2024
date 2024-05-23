@@ -12,24 +12,33 @@ public class VitorLeandroExerciciosCondicionais {
      * Caso contrário, sugere ficar em casa.
      */
     public static void diaPerfeito() {
-        int temperatura;
-        String tempo;
-        Scanner entrada = new Scanner(System.in);
-        System.out.println("Qual a temperatura?: ");
-        temperatura = entrada.nextInt();
-        System.out.println("como esta o tempo?(ensolarado/chuvoso)");
-        tempo = entrada.nextLine().toLowerCase();
-       
-        if (temperatura>= 25){
-            System.out.println("É dia de praia!");
-        } else if (temperatura>= 15 && tempo.equals("ensolarado")) {
-            System.out.println("piquenique no parque!");
-        }else {
-            System.out.println("Vamos ler um livro em casa!");
-        }
-        entrada.close();
 
-    }
+            int temperatura;
+            String tempo;
+            Scanner entrada = new Scanner(System.in);
+            System.out.print("Qual a temperatura?: ");
+            temperatura = entrada.nextInt();
+            entrada.nextLine();
+
+
+            if (temperatura >= 25) {
+                System.out.println("É dia de Praia!");
+            } else if (temperatura >= 15) {
+                System.out.print("Como está o tempo? (ensolarado/chuvoso): ");
+                tempo = entrada.nextLine().toLowerCase();
+                if (tempo.equals("ensolarado")) {
+                    System.out.println("Piquenique no Parque!");
+                } else {
+                    System.out.println("Vamos ler um livro em casa!");
+                }
+            } else {
+                System.out.println("Está muito frio. Vamos ler um livro em casa " +
+                        "e tomar um chocolate quente!");
+            }
+            entrada.close();
+        }
+
+
 
     /**
      * O Roupeiro Inteligente: Sugere roupas com base na estação do ano.
@@ -37,22 +46,68 @@ public class VitorLeandroExerciciosCondicionais {
      * e roupas para qualquer clima na primavera e no outono.
      */
     public static void roupeiroInteligente() {
+    String estacao;
+    Scanner entrada = new Scanner(System.in);
+        System.out.println("Digite uma estação (verao/inverno/outono/primavera)");
+    estacao = entrada.nextLine().toLowerCase();
+
+    if (estacao.equals("verao")) {
+        System.out.println("Mostrar roupas leves e frescas.");
+    } else if (estacao.equals("inverno")) {
+        System.out.println("Apresentar opções quentinhas.");
+    }else if (estacao.equals("Primavera") || estacao.equals("Outono")){
+            System.out.println("Dar sugestões pra qualquer tipo de clima.");
+        } else{
+            System.out.println("Digite um opção valida!");
+            roupeiroInteligente();
+        }
+        entrada.close();
 
     }
+
+
+
+
+
+
+
+
+
+
 
     /**
      * A Máquina de Doces: Fornece um doce se a senha correta "abracadabra" for inserida.
      * Caso contrário, mostra uma mensagem de erro.
      */
     public static void maquinaDeDoces() {
+    String senhaCorreta = "abracadabra";
+    Scanner entrada = new Scanner(System.in);
+        System.out.println("Digite a senha");
+    String senhaDigitada = entrada.nextLine();
 
+    if (senhaCorreta.equals(senhaDigitada)) {
+        System.out.println("Aqui esta seu doce!");
+
+    } else {
+        System.out.println("Senha incorreta. tente novamente!");
+        maquinaDeDoces();
+    } entrada.close();
     }
+
 
     /**
      * O Gato Misterioso: Determina se a sorte está ao seu lado ou se deve ter cuidado
      * com base na posição do rabo do gato.
      */
     public static void gatoMisterioso() {
+        boolean rabolevantado = true;
+
+        if (rabolevantado) {
+            System.out.println("A sorte está do seu lado!");
+        } else {
+            System.out.println("Cuidado, pode haver um obstáculo á frente. ");
+
+        }
 
     }
 
