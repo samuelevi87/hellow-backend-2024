@@ -93,3 +93,16 @@ eu gostei de jogar o jogo tava bem legal.
 ![Alt Text](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTJhdGVyNTZ3bjBuaTB4eHkxcmliOHIwNnBoZGZ0anEyaW9nNnliZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/StKiS6x698JAl9d6cx/giphy.gif)
 
 
+## Data: [23-05-2024]
+
+### O que aprendi hoje:
+Hoje nós fizemos algumas atividades no Intellij IDEA.
+
+### O que achei mais difícil:
+Eu achei tudo um pouco difício poius é algo novo então a tendencia é ser mais complicado de fazer.
+
+### O que mais gostei:
+Fazer a atividade pode ser um pouco difício mais é legal.
+
+### Sentimento do dia:
+![Alt Text](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmt2eTM4N2N2aGFxNTFlNHo5NWV4eHV3b25qN2FndjNyNXQzNjh2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VIKa3CjZDCoymNcBY5/giphy.gif)
