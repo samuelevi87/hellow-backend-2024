@@ -6,7 +6,7 @@ public class ExerciciosJava {
      */
     public static void exercicio01() {
         int idade = 25;
-        System.out.println("idade");
+        System.out.println("a idade é " + idade);
 
 
     }
@@ -43,7 +43,6 @@ public class ExerciciosJava {
         int numero1 = 10;
         int numero2 = 20;
         int soma = numero1 + numero2;
-        System.out.println("A soma é: " + (numero1));
         System.out.println("A soma é: " + soma);
     }
 
@@ -108,8 +107,8 @@ int numeroDeEstudantes = 20;
          * Declare uma variável do tipo char chamada "opcaoMenu" e atribua a ela um valor inicial de 'C'. Em seguida, imprima a opção do menu com uma mensagem adequada.
          */
         public static void exercicio13 () {
-char opçaoMenu = 'C';
-            System.out.println("a opção certa é: " + opçaoMenu);
+char opcaoMenu = 'C';
+            System.out.println("a opção certa é: " + opcaoMenu);
         }
 
         /**

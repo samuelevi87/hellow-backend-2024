@@ -107,3 +107,19 @@ ter comprado mais uma lata de coca para a minha coleção(e uma coca de vidro❤
 ### Sentimento do dia:
 eu comendo pão com queijo derretido:
 ![satisfeito.](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDh1dHMyeTd3NXk5MXphYTNjMWVkbmR1ZDFkcG80bWJiazQwZTk0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3osxY7eI6enqNBo2mQ/giphy.gif)
+
+## Data: [16-05-2024]
+
+### O que aprendi hoje:
+System.out.println("ponto e vírgula é importante.);
+
+
+### O que achei mais difícil:
+fazer os exercícios.
+
+### O que mais gostei:
+comer.
+
+### Sentimento do dia:
+eu comendo pão com queijo derretido:
+![satisfeito.](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDh1dHMyeTd3NXk5MXphYTNjMWVkbmR1ZDFkcG80bWJiazQwZTk0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3osxY7eI6enqNBo2mQ/giphy.gif)

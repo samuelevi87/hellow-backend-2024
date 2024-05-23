@@ -35,6 +35,23 @@ public class VitorioExerciciosCondicionais {
      */
     public static void roupeiroInteligente() {
 
+        String estacao;
+        Scanner entrada = new Scanner(System.in);
+        System.out.println("Qual é a estação do ano? ( Verão/Inverno/Primavera/Outono");
+        estacao = entrada.nextLine().toLowerCase();
+
+        if (estacao.equals("verão")) {
+            System.out.println("Tenha roupas leves e frescas!");
+        } else if (estacao == "inverno"){
+            System.out.println("tenha roupas quentinhas!");
+        } else if (estacao == "outono"){
+            System.out.println("qualquer roupa serve.");
+        }else if (estacao == "primavera"){
+            System.out.println("qualquer roupa serve.");
+        }else {
+            System.out.println("Você não escolheu ou não digitou corretamente uma estação");
+        }entrada.close();
+
     }
 
     /**
@@ -42,6 +59,19 @@ public class VitorioExerciciosCondicionais {
      * Caso contrário, mostra uma mensagem de erro.
      */
     public static void maquinaDeDoces() {
+
+        String senhaCorreta = "abracadabra";
+        Scanner entrada = new Scanner(System.in);
+        System.out.println("Digite a senha correta: ");
+        String senhaDigitada = entrada.nextLine();
+
+        if (senhaCorreta.equals(senhaDigitada))
+        {
+            System.out.println("Aqui está seu doce!");
+        } else {
+            System.out.println("senha incorreta!");
+            maquinaDeDoces();
+        }
 
     }
 
@@ -51,6 +81,19 @@ public class VitorioExerciciosCondicionais {
      */
     public static void gatoMisterioso() {
 
+        String posicaoDoRabo;
+        Scanner entrada = new Scanner(System.in);
+        System.out.println("Quanl é a posição do rabo do gato? (levantado/abaixado)");
+        posicaoDoRabo = entrada.nextLine().toLowerCase();
+
+        if (posicaoDoRabo.equals("levantado")) {
+            System.out.println("Siga traquilo(a) pois a sorte esta ao seu lado!");
+        }else if (posicaoDoRabo == "abaixado") {
+            System.out.println("Tome muito cuidado pode ter armadilhas pela frente!!!");
+        }else {
+            System.out.println("Reinicie pois esta opção não é valida.");
+        }
+        entrada.close();
     }
 
     /**
@@ -59,12 +102,16 @@ public class VitorioExerciciosCondicionais {
      */
     public static void escolhaDoCaminho() {
 
+
+
     }
 
     /**
      * O Sorvete Refrescante: Escolhe o sabor do sorvete com base no sabor favorito de uma amiga.
      */
     public static void sorveteRefrescante() {
+
+
 
     }
 
