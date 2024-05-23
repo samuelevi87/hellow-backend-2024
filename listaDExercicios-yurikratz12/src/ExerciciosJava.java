@@ -190,7 +190,7 @@ public class ExerciciosJava {
      *  a ela uma frase sobre Java. Em seguida, imprima a frase com uma mensagem adequada.
      */
     public static void exercicio19(){
-    String frase = "para mim, java é umas das melhores linguagens da progamaçao";
+    String frase = "para mim, java é uma das melhores linguagens da progamação";
         System.out.println("minha frase é: " + frase);
 
     }
