@@ -75,7 +75,7 @@ cada vez ficar mais perto sobre o conhecimento sobre programaçao e bastante do 
 ![Alt Text]()
 
 ---
-## Data: [DD-MM-AAA]
+## Data: [16-05-2024]
 
 ### O que aprendi hoje:
 sobre estruturas de repetiçao
@@ -88,3 +88,18 @@ cada vez mais saber sobre programaçao
 
 ### Sentimento do dia:
 ![Alt Text](https://media.tenor.com/vWuKaXNsebMAAAAi/dog-sniff.gif)
+
+---
+## Data: [23-05-2024]
+
+### O que aprendi hoje:
+hj eu fiz exercicios condicionais
+
+### O que achei mais difícil:
+só a sequencia das variaveis e else if
+
+### O que mais gostei:
+sobre os exercicios
+
+### Sentimento do dia:
+![Alt Text](https://media1.tenor.com/m/nOk_9bJl81UAAAAd/baloto-concert-sonohara.gif)

@@ -37,6 +37,25 @@ public class VitorRondonExerciciosCondicionais {
      * e roupas para qualquer clima na primavera e no outono.
      */
     public static void roupeiroInteligente() {
+     String estaçao;
+     Scanner entrada = new Scanner(System.in);
+        estaçao = entrada.nextLine().toLowerCase();
+
+        if (estaçao.equals("verao")) {
+            System.out.println("Mostrar roupas leves e frescas.");
+
+
+        }else if (estaçao.equals("inverno")) {
+            System.out.println("Apresentar opções quentinhas e aconchegantes.");
+        }else if (estaçao.equals("primavera") || estaçao.equals("outono")) {
+            System.out.println("Dar sugestões para qualquer tipo de clima.");
+        }else {
+            System.out.println("Digite uma opção válida!");
+            roupeiroInteligente();
+        }
+      entrada.close();
+
+
 
     }
 
@@ -45,7 +64,19 @@ public class VitorRondonExerciciosCondicionais {
      * Caso contrário, mostra uma mensagem de erro.
      */
     public static void maquinaDeDoces() {
+    String senhaCorrta = "abracadabra";
+    String senhaDoUsurio;
+    Scanner estrada = new Scanner(System.in);
 
+        System.out.println("Digite a senha: ");
+        senhaDoUsurio = estrada.nextLine().toLowerCase();
+
+        if (senhaDoUsurio.equals(senhaCorrta)){
+            System.out.println("Você ganhou um doce!");
+        }else {
+            System.out.println("Senha incorreta. Tente novamente");
+            maquinaDeDoces();
+        }
     }
 
     /**
@@ -53,7 +84,14 @@ public class VitorRondonExerciciosCondicionais {
      * com base na posição do rabo do gato.
      */
     public static void gatoMisterioso() {
+     boolean raboLevantado = true;
 
+     if (raboLevantado) {
+         System.out.println("A sorte está ao seu lado!");
+     }else {
+         System.out.println("Cuidado, pode haver um obstaculo á frente.");
+         
+     }
     }
 
     /**

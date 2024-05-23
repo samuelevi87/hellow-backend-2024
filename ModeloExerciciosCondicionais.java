@@ -10,7 +10,7 @@ public class ModeloExerciciosCondicionais {
      * Caso contrário, sugere ficar em casa.
      */
     public void diaPerfeito() {
-
+    
     }
 
     /**
