@@ -20,5 +20,7 @@ public class Main {
         ExerciciosJava.exercicio18();
         ExerciciosJava.exercicio19();
         ExerciciosJava.exercicio20();
+        
+
     }
 }
