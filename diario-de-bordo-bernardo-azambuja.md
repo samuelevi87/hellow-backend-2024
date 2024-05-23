@@ -56,4 +56,17 @@ De fazer alterações no jogo do prof e tambem o abordagem de ensino do professo
 ![](https://i.pinimg.com/originals/73/c9/f8/73c9f8f4c8f51c1144d551d9fdd42a23.gif)
 Eu sem descobrir os erros
 
+## Data: [DD-MM-AAA]
 
+### O que aprendi hoje:
+Que ponto e virgula é importante.
+
+### O que achei mais difícil:
+Lembrar do ponto e virgula.
+
+### O que mais gostei:
+De conhecer o ponto e virgula.
+
+### Sentimento do dia:
+![Alt Text](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnVycjEzODB3c3Y0OGo4YWN2ejN5Ynp3N3IxYmVyMmd5cTZxc3V6dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/135Bh75GkIjblm/200.webp)
+Eu indo come o lanche
