@@ -17,7 +17,7 @@ public class VictorExerciciosCondicionais {
         Scanner entrada = new Scanner(System.in);
         System.out.println("Qual a temperatura?: ");
         temperatura = entrada.nextInt();
-        System.out.println("Como está o tempo: (ensolarado/chuvoso0)");
+        System.out.println("Como está o tempo: (ensolarado/chuvoso)");
         tempo = entrada.nextLine().toLowerCase();
 
         if (temperatura >= 25) {
@@ -35,6 +35,22 @@ public class VictorExerciciosCondicionais {
      * e roupas para qualquer clima na primavera e no outono.
      */
     public static void roupeiroInteligente() {
+        String estacao;
+        Scanner entrada = new Scanner(System.in);
+        estacao = entrada.nextLine().toLowerCase();
+
+
+        if (estacao.equals("verao")) {
+            System.out.println("Mostrar roupas leves e frescas.");
+        } else if (estacao.equals("inverno")) {
+            System.out.println("Apresentar opções quentinhas e aconchegantes.");
+        } else if (estacao.equals("primavera") || estacao.equals("outono")) {
+            System.out.println("Dar sugestões para qualquer outro tipo de clima.");
+        } else {
+            System.out.println("digite uma opção válida!");
+            roupeiroInteligente();
+        }
+        entrada.close();
 
     }
 
@@ -43,7 +59,19 @@ public class VictorExerciciosCondicionais {
      * Caso contrário, mostra uma mensagem de erro.
      */
     public static void maquinaDeDoces() {
+    String senhaCorreta = "abracadabra;";
+    Scanner entrada = new Scanner (System.in);
+        System.out.println("digite a senha: ");
+    String senhaDigitada = entrada.nextLine();
 
+
+     if (senhaCorreta.equals(senhaDigitada)) {
+         System.out.println("Aqui está seu doce!");
+     } else {
+         System.out.println("Semha incorreta. Tente novamente!");
+     maquinaDeDoces();
+     }
+        entrada.close();
     }
 
     /**
@@ -51,7 +79,14 @@ public class VictorExerciciosCondicionais {
      * com base na posição do rabo do gato.
      */
     public static void gatoMisterioso() {
+    boolean raboLevantado = true;
 
+    if (raboLevantado) {
+        System.out.println("A sorte está ao seu lado!");
+    } else {
+        System.out.println("Cuidado, pode haver um obstáculo à frente.");
+
+    }
     }
 
     /**
