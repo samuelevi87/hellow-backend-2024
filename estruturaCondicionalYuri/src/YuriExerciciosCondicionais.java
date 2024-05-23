@@ -15,18 +15,24 @@ public class YuriExerciciosCondicionais {
         int temperatura;
         String tempo;
         Scanner entrada = new Scanner(System.in);
-        System.out.println("qual a temperatura?: ");
+        System.out.print("Qual a temperatura?: ");
         temperatura = entrada.nextInt();
-        System.out.println("como está o tempo? (ensolarado/chuvoso): ");
-        tempo = entrada.nextLine().toLowerCase();
+        entrada.nextLine();
+
 
         if (temperatura >= 25) {
-            System.out.println("É dia de praia!");
-        } else if (temperatura >= 15 && tempo.equals("ensolarado"))
-        {
-            System.out.println("piquinique no parque!");
+            System.out.println("É dia de Praia!");
+        } else if (temperatura >= 15) {
+            System.out.print("Como está o tempo? (ensolarado/chuvoso): ");
+            tempo = entrada.nextLine().toLowerCase();
+            if (tempo.equals("ensolarado")) {
+                System.out.println("Piquenique no Parque!");
+            } else {
+                System.out.println("Vamos ler um livro em casa!");
+            }
         } else {
-            System.out.println("vamos ler um livro em casa!");
+            System.out.println("Está muito frio. Vamos ler um livro em casa " +
+                    "e tomar um chocolate quente!");
         }
         entrada.close();
     }
@@ -37,15 +43,57 @@ public class YuriExerciciosCondicionais {
      * e roupas para qualquer clima na primavera e no outono.
      */
     public static void roupeiroInteligente() {
+         String estacao;
+         Scanner entrada = new Scanner(System.in);
+        System.out.println("Qual a estação?");
+         estacao = entrada.nextLine().toLowerCase();
+         if (estacao.equals("verao")) {
+             System.out.println("Mostrar roupas leves e frescas.");
+         } else if (estacao.equals("inverno")) {
+             System.out.println("Apresentar opções quentinhas e aconchegantes");
+         } else if (estacao.equals("primavera") || estacao.equals("outono")) {
+             System.out.println("Dar sugestões para qualquer yipo de clima");
+         }else {
+             System.out.println("Digite uma opção válida!");
+             roupeiroInteligente();
+         }
+          entrada.close();
+
+
+
+
+
+
 
     }
+
+
+
+
+
+
+
+
+
+
 
     /**
      * A Máquina de Doces: Fornece um doce se a senha correta "abracadabra" for inserida.
      * Caso contrário, mostra uma mensagem de erro.
      */
     public static void maquinaDeDoces() {
+      String senhaCorreta = "abracadabra";
+        Scanner entrada = new Scanner(System.in);
+        System.out.println("Digite a senha");
+        String senhaDigitada = entrada.nextLine();
 
+        if (senhaCorreta.equals(senhaDigitada)) {
+            System.out.println("aqui está seu doce!");
+        }else {
+            System.out.println("senha incorreta. Tente Novamente!");
+            maquinaDeDoces();
+
+        }entrada.close();
     }
 
     /**
@@ -53,7 +101,14 @@ public class YuriExerciciosCondicionais {
      * com base na posição do rabo do gato.
      */
     public static void gatoMisterioso() {
+     boolean raboLevantado = true;
+     if (raboLevantado) {
+         System.out.println("a sorte está ao seu lado");
 
+     }else {
+         System.out.println("Cuidado, pode haver um obstáculo à frente.");
+
+     }
     }
 
     /**
@@ -62,12 +117,31 @@ public class YuriExerciciosCondicionais {
      */
     public static void escolhaDoCaminho() {
 
+
+
+
+
+
+
+
+
+
+
+
     }
 
     /**
      * O Sorvete Refrescante: Escolhe o sabor do sorvete com base no sabor favorito de uma amiga.
      */
     public static void sorveteRefrescante() {
+
+
+
+
+
+
+
+
 
     }
 
@@ -76,12 +150,27 @@ public class YuriExerciciosCondicionais {
      */
     public static void livroEncantado() {
 
+
+
+
+
+
+
+
+
     }
 
     /**
      * A Música Favorita: Cria uma playlist com base no artista favorito inserido.
      */
     public static void musicaFavorita() {
+
+
+
+
+
+
+
 
     }
 
@@ -90,12 +179,26 @@ public class YuriExerciciosCondicionais {
      */
     public static void presentePerfeito() {
 
+
+
+
+
+
+
     }
 
     /**
      * O Animal Falante: Interage com diferentes animais falantes e descobre suas mensagens.
      */
     public static void animalFalante() {
+
+
+
+
+
+
+
+
 
     }
 }

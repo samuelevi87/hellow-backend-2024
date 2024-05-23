@@ -97,4 +97,18 @@ jogos interativos, no caso deste dia aventura loops.
 ### Sentimento do dia:
 ![Alt Text](https://media0.giphy.com/media/9Us9bQAkDf53u7T76E/200.webp?cid=82a1493b0k4515rz78loupj92djxb6d4szm7btn5jcu8mhl5&ep=v1_gifs_trending&rid=200.webp&ct=g)
 
+---
 
+
+## Data: [23-05-2024]
+
+### O que  aprendi hoje:
+correçao de prova e exercicios sobre estruturas condicionais.
+
+### O que achei mais difícil:
+abrir e fechar chaves pricipalmente no uso de if e else.
+### O que mais gostei:
+exercicios nos posibilitando pensar mais.
+
+### Sentimento do dia:
+![Alt Text](https://media0.giphy.com/media/Dg4TxjYikCpiGd7tYs/giphy.webp?cid=82a1493bm2pbvpikc6xupunf6tll97yzju1uzhkihaawvddn&ep=v1_gifs_trending&rid=giphy.webp&ct=g)
