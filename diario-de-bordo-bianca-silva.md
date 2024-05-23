@@ -101,6 +101,6 @@ A atividade sobre Estruturas Condicionais .
 Do resultado da atividade avaliativa 
 
 ### Sentimento do dia:
-![Alt Text](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjZvMHJ1M20wOGM2eWVpenVjbXhwN2c1aTB2azBrbzFoNmUxeWtybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT0xeuOy2Fcl9vDGiA/giphy.gif)
+![Alt Text](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXd5aDdtODFoMXprM281Y3l4MDN2ajhsZnBxMHZ6anRnNGx3ZWIwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lihh5NFzJQRphzxSc1/giphy.gif)
 
 ---
