@@ -86,3 +86,18 @@ Do jogo que o nosso professor produziu.
 
 ### Sentimento do dia:
 ![Confuso](https://media.tenor.com/ps311yAl4_wAAAAi/thinks-%D0%B4%D1%83%D0%BC%D0%B0%D0%B5%D1%82.gif)
+
+------
+
+Data: [23-05-2024]
+
+### O que aprendi hoje:
+Exercicos variaveis Java, Exercicios Estruturas condicionais
+
+### O que achei mais difícil:
+Os exercicios de estruturas condicionais
+### O que mais gostei:
+De fazer os Exercicios JAVA
+### Sentimento do dia:
+![Ajudante](https://media1.tenor.com/m/gieF0Q0PSogAAAAd/clippy.gif)
+Escolha um GIF que melhor represente seu sentimento sobre a aula de hoje. Você pode usar sites como Giphy para encontrar o GIF perfeito.

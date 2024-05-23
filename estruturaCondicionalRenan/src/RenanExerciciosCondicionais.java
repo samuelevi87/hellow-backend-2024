@@ -1,3 +1,5 @@
+package estruturaCondicionalRenan.src;
+
 import java.util.Scanner;
 
 /**
@@ -20,16 +22,25 @@ public class RenanExerciciosCondicionais {
         System.out.println("Como esta o tempo? (ensolarado/chuvoso) ");
         tempo = entrada.nextLine().toLowerCase();
 
-        if (temperatura >= 25 ){
-            System.out.println("É dia de praia!");
-        }else if (temperatura >= 15 && tempo.equals("ensolarado")){
-            System.out.println("Piquenique no parque!");
+        if (temperatura >= 25) {
+            System.out.println("É dia de Praia!");
+        } else if (temperatura >= 15) {
+            System.out.print("Como está o tempo? (ensolarado/chuvoso): ");
+            tempo = entrada.nextLine().toLowerCase();
+            if (tempo.equals("ensolarado")) {
+                System.out.println("Piquenique no Parque!");
+            } else {
+                System.out.println("Vamos ler um livro em casa!");
+            }
         } else {
-            System.out.println("Vamos ler um livro em casa!");
-        }entrada.close();
-
-
+            System.out.println("Está muito frio. Vamos ler um livro em casa " +
+                    "e tomar um chocolate quente!");
+        }
+        entrada.close();
     }
+
+
+
 
     /**
      * O Roupeiro Inteligente: Sugere roupas com base na estação do ano.
@@ -38,18 +49,42 @@ public class RenanExerciciosCondicionais {
      */
     public static void roupeiroInteligente() {
         String estacao;
-        Scanner entrada = new Scanner(System.in);
-        System.out.println("Qual é a estação?: ");
-        estacao = entrada.nextLine().toLowerCase();
-        if (estacao == "verão");
+        Scanner scan = new Scanner(System.in);
+        System.out.println("Qual é a sua estação do ano?(verão/inverno/primavera/outono): ");
+        estacao = scan.nextLine().toLowerCase();
 
+        if (estacao.equals("verão")){
+            System.out.println("Dar sugestão para roupas leves e frescas!");
+        } else if (estacao.equals("inverno")) {
+            System.out.println("Dar sugestão para roupar quentinhas.");
+        } else if (estacao.equals("outono") || estacao.equals("outono")) {
+            System.out.println("Dar sugestão de roupas para qualquer tipo de clima");
+        } else {
+            System.out.println("Digite uma opção válida.");
+        }scan.close();
     }
+
+
+
+
 
     /**
      * A Máquina de Doces: Fornece um doce se a senha correta "abracadabra" for inserida.
      * Caso contrário, mostra uma mensagem de erro.
      */
     public static void maquinaDeDoces() {
+        String senhaCorreta  = "Doce Docinho";
+        Scanner entrada = new Scanner(System.in);
+        System.out.println("Digite a senha:");
+        String senhaDigitada = entrada.nextLine();
+
+        if (senhaCorreta.equals(senhaDigitada)){
+            System.out.println("Aqui está seu doce!");
+        }else {
+            System.out.println("Senha incorreta. Tente novamente");
+            maquinaDeDoces();
+        }entrada.close();
+
 
     }
 
@@ -57,7 +92,15 @@ public class RenanExerciciosCondicionais {
      * O Gato Misterioso: Determina se a sorte está ao seu lado ou se deve ter cuidado
      * com base na posição do rabo do gato.
      */
-    public static void gatoMisterioso() {
+    public static void gatoMisterioso(){
+        boolean raboLevantado = true; // exemplo de estado de rabo
+
+        if (raboLevantado) {
+            System.out.println("A sorte está do seu lado!");
+        }else {
+            System.out.println("Cuidado, pode haver um obstáculo à frentes");
+        }
+
 
     }
 
