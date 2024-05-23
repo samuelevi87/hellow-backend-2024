@@ -22,7 +22,7 @@ public class GabrielPamplonaExerciciosCondicionais {
 
         if (temperatura >= 25) {
             System.out.println("É dia de praia!");
-        } else if ((temperatura >= 15) && (tempo.equals("ensolarado"))) {
+        } else if ((temperatura >= 15) && tempo.equals("ensolarado")) {
             System.out.println("Piquenique no Parque!");
         } else {
             System.out.println("Vamos ler um livro em casa!");
@@ -37,7 +37,24 @@ public class GabrielPamplonaExerciciosCondicionais {
      * e roupas para qualquer clima na primavera e no outono.
      */
     public static void roupeiroInteligente() {
+        String Estaçao;
+        Scanner entrada = new Scanner(System.in);
+        Estaçao = entrada.nextLine().toLowerCase();
 
+        if (Estaçao.equals("verao")) {
+            System.out.println("Mostrar roupas leves e frescas");
+
+
+             }else if (Estaçao.equals("inverno")) {
+            System.out.println("Apresentar opções quentinhas e aconchegantes.");
+        }else if (Estaçao.equals("primavera") || Estaçao.equals("outono")) {
+            System.out.println("Dar sugestões para qualquer tipo de clima.");
+        }else {
+            System.out.println("Digite uma opção válida!");
+            roupeiroInteligente();
+
+        }
+  entrada.close();
     }
 
     /**
@@ -45,6 +62,19 @@ public class GabrielPamplonaExerciciosCondicionais {
      * Caso contrário, mostra uma mensagem de erro.
      */
     public static void maquinaDeDoces() {
+        String senhaCorreta = "abracadabra";
+        String senhaDoUsuario;
+        Scanner estrada = new Scanner(System.in);
+
+        System.out.println("Digite a senha: ");
+        senhaDoUsuario = estrada.nextLine().toLowerCase();
+
+        if (senhaDoUsuario.equals(senhaCorreta)){
+            System.out.println("Você ganhou um doce!");
+        }else {
+            System.out.println("Senha icorreta. Tente novamente");
+            maquinaDeDoces();
+        }
 
     }
 
@@ -53,6 +83,13 @@ public class GabrielPamplonaExerciciosCondicionais {
      * com base na posição do rabo do gato.
      */
     public static void gatoMisterioso() {
+        boolean raboLevantado = true;
+
+        if (raboLevantado) {
+            System.out.println("A sorte está ao seu lado!");
+        }else {
+            System.out.println("Cuidado, pode haver um obstaculo á frente.");
+        }
 
     }
 
