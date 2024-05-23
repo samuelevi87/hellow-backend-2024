@@ -92,3 +92,23 @@ da explicaçao do professor
 
 ### Sentimento do dia:
 ![Alt Text](https://media0.giphy.com/media/rdma0nDFZMR32/200.webp?cid=790b7611aogj9nz88oil0z5q4vxclm7do8rumy0kprc6yem1&ep=v1_gifs_search&rid=200.webp&ct=g)
+
+---
+# Diário de Bordo - [Hellow 2024/Trilha DEV Backend]
+
+## Data: [23-05-2024]
+
+### O que aprendi hoje:
+**Um pouco sobre estrutura condicional**
+
+### O que achei mais difícil:
+**Entender e aplicar os comandos**
+
+### O que mais gostei:
+**Executar com sucesso os comandos**
+
+### Sentimento do dia:
+![Alt Text](https://media1.giphy.com/media/FcuiZUneg1YRAu1lH2/giphy.webp?cid=790b7611kvafv8dbqixlx2jzfwakugyco40ion9eh2fozgqy&ep=v1_gifs_search&rid=giphy.webp&ct=g)
+.
+
+---
