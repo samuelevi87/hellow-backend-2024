@@ -1,3 +1,4 @@
+import javax.swing.*;
 import java.util.Scanner;
 
 /**
@@ -12,21 +13,23 @@ public class LucasExerciciosCondicionais {
      * Caso contrário, sugere ficar em casa.
      */
     public static void diaPerfeito() {
-    int temperatura ;
-    String tempo;
-    Scanner entrada = new Scanner(System.in);
+        int temperatura;
+        String tempo;
+        Scanner entrada = new Scanner(System.in);
         System.out.println("Qual a temperatura?: ");
         temperatura = entrada.nextInt();
         System.out.println("Como esta o tempo?: (ensolarado/chuvoso)");
         tempo = entrada.nextLine().toLowerCase();
-        
-        if (temperatura >= 25){
+
+        if (temperatura >= 25) {
             System.out.println("É dia de Praia!");
         } else if (temperatura >= 15 && tempo.equals("ensolarado")) {
             System.out.println("Piquenique no Parque!");
-        }else {
-            System.out.println("Vamos ler um livro em casa!");
-        }entrada.close();
+        } else {
+            System.out.println("Vamos ler um livro em casa!" + "e tomar um chocolate quente!");
+
+        }
+        entrada.close();
 
 
     }
@@ -37,7 +40,25 @@ public class LucasExerciciosCondicionais {
      * e roupas para qualquer clima na primavera e no outono.
      */
     public static void roupeiroInteligente() {
+        String estacao;
+        Scanner entrada = new Scanner(System.in);
+        System.out.println("Qual a estacao do ano: (Verão/Inverno/Outono/Primavera)");
+        estacao = entrada.nextLine().toLowerCase();
 
+        if (estacao.equals("verão")) {
+            System.out.println("Usar roupas leves");
+
+        } else if (estacao.equals("inverno")) {
+            System.out.println("Usar roupas quentinhas");
+
+        } else if (estacao.equals("outono") || estacao.equals("primavera")) {
+            System.out.println("Usar qualquer roupa de sua preferência");
+
+        } else {
+            System.out.println("Escolha uma opção valida.Tente de novo");
+            roupeiroInteligente();
+        }
+        entrada.close();
     }
 
     /**
@@ -45,7 +66,18 @@ public class LucasExerciciosCondicionais {
      * Caso contrário, mostra uma mensagem de erro.
      */
     public static void maquinaDeDoces() {
+        String senha;
+        Scanner entrada = new Scanner(System.in);
+        System.out.println("Qual a senha correta?");
+        senha = entrada.nextLine().toLowerCase();
 
+        if (senha.equals("abracadabra")) {
+            System.out.println("Senha correta");
+
+        } else {
+            System.out.println("Senha incorreta.Tente de novo");
+            maquinaDeDoces();
+        }entrada.close();
     }
 
     /**
@@ -53,49 +85,84 @@ public class LucasExerciciosCondicionais {
      * com base na posição do rabo do gato.
      */
     public static void gatoMisterioso() {
+        String posicao;
+        Scanner entrada = new Scanner(System.in);
+        System.out.println("Qual a posição do rabo do gato (alto/baixo)");
+        posicao = entrada.nextLine().toLowerCase();
 
+        if (posicao.equals("alto")) {
+            System.out.println("Você esta com sorte");
+
+        } else if (posicao.equals("baixo")){
+            System.out.println("Você esta sem sorte");
+
+        }else {
+            System.out.println("Avise a posição do rabo certo.Tente denovo");
+            gatoMisterioso();
+        }entrada.close();
     }
 
-    /**
-     * A Escolha do Caminho: Decide o caminho a seguir com base na direção indicada pela placa.
-     * Direita leva a um rio cristalino e esquerda a um campo florido.
-     */
-    public static void escolhaDoCaminho() {
 
+        /**
+         * A Escolha do Caminho: Decide o caminho a seguir com base na direção indicada pela placa.
+         * Direita leva a um rio cristalino e esquerda a um campo florido.
+         */
+        public static void escolhaDoCaminho () {
+            String caminho;
+            Scanner entrada = new Scanner(System.in);
+            System.out.println("Qual caminho você quer ir (direita/esquerda)");
+            caminho = entrada.nextLine().toLowerCase();
+
+            if (caminho.equals("direita")) {
+                System.out.println("Você chegou em um rio cristalino");
+
+            } else if (caminho.equals("esquerda")){
+            System.out.println("Você chegou em um campo florido");
+
+            }else {
+                System.out.println("Avise o caminho certo.Tente denovo");
+                escolhaDoCaminho();
+            }entrada.close();
+
+        }
+
+        /**
+         * O Sorvete Refrescante: Escolhe o sabor do sorvete com base no sabor favorito de uma amiga.
+         */
+        public static void sorveteRefrescante () {
+        String sorvete;
+        Scanner entrada = new Scanner(System.in);
+            System.out.println("Qual o sabor de sorvete");
+            sorvete = entrada.nextLine().toLowerCase();
+
+            if (sorvete.equals("chocolate")
+        }
+
+        /**
+         * O Livro Encantado: Mostra uma história de aventura em dias pares e de romance em dias ímpares.
+         */
+        public static void livroEncantado () {
+
+        }
+
+        /**
+         * A Música Favorita: Cria uma playlist com base no artista favorito inserido.
+         */
+        public static void musicaFavorita () {
+
+        }
+
+        /**
+         * O Presente Perfeito: Escolhe o presente com base nos interesses do amigo.
+         */
+        public static void presentePerfeito () {
+
+        }
+
+        /**
+         * O Animal Falante: Interage com diferentes animais falantes e descobre suas mensagens.
+         */
+        public static void animalFalante () {
+
+        }
     }
-
-    /**
-     * O Sorvete Refrescante: Escolhe o sabor do sorvete com base no sabor favorito de uma amiga.
-     */
-    public static void sorveteRefrescante() {
-
-    }
-
-    /**
-     * O Livro Encantado: Mostra uma história de aventura em dias pares e de romance em dias ímpares.
-     */
-    public static void livroEncantado() {
-
-    }
-
-    /**
-     * A Música Favorita: Cria uma playlist com base no artista favorito inserido.
-     */
-    public static void musicaFavorita() {
-
-    }
-
-    /**
-     * O Presente Perfeito: Escolhe o presente com base nos interesses do amigo.
-     */
-    public static void presentePerfeito() {
-
-    }
-
-    /**
-     * O Animal Falante: Interage com diferentes animais falantes e descobre suas mensagens.
-     */
-    public static void animalFalante() {
-
-    }
-}
