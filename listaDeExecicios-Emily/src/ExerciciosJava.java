@@ -104,8 +104,8 @@ public class ExerciciosJava {
      * Em seguida, imprima o número de estudantes com uma mensagem adequada.
      */
     public static void exercicio11(){
-        int numerodeEstudantes = 20;
-        System.out.println("O número de estudades é: " + numerodeEstudantes);
+        int numeroDeEstudantes = 20;
+        System.out.println("O número de estudantes é: " + numeroDeEstudantes);
     }
 
     /**
