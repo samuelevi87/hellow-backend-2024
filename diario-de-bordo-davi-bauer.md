@@ -100,3 +100,19 @@ De aprender como funciona do jogo do professor
 ### Sentimento do dia:
 ![Alt Text](https://media.tenor.com/ps311yAl4_wAAAAi/thinks-%D0%B4%D1%83%D0%BC%D0%B0%D0%B5%D1%82.gif)
 
+--
+# Diário de Bordo - [Hellow 2024/Trilha DEV Backend]
+
+## Data: [23-05-2024]
+
+### O que aprendi hoje:
+A usar o else if, if e else
+### O que achei mais difícil:
+Aprender esses comandos e fazer as atividades
+### O que mais gostei:
+Eu gostei mais de tentar aprender a fazer as atividades
+### Sentimento do dia:
+![Alt Text](https://media1.tenor.com/m/ZqtBzVG0cnAAAAAC/dk-very-hard.gif)
+
+---
+

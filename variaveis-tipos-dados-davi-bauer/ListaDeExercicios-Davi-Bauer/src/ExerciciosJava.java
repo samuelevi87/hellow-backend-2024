@@ -1,3 +1,4 @@
+
 public class ExerciciosJava {
 
     /**
@@ -36,7 +37,6 @@ public class ExerciciosJava {
         int numero1 = 10;
         int numero2 = 20;
         int soma = numero1+numero2;
-        System.out.println("A soma é: "+ (numero1+numero2));
         System.out.println("A soma é: "+ soma);
 
     }
@@ -90,8 +90,8 @@ public class ExerciciosJava {
      *  Em seguida, imprima a quantidade de alunos com uma mensagem adequada.
      */
     public static void exercicio11(){
-        int numerodeestudantes = 20;
-        System.out.println("O número de estudantes é: "+ numerodeestudantes);
+        int numeroDeEstudantes = 20;
+        System.out.println("O número de estudantes é: "+ numeroDeEstudantes);
 
     }
     /**
@@ -108,7 +108,7 @@ public class ExerciciosJava {
      *  Em seguida, imprima o saldo bancário com uma mensagem adequada.
      */
     public static void exercicio13(){
-        char atribua = 'c';
+        char opcaoMenu = 'c';
 
     }
     /**
@@ -126,7 +126,7 @@ public class ExerciciosJava {
      */
     public static void exercicio15(){
         int largura = 5;
-        int alura = 10;
+        int altura = 10;
         int soma = 5 * 10;
         System.out.println("A soma é: "+ soma);
 
@@ -164,7 +164,7 @@ public class ExerciciosJava {
      */
     public static void exercicio19(){
         String frase = "Java é muito importante";
-        System.out.println("Oque você acha sobre o java?: "+ frase);
+        System.out.println("O que você acha sobre o java? "+ frase);
 
     }
     /**
