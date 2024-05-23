@@ -41,3 +41,15 @@ De jogar, e saber q tem varios tipos de codigos, e ate mesmo uns que voce nem sa
 ![Alt Text](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGJmYXBmMDJkcDc5bWN5cms5Mmxjem9zdGNhd3E3cXV6Nmt3dnRybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/58FDuiRsLPfmpd1U6X/giphy.gif)
 
 
+## Data: [23-05-2024]
+
+### O que aprendi hoje:
+Corrigimos a atividade avaliativa e fizemos atividade de estruturas condicionais
+### O que achei mais difícil:
+como sempre a maiorias dos codigos 
+### O que mais gostei:
+Hoje em si foi bem top, mas acho q aprender como criar e entender um pouco.
+### Sentimento do dia:
+![Alt Text](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ljanhoN3BzNWNqbHQ5djF3cDQxdmg2aXB0czl4ejRkemc0dGl1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8v6Z3YyULB5Q0Skbac/giphy.gif)
+
+
