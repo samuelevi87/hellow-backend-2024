@@ -11,6 +11,7 @@ public class ModeloExerciciosCondicionais {
      */
     public void diaPerfeito() {
 
+
     }
 
     /**

@@ -25,7 +25,7 @@ public class ExerciciosJava {
      */
     public static void exercicio03(){
         char primeiraLetra = 'A';
-        System.out.println("A primeira letra é:" + primeiraLetra);
+        System.out.println("A primeira letra é: " + primeiraLetra);
 
 
 
@@ -96,7 +96,7 @@ public class ExerciciosJava {
      */
     public static void exercicio09(){
         String nome = "JoaoBressanini";
-        System.out.println("o meu nome é :" + nome);
+        System.out.println("o meu nome é: " + nome);
 
 
 
@@ -168,7 +168,7 @@ public class ExerciciosJava {
         int largura = 5;
         int altura = 10;
         int multiplicacao = largura*altura;
-        System.out.println("o tamanho do retangulo é: " + (multiplicacao));
+        System.out.println("a área do retangulo é: " + (multiplicacao));
 
 
 
@@ -213,8 +213,8 @@ public class ExerciciosJava {
      *  Em seguida, imprima a frase com uma mensagem adequada.
      */
     public static void exercicio19(){
-        String frase = "o java é legal";
-        System.out.println("o que o java é: " + frase);
+        String frase = "legal pois permite o desenvolvimento de multiplataformas";
+        System.out.println("o Java é: " + frase);
 
 
 
