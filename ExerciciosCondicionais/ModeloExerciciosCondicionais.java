@@ -1,3 +1,7 @@
+package ExerciciosCondicionais;
+
+import java.util.Scanner;
+
 /**
  * Classe que contém métodos para resolver diversos desafios condicionais.
  */
@@ -9,8 +13,30 @@ public class ModeloExerciciosCondicionais {
      * Se a temperatura for 15 graus ou mais e estiver ensolarado, sugere passear no parque.
      * Caso contrário, sugere ficar em casa.
      */
-    public void diaPerfeito() {
+    public static void diaPerfeito() {
+        int temperatura;
+        String tempo;
+        Scanner entrada = new Scanner(System.in);
+        System.out.print("Qual a temperatura?: ");
+        temperatura = entrada.nextInt();
+        entrada.nextLine();
 
+
+        if (temperatura >= 25) {
+            System.out.println("É dia de Praia!");
+        } else if (temperatura >= 15) {
+            System.out.print("Como está o tempo? (ensolarado/chuvoso): ");
+            tempo = entrada.nextLine().toLowerCase();
+            if (tempo.equals("ensolarado")) {
+                System.out.println("Piquenique no Parque!");
+            } else {
+                System.out.println("Vamos ler um livro em casa!");
+            }
+        } else {
+            System.out.println("Está muito frio. Vamos ler um livro em casa " +
+                    "e tomar um chocolate quente!");
+        }
+        entrada.close();
     }
 
     /**
@@ -19,6 +45,16 @@ public class ModeloExerciciosCondicionais {
      * e roupas para qualquer clima na primavera e no outono.
      */
     public void roupeiroInteligente() {
+        String estacao;
+        Scanner entrada = new Scanner(System.in);
+        System.out.println("Digite a estação: ");
+               estacao = entrada.nextLine().toLowerCase();
+
+               if(estacao.equals("verao")) {
+                   System.out.println("Mostrar roupas leves e frescas. ");
+               } else if (estacao.equals("inverno"));
+                           System.out.println("Mostrar opções quentinhas.");
+
 
     }
 
@@ -27,7 +63,15 @@ public class ModeloExerciciosCondicionais {
      * Caso contrário, mostra uma mensagem de erro.
      */
     public void maquinaDeDoces() {
+        String senhaCorreta = "abracadraba";
+        Scanner entrada = new Scanner(System.in);
+        String senhaDigitada = entrada.nextLine();
 
+        if (senhaCorreta.equals(senhaDigitada)) {
+            System.out.println("Aqui está seu doce! ");
+        } else {
+            System.out.println("Senha incorreta. Tente novamente!");
+            maquinaDeDoces();
     }
 
     /**
@@ -43,6 +87,13 @@ public class ModeloExerciciosCondicionais {
      * Direita leva a um rio cristalino e esquerda a um campo florido.
      */
     public void escolhaDoCaminho() {
+        boolean raboLevantado = true;
+
+        if (raboLevantado) {
+            System.out.println("A sorte está ao seu lado!");
+        } else {
+            System.out.println("Cuidado, pode haver um obstáculo à frente. ");
+        }
 
     }
 

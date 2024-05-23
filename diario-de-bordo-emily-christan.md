@@ -74,3 +74,19 @@ Que a gente jogou.
 
 ### Sentimento do dia:
 ![Feliz](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2gwaXRmZmJsYjg2eXdqdnVwbTF6b2RmcHR4M2x2cTNoOHdqNnltOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EOpZ7XsVfTN2E/giphy.gif)
+
+---
+ Diário de Bordo - [Hellow 2024/Trilha DEV Backend]
+## Data: [23-05-2024]
+
+### O que aprendi hoje:
+Corrigi os exercícios do java, e fiz os exercícios condicionais.
+
+### O que achei mais difícil:
+Entender os exercícios, mas na prática foi um pouco melhor de entender.
+
+### O que mais gostei:
+Que eu estava conseguindo fazer os exercícios.
+
+### Sentimento do dia:
+![Confusa](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzd4dDl0M201OTZyd2tjdmJsd2l5NGdxazIxbjF4OXZlNHZ4cDFhbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uVtAU2EKHrsgifowFb/giphy.gif)
