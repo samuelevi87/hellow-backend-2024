@@ -90,3 +90,17 @@ De jogar .
 ![Alt Text](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjM3aWc2cDA1Zmk2cnJiZmFvNXR5c3c3dm9qZXJuYXB5d2hqM2loYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zPbnEgxsPJOJSD3qfr/giphy.gif)
 
 ---
+## Data: [23-05-2024]
+
+### O que aprendi hoje:
+Corrigimos a atividade e iniciamos uma atividade nova, sobre Estruturas Condicionais .
+
+### O que achei mais difícil:
+A atividade sobre Estruturas Condicionais .
+### O que mais gostei:
+Do resultado da atividade avaliativa 
+
+### Sentimento do dia:
+![Alt Text](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjZvMHJ1M20wOGM2eWVpenVjbXhwN2c1aTB2azBrbzFoNmUxeWtybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT0xeuOy2Fcl9vDGiA/giphy.gif)
+
+---

@@ -36,15 +36,40 @@ public class BiancaExerciciosCondicionais {
      * e roupas para qualquer clima na primavera e no outono.
      */
     public static void roupeiroInteligente() {
+        String estacao;
+        Scanner entrada = new Scanner(System.in);
+        System.out.println("Dígite a estação: ");
+                estacao = entrada.nextLine().toLowerCase();
 
-    }
+                if(estacao.equals("verao")){
+                    System.out.println("Mostrar roupas leves e frescas.");
+    } else if (estacao.equals("inverno")){
+                    System.out.println("Apresentar opções quentinhas e aconchegantes.");
+                } else if (estacao.equals("primavera") || estacao.equals("outono")){
+                    System.out.println("Dar sugestões para qualquer tipo de clima .");
+                }else {
+                    System.out.println("Didite uma opção válida!");
+                    roupeiroInteligente();
+                }
+                   entrada.close();
+                }
 
-    /**
-     * A Máquina de Doces: Fornece um doce se a senha correta "abracadabra" for inserida.
-     * Caso contrário, mostra uma mensagem de erro.
-     */
+        /**
+         * A Máquina de Doces: Fornece um doce se a senha correta "abracadabra" for inserida.
+         * Caso contrário, mostra uma mensagem de erro.
+         */
     public static void maquinaDeDoces() {
+        String senhaCorreta="abacadabra";
+                Scanner entrada =new Scanner(System.in);
+        System.out.println("Digite a senha:");
+                String senhaDigitada = entrada.nextLine();
 
+                if (senhaCorreta.equals(senhaDigitada)){
+                    System.out.println("Aqui está seu doce!");
+                }else {
+                    System.out.println("Senha incorreta. Tente Novamente!");
+                    maquinaDeDoces();
+                }entrada.close();
     }
 
     /**
@@ -52,6 +77,13 @@ public class BiancaExerciciosCondicionais {
      * com base na posição do rabo do gato.
      */
     public static void gatoMisterioso() {
+        boolean raboLevantado = true;
+
+        if(raboLevantado) {
+            System.out.println("A sorte está ao seu lado!");
+        }else {
+            System.out.println("Cuidado, pode have uum obstáculo à frente.");
+        }
 
     }
 
@@ -94,7 +126,7 @@ public class BiancaExerciciosCondicionais {
     /**
      * O Animal Falante: Interage com diferentes animais falantes e descobre suas mensagens.
      */
-    public static void animalFalante() {
+    public static void   animalFalante() {
 
     }
 }
