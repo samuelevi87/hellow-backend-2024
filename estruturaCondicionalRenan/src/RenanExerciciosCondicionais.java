@@ -37,7 +37,11 @@ public class RenanExerciciosCondicionais {
      * e roupas para qualquer clima na primavera e no outono.
      */
     public static void roupeiroInteligente() {
-
+        String estacao;
+        Scanner entrada = new Scanner(System.in);
+        System.out.println("Qual é a estação?: ");
+        estacao = entrada.nextLine().toLowerCase();
+        if (estacao == "verão");
 
     }
 
