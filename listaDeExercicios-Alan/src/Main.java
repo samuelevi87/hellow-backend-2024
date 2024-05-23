@@ -13,13 +13,13 @@ public class Main {
         ExercicioJava.exercicio11();
         ExercicioJava.exercicio12();
         ExercicioJava.exercicio13();
-        ExercicioJava.exercicios14();
-        ExercicioJava.exercicios15();
-        ExercicioJava.exercicios16();
-        ExercicioJava.exercicios17();
-        ExercicioJava.exercicios18();
-        ExercicioJava.exercicios19();
-        ExercicioJava.exercicios20();
+        ExercicioJava.exercicio14();
+        ExercicioJava.exercicio15();
+        ExercicioJava.exercicio16();
+        ExercicioJava.exercicio17();
+        ExercicioJava.exercicio18();
+        ExercicioJava.exercicio19();
+        ExercicioJava.exercicio20();
 
     }
 }
