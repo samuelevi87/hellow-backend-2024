@@ -94,3 +94,17 @@ Eu gostei do jogo que fizemos no Intellij.
 ![Alt Text](https://media.giphy.com/media/FXskIeMlip6iiNbMCq/giphy.gif?cid=790b7611dspucmcp9cisvcv593nop7kjmgb111a6znswy6fe&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 ---
+## Data: [23-05-2024]
+
+### O que aprendi hoje:
+Hoje eu fiz mais questões condicionais no intellij.
+
+### O que achei mais difícil:
+O mais difício foi usar os comandos e pontuações corretamente.
+
+### O que mais gostei:
+Eu gostei das questões e da dificuldade.
+
+### Sentimento do dia:
+![Alt Text](https://media.giphy.com/media/11ezOCtJ7Eetri/giphy.gif?cid=790b7611kdyvmsww6ux7zc59un5k12ulxvr3nicjf8koh3br&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+---
