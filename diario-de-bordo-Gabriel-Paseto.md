@@ -66,7 +66,7 @@ Escolha um GIF que melhor represente seu sentimento sobre a aula de hoje. Você 
 ---
 # Diário de Bordo - [Hellow 2024/Trilha DEV Backend]
 
-## Data: [DD-MM-AAA]
+## Data: [09-05-2024]
 
 ### O que aprendi hoje:
 **O básico de uma programaçao de um mini jogo.**
@@ -83,19 +83,36 @@ Escolha um GIF que melhor represente seu sentimento sobre a aula de hoje. Você 
 ---
 # Diário de Bordo - [Hellow 2024/Trilha DEV Backend]
 
-## Data: [DD-MM-AAA]
+## Data: [16-05-2024]
 
 ### O que aprendi hoje:
-Mais um pouco sobre os jogos.
+**Mais um pouco sobre os jogos.**
 
 ### O que achei mais difícil:
-Entender o conteudo
+**Entender o conteudo.**
 
 ### O que mais gostei:
-Podermos jogar tambem, e jogar no pc a vontade
+**Podermos jogar tambem, e jogar no pc a vontade.**
 
 ### Sentimento do dia:
 ![Alt Text](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXNpdG80b29qenc0aXM4ZXUxanIzamp1YjR0d2pzb3NsMXUxODVwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mT3Cp4PWvVnPoGSlpN/giphy.gif)
 
+
+---
+# Diário de Bordo - [Hellow 2024/Trilha DEV Backend]
+
+## Data: [23-05-2024]
+
+### O que aprendi hoje:
+**Um pouco sobre os exercicios condicionais.**
+
+### O que achei mais difícil:
+**Entender os exercicios, pq não tinha entendido o que era para fazer**
+
+### O que mais gostei:
+**De poder ter entendido um pouco mais sobre exercicios condicionais.**
+
+### Sentimento do dia:
+![Alt Text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnkzemo0NGhzanI4YTJ6dm1hMGdrajJwYW1kZWZzZm9vcnlkbnN3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FY8c5SKwiNf1EtZKGs/giphy.gif)
 
 ---
