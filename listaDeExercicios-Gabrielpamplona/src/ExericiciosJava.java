@@ -32,7 +32,7 @@ public class ExericiciosJava {
      */
     public static void exercicio04() {
         boolean verdadeiro = true;
-        System.out.print("o valor é: " + verdadeiro);
+        System.out.print("O valor é: " + verdadeiro);
 
 
     }
@@ -66,7 +66,7 @@ public class ExericiciosJava {
      */
     public static void exercicio07() {
         char letra = 'B';
-        System.out.println("A letra é B: " + letra);
+        System.out.println("A letra é: " + letra);
 
 
     }
@@ -91,6 +91,7 @@ public class ExericiciosJava {
 
 
 
+    dvf
     }
 
     /**
@@ -110,7 +111,7 @@ public class ExericiciosJava {
      */
     public static void exercicio11() {
         int numeroestudande = 20;
-        System.out.println("numeroestudante é "+ numeroestudande);
+        System.out.println("Numeroestudante é "+ numeroestudande);
 
     }
 
@@ -142,7 +143,7 @@ public class ExericiciosJava {
      */
     public static void exercicio14() {
         boolean solBrilha = true;
-        System.out.println("sol brilha: " + solBrilha);
+        System.out.println("Sol brilha: " + solBrilha);
 
 
     }
@@ -154,7 +155,7 @@ public class ExericiciosJava {
     public static void exercicio15() {
         int largura = 5;
         int altura = 10;
-        System.out.println("A largura e altura sao: " +  (largura*altura));
+        System.out.println("A área do retângulo é: " +  (largura*altura));
 
 
     }
@@ -198,7 +199,7 @@ public class ExericiciosJava {
      */
     public static void exercicio19() {
         String frase = "java é muito legal";
-        System.out.println("sobre java: " + frase);
+        System.out.println("Sobre java: " + frase);
 
 
     }
