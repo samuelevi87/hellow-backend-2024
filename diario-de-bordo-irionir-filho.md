@@ -45,3 +45,19 @@ oque eu gostei foi de criar um jogo achei muito maneiro e daora
 ![](https://media1.tenor.com/m/8-GuLDkwPegAAAAd/friends-friends-tv.gif)
 Escolha um GIF que melhor represente seu sentimento sobre a aula de hoje. Você pode usar sites como Giphy para encontrar o GIF perfeito.
 
+# Diário de Bordo - [Hellow 2024/Trilha DEV Backend]
+
+## Data: [23/05/24]
+
+### O que aprendi hoje:
+hoje eu apredi a fazer os exercicios do java
+
+### O que achei mais difícil:
+foi manda a lista 
+
+### O que mais gostei:
+depois quando peguei o jeito dos exercicios de java eu gostei.
+
+### Sentimento do dia:
+![](https://media1.tenor.com/m/8-GuLDkwPegAAAAd/friends-friends-tv.gif)
+Escolha um GIF que melhor represente seu sentimento sobre a aula de hoje. Você pode usar sites como Giphy para encontrar o GIF perfeito.

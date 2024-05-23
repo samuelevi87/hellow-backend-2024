@@ -166,7 +166,7 @@ public class ExerciciosJava {
     public static void exercicio17() {
         char sexo = 'F';
         System.out.println("o sexo é:"+ sexo);
-        
+
     }
 
     /**
