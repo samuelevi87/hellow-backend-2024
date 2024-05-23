@@ -127,7 +127,7 @@ public class ExerciciosJava {
      */
     public static void exercicio14() {
         boolean solBrilha = true;
-        System.out.println("O sol brilha?: " + solBrilha);
+        System.out.println("O sol brilha? " + solBrilha);
     }
 
     /**
