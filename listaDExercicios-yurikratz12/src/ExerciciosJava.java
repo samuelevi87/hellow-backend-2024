@@ -65,7 +65,7 @@ public class ExerciciosJava {
      *  a letra com uma mensagem adequada.
      */
     public static void exercicio07(){
-    char letra = 'b';
+    char letra = 'B';
         System.out.println("A letra atribuida é: " + letra);
 
     }
@@ -126,7 +126,7 @@ public class ExerciciosJava {
      * Em seguida, imprima a opção do menu com uma mensagem adequada.
      */
     public static void exercicio13(){
-    char opcaoMenu = 'c';
+    char opcaoMenu = 'C';
         System.out.println("Para ter acesso a esta opcao de menu aperte: " + opcaoMenu);
 
     }
@@ -137,8 +137,8 @@ public class ExerciciosJava {
      *  brilhando ou não com uma mensagem adequada.
      */
     public static void exercicio14(){
-    boolean solbrilha = true;
-        System.out.println("A resposta para se o sol esta brilhando hoje é: " + solbrilha);
+    boolean solBrilha = true;
+        System.out.println("A resposta para se o sol esta brilhando hoje é: " + solBrilha);
 
     }
 
