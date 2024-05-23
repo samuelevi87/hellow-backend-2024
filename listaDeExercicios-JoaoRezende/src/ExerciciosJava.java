@@ -70,7 +70,7 @@ public class ExerciciosJava {
      *  Em seguida, imprima se é falso ou não com uma mensagem adequada.
      */
     public static void exercicio08(){
-    boolean falso = true;
+    boolean falso = false;
         System.out.println("A resposta é: " + falso);
 
     }
@@ -171,7 +171,7 @@ public class ExerciciosJava {
      *  Em seguida, imprima a frase com uma mensagem adequada.
      */
     public static void exercicio19(){
-    String frase = "Apreder Java é divertido!";
+    String frase = "Aprender Java é divertido!";
         System.out.println("Minha frase é: " + frase);
     }
 
