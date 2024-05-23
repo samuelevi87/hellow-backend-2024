@@ -35,7 +35,14 @@ public class JezreelExerciciosCondicionais {
      * e roupas para qualquer clima na primavera e no outono.
      */
     public static void roupeiroInteligente() {
+        String estacao;
+        Scanner entrada = new Scanner(System.in);
+        System.out.println("Qual é a Estação?: ");
+        estacao = entrada.nextLine().toLowerCase();
 
+        if (estacao == "verão"); {
+            System.out.println("Eu sugiro que você use roupas leves e frescas!");
+        } else if (estacao == "inverno")
     }
 
     /**
