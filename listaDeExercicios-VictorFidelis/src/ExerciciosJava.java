@@ -19,7 +19,7 @@ public class ExerciciosJava {
 
     public static void exercicio02() {
         double peso = 68.5;
-        System.out.println("O peso é" + peso);
+        System.out.println("O peso é " + peso);
     }
 
     /**
@@ -84,7 +84,7 @@ public class ExerciciosJava {
 
     public static void exercicio09() {
         String nome = "Victor";
-        System.out.println("O meu nome é" + nome);
+        System.out.println("O meu nome é: " + nome);
     }
 
     /**
@@ -120,7 +120,7 @@ public class ExerciciosJava {
 
     public static void exercicio13() {
         char opcaoMenu = 'C';
-        System.out.println("A opção do menu é:" + opcaoMenu);
+        System.out.println("A opção selecionada do menu é:" + opcaoMenu);
     }
     /**
      * Declare uma variável do tipo boolean chamada "solBrilha" e atribua a ela o valor true.
@@ -128,8 +128,8 @@ public class ExerciciosJava {
      */
 
     public static void exercicio14() {
-        boolean solBrilha = true;
-        System.out.println("O sol brilha?:" + true);
+        boolean solBrilha = ;
+        System.out.println("O sol brilha?:" + );
     }
     /**
      * Declare duas variáveis do tipo inteiro, "largura" e "altura", e atribua a elas os valores 5 e 10, respectivamente.
@@ -139,7 +139,7 @@ public class ExerciciosJava {
     public static void exercicio15() {
         int largura = 5;
         int altura = 10;
-        System.out.println("A medida do retangulo é: " + (largura * altura));
+        System.out.println("A área do retangulo é: " + (largura * altura));
     }
     /**
      * Declare uma variável do tipo double chamada "temperatura" e atribua a ela o valor 25.5.
@@ -150,13 +150,25 @@ public class ExerciciosJava {
         double temperatura = 25.5;
         System.out.println("A temperatura é" + temperatura);
     }
-    /**declare uma variável do tipo boolean chamada "chovendo" e atribua a ela o valor false.
+
+    /**
+     * Declare uma variável do tipo char chamada "sexo" e atribua a ela o valor 'F'.
+     * Em seguida, imprima o sexo da pessoa com uma mensagem adequada.
+     */
+    public static void exercicio17() {
+    char sexo = 'F';
+        System.out.println("O sexo da pessoa é: " + sexo);
+    }
+
+    /**
+     * Declare uma variável do tipo boolean chamada "chovendo" e atribua a ela o valor false.
      * Em seguida, imprima se está chovendo ou não com uma mensagem adequada.
      */
 
-    public static void exercicio17() {
-        char sexo = 'F';
-        System.out.println("O sexo da pessoa é:" + sexo);
+
+    public static void exercicio18() {
+    boolean chovendo = false;
+        System.out.println("Está chovendo: " + chovendo);
     }
 
     /**
@@ -164,20 +176,11 @@ public class ExerciciosJava {
      * Em seguida, imprima a frase com uma mensagem adequada.
      */
 
-    public static void exercicio18() {
-        boolean chovendo = false;
-        System.out.println("Está chovendo" + false);
-    }
 
-
-    /**
-     * Declare uma variável do tipo inteiro chamada "idadeDoUsuario" e atribua a ela o valor 30.
-     * Em seguida, imprima a idade do usuário com uma mensagem adequada.
-     */
 
 
     public static void exercicio19() {
-        String frase = "aprender java é divertido";
+    String frase = "aprender java é divertido";
         System.out.println(frase);
     }
 
@@ -190,7 +193,7 @@ public class ExerciciosJava {
 
     public static void exercicio20() {
         int idadeDoUsuario = 30;
-        System.out.println("a idade do usuario é" + idadeDoUsuario);
+        System.out.println("a idade do usuario é: " + idadeDoUsuario);
     }
 }
 
