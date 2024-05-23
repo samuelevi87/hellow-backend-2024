@@ -150,7 +150,7 @@ public class ExerciciosJava {
      */
     public static void exercicio18() {
         boolean chovendo = false;
-        System.out.println("esta chovendo?: " + chovendo);
+        System.out.println("está chovendo?: " + chovendo);
     }
 
     /**
