@@ -1,3 +1,4 @@
+import java.sql.Struct;
 import java.util.Scanner;
 
 /**
@@ -12,22 +13,30 @@ public class JoãoRezendeExerciciosCondicionais {
      * Caso contrário, sugere ficar em casa.
      */
     public static void diaPerfeito() {
-        int temperatura;
-        String tempo;
-        Scanner entrada = new Scanner(System.in);
-        System.out.println("Qual a temperatura?: ");
-        temperatura = entrada.nextInt();
-        System.out.println("Como está o tempo? (ensolarado/chuvoso): ");
-        tempo = entrada.nextLine().toLowerCase();
-        if (temperatura >= 25) {
-            System.out.println("É dia de Praia!");
-        } else if (temperatura >= 25 && tempo.equals("ensolarado")) {
-            System.out.println("Piquenique no Parque!");
-        } else {
-            System.out.println("Vamos ler um livro em casa!s");
+            int temperatura;
+            String tempo;
+            Scanner entrada = new Scanner(System.in);
+            System.out.print("Qual a temperatura?: ");
+            temperatura = entrada.nextInt();
+            entrada.nextLine();
+
+
+            if (temperatura >= 25) {
+                System.out.println("É dia de Praia!");
+            } else if (temperatura >= 15) {
+                System.out.print("Como está o tempo? (ensolarado/chuvoso): ");
+                tempo = entrada.nextLine().toLowerCase();
+                if (tempo.equals("ensolarado")) {
+                    System.out.println("Piquenique no Parque!");
+                } else {
+                    System.out.println("Vamos ler um livro em casa!");
+                }
+            } else {
+                System.out.println("Está muito frio. Vamos ler um livro em casa " +
+                        "e tomar um chocolate quente!");
+            }
+            entrada.close();
         }
-        entrada.close();
-    }
 
 
     /**
@@ -36,15 +45,36 @@ public class JoãoRezendeExerciciosCondicionais {
      * e roupas para qualquer clima na primavera e no outono.
      */
     public static void roupeiroInteligente() {
+       String estacao;
+       Scanner entrada = new Scanner(System.in);
+        System.out.println("Digite a estação: (verao/inverno/outono/primavera)");
+       estacao = entrada.nextLine().toLowerCase();
+
+       if (estacao.equals("verao")) {
+           System.out.println();
+       }
+
+
 
     }
+
 
     /**
      * A Máquina de Doces: Fornece um doce se a senha correta "abracadabra" for inserida.
      * Caso contrário, mostra uma mensagem de erro.
      */
     public static void maquinaDeDoces() {
+        String senhaCorreta = "abracadabra";
+        Scanner entrada = new Scanner(System.in);
+        System.out.println("Digite a senha: ");
+        String senhaDigitada = entrada.nextLine();
 
+        if (senhaCorreta.equals(senhaDigitada)) {
+            System.out.println("Aqui está seu doce!");
+        } else {
+            System.out.println("Senha incorreta. Tente Novamente!");
+            maquinaDeDoces();
+        }
     }
 
     /**
@@ -52,6 +82,15 @@ public class JoãoRezendeExerciciosCondicionais {
      * com base na posição do rabo do gato.
      */
     public static void gatoMisterioso() {
+    boolean raboLevantado = true;
+
+    if (raboLevantado) {
+        System.out.println("A sorte está do seu lado!");
+
+    } else {
+        System.out.println("Cuidado, pode aver um obstáculo à frente");
+       }
+
 
     }
 

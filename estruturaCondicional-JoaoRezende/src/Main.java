@@ -2,7 +2,8 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-     JoãoRezendeExerciciosCondicionais.diaPerfeito();
+        JoãoRezendeExerciciosCondicionais.gatoMisterioso();
+        System.out.println();
 
 
 
