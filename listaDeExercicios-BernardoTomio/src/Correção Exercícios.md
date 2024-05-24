@@ -16,6 +16,8 @@ public static void exercicio05() {
 - A primeira mensagem de soma está incorreta e redundante.
 - Correto seria apenas imprimir a soma: "A soma é: " + soma.
 
+### Exercícios com pontos de melhoria:
+
 ### Exercício 9:
 ```java
 public static void exercicio09() {
