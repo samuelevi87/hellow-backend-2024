@@ -39,7 +39,7 @@ public class ExerciciosJava {
         int numero1 = 10;
         int numero2 = 20;
         int soma = numero1 + numero2;
-        System.out.println("A soma é : " + (numero1 + numero2));
+        System.out.println("A soma é : " + (soma));
     }
 
     /**
@@ -83,8 +83,8 @@ public class ExerciciosJava {
      * Declare uma variável do tipo inteiro chamada "quantidadeAlunos" e atribua a ela um valor inicial de 30. Em seguida, imprima a quantidade de alunos com uma mensagem adequada.
      */
     public static void exercicio10() {
-        int quantidaDeAlunos = 30;
-        System.out.println("A quantidade de alunos é : " + quantidaDeAlunos);
+        int quantidadeDeAlunos = 30;
+        System.out.println("A quantidade de alunos é : " + quantidadeDeAlunos);
 
     }
 
