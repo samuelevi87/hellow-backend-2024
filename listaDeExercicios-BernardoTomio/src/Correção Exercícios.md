@@ -1,4 +1,4 @@
-## Parabéns por se esforçar em fazer as correções necessárias! É muito bom ver seu esforço em progradir!! 
+## Parabéns por se esforçar em fazer as correções necessárias! É muito bom ver seu esforço em progredir!! 
 
 ### Exercícios Incorretos:
 
