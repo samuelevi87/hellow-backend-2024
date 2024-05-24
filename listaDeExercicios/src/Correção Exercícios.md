@@ -1,111 +1,55 @@
+Parabéns por se esforçar em corrigir!! Seu progresso é notável!.
+
+### Exercícios com pontos de melhora:
+
 ### Exercício 4:
 ```java
 public static void exercicios04() {
     boolean verdadeiro = true;
-    System.out.println("o valor é :" + true);
+    System.out.println("o valor é : " + verdadeiro);
 }
 ```
 **Comentário:** 
-- Correção de "o valor é :" para "O valor é: " (capitalização correta).
-- Em vez de `true`, deve-se usar a variável `verdadeiro` na impressão.
+- A mensagem deve começar com letra maiúscula. Corrigir para "O valor é: " + verdadeiro.
 
-### Exercício 8:
+### Exercício 9:
 ```java
-public static void exercicios08() {
-    boolean falso = false;
-    System.out.println("O falso é :" + falso);
+public static void exercicios09() {
+    String nome = "Alice";
+    System.out.println("o nome é : " + nome);
 }
 ```
 **Comentário:** 
-- A mensagem poderia ser mais descritiva. "O valor é: " + falso.
+- A mensagem deve começar com letra maiúscula. Corrigir para "O nome é: " + nome.
+
+### Exercícios Incorretos:
 
 ### Exercício 14:
-Este exercício está vazio.
 ```java
 public static void exercicios14() {
-
+    boolean solbrilha = true;
+    System.out.println("O valor é : " + solbrilha);
 }
 ```
 **Comentário:** 
-- A implementação está faltando. Deveria declarar uma variável do tipo boolean chamada "solBrilha" e atribuir a ela o valor true, em seguida, imprimir se o sol está brilhando ou não com uma mensagem adequada.
-
-### Exercício 15:
-Este exercício está vazio.
-```java
-public static void exercicios15() {
-
-}
-```
-**Comentário:** 
-- A implementação está faltando. Deveria declarar duas variáveis do tipo inteiro, "largura" e "altura", e atribuir a elas os valores 5 e 10, respectivamente, em seguida, calcular e imprimir a área de um retângulo usando essas variáveis.
-
-### Exercício 16:
-Este exercício está vazio.
-```java
-public static void exercicios16() {
-
-}
-```
-**Comentário:** 
-- A implementação está faltando. Deveria declarar uma variável do tipo double chamada "temperatura" e atribuir a ela o valor 25.5, em seguida, imprimir a temperatura com uma mensagem adequada.
-
-### Exercício 17:
-Este exercício está vazio.
-```java
-public static void exercicios17() {
-
-}
-```
-**Comentário:** 
-- A implementação está faltando. Deveria declarar uma variável do tipo char chamada "sexo" e atribuir a ela o valor 'F', em seguida, imprimir o sexo da pessoa com uma mensagem adequada.
-
-### Exercício 18:
-Este exercício está vazio.
-```java
-public static void exercicios18() {
-
-}
-```
-**Comentário:** 
-- A implementação está faltando. Deveria declarar uma variável do tipo boolean chamada "chovendo" e atribuir a ela o valor false, em seguida, imprimir se está chovendo ou não com uma mensagem adequada.
-
-### Exercício 19:
-Este exercício está vazio.
-```java
-public static void exercicios19() {
-
-}
-```
-**Comentário:** 
-- A implementação está faltando. Deveria declarar uma variável do tipo String chamada "frase" e atribuir a ela uma frase sobre Java, em seguida, imprimir a frase com uma mensagem adequada.
-
-### Exercício 20:
-Este exercício está vazio.
-```java
-public static void exercicios20() {
-
-}
-```
-**Comentário:** 
-- A implementação está faltando. Deveria declarar uma variável do tipo inteiro chamada "idadeDoUsuario" e atribuir a ela o valor 30, em seguida, imprimir a idade do usuário com uma mensagem adequada.
+- O nome da variável `solbrilha` deve ser `solBrilha` para seguir a convenção camelCase.
+- A mensagem deve ser mais descritiva. Corrigir para "O sol está brilhando: " + solBrilha.
 
 ### Resumo:
-- Exercícios que não possuem implementação ou estão incompletos: 7 (14, 15, 16, 17, 18, 19, 20)
-- Exercícios com implementação errada: 2 (4, 8)
-- Exercícios corretos: 11 (1, 2, 3, 5, 6, 7, 9, 10, 11, 12, 13)
+- Exercícios com problemas de implementação: 1 (14)
+- Exercícios corretos: 19 (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 15, 16, 17, 18, 19, 20)
 
 ### Nota Final:
 - Total de exercícios: 20
-- Exercícios incorretos ou incompletos: 9
-- Desconto: 9 * 0,5 = 4,5 pontos
+- Exercícios incorretos: 1
+- Desconto: 1 * 0,5 = 0,5 pontos
 
-**Nota final:** 10 - 4,5 = **5,5**
+**Nota final:** 10 - 0,5 = **9,5**
 
 ### Comentário para o Aluno:
-Você completou vários exercícios corretamente, mas há alguns que estão faltando ou precisam de correções. Aqui estão alguns pontos para melhorar:
+Você fez um ótimo trabalho na maioria dos exercícios! Aqui estão alguns pontos para corrigir:
 
-1. **Complete todos os exercícios:** Certifique-se de declarar as variáveis conforme solicitado e imprimir os resultados adequados.
-2. **Atenção aos detalhes:** Corrija erros de digitação e garanta que as mensagens estejam claras e corretas.
-3. **Pratique mais:** Continue praticando a escrita de código para ganhar confiança e melhorar suas habilidades.
+1. **Exercício 14:** Corrigir o nome da variável e tornar a mensagem mais descritiva.
 
-Continue se dedicando, você está no caminho certo para dominar a programação em Java! Estou aqui para ajudá-la a cada passo do caminho!
+
+Continue se dedicando, e mantenha a atenção no modo de escrever as variáveis em Java, você está no caminho certo para dominar a programação em Java! Estou aqui para ajudá-la a cada passo do caminho!
