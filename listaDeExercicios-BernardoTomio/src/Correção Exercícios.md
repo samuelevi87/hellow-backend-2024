@@ -1,200 +1,95 @@
-### Exercício 1:
-Este exercício está vazio.
-```java
-public static void exercicio01() {
+## Parabéns por se esforçar em fazer as correções necessárias! É muito bom ver seu esforço em progradir!! 
 
+### Exercícios Incorretos:
+
+### Exercício 5:
+```java
+public static void exercicio05() {
+    int numero1 = 10;
+    int numero2 = 20;
+    int soma = numero1 + numero2;
+    System.out.println("A soma é: " + (numero1));
+    System.out.println("A soma é: " + soma);
 }
 ```
 **Comentário:** 
-- A implementação está faltando. Deveria declarar uma variável do tipo inteiro chamada "idade" e atribuir a ela o valor 25, em seguida, imprimir a idade com uma mensagem adequada.
-
-### Exercício 2:
-Este exercício está vazio.
-```java
-public static void exercicio02() {
-
-}
-```
-**Comentário:** 
-- A implementação está faltando. Deveria declarar uma variável do tipo double chamada "peso" e atribuir a ela o valor 68.5, em seguida, imprimir o peso com uma mensagem adequada.
-
-### Exercício 4:
-```java
-public static void exercicio04() {
-    boolean verdadeiro = true;
-    System.out.println("O valor é: "+ verdadeiro);
-}
-```
-**Comentário:** 
-- Há um erro de digitação na mensagem. Deveria ser "O valor é: ".
-
-### Exercício 6:
-Este exercício está vazio.
-```java
-public static void exercicio06() {
-
-}
-```
-**Comentário:** 
-- A implementação está faltando. Deveria declarar uma variável do tipo double chamada "precoProduto" e atribuir a ela o valor 59.99, em seguida, imprimir o preço do produto com uma mensagem adequada.
-
-### Exercício 7:
-Este exercício está vazio.
-```java
-public static void exercicio07() {
-
-}
-```
-**Comentário:** 
-- A implementação está faltando. Deveria declarar uma variável do tipo char chamada "letra" e atribuir a ela o valor 'B', em seguida, imprimir a letra com uma mensagem adequada.
-
-### Exercício 8:
-Este exercício está vazio.
-```java
-public static void exercicio08() {
-
-}
-```
-**Comentário:** 
-- A implementação está faltando. Deveria declarar uma variável do tipo boolean chamada "falso" e atribuir a ela o valor false, em seguida, imprimir se é falso ou não com uma mensagem adequada.
+- A primeira mensagem de soma está incorreta e redundante.
+- Correto seria apenas imprimir a soma: "A soma é: " + soma.
 
 ### Exercício 9:
-Este exercício está vazio.
 ```java
 public static void exercicio09() {
-
+    String nome = "Bernardo";
+    System.out.println("meu nome é: " + nome);
 }
 ```
-**Comentário:** 
-- A implementação está faltando. Deveria declarar uma variável do tipo String chamada "nome" e atribuir a ela o seu nome, em seguida, imprimir o nome com uma mensagem adequada.
-
-### Exercício 10:
-Este exercício está vazio.
-```java
-public static void exercicio10() {
-
-}
-```
-**Comentário:** 
-- A implementação está faltando. Deveria declarar uma variável do tipo inteiro chamada "quantidadeAlunos" e atribuir a ela um valor inicial de 30, em seguida, imprimir a quantidade de alunos com uma mensagem adequada.
-
-### Exercício 11:
-Este exercício está vazio.
-```java
-public static void exercicio11() {
-
-}
-```
-**Comentário:** 
-- A implementação está faltando. Deveria declarar uma variável do tipo inteiro chamada "numeroDeEstudantes" e atribuir a ela um valor inicial de 20, em seguida, imprimir o número de estudantes com uma mensagem adequada.
-
-### Exercício 12:
-Este exercício está vazio.
-```java
-public static void exercicio12() {
-
-}
-```
-**Comentário:** 
-- A implementação está faltando. Deveria declarar uma variável do tipo double chamada "saldoBancario" e atribuir a ela um valor inicial de 1500.75, em seguida, imprimir o saldo bancário com uma mensagem adequada.
+**Comentário:**
+- A mensagem deve começar com letra maiúscula. Corrigir para "Meu nome é: " + nome.
+- Não contabiliza penalidade.
 
 ### Exercício 13:
-Este exercício está vazio.
 ```java
 public static void exercicio13() {
-
+    char opcaoMenu = 'C';
+    System.out.println("a opção certa é: " + opcaoMenu);
 }
 ```
-**Comentário:** 
-- A implementação está faltando. Deveria declarar uma variável do tipo char chamada "opcaoMenu" e atribuir a ela um valor inicial de 'C', em seguida, imprimir a opção do menu com uma mensagem adequada.
+**Comentário:**
+- A mensagem deve começar com letra maiúscula. Corrigir para "A opção certa é: " + opcaoMenu.
+- Não contabiliza penalidade.
 
 ### Exercício 14:
-Este exercício está vazio.
 ```java
 public static void exercicio14() {
-
+    boolean solBrilha = true;
+    System.out.println("o sol brilha muito: " + solBrilha);
 }
 ```
-**Comentário:** 
-- A implementação está faltando. Deveria declarar uma variável do tipo boolean chamada "solBrilha" e atribuir a ela o valor true, em seguida, imprimir se o sol está brilhando ou não com uma mensagem adequada.
-
-### Exercício 15:
-Este exercício está vazio.
-```java
-public static void exercicio15() {
-
-}
-```
-**Comentário:** 
-- A implementação está faltando. Deveria declarar duas variáveis do tipo inteiro, "largura" e "altura", e atribuir a elas os valores 5 e 10, respectivamente, em seguida, calcular e imprimir a área de um retângulo usando essas variáveis.
-
-### Exercício 16:
-Este exercício está vazio.
-```java
-public static void exercicio16() {
-
-}
-```
-**Comentário:** 
-- A implementação está faltando. Deveria declarar uma variável do tipo double chamada "temperatura" e atribuir a ela o valor 25.5, em seguida, imprimir a temperatura com uma mensagem adequada.
+**Comentário:**
+- A mensagem deve começar com letra maiúscula. Corrigir para "O sol brilha muito: " + solBrilha.
+- Não contabiliza penalidade.
 
 ### Exercício 17:
-Este exercício está vazio.
 ```java
 public static void exercicio17() {
-
+    char sexo = 'F';
+    System.out.println("o gênero dela é: " + sexo);
 }
 ```
-**Comentário:** 
-- A implementação está faltando. Deveria declarar uma variável do tipo char chamada "sexo" e atribuir a ela o valor 'F', em seguida, imprimir o sexo da pessoa com uma mensagem adequada.
-
-### Exercício 18:
-Este exercício está vazio.
-```java
-public static void exercicio18() {
-
-}
-```
-**Comentário:** 
-- A implementação está faltando. Deveria declarar uma variável do tipo boolean chamada "chovendo" e atribuir a ela o valor false, em seguida, imprimir se está chovendo ou não com uma mensagem adequada.
-
-### Exercício 19:
-Este exercício está vazio.
-```java
-public static void exercicio19() {
-
-}
-```
-**Comentário:** 
-- A implementação está faltando. Deveria declarar uma variável do tipo String chamada "frase" e atribuir a ela uma frase sobre Java, em seguida, imprimir a frase com uma mensagem adequada.
+**Comentário:**
+- A mensagem deve começar com letra maiúscula. Corrigir para "O gênero dela é: " + sexo.
+- Não contabiliza penalidade.
 
 ### Exercício 20:
-Este exercício está vazio.
 ```java
 public static void exercicio20() {
-
+    int idadeDoUsuario = 30;
+    System.out.println("o usuário tem a idade: " + idadeDoUsuario);
 }
 ```
-**Comentário:** 
-- A implementação está faltando. Deveria declarar uma variável do tipo inteiro chamada "idadeDoUsuario" e atribuir a ela o valor 30, em seguida, imprimir a idade do usuário com uma mensagem adequada.
+**Comentário:**
+- A mensagem deve começar com letra maiúscula. Corrigir para "O usuário tem a idade: " + idadeDoUsuario.
+- Não contabiliza penalidade.
 
 ### Resumo:
-- Exercícios que não possuem implementação ou estão incompletos: 18
-- Exercícios com implementação errada: 1 (exercício 4)
-- Exercícios corretos: 1 (exercício 5)
+- Exercícios com problemas de implementação: 1 (5)
+- Exercícios corretos: 19 (1, 2, 3, 4, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20)
 
 ### Nota Final:
 - Total de exercícios: 20
-- Exercícios incorretos ou incompletos: 19
-- Desconto: 19 * 0,5 = 9,5 pontos
+- Exercícios incorretos: 1
+- Desconto: 1 * 0,5 = 0,5 pontos
 
-**Nota final:** 10 - 9,5 = **0,5**
+**Nota final:** 10 - 0,5 = **9,5**
 
 ### Comentário para o Aluno:
-Você começou bem com alguns exercícios, mas muitos estão faltando implementação ou estão incompletos. Aqui estão alguns pontos para melhorar:
+Você fez um ótimo trabalho na maioria dos exercícios! Aqui estão alguns pontos para corrigir:
 
-1. **Complete todos os exercícios:** Certifique-se de declarar as variáveis conforme solicitado e imprimir os resultados adequados.
-2. **Atenção aos detalhes:** Corrija erros de digitação e garanta que as mensagens estejam claras e corretas.
-3. **Pratique mais:** Continue praticando a escrita de código para ganhar confiança e melhorar suas habilidades.
+1. **Exercício 5:** Remover a primeira mensagem de soma que está incorreta.
+2. **Exercício 9:** A mensagem deve começar com letra maiúscula. Não afeta a nota.
+3. **Exercício 13:** A mensagem deve começar com letra maiúscula. Não afeta a nota.
+4. **Exercício 14:** A mensagem deve começar com letra maiúscula. Não afeta a nota.
+5. **Exercício 17:** A mensagem deve começar com letra maiúscula. Não afeta a nota.
+6. **Exercício 20:** A mensagem deve começar com letra maiúscula. Não afeta a nota.
 
-Estou aqui para ajudá-lo a cada passo do caminho! Continue se dedicando e você verá grandes melhorias no seu desempenho.
+Continue se dedicando, você está no caminho certo para dominar a programação em Java! Estou aqui para ajudá-lo a cada passo do caminho!
