@@ -114,7 +114,7 @@ Reforçamos o 'For' e o 'Whale' atravez de exercicios e copiladores online .
 Encontar onde errei e saber como arrumar .
 
 ### O que mais gostei:
-De saber que existe copiladores online .
+De saber que existe copiladores online.
 
 ### Sentimento do dia:
 ![Alt Text](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2djeXMydjhqY3h2czU3d3BtMHdud3hxNzVpZjAwdzB6M3JndjZheCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WtOkaikiwaR87ZvAFH/giphy.webp)
