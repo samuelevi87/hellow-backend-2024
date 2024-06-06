@@ -104,3 +104,19 @@ Do resultado da atividade avaliativa
 ![Alt Text](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXd5aDdtODFoMXprM281Y3l4MDN2ajhsZnBxMHZ6anRnNGx3ZWIwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lihh5NFzJQRphzxSc1/giphy.gif)
 
 ---
+
+## Data: [06-06-2024]
+
+### O que aprendi hoje:
+Reforçamos o 'For' e o 'Whale' atravez de exercicios e copiladores online .
+
+### O que achei mais difícil:
+Encontar onde errei e saber como arrumar .
+
+### O que mais gostei:
+De saber que existe copiladores online .
+
+### Sentimento do dia:
+![Alt Text](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2djeXMydjhqY3h2czU3d3BtMHdud3hxNzVpZjAwdzB6M3JndjZheCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WtOkaikiwaR87ZvAFH/giphy.webp)
+
+---
