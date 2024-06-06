@@ -116,3 +116,18 @@ Escolha um GIF que melhor represente seu sentimento sobre a aula de hoje. Você 
 ![Alt Text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnkzemo0NGhzanI4YTJ6dm1hMGdrajJwYW1kZWZzZm9vcnlkbnN3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FY8c5SKwiNf1EtZKGs/giphy.gif)
 
 ---
+## Data: [06-06-2024]
+
+### O que aprendi hoje:
+**Estrutura de repetição**
+
+### O que achei mais difícil:
+**Copiar e fazer os exercicios da aula**
+
+### O que mais gostei:
+**Jogar e poder fazer as atividades.**
+
+### Sentimento do dia:
+![Alt Text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWhlOThmZHZrMncyYTVha3EwejdiYzB0Nnd6cjhod281eWVjbTQ4dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2wYrkKvETbAwWAM4Gy/200.webp)
+
+---
