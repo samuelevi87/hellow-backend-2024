@@ -112,3 +112,18 @@ exercicios nos posibilitando pensar mais.
 
 ### Sentimento do dia:
 ![Alt Text](https://media0.giphy.com/media/Dg4TxjYikCpiGd7tYs/giphy.webp?cid=82a1493bm2pbvpikc6xupunf6tll97yzju1uzhkihaawvddn&ep=v1_gifs_trending&rid=giphy.webp&ct=g)
+
+---
+
+## Data: [06-06-2024]
+
+### O que  aprendi hoje:
+conceitos como while e for.
+
+### O que achei mais difícil:
+utilizar o while.
+### O que mais gostei:
+jogos que nos fazem pensar fora da caixa.
+### Sentimento do dia:
+![Alt Text](https://media2.giphy.com/media/3ndAvMC5LFPNMCzq7m/giphy.webp?cid=82a1493byau2yu449ksf28y9jq6859khhdy1lcbq0wsntop5&ep=v1_gifs_trending&rid=giphy.webp&ct=g)
+

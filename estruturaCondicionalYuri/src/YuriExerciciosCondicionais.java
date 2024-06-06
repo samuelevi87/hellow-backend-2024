@@ -52,7 +52,7 @@ public class YuriExerciciosCondicionais {
          } else if (estacao.equals("inverno")) {
              System.out.println("Apresentar opções quentinhas e aconchegantes");
          } else if (estacao.equals("primavera") || estacao.equals("outono")) {
-             System.out.println("Dar sugestões para qualquer yipo de clima");
+             System.out.println("Dar sugestões para qualquer tipo de clima");
          }else {
              System.out.println("Digite uma opção válida!");
              roupeiroInteligente();
