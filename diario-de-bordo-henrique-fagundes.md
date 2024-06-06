@@ -77,6 +77,23 @@ Gostei de testar meus conhecimentos que já havia aprendido anteriormente.
 ![gif](https://media1.tenor.com/m/qMH5o_XizbcAAAAd/but-here%27s-the-coder.gif)
 
 ---
+
+## Data: [06-06-2024]
+
+### O que aprendi hoje:
+Reforcei o aprendizado de "for" e "while" em Java.
+
+### O que achei mais difícil:
+Não tive dificuldades em nada.
+
+### O que mais gostei:
+Gostei dos sites que o professor mostrou.
+
+### Sentimento do dia:
+![cat](https://media1.tenor.com/m/KmPFMGQ07-4AAAAd/hffgf.gif)
+
+---
+
 ## Data: [DD-MM-AAAA]
 
 ### O que aprendi hoje:
