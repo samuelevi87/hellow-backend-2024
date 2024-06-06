@@ -90,7 +90,7 @@ Não tive dificuldades em nada.
 Gostei dos sites que o professor mostrou.
 
 ### Sentimento do dia:
-![cat](https://media1.tenor.com/m/KmPFMGQ07-4AAAAd/hffgf.gif)
+![cat](https://media1.tenor.com/m/bQCHJwgCNuMAAAAC/kitten-cat.gif)
 
 ---
 
