@@ -15,7 +15,48 @@ Compartilhe o que você mais gostou na aula de hoje. Isso pode ser um tópico es
 ![Alt Text](URL_DO_GIF)
 Escolha um GIF que melhor represente seu sentimento sobre a aula de hoje. Você pode usar sites como Giphy para encontrar o GIF perfeito.
 ---
+# Data: [11 e 18-04-2024]
 
+### O que aprendi hoje:
+aprendemos alguns códigos;git push,clear,git log são alguns códigos. 
+
+### O que achei mais difícil:
+Lembrar e memorizar os codigos e alguns comandos.
+
+### O que mais gostei:
+Fazer nosso curriculo
+### Sentimento do dia:
+![Alt Text](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjcyMTZhb2I2ZWw4cGRwdzVwd3BuZTV6dWp1eDBsbnZtamh6ajFhZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8JWOWZSBFJelD2Vxsc/giphy.webp)
+.
+## Data: [25-04-2024]
+
+### O que aprendi hoje:
+Comecamos nossa aulas sobre variaveis e tipos de dados.Como fazer nosso diário de bordo
+
+### O que achei mais difícil:
+Memorizar o tipos de variaveis 
+
+### O que mais gostei:
+Que começamos um assunto novo
+### Sentimento do dia:
+![Alt Text](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjdja3VsbHJxMXMxMzJ6MHA5NGhzeXg2NjdxeWNyY3kzd3hjaTF4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YkzQMAfpuH3qpt8410/giphy.webp)
+
+---
+## Data: [02-05-2024]
+
+### O que aprendi hoje:
+Hoje aprendi a programar um pouco no java com alguns exercicios avaliativos 
+
+### O que achei mais difícil:
+Em algumas atividades senti mais dificuldade
+
+### O que mais gostei:
+Que consegui fazer a maioria das questoes sem o auxilio do professor 
+
+### Sentimento do dia:
+![Alt Text](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTd2YXlzeDdqcmM3aTdtNmxrdmxwMjRkYzhtYml3Zm82YWgwdjZvMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp)
+
+---
 ## Data: [09-05-2024]
 
 ### O que aprendi hoje:
@@ -53,3 +94,19 @@ Hoje em si foi bem top, mas acho q aprender como criar e entender um pouco.
 ![Alt Text](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ljanhoN3BzNWNqbHQ5djF3cDQxdmg2aXB0czl4ejRkemc0dGl1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8v6Z3YyULB5Q0Skbac/giphy.gif)
 
 
+# Diário de Bordo - [Hellow 2024/Trilha DEV Backend]
+
+## Data: [06-06-2024]
+
+### O que aprendi hoje:
+Reforçamos o 'for' 'whale' atráves de exercicios oline.
+
+### O que achei mais difícil:
+Acho que só ver/saber o que eu errei 
+### O que mais gostei:
+De reforçar que me ajudou muito e de saber q existem outros copiladores olines.
+### Sentimento do dia:
+![Alt Text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzNwcThxZjZ0N2w1a3c5MDN4bGtvOW12d2U5bjBpNHlqNzNjY2JhOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kiBcwEXegBTACmVOnE/giphy.webp)
+
+
+---
