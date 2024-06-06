@@ -113,3 +113,20 @@ De fazer exercícios de condicionais do JAVA
 
 ### Sentimento do dia:
 ![Alt Text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzBuMjd0NnkyaHpzc3Eyb3djb2hybHRxemM1djhsNXNtbjZjd215bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT77Y8eeEhBA8NQwLK/giphy.gif)
+---
+
+## Data: [06-06-2024]
+
+### O que aprendi hoje:
+Mais coisas sobre Java
+
+### O que achei mais difícil:
+Nada
+
+### O que mais gostei:
+Tudo
+### Sentimento do dia:
+![Alt Text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzBuMjd0NnkyaHpzc3Eyb3djb2hybHRxemM1djhsNXNtbjZjd215bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT77Y8eeEhBA8NQwLK/giphy.gif)
+
+
+---
