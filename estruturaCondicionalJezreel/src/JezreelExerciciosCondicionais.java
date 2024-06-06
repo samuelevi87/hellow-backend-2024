@@ -131,7 +131,21 @@ public class JezreelExerciciosCondicionais {
      * O Sorvete Refrescante: Escolhe o sabor do sorvete com base no sabor favorito de uma amiga.
      */
     public static void sorveteRefrescante() {
+        String saborDoSoverte;
+        Scanner entrada = new Scanner(System.in);
+        System.out.println("Qual é o soverte favorito de sua amiga?");
+        saborDoSorvete = entrada.nextLine().toLowerCase();
 
+        if (saborDoSorvete.equals("chocolate")){
+            System.out.println("O sorvete que você comprou foi de chocolate.");
+        } else if (saborDoSorvete.equals("morango")){
+            System.out.println("O sorvete que você comprou é o de morango.");
+        } else if (saborDoSoverte.equals("limão")){
+            System.out.println("Você dividirá um sabor cítrico com ela.")
+        } else {
+            Syste,.out.println("Sabor inválido! Tente Novamente.")
+        soverteRefrescante();
+        } entrada.close();
     }
 
     /**
