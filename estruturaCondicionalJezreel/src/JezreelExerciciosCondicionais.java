@@ -1,5 +1,7 @@
 package estruturaCondicionalJezreel.src;
 
+import com.sun.tools.jconsole.JConsoleContext;
+
 import java.sql.SQLOutput;
 import java.util.Scanner;
 
@@ -57,7 +59,7 @@ public class JezreelExerciciosCondicionais {
         System.out.println("Qual é a sua estação do ano?(verão/inverno/primavera/outono): ");
         estacao = scan.nextLine().toLowerCase();
 
-        if (estacao.equals("verão")){
+        if (estacao.equals("verão")) {
             System.out.println("Dar sugestão para roupas leves e frescas!");
         } else if (estacao.equals("inverno")) {
             System.out.println("Dar sugestão para roupar quentinhas.");
@@ -65,7 +67,8 @@ public class JezreelExerciciosCondicionais {
             System.out.println("Dar sugestão de roupas para qualquer tipo de clima");
         } else {
             System.out.println("Digite uma opção válida.");
-        }scan.close();
+        }
+        scan.close();
     }
 
 
@@ -79,12 +82,13 @@ public class JezreelExerciciosCondicionais {
         System.out.println("Digite a senha para poder ganhar um docê: ");
         senha = entrada.nextLine().toLowerCase();
 
-        if (senha.equals("abracadabra")){
+        if (senha.equals("abracadabra")) {
             System.out.println("Senha correta!Pegue seu docê.");
         } else {
             System.out.println("Senha incorreta! Tente novamente.");
             maquinaDeDoces();
-        } entrada.close();
+        }
+        entrada.close();
     }
 
     /**
@@ -104,7 +108,8 @@ public class JezreelExerciciosCondicionais {
         } else {
             System.out.println("Posição inválida! Tente novamente.");
             gatoMisterioso();
-        } entrada.close();
+        }
+        entrada.close();
     }
 
     /**
@@ -124,35 +129,118 @@ public class JezreelExerciciosCondicionais {
         } else {
             System.out.println("Direção inválida! Tente Novamente.");
             escolhaDoCaminho();
-        } entrada.close();
+        }
+        entrada.close();
     }
 
     /**
      * O Sorvete Refrescante: Escolhe o sabor do sorvete com base no sabor favorito de uma amiga.
      */
     public static void sorveteRefrescante() {
+        String saborDoSoverte;
+        Scanner entrada = new Scanner(System.in);
+        System.out.println("Qual é o soverte favorito de sua amiga?");
+        saborDoSoverte = entrada.nextLine().toLowerCase();
 
+        if (saborDoSoverte.equals("chocolate")) {
+            System.out.println("O sorvete que você comprou foi de chocolate.");
+        } else if (saborDoSoverte.equals("morango")) {
+            System.out.println("O sorvete que você comprou é o de morango.");
+        } else if (saborDoSoverte.equals("limão")) {
+            System.out.println("Você dividirá um sabor cítrico com ela.");
+        } else {
+            System.out.println("Sabor inválido! Tente Novamente.");
+            sorveteRefrescante();
+        }
+        entrada.close();
     }
 
     /**
      * O Livro Encantado: Mostra uma história de aventura em dias pares e de romance em dias ímpares.
      */
     public static void livroEncantado() {
+        int dia;
+        Scanner entrada = new Scanner(System.in);
+        System.out.println("Que dia é hoje?: ");
+        dia = entrada.nextInt();
+        entrada.nextInt();
 
+        if (dia == 2) {
+            System.out.println("Leia uma historia de aventura.");
+        } else if (dia == 4) {
+            System.out.println("Leia uma historia de aventura.");
+        } else if (dia == 6) {
+            System.out.println("Leia uma historia de aventura.");
+        } else if (dia == 8) {
+            System.out.println("Leia uma historia de aventura.");
+        } else if (dia == 10) {
+            System.out.println("Leia uma historia de aventura.");
+        } else if (dia == 12) {
+            System.out.println("Leia uma historia de aventura.");
+        } else if (dia == 14) {
+            System.out.println("Leia uma historia de aventura.");
+        } else if (dia == 16) {
+            System.out.println("Leia uma historia de aventura.");
+        } else if (dia == 18) {
+            System.out.println("Leia uma historia de aventura.");
+        } else if (dia == 20) {
+            System.out.println("Leia uma historia de aventura.");
+        } else if (dia == 22) {
+            System.out.println("Leia uma historia de aventura.");
+        } else if (dia == 24) {
+            System.out.println("Leia uma historia de aventura.");
+        } else if (dia == 26) {
+            System.out.println("Leia uma historia de aventura.");
+        } else if (dia == 28) {
+            System.out.println("Leia uma historia de aventura.");
+        } else if (dia == 30) {
+            System.out.println("Leia uma historia de aventura.");
+        } else {
+            System.out.println("leia um livro de romance");
+        }
+        entrada.close();
     }
+
 
     /**
      * A Música Favorita: Cria uma playlist com base no artista favorito inserido.
      */
     public static void musicaFavorita() {
+        String musica;
+        Scanner entrada = new Scanner(System.in);
+        System.out.println("Qual é o seu artista favorito?:");
+        musica = entrada.nextLine().toLowerCase();
 
+        if (musica.equals("michael jackson")) {
+            System.out.println("Ouça uma playlist que te faça dançar!");
+        } else if (musica.equals("the beatles")) {
+            System.out.println("Ouça uma playlist com musicas classicas para curtir");
+        } else if (musica.equals("queen")) {
+            System.out.println("Ouça uma playlist com musicas do genero rock!💀");
+        } else {
+            System.out.println("Artista não detectado! Tente novamente.");
+            musicaFavorita();
+        } entrada.close();
     }
 
     /**
      * O Presente Perfeito: Escolhe o presente com base nos interesses do amigo.
      */
     public static void presentePerfeito() {
+        String presente;
+        Scanner entrada = new Scanner(System.in);
+        System.out.println("Qual é a atividade que seu amigo é apaixonado?: ");
+        presente = entrada.nextLine().toLowerCase();
 
+        if (presente.equals("esporte")) {
+            System.out.println("Compre um tênis ou uma bola.");
+        } else if (presente.equals("ler")) {
+            System.out.println("Um livro será a opção perfeita para você comprar para ele.");
+        } else if (presente.equals("jogos")) {
+            System.out.println("Compre um videogame, para deixar-lo feliz");
+        } else {
+            System.out.println("Atividade não encontrada. Tente novamente.");
+        }
     }
 
     /**
