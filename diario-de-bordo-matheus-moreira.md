@@ -106,3 +106,17 @@ Fazer a atividade pode ser um pouco difício mais é legal.
 
 ### Sentimento do dia:
 ![Alt Text](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmt2eTM4N2N2aGFxNTFlNHo5NWV4eHV3b25qN2FndjNyNXQzNjh2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VIKa3CjZDCoymNcBY5/giphy.gif)
+
+
+## Data: [06-06-2024]
+
+### O que aprendi hoje:
+Hoje relembramos a estrutura de repetição e fizemos compiladores de java online
+
+### O que achei mais difícil:
+não teve nada difício
+### O que mais gostei:
+Eu gostei de fazer a estrutura de repetição
+
+### Sentimento do dia:
+![Alt Text](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2ttN2xuYmZ6N3lub2wzeGhyOWlkOXF2amZuem1scDlxZm52ZXNxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tXL4FHPSnVJ0A/giphy.webp)
