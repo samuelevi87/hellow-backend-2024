@@ -69,4 +69,19 @@ De conhecer o ponto e virgula.
 
 ### Sentimento do dia:
 ![Alt Text](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnVycjEzODB3c3Y0OGo4YWN2ejN5Ynp3N3IxYmVyMmd5cTZxc3V6dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/135Bh75GkIjblm/200.webp)
+
 Eu indo come o lanche
+# Diário de Bordo - [Hellow 2024/Trilha DEV Backend]
+
+## Data: [06-06-2024]
+
+### O que aprendi hoje:
+Estrutura de repetição.
+### O que achei mais difícil:
+O conteúdo visto no dia.
+
+### O que mais gostei:
+Do lanche.
+
+### Sentimento do dia:
+![Alt Text](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWhhdXRreDUza2Mxb3R5aGpqNnF1YXJsdjdnMDVvMWl0djhhZXNlNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11uoNyauChZR16/giphy.webp)
