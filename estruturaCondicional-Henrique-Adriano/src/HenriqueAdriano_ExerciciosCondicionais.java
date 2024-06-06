@@ -43,7 +43,7 @@ public class HenriqueAdriano_ExerciciosCondicionais {
         String estacao;
         Scanner entrada = new Scanner(System.in);
 
-        System.out.println("Qual é a estação do ano?(Verão/Inverno/Outono/Primavera");
+        System.out.println("Qual é a estação do ano?(Verão/Inverno/Outono/Primavera)");
         estacao = entrada.nextLine().toLowerCase();
 
         if (estacao.equals("verão")){
@@ -157,10 +157,10 @@ public class HenriqueAdriano_ExerciciosCondicionais {
         String artistaFav;
         Scanner entrada = new Scanner(System.in);
 
-        System.out.println("Qual desses é seu artista favorito?(Eminem/Michael Jackson/Bruno Mars/Justin Bieber");
+        System.out.println("Qual desses é seu artista favorito?(Eminem/Michael Jackson/Bruno Mars/Justin Bieber)");
         artistaFav = entrada.nextLine().toLowerCase();
 
-        if (artistaFav.equals("emine")){
+        if (artistaFav.equals("eminem")){
             System.out.println("Escute:Rap god, godzilla e Lose Yourself");
 
         }else if (artistaFav.equals("michael jackson")){

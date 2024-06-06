@@ -108,3 +108,19 @@ Eu gostei das questões e da dificuldade.
 ### Sentimento do dia:
 ![Alt Text](https://media.giphy.com/media/11ezOCtJ7Eetri/giphy.gif?cid=790b7611kdyvmsww6ux7zc59un5k12ulxvr3nicjf8koh3br&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 ---
+
+## Data: [06-06-2024]
+
+### O que aprendi hoje:
+Hoje eu aprendi outros meios de mecher com java pelo navegador do google
+
+### O que achei mais difícil:
+Nada de mais
+
+### O que mais gostei:
+Os sites de programa java no google
+
+### Sentimento do dia:
+![Alt Text](https://media.giphy.com/media/5K7ngCtszoxxbaBieC/giphy.gif?cid=82a1493baxyix2jztqsssc7d5vnvuktqmuuidg547hvgskac&ep=v1_gifs_trending&rid=giphy.gif&ct=g)
+
+---
