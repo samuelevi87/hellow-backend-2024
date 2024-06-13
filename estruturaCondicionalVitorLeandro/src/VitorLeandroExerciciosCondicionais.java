@@ -64,17 +64,6 @@ public class VitorLeandroExerciciosCondicionais {
         entrada.close();
 
     }
-
-
-
-
-
-
-
-
-
-
-
     /**
      * A Máquina de Doces: Fornece um doce se a senha correta "abracadabra" for inserida.
      * Caso contrário, mostra uma mensagem de erro.
@@ -116,6 +105,7 @@ public class VitorLeandroExerciciosCondicionais {
      * Direita leva a um rio cristalino e esquerda a um campo florido.
      */
     public static void escolhaDoCaminho() {
+        
 
     }
 

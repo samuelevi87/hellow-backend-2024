@@ -103,3 +103,34 @@ fazer os exercicios
 começar a fazer os exercicios
 ### Sentimento do dia:
 ![animados](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHZseDc4aGo0ZnI5cWJvYWpzZXloaTc3c2JncnJ3bWNkYW13a2VlbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B4dt6rXq6nABilHTYM/giphy.gif)
+
+## Data: [06-06-2024]
+
+### O que aprendi hoje:
+estrutura de repetição 
+
+### O que achei mais difícil:
+fazer os exercicios
+### O que mais gostei:
+dos exercicios
+### Sentimento do dia:
+![animados](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHZseDc4aGo0ZnI5cWJvYWpzZXloaTc3c2JncnJ3bWNkYW13a2VlbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B4dt6rXq6nABilHTYM/giphy.gif)
+
+## Data: [06-06-2024]
+
+### O que aprendi hoje:
+estrutura de repetição
+
+### O que achei mais difícil:
+nao tive dificuldades
+### O que mais gostei:
+do jogo que tinha como base o minecraft
+### Sentimento do dia:
+![animados](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2JsNTQxZDdsM2lkd2JrN2RmMTM5bTF0Y2dpZXkxcWRrMWhqdjQzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o0vwzuFwCGAFO/giphy.webp)!
+
+
+![certificado](Certificado.jpg)
+ 
+
+ fase que mais gostei
+ ![Alt text](image.png)
