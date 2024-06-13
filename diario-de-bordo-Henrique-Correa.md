@@ -124,3 +124,23 @@ Os sites de programa java no google
 ![Alt Text](https://media.giphy.com/media/5K7ngCtszoxxbaBieC/giphy.gif?cid=82a1493baxyix2jztqsssc7d5vnvuktqmuuidg547hvgskac&ep=v1_gifs_trending&rid=giphy.gif&ct=g)
 
 ---
+## Data: [13-06-2024]
+
+### O que aprendi hoje:
+Hoje eu aprendi sobre estruturas de repetição
+
+### O que achei mais difícil:
+fazer os comandos no site que o professor mandou
+
+### O que mais gostei:
+O site que tinha o tema de minecraft
+
+### Sentimento do dia:
+![Alt Text](https://media.giphy.com/media/D2hncA3u88gmeCFeoh/giphy.gif?cid=790b7611gn4bc1iwh1xeqsxdxu5v1a85ggfq3qmrwo3u7x9l&ep=v1_gifs_trending&rid=giphy.gif&ct=g)
+
+### Certificado
+![Alt text](Certificado.jpg)
+
+### Print da fase
+![Alt text](image.png)
+---
