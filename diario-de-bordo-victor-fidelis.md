@@ -106,5 +106,10 @@ nãoa achei difícil
 do jogo do Minecraft
 
 ### Sentimento do dia:
+![](https://media0.giphy.com/media/3NtY188QaxDdC/giphy.webp?cid=790b7611bfv1poopf5z6g7pzu32x9bcjp2c5npudhzwxzbq5&ep=v1_gifs_trending&rid=giphy.webp&ct=g)  
+
+
+### Certificado
 ![Alt text](Certificado-1.jpg)
+### Fase que eu gostei
 ![Alt text](image-1.png)
