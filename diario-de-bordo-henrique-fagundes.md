@@ -98,7 +98,11 @@ Gostei dos sites que o professor mostrou.
 ### O que aprendi hoje:
 Fizemos uma atividade de programação em blocos, baseado no jogo Minecraft.
 
+Certificado:
+
 ![certificado](image.png) 
+
+Fase 12 do jogo.
 
 ![fase](image-2.png)
 
