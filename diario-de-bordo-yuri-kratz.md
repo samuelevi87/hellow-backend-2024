@@ -140,4 +140,4 @@ a fase 12 do jogo que foi proposto.
 o jogo que foi proposto, que nos permite jogar mine atraves  de comandos
 ### Sentimento do dia:
 ![Alt Text](https://media1.giphy.com/media/13hxeOYjoTWtK8/giphy.webp?cid=790b761194bhb58gspy0s0g36yu98lo54qkd9h9vurm5ighv&ep=v1_gifs_trending&rid=giphy.webp&ct=g)
-![Alt text](certificado.jpg)
+![Alt text](certificado.jpg)!![Alt text](Capturar.PNG)
