@@ -100,7 +100,7 @@ De aprender como funciona do jogo do professor
 ### Sentimento do dia:
 ![Alt Text](https://media.tenor.com/ps311yAl4_wAAAAi/thinks-%D0%B4%D1%83%D0%BC%D0%B0%D0%B5%D1%82.gif)
 
---
+---
 # Diário de Bordo - [Hellow 2024/Trilha DEV Backend]
 
 ## Data: [23-05-2024]
@@ -114,5 +114,26 @@ Eu gostei mais de tentar aprender a fazer as atividades
 ### Sentimento do dia:
 ![Alt Text](https://media1.tenor.com/m/ZqtBzVG0cnAAAAAC/dk-very-hard.gif)
 
+---
+# Diário de Bordo - [Hellow 2024/Trilha DEV Backend]
+
+## Data: [13-06-2024]
+
+### O que aprendi hoje:
+A ''programar'' pelo jogo do minecraft, usei o if e os comandos de bloco.
+### O que achei mais difícil:
+Fazer as fases em 100%, complicado.
+
+### O que mais gostei:
+De programar o trageto do pesonagem do jogo
+
+### Sentimento do dia:
+![Alt Text](https://media1.tenor.com/m/Kq_bAI7JRDkAAAAC/byuntear-cat.gif)
+
+![Alt text](Davi_Bauer.jpg)
+
+![Alt text](download.png)
+
+![Alt text](Capturar.PNG)
 ---
 
