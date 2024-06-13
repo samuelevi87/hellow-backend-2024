@@ -90,3 +90,27 @@ Que eu estava conseguindo fazer os exercícios.
 
 ### Sentimento do dia:
 ![Confusa](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzd4dDl0M201OTZyd2tjdmJsd2l5NGdxazIxbjF4OXZlNHZ4cDFhbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uVtAU2EKHrsgifowFb/giphy.gif)
+
+
+---
+## Data: [13-06-2024]
+
+### O que aprendi hoje:
+Fizemos uma atividade avaliativa exercicios de condicionais.
+
+### O que achei mais difícil:
+Eu achei um pouco difícil no começo, mas depois fui entendendo e foi fluindo as coisas na minha cabeça.
+
+### O que mais gostei:
+Que a gente teve uma atividade avaliativa bem divertida.
+
+### Sentimento do dia:
+![Relaxada](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExam9xZDR2dGE4MXV1NWE3YmIwbG9qcmE1YmFhcGlmdm1oY2hidHVzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pE3I3tp9FnwsZuUhXv/giphy.webp)
+
+### Certificado 
+![Alt text](Certificado.jpg)
+
+
+### Fase que eu gostei
+![Alt text](image.png)
+
