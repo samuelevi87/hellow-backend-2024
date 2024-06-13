@@ -101,3 +101,19 @@ Jogar o jogo que o professor fez
 ![Cansado](https://media.giphy.com/media/10PaIQMR3HH3fq/giphy.gif?cid=790b76118ssxdz0n82vwkmxdbzsuxhavmrvuxujw080unebg&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 ---
+
+## Data: [23-05-2024]
+
+### O que aprendi hoje:
+nada que eu saiba
+
+### O que achei mais difícil:
+Continuar a atividade do estruturas condicionais
+
+### O que mais gostei:
+Comer o lanche
+
+### Sentimento do dia:
+![Triste](https://media.giphy.com/media/cfuL5gqFDreXxkWQ4o/giphy.gif?cid=ecf05e47azek2fyyq0pz3j0acoxb6y2nruwj1fujgicfxig4&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
+---

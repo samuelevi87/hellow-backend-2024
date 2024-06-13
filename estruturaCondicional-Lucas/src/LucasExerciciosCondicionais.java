@@ -132,10 +132,16 @@ public class LucasExerciciosCondicionais {
         public static void sorveteRefrescante () {
         String sorvete;
         Scanner entrada = new Scanner(System.in);
+
             System.out.println("Qual o sabor de sorvete");
             sorvete = entrada.nextLine().toLowerCase();
 
-            if (sorvete.equals("chocolate")
+            if (sorvete.equals("chocolate")){
+                System.out.println("Esse é meu sabor preferido");
+
+            } else if (sorvete.equals("Morango")){
+                System.out.println("Não gosto desse sabor");
+            }entrada.close();
         }
 
         /**

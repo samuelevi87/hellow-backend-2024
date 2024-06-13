@@ -117,3 +117,43 @@ Comer o lanche
 ![Triste](https://media.giphy.com/media/cfuL5gqFDreXxkWQ4o/giphy.gif?cid=ecf05e47azek2fyyq0pz3j0acoxb6y2nruwj1fujgicfxig4&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 ---
+
+## Data: [06-06-2024]
+
+### O que aprendi hoje:
+Utilizar o codigo for
+
+### O que achei mais difícil:
+Utilizar o codigo for
+
+### O que mais gostei:
+Utilizar o codigo for
+
+### Sentimento do dia:
+![Animado](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTl4eTdxaHZ2eW83dWtpemZoZXVtdWR6enhvbno4ZTRzZmV0M3JtbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MDJ9IbxxvDUQM/giphy.gif)
+
+
+---
+
+## Data: [13-06-2024]
+
+### O que aprendi hoje:
+Nada
+
+### O que achei mais difícil:
+Jogar minecraft
+
+### O que mais gostei:
+Jogar minecraft
+
+### Sentimento do dia:
+![Cansado](https://media.giphy.com/media/dT7LBdAZP1Rh6/giphy.gif?cid=ecf05e47ubke1eceh27x32578sp9ntf8zj7taeqvoyd8ib4w&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
+### Certificado
+![Alt text](Certificado-1.jpg)
+
+### Print da fase
+![Alt text](image.png)
+
+
+---
