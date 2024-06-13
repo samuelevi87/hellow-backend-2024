@@ -87,3 +87,22 @@
 
 ### Sentimento do dia:
 ![Alt Text](https://media3.giphy.com/media/NfzERYyiWcXU4/200.webp?cid=ecf05e47k7d735d15l3y60msqt36gbjajhbsogoeeso9rg5k&ep=v1_gifs_search&rid=200.webp&ct=g)
+
+---
+
+# Diário de Bordo - [Hellow 2024/Trilha DEV Backend]
+
+## Data: [13/06/2024]
+
+### O que aprendi hoje:
+**Bagulho do minecraft**
+
+### O que achei mais difícil:
+**jogar e entender os comandos**
+
+### O que mais gostei:
+**De jogar**
+
+### Sentimento do dia:
+![Alt Text](https://media2.giphy.com/media/aC9bhPHeR4x7HGAWOB/giphy.webp?cid=790b7611dn8eullv2enpjc7ydwqs0jyp4ce12k0r03g3o13u&ep=v1_gifs_search&rid=giphy.webp&ct=g)
+![Alt text](<certificado jojo-1-1.jpg>)
