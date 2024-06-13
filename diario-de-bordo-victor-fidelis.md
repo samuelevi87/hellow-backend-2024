@@ -79,4 +79,32 @@ do jogo que o professor criou
 ### Sentimento do dia:
 ![feliz](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG1nd3RxY3BucGxzajQ1bHJ2MHo5emFybDZ2aWZjM2luOXYyNXJraiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMHxhOfscxPfIfm/giphy.gifsssssss)
 
+# Data: [16-05-2024]
+
+### O que aprendi hoje:
+existem sites no google para treinar java
+
+### O que achei mais difícil:
+entender
+
+### O que mais gostei:
+jogar
+
+### Sentimento do dia:
+(![Alt text](image.png))
+
+# Data: [16-05-2024]
+
+### O que aprendi hoje:
+a usar comandos no jogo do minecraft
+
+
+### O que achei mais difícil:
+nãoa achei difícil
+
+### O que mais gostei:
+do jogo do Minecraft
+
+### Sentimento do dia:
+![Alt text](Certificado-1.jpg)
 
