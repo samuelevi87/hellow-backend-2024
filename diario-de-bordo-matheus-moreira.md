@@ -125,12 +125,17 @@ Eu gostei de fazer a estrutura de repetição
 ## Data: [13-06-2024]
 
 ### O que aprendi hoje:
-Hoje nós jogamos um tipo de minecreft 2D que tinha que colocar comandos para ele sair do lugar. 
+Hoje nós jogamos um tipo de Minecreft 2D que tinha que colocar comandos para ele sair do lugar. 
 
 ### O que achei mais difícil:
 Eu achei difício de fazer os comandos, por que se vc desviasse a atenção tinha que procurar onde vc tava ai ficava mais complicado.
 ### O que mais gostei:
-Foi de jogar o
+Foi de jogar o Minecreft
 
 ### Sentimento do dia:
+
+### Certificado
+![Alt text](Certificado.jpg)
+
+### Fase que eu mais gostei
 ![Alt Text](![Alt text](image.png))
