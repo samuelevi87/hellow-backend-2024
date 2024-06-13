@@ -132,6 +132,18 @@ public class JoaoBressaniniExerciciosCondicionais {
      * O Sorvete Refrescante: Escolhe o sabor do sorvete com base no sabor favorito de uma amiga.
      */
     public static void sorveteRefrescante() {
+        String sorvete;
+        Scanner entrada = new Scanner(System.in);
+        System.out.println("Escolha um sabor de sorvete!");
+        sorvete = entrada.nextLine().toLowerCase();
+
+        if (sorvete.equals("chocolate"));{
+        System.out.println("Otima escolha, esse é o meu favorito!");
+
+        ] else if {
+                System.out.println("Esse sabor é muito bom!");
+            }entrada.close();
+            }
 
     }
 

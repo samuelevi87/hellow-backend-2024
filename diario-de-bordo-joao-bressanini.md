@@ -112,3 +112,39 @@ De fazer os codigos.
 ![Alt Text](https://media.giphy.com/media/BPJmthQ3YRwD6QqcVD/giphy.gif?cid=82a1493bk6crgj59nfgdxj3d3q4glwac8w0xt2a4djixqd6f&ep=v1_gifs_trending&rid=giphy.gif&ct=g)
 
 ---
+
+## Data: [06-06-2024]
+
+### O que aprendi hoje:
+Utiliização de for.
+
+### O que achei mais difícil:
+Entender os codigos novos.
+
+### O que mais gostei:
+De fazer os codigos e ver o seus resultados.
+
+### Sentimento do dia:
+![Alt Text](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDBiZDNvdmh0c2wzbHRxb3pxdDV5eWhrdDgweXhsd3J1NW15bWF1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/51Uiuy5QBZNkoF3b2Z/giphy.webp)
+
+---
+
+## Data: [13-06-2024]
+
+### O que aprendi hoje:
+Utiliização de for.
+
+### O que achei mais difícil:
+Entender os codigos novos.
+
+### O que mais gostei:
+De fazer os codigos e ver o seus resultados.
+
+### Sentimento do dia:
+![Alt Text]()
+
+### Certificado
+![Alt text](Certificado.jpg)
+
+### Print da fase
+![Alt text](image.png)

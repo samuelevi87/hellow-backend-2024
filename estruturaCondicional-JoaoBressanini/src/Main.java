@@ -1,4 +1,4 @@
 public class Main {
-    public static void main(String[] args) { JoaoBressaniniExerciciosCondicionais.escolhaDoCaminho();
+    public static void main(String[] args) { JoaoBressaniniExerciciosCondicionais.sorveteRefrescante();
     }
 }
