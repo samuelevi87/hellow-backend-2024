@@ -155,7 +155,7 @@ Compartilhe o que você mais gostou na aula de hoje. Isso pode ser um tópico es
 Da parte da pratica.
 
 ### Sentimento do dia:
-![Alt Text](URL_DO_GIF)
+![Alt Text](https://media1.tenor.com/m/GtOqsJRA0hcAAAAd/dog-cheese.gif)
 Escolha um GIF que melhor represente seu sentimento sobre a aula de hoje. Você pode usar sites como Giphy para encontrar o GIF perfeito.
 
 ![Alt text](certificado.jpg)
