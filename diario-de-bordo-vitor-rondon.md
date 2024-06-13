@@ -103,3 +103,39 @@ sobre os exercicios
 
 ### Sentimento do dia:
 ![Alt Text](https://media1.tenor.com/m/nOk_9bJl81UAAAAd/baloto-concert-sonohara.gif)
+---
+## Data: [06-06-2024]
+
+### O que aprendi hoje:
+fizemos mais exercicios 
+
+### O que achei mais difícil:
+nada
+
+### O que mais gostei:
+dos exercicios
+
+### Sentimento do dia:
+![Alt Text](https://media1.tenor.com/m/DFfCL02_DCcAAAAC/cat-look.gif)
+
+---
+## Data: [13-06-2024]
+
+### O que aprendi hoje:
+jogamos minecraft de uma forma diferente mas legal
+
+### O que achei mais difícil:
+so me confundia na hora de fazer o caminho do personagem
+
+### O que mais gostei:
+de jogar minecraft diferente
+
+### Sentimento do dia:
+![Alt Text](https://media1.tenor.com/m/3sifdBV4fRsAAAAd/cat-edit.gif)
+
+### Certificado
+
+![Alt text](<VITOR R.jpg>)
+
+### Print da Fase
+![Alt text](image.png)
