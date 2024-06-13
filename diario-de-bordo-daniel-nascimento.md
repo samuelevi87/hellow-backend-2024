@@ -99,3 +99,30 @@ Fazer as atividadesdo java.
 
 ### Sentimento do dia:
 ![Bem](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWpzMDJsNGNsNTE0dHo2Z2Y3NXFiZnBybWF2ZzZwajNxamhtOHhkbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aczOIF52jzswwKKTfE/giphy.gif)
+
+  ## Data: [06-06-2024]
+
+### O que aprendi hoje:
+ Hoje relembramos a estrutura de repetição e fizemos compiladores de java oline.
+### O que achei mais difícil:
+nada.
+
+### O que mais gostei:
+Eu gostei de fazer a estrutura de repetição.
+
+### Sentimento do dia:
+![Alt Text](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHc0ZG5yMW83Mms1MmEwbnZyM2x4cmFva3M3anV1YnQweGw4NHRyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bTzFnjHPuVvva/giphy.webp)
+
+## Data: [13-06-2024]
+
+### O que aprendi hoje:
+Hoje jogamos um jogo com comandos dentro dele.
+
+### O que achei mais difícil:
+nada.
+
+### O que mais gostei:
+De jogar o jogo.
+
+### Sentimento do dia:
+![animado](![Alt text](image.png))
