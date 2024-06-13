@@ -127,3 +127,17 @@ jogos que nos fazem pensar fora da caixa.
 ### Sentimento do dia:
 ![Alt Text](https://media2.giphy.com/media/3ndAvMC5LFPNMCzq7m/giphy.webp?cid=82a1493byau2yu449ksf28y9jq6859khhdy1lcbq0wsntop5&ep=v1_gifs_trending&rid=giphy.webp&ct=g)
 
+--
+
+## Data: [13-06-2024]
+
+### O que  aprendi hoje:
+estruturas de progamação
+
+### O que achei mais difícil:
+a fase 12 do jogo que foi proposto.
+### O que mais gostei:
+o jogo que foi proposto, que nos permite jogar mine atraves  de comandos
+### Sentimento do dia:
+![Alt Text](https://media1.giphy.com/media/13hxeOYjoTWtK8/giphy.webp?cid=790b761194bhb58gspy0s0g36yu98lo54qkd9h9vurm5ighv&ep=v1_gifs_trending&rid=giphy.webp&ct=g)
+![Alt text](certificado.jpg)
