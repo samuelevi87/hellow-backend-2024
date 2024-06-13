@@ -105,6 +105,8 @@ O que mais gostei foi aprender usando o jogo.
 ### Sentimento do dia:
 ![Alt Text](https://media.giphy.com/media/PLS2FRu2YTsIw/giphy.gif?cid=790b7611wxsgz03tdx109b3mc61uk4kcnrsg6r4emzzgpxmx&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
+### Certificado
 ![Alt text](certificado.jpg)
 
+### Fase
 ![Alt text](Fase.PNG)
