@@ -144,6 +144,8 @@ tudo
 ### Sentimento do dia:
 ![Alt Text](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnh0ajVvNjV5OWtwdG93NWhoZWJya2lxODcwMGdwZDF4YXN4NDh4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEduXKKfBX6PPLiGQ/giphy.webp)
 
+![Alt text](print.PNG)
+
 ![Alt text](certificado.jpg)
 
 ---
