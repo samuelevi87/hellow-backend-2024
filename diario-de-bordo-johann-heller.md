@@ -105,4 +105,4 @@
 
 ### Sentimento do dia:
 ![Alt Text](https://media2.giphy.com/media/aC9bhPHeR4x7HGAWOB/giphy.webp?cid=790b7611dn8eullv2enpjc7ydwqs0jyp4ce12k0r03g3o13u&ep=v1_gifs_search&rid=giphy.webp&ct=g)
-![Alt text](<certificado jojo-1-1.jpg>)
+![Alt text](image.png)![Alt text](<certificado jojo-1.jpg>)
