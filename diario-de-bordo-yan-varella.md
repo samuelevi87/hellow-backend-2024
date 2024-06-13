@@ -91,4 +91,20 @@ O que mais gostei foi do RPG de texto, um ótimo jeito de nos apresentar ao assu
 ### Sentimento do dia:
 ![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXl1djg3NzNoeGRkYmsxNDMzeHd2Z2lza2p5b3J0NjFyejFjN2U5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wFYec89PodTG0/giphy.gif)
 
+---
+## Data: [13-06-2024]
 
+### O que aprendi hoje:
+Hoje aprendi mais conteitos de programação usando um jogo do minecraft
+
+### O que achei mais difícil:
+Foi fazer 100% de algumas fases do jogo.
+### O que mais gostei:
+O que mais gostei foi aprender usando o jogo.
+
+### Sentimento do dia:
+![Alt Text](https://media.giphy.com/media/PLS2FRu2YTsIw/giphy.gif?cid=790b7611wxsgz03tdx109b3mc61uk4kcnrsg6r4emzzgpxmx&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
+![Alt text](certificado.jpg)
+
+![Alt text](Fase.PNG)
