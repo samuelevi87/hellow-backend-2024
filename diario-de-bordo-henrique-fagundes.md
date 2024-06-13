@@ -93,6 +93,25 @@ Gostei dos sites que o professor mostrou.
 ![cat](https://media1.tenor.com/m/bQCHJwgCNuMAAAAC/kitten-cat.gif)
 
 ---
+## Data: [13-06-2024]
+
+### O que aprendi hoje:
+Fizemos uma atividade de programação em blocos, baseado no jogo Minecraft.
+
+![certificado](image.png) 
+
+![fase](image-2.png)
+
+### O que achei mais difícil:
+Não tive dificuldades com a atividade.
+
+### O que mais gostei:
+Gostei de pensar na forma mais eficiente de chegar ao final da fase.
+
+### Sentimento do dia:
+![stupid minecraft gif](https://media1.tenor.com/m/8MfhUrEstOgAAAAd/stupid-minecraft.gif)
+
+---
 
 ## Data: [DD-MM-AAAA]
 
