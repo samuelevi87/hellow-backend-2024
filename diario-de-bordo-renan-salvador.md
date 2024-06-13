@@ -101,3 +101,39 @@ De fazer os Exercicios JAVA
 ### Sentimento do dia:
 ![Ajudante](https://media1.tenor.com/m/gieF0Q0PSogAAAAd/clippy.gif)
 Escolha um GIF que melhor represente seu sentimento sobre a aula de hoje. Você pode usar sites como Giphy para encontrar o GIF perfeito.
+
+--------
+## Data: [06/06/2024]
+
+### O que aprendi hoje:
+While for.
+### O que achei mais difícil:
+Não teve nada de muito dificil, apenas
+
+### O que mais gostei:
+Comer.
+
+### Sentimento do dia:
+![Jogadors](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazBlOXdpbmtoeTB3YnoyZG1pNDdiN2pleGJ4MzZha2RxNmYxZmlybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wmnZWMAosApVK/giphy.webp)
+
+
+-------
+
+ Data: [13/06/2024]
+
+### O que aprendi hoje:
+Estruturas condicionais e de repetições!
+
+### O que achei mais difícil:
+Na aula de hoje oque eu achei mais dificil o exercicio 8.
+
+### O que mais gostei:
+
+
+### Sentimento do dia:
+![Feliz](https://media1.tenor.com/m/j-fJIMrTe2EAAAAC/happy-cat.gif)
+
+
+![Alt text](Certificado.jpg)
+
+![Alt text](image-1.png)
