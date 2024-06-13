@@ -146,7 +146,8 @@
 ### Sentimento do dia:
 ![Alt Text](https://media1.giphy.com/media/SlKgSp3hNaAm2gOgQJ/giphy.webp?cid=ecf05e47io7ks52mbnomz6plhg7qtpx9ui8st7w8v407tjkr&ep=v1_gifs_search&rid=giphy.webp&ct=g)
 
-
+### Certificado
 ![Alt text](Certificado.jpg)
-
+### Fase que eu mais gostei
+![Alt text](image.png)
 ---
