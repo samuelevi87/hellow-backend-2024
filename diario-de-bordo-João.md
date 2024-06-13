@@ -142,7 +142,7 @@ nada
 tudo
 
 ### Sentimento do dia:
-![Alt Text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzBuMjd0NnkyaHpzc3Eyb3djb2hybHRxemM1djhsNXNtbjZjd215bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT77Y8eeEhBA8NQwLK/giphy.gif)
+![Alt Text](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnh0ajVvNjV5OWtwdG93NWhoZWJya2lxODcwMGdwZDF4YXN4NDh4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEduXKKfBX6PPLiGQ/giphy.webp)
 
 ![Alt text](certificado.jpg)
 
