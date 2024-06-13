@@ -247,6 +247,20 @@ public class JezreelExerciciosCondicionais {
      * O Animal Falante: Interage com diferentes animais falantes e descobre suas mensagens.
      */
     public static void animalFalante() {
+        String animal;
+        Scanner entrada = new Scanner(System.in);
+        System.out.println("Qual é o animal falantes que está na floresta?");
+        animal = entrada.nextLine().toLowerCase();
 
+        if (animal.equals("papagaio")) {
+            System.out.println("Ele te conta piadas engraçadas para te fazer rir até a barriga doer");
+        } else if (animal.equals("macaco")) {
+            System.out.println("Ele te ensinará a escalar as árvores mais altas da floresta com maestria.");
+        } else if (animal.equals("elefante")) {
+            System.out.println("Ele te levará para um passeio inesquecível em suas costas, mostrando as maravilhas da floresta.");
+        } else {
+            System.out.println("Animal inválido. Tente novamente!");
+            animalFalante();
+        } entrada.close();
     }
 }
