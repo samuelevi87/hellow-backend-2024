@@ -75,28 +75,3 @@ A parte das perguntas que o prof passou
 ### Sentimento do dia:
 ![Alt Text](https://media1.tenor.com/m/PQ0j-WG-UdQAAAAC/easy.gif)
 Escolha um GIF que melhor represente seu sentimento sobre a aula de hoje. Você pode usar sites como Giphy para encontrar o GIF perfeito.
-
-
----
-
-
-## Data: [13/06/24]
-
-### O que aprendi hoje:
-Sobre os comandos para passar no jogo do mine
-
-### O que achei mais difícil:
-Nao achei nada dificil
-
-### O que mais gostei:
-Das fases do jogo
-### Sentimento do dia:
-![Alt Text](https://media1.tenor.com/m/4jSFH4ktsHsAAAAC/dog-spin-spinning-dog.gif)
-Escolha um GIF que melhor represente seu sentimento sobre a aula de hoje. Você pode usar sites como Giphy para encontrar o GIF perfeito.
-
-### Certificado
-![Alt text](certificado.jpg)
-
-### Print da Fase
-![Alt text](image.png)
----
