@@ -120,3 +120,17 @@ Eu gostei de fazer a estrutura de repetição
 
 ### Sentimento do dia:
 ![Alt Text](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2ttN2xuYmZ6N3lub2wzeGhyOWlkOXF2amZuem1scDlxZm52ZXNxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tXL4FHPSnVJ0A/giphy.webp)
+
+
+## Data: [13-06-2024]
+
+### O que aprendi hoje:
+Hoje nós jogamos um tipo de minecreft 2D que tinha que colocar comandos para ele sair do lugar. 
+
+### O que achei mais difícil:
+Eu achei difício de fazer os comandos, por que se vc desviasse a atenção tinha que procurar onde vc tava ai ficava mais complicado.
+### O que mais gostei:
+Foi de jogar o
+
+### Sentimento do dia:
+![Alt Text](![Alt text](image.png))
