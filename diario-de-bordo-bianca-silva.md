@@ -120,3 +120,24 @@ De saber que existe copiladores online.
 ![Alt Text](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2djeXMydjhqY3h2czU3d3BtMHdud3hxNzVpZjAwdzB6M3JndjZheCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WtOkaikiwaR87ZvAFH/giphy.webp)
 
 ---
+## Data: [13-06-2024]
+
+### O que aprendi hoje:
+Fizemos uma atividade avaliativa sobre estruturas condicionais e estruturas de repetição atravez de um jogo .
+
+### O que achei mais difícil:
+algumas fases do joguinho 
+
+### O que mais gostei:
+Que consegui terminar o joguinho 
+
+### Sentimento do dia:
+![Alt Text](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZndwbnNieW0zZmJxMXpoM20yaG03dGEycHRkbXlubTliNGQwb3UzZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J546wv1ja2LkrAwRBm/giphy.webp)
+
+### Certificado
+![Alt text](Certificado.jpg)
+
+### Fase Que eu gostei
+![Alt text](image-3.png)
+
+---
