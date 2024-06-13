@@ -158,6 +158,8 @@ Da parte da pratica.
 ![Alt Text](https://media1.tenor.com/m/GtOqsJRA0hcAAAAd/dog-cheese.gif)
 Escolha um GIF que melhor represente seu sentimento sobre a aula de hoje. Você pode usar sites como Giphy para encontrar o GIF perfeito.
 
+### Certificado
+
 ![Alt text](certificado.jpg)
 ![Alt text](MelhorFase.png)
 ---
