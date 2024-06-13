@@ -125,4 +125,9 @@ nada.
 De jogar o jogo.
 
 ### Sentimento do dia:
+
+### Certificado
+![Alt text](Certificado.jpg)
+
+### Fase que eu gostei
 ![animado](![Alt text](image.png))
