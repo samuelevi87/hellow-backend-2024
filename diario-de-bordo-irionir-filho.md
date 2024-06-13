@@ -44,6 +44,7 @@ oque eu gostei foi de criar um jogo achei muito maneiro e daora
 ### Sentimento do dia:
 ![](https://media1.tenor.com/m/8-GuLDkwPegAAAAd/friends-friends-tv.gif)
 Escolha um GIF que melhor represente seu sentimento sobre a aula de hoje. Você pode usar sites como Giphy para encontrar o GIF perfeito.
+---
 
 # Diário de Bordo - [Hellow 2024/Trilha DEV Backend]
 
@@ -59,5 +60,42 @@ foi manda a lista
 depois quando peguei o jeito dos exercicios de java eu gostei.
 
 ### Sentimento do dia:
-![](https://media1.tenor.com/m/8-GuLDkwPegAAAAd/friends-friends-tv.gif)
+![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWlmcnl1enpjbjlrdnVoMHFxNXljanlqNjZueTBxYmV2NTU5dGJmdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nqkoLk8OP7eazzqdoS/giphy.webp)
 Escolha um GIF que melhor represente seu sentimento sobre a aula de hoje. Você pode usar sites como Giphy para encontrar o GIF perfeito.
+---
+
+# Diário de Bordo - [Hellow 2024/Trilha DEV Backend]
+
+## Data: [06/06/24]
+
+### O que aprendi hoje:
+hoje nos relembramos os exercicios do java
+
+### O que achei mais difícil:
+alguns comandos que eu esqueci
+
+### O que mais gostei:
+de quando eu lembrei os comandos esquecidos
+
+### Sentimento do dia:
+![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjBwY2Zlb3lnZ24wNGRzbDl5Z3FlMnptMGN0cXkwY2xxcjlnN2VtMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/smJvclZIo9sE6spgHa/200w.webp)
+Escolha um GIF que melhor represente seu sentimento sobre a aula de hoje. Você pode usar sites como Giphy para encontrar o GIF perfeito.
+---
+
+# Diário de Bordo - [Hellow 2024/Trilha DEV Backend]
+
+## Data: [13/06/24]
+
+### O que aprendi hoje:
+hoje fizemos de volta oa estruturas de repetição
+
+### O que achei mais difícil:
+nada.
+### O que mais gostei:
+dos exercicios que foram de minecraft.
+
+### Sentimento do dia:
+![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTY1NXhqcnZseGZhaHc5bzlzN25hdmFsa2p3eG0zNWNoMmJreWRoeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/D2hncA3u88gmeCFeoh/giphy.webp)
+Escolha um GIF que melhor represente seu sentimento sobre a aula de hoje. Você pode usar sites como Giphy para encontrar o GIF perfeito.
+### Certificado
+![Alt text](certificado.jpg)
