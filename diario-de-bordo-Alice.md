@@ -110,3 +110,21 @@ De reforçar que me ajudou muito e de saber q existem outros copiladores olines.
 
 
 ---
+## Data: [13-06-2024]
+
+### O que aprendi hoje:
+Fizemos uma atividade avaliativa sobre as estruturas condiciomais e estruturas de repetição
+
+### O que achei mais difícil:
+Algumas fases que tinha que colocar menos blocos 
+### O que mais gostei:
+Do jogo em si(bem divertido).
+
+### Sentimento do dia:
+![Alt Text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDdtNzdwbHR1a2dhaHM5ZHNzZmVqNngxMGk0YzNoeHFzdXBldHFvMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hqTguNdEoA1ooYxeog/giphy.webp)
+
+### Certificado
+![Alt text](<Certificado correto.jpg>)
+### Fase que eu mais gostei
+![](image-2.png)
+---
