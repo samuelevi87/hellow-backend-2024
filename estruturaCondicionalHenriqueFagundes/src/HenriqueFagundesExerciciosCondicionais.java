@@ -133,7 +133,7 @@ public class HenriqueFagundesExerciciosCondicionais {
         }else if (sorveteFavorito.equals("limao")){
             System.out.println("Você divide um sabor cítrico com sua amiga.");
         }else{
-            System.out.println("Este sabor não está disponível.");
+            System.out.println("Este sabor não existe.");
         }
         entrada.close();
     }
