@@ -123,3 +123,39 @@ comer.
 ### Sentimento do dia:
 eu comendo pão com queijo derretido:
 ![satisfeito.](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDh1dHMyeTd3NXk5MXphYTNjMWVkbmR1ZDFkcG80bWJiazQwZTk0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3osxY7eI6enqNBo2mQ/giphy.gif)
+
+## Data: [6-06-2024]
+
+### O que aprendi hoje:
+alguns exercicios apenas
+
+
+### O que achei mais difícil:
+fazer os exercícios.
+
+### O que mais gostei:
+comer.
+
+### Sentimento do dia:
+eu comendo pão com queijo derretido:
+![satisfeito.](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDh1dHMyeTd3NXk5MXphYTNjMWVkbmR1ZDFkcG80bWJiazQwZTk0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3osxY7eI6enqNBo2mQ/giphy.gif)
+
+## Data: [13-05-2024]
+
+### O que aprendi hoje:
+programar no minecraft
+
+
+### O que achei mais difícil:
+exercício 8.
+
+### O que mais gostei:
+comer.
+
+### Sentimento do dia:
+
+![satisfeito.](https://media1.tenor.com/m/hOVmBHnAAVMAAAAd/potatol0ver-formerferal.gif)
+
+![Alt text](Certificado.jpg)
+
+![Alt text](image.png)
