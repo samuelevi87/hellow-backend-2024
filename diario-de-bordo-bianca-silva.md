@@ -141,3 +141,23 @@ Que consegui terminar o joguinho
 ![Alt text](image-3.png)
 
 ---
+## Data: [20-06-2024]
+
+### O que aprendi hoje:
+Apredemos sobre Banco de Dados e fizemo alguns exercícios.
+
+### O que achei mais difícil:
+Alguns exercícios.
+
+### O que mais gostei:
+Que fiz vários exercícos sem o auxilio do professor .
+
+### Exercicios do dia
+![Alt text](image-4.png)
+
+![Alt text](image-6.png)
+
+### Sentimento do dia:
+![Alt Text](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnRtZzdtMzZmcHFscm1ydm1yenpmZmJvaXJocWczaXVpMGxmeHc1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7abKhOpu0NwenH3O/giphy.webp)
+
+---
