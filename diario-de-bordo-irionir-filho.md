@@ -100,3 +100,26 @@ Escolha um GIF que melhor represente seu sentimento sobre a aula de hoje. Você 
 ### Certificado
 ![Alt text](certificado.jpg)
 ![Alt text](MelhorFase.png)
+
+----------
+
+
+![Alt text](image.png)
+
+# Diário de Bordo - [Hellow 2024/Trilha DEV Backend]
+
+## Data: [20/06/24]
+
+### O que aprendi hoje:
+hoje eu aprendi sobre banco de dados.
+### O que achei mais difícil:
+fazer os exercicios 
+### O que mais gostei:
+de aprender e nao de fazer.
+### Exercicios do dia:
+![Alt text](image.png)
+![Alt text](image-1.png)
+### Sentimento do dia:
+![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTY1NXhqcnZseGZhaHc5bzlzN25hdmFsa2p3eG0zNWNoMmJreWRoeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/D2hncA3u88gmeCFeoh/giphy.webp)
+Escolha um GIF que melhor represente seu sentimento sobre a aula de hoje. Você pode usar sites como Giphy para encontrar o GIF perfeito.
+
