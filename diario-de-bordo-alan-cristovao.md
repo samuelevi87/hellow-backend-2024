@@ -112,3 +112,33 @@ da explicaçao do professor
 .
 
 ---
+
+
+# Diário de Bordo - [Hellow 2024/Trilha DEV Backend]
+
+## Data: [20-06-2024]
+
+### O que aprendi hoje:
+**nada**
+
+### O que achei mais difícil:
+**fazer os exercícios**
+
+### O que mais gostei:
+**entender como faz os exercicios**
+
+### Sentimento do dia:
+![Alt Text](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTF2YXB0bHBscjdkMTNjemt6N3dxYXYyZmlubWZuNjduaHc2MWgydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4JVTF9zR9BicshFAb7/giphy.webp)
+
+### Exercícios do dia:!
+![Alt text](image.png)
+![Alt text](image-6.png)
+![Alt text](image-1.png)
+![Alt text](image-2.png)
+![Alt text](image-3.png)
+![Alt text](image-4.png)
+![Alt text](image-5.png)
+![Alt text](image-7.png)
+.
+
+---
