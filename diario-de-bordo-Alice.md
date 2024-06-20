@@ -128,3 +128,23 @@ Do jogo em si(bem divertido).
 ### Fase que eu mais gostei
 ![](image-2.png)
 ---
+
+## Data: [20-06-2024]
+
+### O que aprendi hoje:
+Hoje aprendi sobre bancos de dados, e fizemos alguns exercicios
+
+### O que achei mais difícil:
+alguns exercicios
+
+### O que mais gostei:
+Conseguir entender os exercicios e consegui-los fazer
+### Exercicios do dia:
+![Alt text](image-3.png)
+
+![Alt text](image-5.png)
+### Sentimento do dia:
+![Alt Text](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHdoOXVzOHo4Zm51Znd0czkzbzF3NXU4OThncG5tdDlneDFvcjZnbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oxHQgx9mwYyDpIewU/giphy.webp)  
+
+
+---
