@@ -153,5 +153,9 @@ Eu gostei das atividades do My W3Shools.
 
 ![Alt text](image-1.png)
 
+![Alt text](image-2.png)
+
+![Alt text](image-3.png)
+
 ### Sentimento do dia:
 ![Alt Text](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGE3ZmhodzFja2plYm13Z2NocTBqM2V3MTN6cWEwNjhqOHBmYnhrNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1J9AGXkysPtuWSVG/giphy.webp)
