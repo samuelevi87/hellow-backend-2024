@@ -151,3 +151,19 @@ tudo
 ![Alt text](certificado.jpg)
 
 ---
+
+## Data: [20-06-2024]
+
+### O que aprendi hoje:
+Sobre banco de dados
+
+### O que achei mais difícil:
+Nada
+
+### O que mais gostei:
+Tudo
+### Sentimento do dia:
+![Alt Text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzBuMjd0NnkyaHpzc3Eyb3djb2hybHRxemM1djhsNXNtbjZjd215bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT77Y8eeEhBA8NQwLK/giphy.gif)
+
+![Alt text](Capturar.PNG)
+---
