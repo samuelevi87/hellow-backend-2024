@@ -131,3 +131,27 @@ De jogar o jogo.
 
 ### Fase que eu gostei
 ![animado](![Alt text](image.png))
+
+## Data: [20-06-2024]
+
+### O que aprendi hoje:
+Hoje aprendi sobre o MySQL e sobre o banco de dados.
+
+### O que achei mais difícil:
+nada.
+
+### O que mais gostei:
+De saber o que é MySQL.
+
+### Exercicios ###
+
+![Alt text](image-1.png)
+
+![Alt text](image-2.png)
+
+![Alt text](image-3.png)
+
+### Sentimento do dia:
+![Bem](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExam5tYmpvcDB2eHh0em44anhhYzB5YmxjZDVidGJ4emdjbGpvNjNyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ndAvMC5LFPNMCzq7m/giphy.webp)
+
+
