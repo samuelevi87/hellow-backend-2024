@@ -127,7 +127,8 @@ Não achei nada difícil.
 ### O que mais gostei:
 Eu gostei do site que o professor mostrou, pois posso usar ele para estudar outras linguagens de programação como C# também.
 
-![Alt text](image-3.png)
+### Exercícios do Dia
+![Alt text](![Alt text](image-4.png))
 
 ### Sentimento do dia:
 ![Alt Text](https://media1.tenor.com/m/-pwLXzwl3AYAAAAd/criminal-minds-michealcat.gif)
