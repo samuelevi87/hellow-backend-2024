@@ -99,4 +99,25 @@ Escolha um GIF que melhor represente seu sentimento sobre a aula de hoje. Você 
 
 ### Print da Fase
 ![Alt text](image.png)
+
 ---
+
+## Data: [20/06/2024]
+
+### O que aprendi hoje:
+Um pouco sobre SQL
+
+### O que achei mais difícil:
+Nada
+
+### O que mais gostei:
+Sobre as atividades do SQL
+
+### Exercicios do dia
+![Alt text](image-1.png)
+![Alt text](image-2.png)
+
+### Sentimento do dia:
+![Alt Text](https://media1.tenor.com/m/jkfY8S_nU58AAAAd/hi-im.gif)
+Escolha um GIF que melhor represente seu sentimento sobre a aula de hoje. Você 
+pode usar sites como Giphy para encontrar o GIF perfeito.
