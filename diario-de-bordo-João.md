@@ -162,8 +162,11 @@ Nada
 
 ### O que mais gostei:
 Tudo
+### Exercícios do dia 
+
+![Alt text](Capturar1.PNG)
+![Alt text](Capturar.PNG)
+
 ### Sentimento do dia:
 ![Alt Text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzBuMjd0NnkyaHpzc3Eyb3djb2hybHRxemM1djhsNXNtbjZjd215bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT77Y8eeEhBA8NQwLK/giphy.gif)
 
-![Alt text](Capturar.PNG)
----
