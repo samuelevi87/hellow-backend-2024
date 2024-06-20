@@ -116,7 +116,7 @@ dos exercicios
 ### Sentimento do dia:
 ![animados](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHZseDc4aGo0ZnI5cWJvYWpzZXloaTc3c2JncnJ3bWNkYW13a2VlbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B4dt6rXq6nABilHTYM/giphy.gif)
 
-## Data: [06-06-2024]
+## Data: [16-06-2024]
 
 ### O que aprendi hoje:
 estrutura de repetição
@@ -128,9 +128,26 @@ do jogo que tinha como base o minecraft
 ### Sentimento do dia:
 ![animados](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2JsNTQxZDdsM2lkd2JrN2RmMTM5bTF0Y2dpZXkxcWRrMWhqdjQzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o0vwzuFwCGAFO/giphy.webp)!
 
-
+### certificado
 ![certificado](Certificado.jpg)
  
 
- fase que mais gostei
+ ### fase que mais gostei
  ![Alt text](image.png)
+
+ ## Data: [20-06-2024]
+
+### O que aprendi hoje:
+banco de dados 
+
+### O que achei mais difícil:
+compreender algumas coisas
+### O que mais gostei:
+dos banco de dados
+### exercicios do dia:
+![Alt text](image-7.png)![Alt text](image-8.png)![Alt text](image-9.png)
+![Alt text](image-10.png)![Alt text](image-11.png)![Alt text](image-12.png)
+![Alt text](image-13.png)![Alt text](image-14.png)
+### Sentimento do dia:
+![animados](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2JsNTQxZDdsM2lkd2JrN2RmMTM5bTF0Y2dpZXkxcWRrMWhqdjQzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o0vwzuFwCGAFO/giphy.webp)!
+
