@@ -143,4 +143,26 @@ O site que tinha o tema de minecraft
 
 ### Print da fase
 ![Alt text](image.png)
+
+---
+## Data: [20-06-2024]
+
+### O que aprendi hoje:
+Aprendi sobre banco de dados e como eles funcionam.
+
+### O que achei mais difícil:
+Entender como funciona os bancos de dados
+
+### O que mais gostei:
+Eu gostei dos sites.
+
+### Exercício do dia
+![Alt text](image-3.png)
+
+### Exercício do dia 2
+![Alt text](image-4.png)
+
+### Sentimento do dia:
+![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTlmaXpqcjdnZG81Mjkycm5xNm5vbzFjamdjYzAzanNiN3h3Z3h4bSZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/3ndAvMC5LFPNMCzq7m/giphy.gif)
+
 ---
