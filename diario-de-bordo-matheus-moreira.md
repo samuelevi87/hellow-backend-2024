@@ -139,3 +139,19 @@ Foi de jogar o Minecreft
 
 ### Fase que eu mais gostei
 ![Alt Text](![Alt text](image.png))
+
+
+## Data: [20-06-2024]
+
+### O que aprendi hoje:
+Hoje eu aprendi sobre Banco de Dados.
+
+### O que achei mais difícil:
+nada
+### O que mais gostei:
+Eu gostei das atividades do My W3Shools.
+
+![Alt text](image-1.png)
+
+### Sentimento do dia:
+![Alt Text](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGE3ZmhodzFja2plYm13Z2NocTBqM2V3MTN6cWEwNjhqOHBmYnhrNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1J9AGXkysPtuWSVG/giphy.webp)
