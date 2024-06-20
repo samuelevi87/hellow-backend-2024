@@ -138,7 +138,7 @@ Foi de jogar o Minecreft
 ![Alt text](Certificado.jpg)
 
 ### Fase que eu mais gostei
-![Alt Text](![Alt text](image.png))
+![Alt text](image.png)
 
 
 ## Data: [20-06-2024]
