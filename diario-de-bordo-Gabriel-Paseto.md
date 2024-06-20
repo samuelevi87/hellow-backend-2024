@@ -151,3 +151,34 @@
 ### Fase que eu mais gostei
 ![Alt text](image.png)
 ---
+## Data: [20-06-2024]
+
+### O que aprendi hoje:
+**Um pouco sobre banco de dados**
+
+### O que achei mais difícil:
+**Fazer os exercicios**
+
+### O que mais gostei:
+**conseguir entender um pouco mais sobre banco de dados**
+
+### Exercicio
+
+![Alt text](image-1.png)
+
+![Alt text](image-3.png)
+
+![Alt text](image-4.png)
+
+![Alt text](image-5.png)
+
+![Alt text](image-6.png)
+
+![Alt text](image-7.png)
+
+![Alt text](image-8.png)
+
+### Sentimento do dia:
+![Alt Text](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemxsdDA3cjBrbDR5bWxhOWJ6b2YwaDdoM2JnZ21lbmE3c2R6YjgyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y7z01XYGz5u847hK2f/giphy.webp)
+
+---
