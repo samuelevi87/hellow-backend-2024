@@ -116,6 +116,23 @@ Gostei de pensar na forma mais eficiente de chegar ao final da fase.
 ![stupid minecraft gif](https://media1.tenor.com/m/8MfhUrEstOgAAAAd/stupid-minecraft.gif)
 
 ---
+## Data: [20-06-2024]
+
+### O que aprendi hoje:
+Hoje aprendi sobre Banco de Dados e comandos básicos do MySQL.
+
+### O que achei mais difícil:
+Não achei nada difícil.
+
+### O que mais gostei:
+Eu gostei do site que o professor mostrou, pois posso usar ele para estudar outras linguagens de programação como C# também.
+
+![Alt text](image-3.png)
+
+### Sentimento do dia:
+![Alt Text](https://media1.tenor.com/m/-pwLXzwl3AYAAAAd/criminal-minds-michealcat.gif)
+
+---
 
 ## Data: [DD-MM-AAAA]
 
