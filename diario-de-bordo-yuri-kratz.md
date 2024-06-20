@@ -146,3 +146,22 @@ certificado
 
 fase uqe mais gostei
 ![Alt text](Capturar.PNG)
+
+--
+
+## Data: [20-06-2024]
+
+### O que  aprendi hoje:
+BANCO DE DADOS
+
+### O que achei mais difícil:
+NADA
+
+### O que mais gostei:
+TUDO
+
+### Sentimento do dia
+![Alt text](QSL.PNG)
+![Alt text](where.PNG)
+### Sentimento do dia:
+![Alt Text](https://media2.giphy.com/media/3ndAvMC5LFPNMCzq7m/giphy.webp?cid=790b7611w2xxmtip0kf744mztpmnd5x8pzbwiwqirrqx57s9&ep=v1_gifs_trending&rid=giphy.webp&ct=g)
