@@ -113,3 +113,33 @@ do jogo do Minecraft
 ![Alt text](Certificado-1.jpg)
 ### Fase que eu gostei
 ![Alt text](image-1.png)
+
+# Data: [20-06-2024]
+
+### O que aprendi hoje:
+Aprendi QSL e banco de dados
+
+### O que achei mais difícil:
+Os comandos do banco de dados
+
+### O que mais gostei:
+Dos exercícios
+
+### Exercícios do dia
+
+![Alt text](image-2.png)
+![Alt text](image-5.png)
+![Alt text](image-6.png)
+![Alt text](image-7.png)
+![Alt text](image-8.png)
+![Alt text](image-9.png)
+![Alt text](image-10.png)
+
+### Sentimento do dia:
+![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY215eWpjem1raThrdGRmMGcxNTFrN3VzOGpjcDc4MzdkcTltMnVzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7vDoUoDZHoUQxMPkd7/giphy.webp)
+
+
+
+
+
+
