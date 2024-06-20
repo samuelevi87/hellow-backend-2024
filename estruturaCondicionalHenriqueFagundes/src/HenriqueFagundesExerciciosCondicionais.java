@@ -142,27 +142,77 @@ public class HenriqueFagundesExerciciosCondicionais {
      * O Livro Encantado: Mostra uma história de aventura em dias pares e de romance em dias ímpares.
      */
     public static void livroEncantado() {
+        int diaDeHoje;
+        Scanner entrada = new Scanner(System.in);
+        System.out.println("Que dia é hoje?");
+        diaDeHoje = entrada.nextInt();
 
+        if (diaDeHoje % 2 == 0) {
+            System.out.println("O Livro Encantado lhe mostra uma história de aventura.");
+        }else {
+            System.out.println("O Livro Encantado lhe mostra uma história de romance.");
+        }
+        entrada.close();
     }
 
     /**
      * A Música Favorita: Cria uma playlist com base no artista favorito inserido.
      */
     public static void musicaFavorita() {
+        String artistaFavorito;
+        Scanner entrada = new Scanner(System.in);
+        System.out.println("Qual o seu artista/banda favorito(a)?");
+        artistaFavorito = entrada.nextLine().toLowerCase();
 
+        if (artistaFavorito.equals("michael jackson")) {
+            System.out.println("Você cria uma playlist de hits dançantes.");
+        }else if (artistaFavorito.equals("the beatles")) {
+            System.out.println("Você cria uma playlist de músicas clássicas.");
+        }else if (artistaFavorito.equals("queen")) {
+            System.out.println("Você cria uma playlist de Rock.");
+        }else {
+            System.out.println("Você cria músicas do(a) artista/banda " + artistaFavorito + ".");
+        }
+        entrada.close();
     }
 
     /**
      * O Presente Perfeito: Escolhe o presente com base nos interesses do amigo.
      */
     public static void presentePerfeito() {
+        String interessesDoAmigo;
+        Scanner entrada = new Scanner(System.in);
+        System.out.println("Do que seu amigo gosta/O que você acha que seu amigo quer?");
+        interessesDoAmigo = entrada.nextLine().toLowerCase();
 
+        if (interessesDoAmigo.equals("esportes")) {
+            System.out.println("Você compra um tênis para seu amigo.");
+        }else if (interessesDoAmigo.equals("ler")) {
+            System.out.println("Você compra um livro para seu amigo.");
+        }else if (interessesDoAmigo.equals("jogos")) {
+            System.out.println("Você compra um videogame para seu amigo.");
+        }else{
+            System.out.println("Você decide dar um(a) " + interessesDoAmigo + " ao seu amigo.");
+        }
+        entrada.close();
     }
 
     /**
      * O Animal Falante: Interage com diferentes animais falantes e descobre suas mensagens.
      */
     public static void animalFalante() {
+        String animal;
+        Scanner entrada = new Scanner(System.in);
+        System.out.println("Você entra em uma floresta mágica e encontra um animal falante. Que animal você encontra?");
+        animal = entrada.nextLine().toLowerCase();
 
+        if (animal.equals("papagaio")) {
+            System.out.println("O papagaio te conta piadas engraçadas.");
+        }else if (animal.equals("macaco")) {
+            System.out.println("O macaco lhe dá aulas de escalada.");
+        }else if (animal.equals("elefante")) {
+            System.out.println("O elefante lhe dá um passeio pela floresta em suas costas.");
+        }
+        entrada.close();
     }
 }
