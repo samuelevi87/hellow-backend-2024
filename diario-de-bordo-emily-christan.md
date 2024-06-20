@@ -114,3 +114,26 @@ Que a gente teve uma atividade avaliativa bem divertida.
 ### Fase que eu gostei
 ![Alt text](image.png)
 
+---
+
+## Data: [20-06-2024]
+
+### O que aprendi hoje:
+Começamos o assunto sobre Banco de Dados e eu fiz os exercicios sobre Banco de dados.
+
+### O que achei mais difícil:
+Pra entender os exercicios sobre Banco de Dados.
+
+### O que mais gostei:
+Eu gostei do novo assunto e eu compreendi os exercicios.
+
+### Exercicios do dia 
+
+![Alt text](image-4.png)
+
+![Alt text](image-5.png)
+
+### Sentimento do dia:
+![Bacana](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTFpZ2JxNG1iNGMxb29vMGF6dW9pYXhjZnhseW9rM3BwNmZwYmxndCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XreQmk7ETCak0/giphy.webp)
+
+
