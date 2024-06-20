@@ -159,3 +159,28 @@ comer.
 ![Alt text](Certificado.jpg)
 
 ![Alt text](image.png)
+
+## Data: [20-06-2024]
+
+### O que aprendi hoje:
+                                 
+
+
+### O que achei mais difícil:
+gastar 20 reais em um guaraná. (zueira. foi o commit.)
+
+### O que mais gostei:
+fazer lanchASSO com o Renan, irionir e o Usuário de discord.
+
+### Sentimento do dia: alegria
+
+![satisfeito.]()
+
+
+
+![Alt text](image-1.png)
+![Alt text](image-2.png)
+![Alt text](image-3.png)
+![Alt text](image-4.png)
+![Alt text](image-6.png)
+![Alt text](image-7.png)
