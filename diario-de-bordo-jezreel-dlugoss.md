@@ -163,3 +163,25 @@ Escolha um GIF que melhor represente seu sentimento sobre a aula de hoje. Você 
 ![Alt text](certificado.jpg)
 ![Alt text](MelhorFase.png)
 ---
+
+# Diário de Bordo - [Hellow 2024/Trilha DEV Backend]
+
+## Data: [20-06-2024]
+
+### O que aprendi hoje:
+
+Introdução ao banco de dados
+
+### O que achei mais difícil:
+Nada.
+
+### O que mais gostei:
+Fazer os exercícios.
+
+### Exercícios do dia
+![Alt text](image-2.png)
+![Alt text](image-3.png)
+
+### Sentimento do dia:
+![Alt Text](https://media1.tenor.com/m/kjiaai1K8aUAAAAC/ballin-cat.gif)
+
