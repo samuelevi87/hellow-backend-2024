@@ -106,3 +106,31 @@
 ### Sentimento do dia:
 ![Alt Text](https://media2.giphy.com/media/aC9bhPHeR4x7HGAWOB/giphy.webp?cid=790b7611dn8eullv2enpjc7ydwqs0jyp4ce12k0r03g3o13u&ep=v1_gifs_search&rid=giphy.webp&ct=g)
 ![Alt text](image.png)![Alt text](<certificado jojo-1.jpg>)
+
+
+---
+
+# Diário de Bordo - [Hellow 2024/Trilha DEV Backend]
+
+## Data: [20/06/2024]
+
+### O que aprendi hoje:
+**nada**
+
+### O que achei mais difícil:
+**responder as questoes em ingles**
+
+### O que mais gostei:
+**responder questoes**
+
+### Exerícios do dia
+![Alt text](image-1.png)
+![Alt text](image-2.png)
+![Alt text](image-3.png)
+![Alt text](image-4.png)
+![Alt text](image-5.png)
+![Alt text](image-6.png)
+![Alt text](image-7.png)
+
+### Sentimento do dia:
+![Alt Text](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG1ndXF6bm1mbzd0N24zeHRxeDhkcmh5YWk1dDRwM2Q2ajgxb2NpMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ndAvMC5LFPNMCzq7m/giphy.webp)
