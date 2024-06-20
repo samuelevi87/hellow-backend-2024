@@ -141,10 +141,32 @@ Entender os codigos novos.
 De fazer os codigos e ver o seus resultados.
 
 ### Sentimento do dia:
-![Alt Text]()
+![Alt Text](https://media.giphy.com/media/1wqYonEBtues7jlngs/giphy.gif?cid=790b7611eykqfizeyef7r5tpn0ofx0ne9gfu639wpobzn4ca&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 ### Certificado
 ![Alt text](Certificado.jpg)
 
 ### Print da fase
 ![Alt text](image.png)
+
+---
+
+## Data: [20-06-2024]
+
+### O que aprendi hoje:
+Banco de Dados
+
+### O que achei mais difícil:
+A aula foi bem de boa hoje, nada foi muito dificil.
+
+### O que mais gostei:
+Fazer os exercicios.
+
+### Exercicios do dia
+
+![Alt text](image-1.png)
+
+![Alt text](image-2.png)
+
+### Sentimento do dia:
+![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXlrcWZpemV5ZWY3cjV0cG4wb2Z4MG5lOWdmdTYzOXdwb2J6bjRjYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5oYgxQKHhEjEk/giphy.gif)
