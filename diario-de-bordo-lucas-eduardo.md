@@ -157,3 +157,24 @@ Jogar minecraft
 
 
 ---
+
+## Data: [20-06-2024]
+
+### O que aprendi hoje:
+Sobre o SQL
+
+### O que achei mais difícil:
+Nada
+
+### O que mais gostei:
+Ver sobre o SQL
+
+### Exercicios do dia
+![Alt text](image-1.png)
+
+![Alt text](image-2.png)
+
+### Sentimento do dia:
+![Nada](https://media.giphy.com/media/7ztUcJsFqnkWVph2h2/giphy.gif?cid=ecf05e47lxbtig19c3n717d40bns2nbr2k0v4c7w9gf1q2fx&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
+---
