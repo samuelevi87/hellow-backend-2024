@@ -11,6 +11,8 @@ Explique quais partes da aula de hoje foram mais desafiadoras para você e por q
 ### O que mais gostei:
 Compartilhe o que você mais gostou na aula de hoje. Isso pode ser um tópico específico que foi discutido, uma atividade prática que foi realizada, ou mesmo uma história ou exemplo que o professor compartilhou.
 
+### Exercicio do dia
+
 ### Sentimento do dia:
 ![Alt Text](URL_DO_GIF)
 Escolha um GIF que melhor represente seu sentimento sobre a aula de hoje. Você pode usar sites como Giphy para encontrar o GIF perfeito.
@@ -137,3 +139,30 @@ Na aula de hoje oque eu achei mais dificil o exercicio 8.
 ![Alt text](Certificado.jpg)
 
 ![Alt text](image-1.png)
+
+
+----
+
+## Data: [20-06-2024]
+
+### O que aprendi hoje:
+A fazer banco de dados
+
+### O que achei mais difícil:
+fazer o MySQL Update
+
+### O que mais gostei:
+aprender MySQL
+
+### Exercicio do dia
+![Alt text](image-2.png)
+![Alt text](image-3.png)
+![Alt text](image-4.png)
+![Alt text](image-5.png)
+![Alt text](image-6.png)
+![Alt text](image-7.png)
+![Alt text](image-8.png)
+### Sentimento do dia:
+![Acelerado](https://media1.tenor.com/m/otUVEIPnd8cAAAAC/bmw-e46.gif)
+Acelarado
+
