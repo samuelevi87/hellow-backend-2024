@@ -136,4 +136,23 @@ De programar o trageto do pesonagem do jogo
 ### Oque eu mais gostei
 ![Alt text](Capturar.PNG)
 ---
+## Data: [DD-MM-AAA]
 
+### O que aprendi hoje:
+A mexer com os bancos de dados e a usar o MySQL
+
+### O que achei mais difícil:
+A fazer o SELECT e o FROM
+
+### O que mais gostei:
+De fazer as atividades e aprender no MySQL
+
+### Exercicios do dia:
+![Alt text](image.png)
+
+![Alt text](image-1.png)
+
+### Sentimento do dia:
+![Alt Text](https://media.tenor.com/qUIQazQGMQAAAAAi/emoticon.gif)
+
+---
