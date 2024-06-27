@@ -142,3 +142,30 @@ da explicaçao do professor
 .
 
 ---
+
+
+# Diário de Bordo - [Hellow 2024/Trilha DEV Backend]
+
+## Data: [27-06-2024]
+
+### O que aprendi hoje:
+**Revisar os conceitos de SQL da aula passada**
+![Alt text](image-8.png)
+
+### O que achei mais difícil:
+**Lembrar como usar os comandos**
+
+### O que mais gostei:
+**entender como faz os exercicios**
+
+### Sentimento do dia:
+![Alt Text](https://media0.giphy.com/media/tXL4FHPSnVJ0A/200.webp?cid=790b7611awwfqbi4fanqg69gf1yezjjatydvv4z91pde2fm6&ep=v1_gifs_trending&rid=200.webp&ct=g)
+
+### Exercícios do dia:!
+
+
+
+---
+
+
+
