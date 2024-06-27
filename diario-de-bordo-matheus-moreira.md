@@ -159,3 +159,20 @@ Eu gostei das atividades do My W3Shools.
 
 ### Sentimento do dia:
 ![Alt Text](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGE3ZmhodzFja2plYm13Z2NocTBqM2V3MTN6cWEwNjhqOHBmYnhrNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1J9AGXkysPtuWSVG/giphy.webp)
+
+
+## Data: [27-06-2024]
+
+### O que aprendi hoje:
+Hoje jogamos um jogo que o Professor fez.
+
+### O que achei mais difícil:
+As perguntas estavão bem complicadas. 
+
+### O que mais gostei:
+A História do jogo.
+
+![Alt text](image-4.png)
+
+### Sentimento do dia:
+![Alt Text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHFjanNldDAzdWR5cmwyanA4bTJoMzcwNnl1azh3dG81NDQxZ3Z5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fUQ4rhUZJYiQsas6WD/giphy.webp)
