@@ -121,3 +121,23 @@ Sobre as atividades do SQL
 ![Alt Text](https://media1.tenor.com/m/jkfY8S_nU58AAAAd/hi-im.gif)
 Escolha um GIF que melhor represente seu sentimento sobre a aula de hoje. Você 
 pode usar sites como Giphy para encontrar o GIF perfeito.
+
+
+---
+
+## Data: [27/06/2024]
+
+### O que aprendi hoje:
+jogos sobre sql
+
+### O que achei mais difícil:
+alguns codigos
+
+### O que mais gostei:
+de aprender mais sobre o sql
+
+### Sentimento do dia:
+![Alt Text](https://media.tenor.com/NN9_wWaCxx8AAAAi/mysql.gif)
+Escolha um GIF que melhor represente seu sentimento sobre a aula de hoje. Você pode usar sites como Giphy para encontrar o GIF perfeito.
+
+![Alt text](image-3.png)
