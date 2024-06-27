@@ -154,4 +154,19 @@ De saber o que é MySQL.
 ### Sentimento do dia:
 ![Bem](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExam5tYmpvcDB2eHh0em44anhhYzB5YmxjZDVidGJ4emdjbGpvNjNyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ndAvMC5LFPNMCzq7m/giphy.webp)
 
+## Data: [27-06-2024]
+
+### O que aprendi hoje:
+Hoje relembramos os coceitos de SQL.
+
+### O que achei mais difícil:
+De lembrar os comandos SQL.
+
+### O que mais gostei:
+De jogar o com os comandos SQL.
+
+![Fim do Jogo](image-4.png)
+
+### Sentimento do dia:
+![Bem](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHFjanNldDAzdWR5cmwyanA4bTJoMzcwNnl1azh3dG81NDQxZ3Z5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fUQ4rhUZJYiQsas6WD/giphy.webp)
 
