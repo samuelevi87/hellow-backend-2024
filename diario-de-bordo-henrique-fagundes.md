@@ -134,6 +134,22 @@ Eu gostei do site que o professor mostrou, pois posso usar ele para estudar outr
 ![a](https://media1.tenor.com/m/-pwLXzwl3AYAAAAd/criminal-minds-michealcat.gif)
 
 ---
+## Data: [27-06-2024]
+
+### O que aprendi hoje:
+Revisamos os conceitos de SQL da aula passada, como SELECT, ORDER BY, WHERE, ASC e Desc, com o Jogo da Investigação Futurista, uma atividade de perguntas no qual completamos os espaços com a resposta correta.
+![Alt text](image-5.png)
+
+### O que achei mais difícil:
+Não tive dificuldades com a atividade.
+
+### O que mais gostei:
+Gostei da lore do jogo que o professor fez.
+
+### Sentimento do dia:
+![aa](https://media1.tenor.com/m/b-JGz__Q_YMAAAAd/teardown-explosion.gif)
+
+---
 
 ## Data: [DD-MM-AAAA]
 
