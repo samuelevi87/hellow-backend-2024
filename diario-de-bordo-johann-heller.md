@@ -136,7 +136,6 @@
 ![Alt Text](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG1ndXF6bm1mbzd0N24zeHRxeDhkcmh5YWk1dDRwM2Q2ajgxb2NpMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ndAvMC5LFPNMCzq7m/giphy.webp)
 
 
-![Alt text](image-8.png)
 ---
 
 # Diário de Bordo - [Hellow 2024/Trilha DEV Backend]
@@ -150,8 +149,19 @@
 **botar os comandos**
 
 ### O que mais gostei:
-**de quando o paseto caiu**
+**entender como faz os exercicios**
 
 ### Exerícios do dia
 
 ![Alt text](image-8.png)
+
+![Alt text](image-9.png)
+![Alt text](image-10.png)
+![Alt text](image-11.png)
+![Alt text](image-12.png)
+![Alt text](image-13.png)
+![Alt text](image-14.png)
+![Alt text](image-15.png)
+![Alt text](image-16.png)
+![Alt text](image-18.png)
+![Alt text](image-17.png)
