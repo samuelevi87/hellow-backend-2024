@@ -171,11 +171,24 @@ Eu gostei dos sites.
 ### O que aprendi hoje:
 Jogamos um jogo ensinando como funciona os bancos de dados e como separar os dados dentro de cada banco. Ele nos mostra os comandos do SQL:SELECT, WHERE, ORDER BY, ASC, DESC e como cada um funciona.
 ![Alt text](image-5.png)
+Depois do intervalo, fomos para o site W3school para aprender novos comandos do SQL.
+
+![Alt text](image-6.png) ![Alt text](image-9.png)
+![Alt text](image-10.png) ![Alt text](image-8.png)
+![Alt text](image-11.png) ![Alt text](image-12.png)
+![Alt text](image-13.png) ![Alt text](image-14.png)
+![Alt text](image-16.png)  ![Alt text](image-15.png)
+![Alt text](image-7.png) 
 
 ### O que achei mais difícil:
 Lembrar de como funciona cada comando do banco de dados, o order by é um comando que me deu um pouco mais de trabalho.
+Depois do intervalo não achei nada muito difícil só ficou um pouco complicado na hora de entender estes comandos mais complexos.
 
 ### O que mais gostei:
 O jogo que se passa em um futuro apocalíptico e que nos ensina sobre banco de dados.
+Depois do intervalo o que eu mais gostei foi como o SQL faz várias funções com poucos comandos.
+ 
+### Sentimento do dia:
+![Alt text](https://media.giphy.com/media/fUQ4rhUZJYiQsas6WD/giphy.gif?cid=790b7611a3dh258hrxp1kxy3cufjfhcn9hs8fshf9sq0j84s&ep=v1_gifs_trending&rid=giphy.gif&ct=g)
 
 ---
