@@ -184,3 +184,21 @@ fazer lanchASSO com o Renan, irionir e o Usuário de discord.
 ![Alt text](image-4.png)
 ![Alt text](image-6.png)
 ![Alt text](image-7.png)
+
+
+
+## Data: [20-06-2024]
+
+### O que aprendi hoje:
+O jogo da investigação futurista, revisa SQL.
+
+
+### O que achei mais difícil:
+o commit.
+
+### O que mais gostei:
+comer e jogar
+
+### Sentimento do dia: alegria
+
+![Alt text](image-8.png)

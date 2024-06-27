@@ -1,6 +1,6 @@
-# Jogo de Investigação Futurista
+# The Blood Time
 
-## Contexto da História
+## Contexto
 
 ### Introdução
 
@@ -34,12 +34,11 @@ Cada etapa da sua jornada apresentará um novo desafio. Você precisará utiliza
     FROM estacoes 
     WHERE status = 'offline';
     ```
-3. Encontre as estações que foram construídas após o ano 2040. Complete a query:
-    ```sql
-    SELECT * 
-    FROM estacoes 
-    WHERE ano_construcao > 2040;
-    ```
+   3. Encontre as estações que foram construídas após o ano 2040. Complete a query:
+       ```sql
+       SELECT * 
+       FROM estacoes 
+       WHERE ano_construcao > 2040; c       ```
 
 #### Investigação de Intrusões
 4. Liste as estações offline por ordem de última manutenção. Complete a query:
