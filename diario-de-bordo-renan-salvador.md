@@ -166,3 +166,18 @@ aprender MySQL
 ![Acelerado](https://media1.tenor.com/m/otUVEIPnd8cAAAAC/bmw-e46.gif)
 Acelarado
 
+----
+
+## Data: [DD-MM-AAA]
+
+### O que aprendi hoje:
+A revisar os conceitos de SQL da aula passada e o jogo da investigação futurista
+
+### O que achei mais difícil:
+A fase "Selecione apenas as estações localizadas no setor Alfa"
+### O que mais gostei:
+De jogar o jogo que nosso professor produziu
+
+### Exercicio do dia
+![Alt text](image-9.png)
+### Sentimento do dia:
