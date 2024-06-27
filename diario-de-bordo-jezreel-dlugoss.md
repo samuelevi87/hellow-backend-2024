@@ -182,6 +182,29 @@ Fazer os exercícios.
 ![Alt text](image-2.png)
 ![Alt text](image-3.png)
 
+---
+
 ### Sentimento do dia:
 ![Alt Text](https://media1.tenor.com/m/kjiaai1K8aUAAAAC/ballin-cat.gif)
 
+# Diário de Bordo - [Hellow 2024/Trilha DEV Backend]
+
+## Data: [27-06-2024]
+
+### O que aprendi hoje:
+Revizar os conceitos de SQL da aula passada
+
+### O que achei mais difícil:
+a fase: Verifique as estações que têm capacidade para mais de 100 tripulantes.
+Liste as estações offline por ordem de última manutenção. Complete a query:
+
+### O que mais gostei:
+Gostei de tudo.
+
+### Sentimento do dia:
+![Alt Text](URL_DO_GIF)
+
+
+## Exercícios do dia
+![Alt text](investigandoprint.png)
+---
