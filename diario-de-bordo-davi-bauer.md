@@ -156,3 +156,28 @@ De fazer as atividades e aprender no MySQL
 ![Alt Text](https://media.tenor.com/qUIQazQGMQAAAAAi/emoticon.gif)
 
 ---
+# Diário de Bordo - [Hellow 2024/Trilha DEV Backend]
+
+## Data: [27-06-2024]
+
+### O que aprendi hoje:
+Aprendi a revisar os comendos SELECT FROM ORDER BY ASC DESC e continuar as atividades do W2SCHOOLS
+
+### O que achei mais difícil:
+A decorar o ASC e o DESC
+
+### O que mais gostei:
+De responder as perguntas
+
+### Exercicios do Dia
+
+![Alt text](image-3.png)
+
+Depois do intervalo:
+
+![Alt text](image-9.png)
+
+### Sentimento do dia:
+![Alt Text](https://media1.tenor.com/m/WtVnnj9BBpsAAAAC/xmas-happy.gif)
+
+---
