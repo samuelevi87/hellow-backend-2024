@@ -178,6 +178,7 @@
 
 ![Alt text](image-8.png)
 
+
 ### Sentimento do dia:
 ![Alt Text](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemxsdDA3cjBrbDR5bWxhOWJ6b2YwaDdoM2JnZ21lbmE3c2R6YjgyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y7z01XYGz5u847hK2f/giphy.webp)
 
@@ -191,12 +192,34 @@
 **Neste momento aprendi a revisar os conceitos SQL**
 
 ### O que achei mais difícil:
-**Algumas questoes que nao tinha entendido**
+**Algumas questoes que nao tinha entendido, apos o intervalo finalizamos o exercicio que tinhamos começado na aula passada, algumas queustoes foram complicados**
 
 ### O que mais gostei:
-**De poder aprender mais um pouco sobre**
+**De poder aprender mais um pouco sobre, apos o intervalo gostei de fazer os exercicios**
 
 ### Sentimento do dia:
-![Alt Text](URL_DO_GIF)
+![Alt Text](https://media4.giphy.com/media/YHSaTzT2Hg11xKuYMM/giphy.webp?cid=790b7611fn4s9didqs1dxpdbqidr04fl1ixpfmlc90vw0y7k&ep=v1_gifs_search&rid=giphy.webp&ct=g)
 
 ![Alt text](image-11.png)
+
+### Exercicios
+
+![Alt text](image-12.png)
+
+![Alt text](image-13.png)
+
+![Alt text](image-14.png)
+
+![Alt text](image-16.png)
+
+![Alt text](image-17.png)
+
+![Alt text](image-18.png)
+
+![Alt text](image-19.png)
+
+![Alt text](image-20.png)
+
+![Alt text](image-22.png)
+
+![Alt text](image-21.png)
