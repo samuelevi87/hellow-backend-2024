@@ -177,15 +177,17 @@ Tudo
 ### O que aprendi hoje:
 O jogo da investigação futurista com sql codificado em java
 ![Alt text](Capturar2.PNG)
-
+depois do intervalo, fomos para a plataforma W3 school fazer os exercícios
+### Exercícios do dia
+![Alt text](Capturar3.PNG)
+![Alt text](Capturar4.PNG)
+![Alt text](Capturar5.PNG)
+![Alt text](Capturar6.PNG)
 ### O que achei mais difícil:
 
 nada
 ### O que mais gostei:
-do jogo
-### Exercícios do dia 
-
-
+TUDO
 
 ### Sentimento do dia:
 ![Alt Text](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnh0ajVvNjV5OWtwdG93NWhoZWJya2lxODcwMGdwZDF4YXN4NDh4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEduXKKfBX6PPLiGQ/giphy.webp)
