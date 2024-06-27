@@ -137,3 +137,20 @@ Eu gostei do novo assunto e eu compreendi os exercicios.
 ![Bacana](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTFpZ2JxNG1iNGMxb29vMGF6dW9pYXhjZnhseW9rM3BwNmZwYmxndCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XreQmk7ETCak0/giphy.webp)
 
 
+---
+
+## Data: [27-06-2024]
+
+### O que aprendi hoje:
+O Jogo da Investigação, para revisar os conceitos de SQL e realizamos os desafios do jogo.
+
+### O que achei mais difícil:
+Entender o que significava os comandos, o comando que eu tive mais dificuldade foi o from porque não fazia sentido na minha cabeça.
+
+### O que mais gostei:
+Quando tudo começou a fazer mais sentido, quando eu comecei a conseguir fazer os desafios.
+
+### Sentimento do dia:
+![Felicidade](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3loeGNicnVtcmxjM3JxMmpja2FiZDdqYmQxMDV4MGxycGtncHJ5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13hxeOYjoTWtK8/giphy.webp)
+
+![Alt text](image-6.png)
