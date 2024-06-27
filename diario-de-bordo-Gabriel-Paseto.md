@@ -182,3 +182,21 @@
 ![Alt Text](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemxsdDA3cjBrbDR5bWxhOWJ6b2YwaDdoM2JnZ21lbmE3c2R6YjgyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y7z01XYGz5u847hK2f/giphy.webp)
 
 ---
+
+# Diário de Bordo - [Hellow 2024/Trilha DEV Backend]
+
+## Data: [DD-MM-AAA]
+
+### O que aprendi hoje:
+**Neste momento aprendi a revisar os conceitos SQL**
+
+### O que achei mais difícil:
+**Algumas questoes que nao tinha entendido**
+
+### O que mais gostei:
+**De poder aprender mais um pouco sobre**
+
+### Sentimento do dia:
+![Alt Text](URL_DO_GIF)
+
+![Alt text](image-11.png)
