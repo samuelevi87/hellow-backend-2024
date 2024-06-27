@@ -142,7 +142,9 @@ Eu gostei do novo assunto e eu compreendi os exercicios.
 ## Data: [27-06-2024]
 
 ### O que aprendi hoje:
-O Jogo da Investigação, para revisar os conceitos de SQL e realizamos os desafios do jogo.
+O Jogo da Investigação, para revisar os conceitos de SQL e realizamos os desafios do jogo. 
+
+![Alt text](image-6.png) 
 
 ### O que achei mais difícil:
 Entender o que significava os comandos, o comando que eu tive mais dificuldade foi o from porque não fazia sentido na minha cabeça.
@@ -153,4 +155,30 @@ Quando tudo começou a fazer mais sentido, quando eu comecei a conseguir fazer o
 ### Sentimento do dia:
 ![Felicidade](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3loeGNicnVtcmxjM3JxMmpja2FiZDdqYmQxMDV4MGxycGtncHJ5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13hxeOYjoTWtK8/giphy.webp)
 
-![Alt text](image-6.png)
+Após o recreio acessamos o w3 school e fizemos os exercicios.
+
+### Exercicios do dia:
+
+![Alt text](image-7.png)
+
+![Alt text](image-8.png)
+
+![Alt text](image-9.png)
+
+![Alt text](image-11.png)
+
+![Alt text](image-12.png)
+
+![Alt text](image-13.png)
+
+![Alt text](image-14.png)
+
+![Alt text](image-15.png)
+
+![Alt text](image-16.png)
+
+![Alt text](image-17.png)
+
+![Alt text](image-19.png)
+
+![Alt text](image-20.png)
