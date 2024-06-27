@@ -151,3 +151,18 @@ dos banco de dados
 ### Sentimento do dia:
 ![animados](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2JsNTQxZDdsM2lkd2JrN2RmMTM5bTF0Y2dpZXkxcWRrMWhqdjQzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o0vwzuFwCGAFO/giphy.webp)!
 
+ ## Data: [27-06-2024]
+
+### O que aprendi hoje:
+conceitos de SQL atraves do jogo Investigação futurista  usando os comandos:where,select,order by,asc e desc
+![Fim do Jogo](image-15.png)
+
+### O que achei mais difícil:
+em lembrar qual era o descendente e ascendente
+### O que mais gostei:
+do jogo investigação futuristica
+
+### Sentimento do dia:
+![animados](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2JsNTQxZDdsM2lkd2JrN2RmMTM5bTF0Y2dpZXkxcWRrMWhqdjQzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o0vwzuFwCGAFO/giphy.webp)!
+
+
