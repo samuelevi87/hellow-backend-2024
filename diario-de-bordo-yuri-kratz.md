@@ -175,7 +175,7 @@ jogo de investigação que revisa comandos SQL.
 ![Alt text](sql.PNG)
 
 ### O que achei mais difícil:
-lembrar de todos os comandos de SQL.
+lembrar de todos os comandos de SQL!
 
 ### O que mais gostei:
 modo de aprender mas ao mesmo tempo se divertindo!
