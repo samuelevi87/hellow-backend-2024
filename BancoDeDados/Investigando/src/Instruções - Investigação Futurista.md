@@ -25,71 +25,103 @@ Cada etapa da sua jornada apresentará um novo desafio. Você precisará utiliza
 #### Descubra as Estações Offline
 1. Para começar sua investigação, selecione todas as informações das estações espaciais. Complete a query:
     ```sql
-    SELECT * ___ estacoes;
+    SELECT * 
+    FROM estacoes;
     ```
 2. Filtre as estações que estão offline. Complete a query:
     ```sql
-    SELECT * FROM estacoes ___ status = 'offline';
+    SELECT * 
+    FROM estacoes 
+    WHERE status = 'offline';
     ```
 3. Encontre as estações que foram construídas após o ano 2040. Complete a query:
     ```sql
-    SELECT * FROM estacoes ___ ano_construcao > 2040;
+    SELECT * 
+    FROM estacoes 
+    WHERE ano_construcao > 2040;
     ```
 
 #### Investigação de Intrusões
 4. Liste as estações offline por ordem de última manutenção. Complete a query:
     ```sql
-    SELECT * FROM estacoes WHERE status = 'offline' ___ data_ultima_manutencao;
+    SELECT * 
+    FROM estacoes 
+    WHERE status = 'offline' 
+    ORDER BY data_ultima_manutencao;
     ```
 5. Ordene as estações pelo número de tripulantes em ordem crescente. Complete a query:
     ```sql
-    SELECT * FROM estacoes ___ tripulantes ___;
+    SELECT * 
+    FROM estacoes 
+    ORDER BY tripulantes ASC;
     ```
 6. Ordene as estações pelo número de tripulantes em ordem decrescente. Complete a query:
     ```sql
-    SELECT * FROM estacoes ___ tripulantes ___;
+    SELECT * 
+    FROM estacoes 
+    ORDER BY tripulantes DESC;
     ```
 
 #### Manutenção dos Sistemas
 7. Liste as estações offline mais recentes primeiro. Complete a query:
     ```sql
-    SELECT * FROM estacoes WHERE status = 'offline' ORDER BY data_ultima_manutencao ___;
+    SELECT * 
+    FROM estacoes 
+    WHERE status = 'offline' 
+    ORDER BY data_ultima_manutencao DESC;
     ```
 8. Agora, liste as estações offline mais antigas primeiro. Complete a query:
     ```sql
-    SELECT * FROM estacoes WHERE status = 'offline' ORDER BY data_ultima_manutencao ___;
+    SELECT * 
+    FROM estacoes 
+    WHERE status = 'offline' 
+    ORDER BY data_ultima_manutencao ASC;
     ```
 9. Encontre as estações que tiveram mais de 5 manutenções no último ano. Complete a query:
     ```sql
-    SELECT * FROM estacoes ___ manutencoes_ultimo_ano > 5;
+    SELECT * 
+    FROM estacoes 
+    WHERE manutencoes_ultimo_ano > 5;
     ```
 
 #### Recursos e Tripulação
 10. Selecione apenas as estações localizadas no setor Alfa. Complete a query:
     ```sql
-    SELECT * ___ estacoes ___ setor = 'Alfa';
+    SELECT * 
+    FROM estacoes 
+    WHERE setor = 'Alfa';
     ```
 11. Liste as estações com capacidade para mais de 100 tripulantes. Complete a query:
     ```sql
-    SELECT * FROM estacoes ___ capacidade_tripulantes > 100;
+    SELECT * 
+    FROM estacoes 
+    WHERE capacidade_tripulantes > 100;
     ```
 12. Ordene as estações pelo consumo de energia em ordem crescente. Complete a query:
     ```sql
-    SELECT * FROM estacoes ___ consumo_energia ___;
+    SELECT * 
+    FROM estacoes 
+    ORDER BY consumo_energia ASC;
     ```
 
 #### Setores Prioritários
 13. Ordene as estações pelo consumo de energia em ordem decrescente. Complete a query:
     ```sql
-    SELECT * FROM estacoes ___ consumo_energia ___;
+    SELECT * 
+    FROM estacoes 
+    ORDER BY consumo_energia DESC;
     ```
 14. Encontre as estações que relatam problemas críticos. Complete a query:
     ```sql
-    SELECT * FROM estacoes ___ problemas_criticos = 'sim';
+    SELECT * 
+    FROM estacoes 
+    WHERE problemas_criticos = 'sim';
     ```
 15. Selecione as estações que estão funcionando perfeitamente. Complete a query:
     ```sql
-    SELECT * FROM estacoes ___ status = 'online';
+    SELECT * 
+    FROM estacoes 
+    WHERE status = 'online';
     ```
 
 ### Um Fim Incerto
@@ -101,4 +133,3 @@ Sua investigação é a última esperança da humanidade. Cada dado descoberto p
 **Prepare-se, Investigador. A jornada começa agora. Boa sorte!**
 
 ---
-
