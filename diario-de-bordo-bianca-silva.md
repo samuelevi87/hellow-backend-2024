@@ -161,3 +161,20 @@ Que fiz vários exercícos sem o auxilio do professor .
 ![Alt Text](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnRtZzdtMzZmcHFscm1ydm1yenpmZmJvaXJocWczaXVpMGxmeHc1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7abKhOpu0NwenH3O/giphy.webp)
 
 ---
+## Data: [27-06-2024]
+
+### O que aprendi hoje:
+Fizemos alguns exercicios de revisão de SQL através do jogo Investigação futurista, tais comandos foram relembrados "from, order by, asc, desc,select,where". 
+### Atividades de revisão de SQL
+![](image-7.png)
+
+### O que achei mais difícil:
+No inicio senti dificuldade nos exercicios , mas aos poucos fui entendendo.
+
+### O que mais gostei:
+Que fui pegando o jeito da coisa e o jogo foi bem legal .
+### Sentimento do dia:
+![Alt Text](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHc0dDJzNXFzeDU5emtmbG9jbGZxcnA4MnRtd2dmMHhlbmp2bHNtYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7CjEqtZUm2OBmJ9eha/giphy.webp)
+
+
+---
