@@ -183,6 +183,15 @@ depois do intervalo, fomos para a plataforma W3 school fazer os exercícios
 ![Alt text](Capturar4.PNG)
 ![Alt text](Capturar5.PNG)
 ![Alt text](Capturar6.PNG)
+![Alt text](Capturar7.PNG)
+![Alt text](Capturar8.PNG)
+![Alt text](Capturar9.PNG)
+![Alt text](Capturar10.PNG)
+![Alt text](Capturar11.PNG)
+![Alt text](Capturar12.PNG)
+![Alt text](Capturar13.PNG)
+![Alt text](Capturar14.PNG)
+![Alt text](Capturar15.PNG)
 ### O que achei mais difícil:
 
 nada
