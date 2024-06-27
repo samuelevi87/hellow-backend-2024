@@ -118,6 +118,11 @@ O que mais gostei foi aprender usando o jogo.
 Hoje foram reforçados meus conhecimentos sobre bancos de dados
 
 ![Alt text](Capturar-1.PNG)
+
+Depois do intervalo:Fiz os exercícios sobre o SQL
+
+![Alt text](image-1.png)
+
 ### O que achei mais difícil:
 O que achei mais difícil foram algumas questões da atividade interativa.
 
