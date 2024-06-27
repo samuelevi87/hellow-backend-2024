@@ -139,12 +139,46 @@ Eu gostei do site que o professor mostrou, pois posso usar ele para estudar outr
 ### O que aprendi hoje:
 Revisamos os conceitos de SQL da aula passada, como SELECT, ORDER BY, WHERE, ASC e Desc, com o Jogo da Investigação Futurista, uma atividade de perguntas no qual completamos os espaços com a resposta correta.
 ![Alt text](image-5.png)
+Após o intervalo, tomamos continuação às atividades de SQL do site W3Schools, no qual iniciamos na aula passada.
 
 ### O que achei mais difícil:
 Não tive dificuldades com a atividade.
 
 ### O que mais gostei:
 Gostei da lore do jogo que o professor fez.
+
+### Exercícios do dia:
+![Alt text](image-6.png)
+
+![Alt text](image-7.png)
+
+![Alt text](image-8.png)
+
+![Alt text](image-9.png)
+
+![Alt text](image-10.png)
+
+![Alt text](image-11.png)
+
+![Alt text](image-12.png)
+
+![Alt text](image-13.png)
+
+![Alt text](image-14.png)
+
+![Alt text](image-15.png)
+
+![Alt text](image-16.png)
+
+![Alt text](image-17.png)
+
+![Alt text](image-18.png)
+
+![Alt text](image-19.png)
+
+![Alt text](image-20.png)
+
+![Alt text](image-21.png)
 
 ### Sentimento do dia:
 ![aa](https://media1.tenor.com/m/b-JGz__Q_YMAAAAd/teardown-explosion.gif)
