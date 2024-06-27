@@ -170,3 +170,22 @@ Fazer os exercicios.
 
 ### Sentimento do dia:
 ![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXlrcWZpemV5ZWY3cjV0cG4wb2Z4MG5lOWdmdTYzOXdwb2J6bjRjYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5oYgxQKHhEjEk/giphy.gif)
+
+---
+
+## Data: [27-06-2024]
+
+### O que aprendi hoje:
+Algumas atividades de banco de dados
+
+### O que achei mais difícil:
+Decorar a hora de usar cada código.
+
+### O que mais gostei:
+Jogar o jogo do Banco de dados!
+
+### Exercicios do dia
+![Alt text](image-3.png)
+
+### Sentimento do dia:
+![Alt text](https://media.giphy.com/media/Rlwz4m0aHgXH13jyrE/giphy.gif?cid=ecf05e47cutmzza2esi881c16hgnk4qmqewnamcwqb88mmqm&ep=v1_gifs_search&rid=giphy.gif&ct=g)
