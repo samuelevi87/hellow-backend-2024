@@ -205,7 +205,7 @@ Jogar minecraft
 ## Data: [20-06-2024]
 
 ### O que aprendi hoje:
-Revisar os conceitos de SQL, jogo
+Revisar os conceitos de SQL, jogo de banco de dados
 
 ### O que achei mais difícil:
 nada
@@ -217,6 +217,34 @@ joga
 ![Alt text]![Alt text](image-3.png)
 
 ![Alt text]![Alt text](image-4.png)
+
+![Alt text](image-5.png)
+
+![Alt text](image-6.png)
+
+![Alt text](image-7.png)
+
+![Alt text](image-8.png)
+
+![Alt text](image-9.png)
+
+![Alt text](image-10.png)
+
+![Alt text](image-11.png)
+
+![Alt text](image-12.png)
+
+![Alt text](image-13.png)
+
+![Alt text](image-14.png)
+
+![Alt text](image-15.png)
+
+![Alt text](image-16.png)
+
+![Alt text](image-17.png)
+
+![Alt text](image-18.png)
 
 ### Sentimento do dia:
 ![Nada](https://media.giphy.com/media/yFQ0ywscgobJK/giphy.gif?cid=790b7611wm1v5jhex40ypgfkb8034zmnv0sj7ea0fuu1kni7&ep=v1_gifs_search&rid=giphy.gif&ct=g)
