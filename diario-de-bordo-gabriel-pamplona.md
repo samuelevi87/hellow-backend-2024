@@ -128,7 +128,7 @@ pode usar sites como Giphy para encontrar o GIF perfeito.
 ## Data: [27/06/2024]
 
 ### O que aprendi hoje:
-jogos sobre sql
+jogos sobre sql, dps do intervalo 
 
 ### O que achei mais difícil:
 alguns codigos
@@ -141,3 +141,64 @@ de aprender mais sobre o sql
 Escolha um GIF que melhor represente seu sentimento sobre a aula de hoje. Você pode usar sites como Giphy para encontrar o GIF perfeito.
 
 ![Alt text](image-3.png)
+
+---
+
+exercicios do dia
+
+SQL order by
+
+![Alt text](image-4.png) 
+
+SQL Insert
+
+![Alt text](image-6.png)
+
+SQL Null
+
+![Alt text](image-7.png)
+
+SQL Update
+
+![Alt text](image-8.png)
+
+SQL Delet
+
+![Alt text](image-9.png)
+
+SQL Functions
+
+![Alt text](image-10.png)
+
+SQL Like
+
+![Alt text](image-11.png)
+
+SQL Wildcards
+
+![Alt text](image-12.png)
+
+SQL In
+
+![Alt text](image-13.png)
+
+SQL Between
+
+![Alt text](image-14.png)
+
+SQL Alias
+
+![Alt text](image-15.png)
+
+SQL Join
+
+![Alt text](image-16.png)
+
+SQL GRoup By
+
+![Alt text](image-17.png)
+
+SQL Database
+
+![Alt text](image-18.png)
+
