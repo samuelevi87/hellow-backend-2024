@@ -176,5 +176,30 @@ Que fui pegando o jeito da coisa e o jogo foi bem legal .
 ### Sentimento do dia:
 ![Alt Text](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHc0dDJzNXFzeDU5emtmbG9jbGZxcnA4MnRtd2dmMHhlbmp2bHNtYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7CjEqtZUm2OBmJ9eha/giphy.webp)
 
+Após o recreio acessamos o w3schools e fizemos vários exercicíos.
+
+### Exercicios do dia 
+
+![Alt text](image-8.png)
+
+![Alt text](image-9.png)
+
+![Alt text](image-10.png)
+
+![Alt text](image-11.png)
+
+![Alt text](image-12.png)
+
+![Alt text](image-13.png)
+
+![Alt text](image-14.png)
+
+![Alt text](image-15.png)
+
+![Alt text](image-16.png)
+
+![Alt text](image-17.png)
+
+![Alt text](image-18.png)
 
 ---
