@@ -110,3 +110,19 @@ O que mais gostei foi aprender usando o jogo.
 
 ### Fase que eu Gostei
 ![Alt text](Fase.PNG)
+
+---
+## Data: [27-06-2024]
+
+### O que aprendi hoje:
+Hoje foram reforçados meus conhecimentos sobre bancos de dados
+
+![Alt text](Capturar-1.PNG)
+### O que achei mais difícil:
+O que achei mais difícil foram algumas questões da atividade interativa.
+
+### O que mais gostei:
+O que mais gostei foi a história que o professor criou para o jogo interativo
+
+### Sentimento do dia:
+![Alt Text](https://media.giphy.com/media/nGMnDqebzDcfm/giphy.gif?cid=ecf05e47nwzyorpq2iu5p6hff44iq787i1p4i7dmtdjx8585&ep=v1_gifs_search&rid=giphy.gif&ct=g)
