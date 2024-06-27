@@ -139,3 +139,19 @@ de jogar minecraft diferente
 
 ### Print da Fase
 ![Alt text](image.png)
+
+---
+## Data: [27-06-2024]
+
+### O que aprendi hoje:
+jogo de investigaçao futurista visa revisar os conceitos de SQL
+
+### O que achei mais difícil:
+nenhum
+### O que mais gostei:
+sobre colocar os comandos
+
+### Sentimento do dia:
+![Alt Text](https://media1.tenor.com/m/rCzhBK2It2oAAAAd/ratatouille.gif)
+
+![Alt text](image-1.png)
