@@ -85,3 +85,14 @@ Do lanche.
 
 ### Sentimento do dia:
 ![Alt Text](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWhhdXRreDUza2Mxb3R5aGpqNnF1YXJsdjdnMDVvMWl0djhhZXNlNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11uoNyauChZR16/giphy.webp)
+
+## Data: [DD-MM-AAA]
+
+### O que aprendi hoje:
+Revisar os conceitos de sql da aula passada e o jogo da investigação futurista
+![Alt text](image.png)
+
+### O que achei mais difícil:
+Nada achei bem ludico e tranquilo
+### O que mais gostei:
+De terminar
