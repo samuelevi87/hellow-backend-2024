@@ -187,5 +187,27 @@ Jogar o jogo do Banco de dados!
 ### Exercicios do dia
 ![Alt text](image-3.png)
 
+![Alt text](image-4.png)
+
+![Alt text](image-5.png)
+
+![Alt text](image-6.png)
+
+![Alt text](image-7.png)
+
+![Alt text](image-8.png)
+
+![Alt text](image-9.png)
+
+![Alt text](image-10.png)
+
+![Alt text](image-11.png)
+
+![Alt text](image-12.png)
+
+![Alt text](image-13.png)
+
+![Alt text](image-14.png)
+
 ### Sentimento do dia:
 ![Alt text](https://media.giphy.com/media/Rlwz4m0aHgXH13jyrE/giphy.gif?cid=ecf05e47cutmzza2esi881c16hgnk4qmqewnamcwqb88mmqm&ep=v1_gifs_search&rid=giphy.gif&ct=g)
