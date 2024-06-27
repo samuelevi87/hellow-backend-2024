@@ -178,3 +178,47 @@ Ver sobre o SQL
 ![Nada](https://media.giphy.com/media/7ztUcJsFqnkWVph2h2/giphy.gif?cid=ecf05e47lxbtig19c3n717d40bns2nbr2k0v4c7w9gf1q2fx&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 ---
+
+## Data: [13-06-2024]
+
+### O que aprendi hoje:
+Nada
+
+### O que achei mais difícil:
+Jogar minecraft
+
+### O que mais gostei:
+Jogar minecraft
+
+### Sentimento do dia:
+![Cansado](https://media.giphy.com/media/dT7LBdAZP1Rh6/giphy.gif?cid=ecf05e47ubke1eceh27x32578sp9ntf8zj7taeqvoyd8ib4w&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
+### Certificado
+![Alt text](Certificado-1.jpg)
+
+### Print da fase
+![Alt text](image.png)
+
+
+---
+
+## Data: [20-06-2024]
+
+### O que aprendi hoje:
+Revisar os conceitos de SQL, jogo
+
+### O que achei mais difícil:
+nada
+
+### O que mais gostei:
+joga
+
+### Exercicios do dia
+![Alt text]![Alt text](image-3.png)
+
+![Alt text]![Alt text](image-4.png)
+
+### Sentimento do dia:
+![Nada](https://media.giphy.com/media/yFQ0ywscgobJK/giphy.gif?cid=790b7611wm1v5jhex40ypgfkb8034zmnv0sj7ea0fuu1kni7&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
+---

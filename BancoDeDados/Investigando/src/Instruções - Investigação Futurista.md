@@ -1,4 +1,4 @@
-# Jogo de Investigação Futurista
+ # Jogo de Investigação Futurista
 
 ## Contexto da História
 
