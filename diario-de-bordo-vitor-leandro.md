@@ -159,10 +159,20 @@ conceitos de SQL atraves do jogo Investigação futurista  usando os comandos:wh
 
 ### O que achei mais difícil:
 em lembrar qual era o descendente e ascendente
+
 ### O que mais gostei:
 do jogo investigação futuristica
+### atividades do dia:
+![Alt text](image-16.png)
+![Alt text](image-17.png)
+![Alt text](image-18.png)
+![Alt text](image-19.png)
+![Alt text](image-20.png)
+![Alt text](image-21.png)
+![Alt text](image-22.png)
+![Alt text](image-23.png)
 
 ### Sentimento do dia:
-![animados](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2JsNTQxZDdsM2lkd2JrN2RmMTM5bTF0Y2dpZXkxcWRrMWhqdjQzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o0vwzuFwCGAFO/giphy.webp)!
+![animados](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHp4b2hxYXB2dTI3dzZ6cWQzdGd0Y3A0ZXc5aW9icGEzZnVtZHR2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UFGj6EYw5JhMQ/giphy.webp)
 
 
