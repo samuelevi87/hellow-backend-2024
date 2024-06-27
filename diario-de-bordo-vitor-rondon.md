@@ -155,3 +155,82 @@ sobre colocar os comandos
 ![Alt Text](https://media1.tenor.com/m/rCzhBK2It2oAAAAd/ratatouille.gif)
 
 ![Alt text](image-1.png)
+s
+![Alt text](image-2.png)
+
+Select
+
+![Alt text](image-3.png)
+
+Where
+
+![Alt text](image-4.png)
+
+ORDER BY
+
+
+![Alt text](image-5.png)
+
+AND
+
+
+![Alt text](image-6.png)
+
+OR
+
+![Alt text](image-7.png)
+
+NOR
+
+![Alt text](image-8.png)
+
+INSERT
+
+![Alt text](image-9.png)
+
+NULL
+
+![Alt text](image-10.png)
+
+DELETE
+
+![Alt text](image-11.png)
+
+FUNCTIONS
+
+![Alt text](image-12.png)
+
+LIKE
+
+
+![Alt text](image-13.png)
+
+WILDCARDS
+
+![Alt text](image-14.png)
+
+IN
+
+![Alt text](image-15.png)
+
+BETWEEN
+
+![Alt text](image-16.png)
+
+ALIAS
+
+![Alt text](image-18.png)
+
+JOIN
+
+![Alt text](image-19.png)
+
+GROUP BY
+
+![Alt text](image-20.png)
+
+DATABASE
+
+![Alt text](image-21.png)
+
+
