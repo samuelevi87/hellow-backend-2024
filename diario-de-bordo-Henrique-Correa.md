@@ -166,3 +166,16 @@ Eu gostei dos sites.
 ![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTlmaXpqcjdnZG81Mjkycm5xNm5vbzFjamdjYzAzanNiN3h3Z3h4bSZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/3ndAvMC5LFPNMCzq7m/giphy.gif)
 
 ---
+## Data: [27-06-2024]
+
+### O que aprendi hoje:
+Jogamos um jogo ensinando como funciona os bancos de dados e como separar os dados dentro de cada banco. Ele nos mostra os comandos do SQL:SELECT, WHERE, ORDER BY, ASC, DESC e como cada um funciona.
+![Alt text](image-5.png)
+
+### O que achei mais difícil:
+Lembrar de como funciona cada comando do banco de dados, o order by é um comando que me deu um pouco mais de trabalho.
+
+### O que mais gostei:
+O jogo que se passa em um futuro apocalíptico e que nos ensina sobre banco de dados.
+
+---
