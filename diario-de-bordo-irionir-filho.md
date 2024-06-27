@@ -115,7 +115,7 @@ hoje eu aprendi sobre banco de dados.
 ### O que achei mais difícil:
 fazer os exercicios 
 ### O que mais gostei:
-de aprender e nao de fazer.
+de aprender os exercicios e nao de tem que fazer.
 ### Exercicios do dia:
 ![Alt text](image.png)
 ![Alt text](image-1.png)
@@ -123,3 +123,20 @@ de aprender e nao de fazer.
 ![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTY1NXhqcnZseGZhaHc5bzlzN25hdmFsa2p3eG0zNWNoMmJreWRoeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/D2hncA3u88gmeCFeoh/giphy.webp)
 Escolha um GIF que melhor represente seu sentimento sobre a aula de hoje. Você pode usar sites como Giphy para encontrar o GIF perfeito.
 
+## Data: [27/06/2024]
+
+### O que aprendi hoje:
+a revisar os coceitos de sql da aula passada.
+
+### O que achei mais difícil:
+a pergunta que achei mais complicada pra fazer foi a de Ordene as estações pelo consumo de energia em ordem crescente.
+
+### O que mais gostei:
+eu gostei de fazer as perguntas, por mais que tenha alguma coisa complicada aos puocos pegamos o jeito.
+
+### Exercicios do dia:
+![Alt text](image-2.png)
+### Sentimento do dia:
+![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTU4bzQzYmdyNWxmbGZ2MWNjY2hhc2t5NDdwd2c3cmdlYzUwbXRzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tXL4FHPSnVJ0A/giphy.webpf)
+
+---
