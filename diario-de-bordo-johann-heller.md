@@ -134,3 +134,24 @@
 
 ### Sentimento do dia:
 ![Alt Text](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG1ndXF6bm1mbzd0N24zeHRxeDhkcmh5YWk1dDRwM2Q2ajgxb2NpMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ndAvMC5LFPNMCzq7m/giphy.webp)
+
+
+![Alt text](image-8.png)
+---
+
+# Diário de Bordo - [Hellow 2024/Trilha DEV Backend]
+
+## Data: [27/06/2024]
+
+### O que aprendi hoje:
+**revisar os conceitos de SQL**
+
+### O que achei mais difícil:
+**botar os comandos**
+
+### O que mais gostei:
+**de quando o paseto caiu**
+
+### Exerícios do dia
+
+![Alt text](image-8.png)
