@@ -172,7 +172,7 @@ Tudo
 
 ---
 
-## Data: [20-06-2024]
+## Data: [27-06-2024]
 
 ### O que aprendi hoje:
 O jogo da investigação futurista com sql codificado em java
