@@ -165,3 +165,23 @@ TUDO
 ![Alt text](where.PNG)
 ### Sentimento do dia:
 ![Alt Text](https://media2.giphy.com/media/3ndAvMC5LFPNMCzq7m/giphy.webp?cid=790b7611w2xxmtip0kf744mztpmnd5x8pzbwiwqirrqx57s9&ep=v1_gifs_trending&rid=giphy.webp&ct=g)
+
+--
+
+## Data: [27-06-2024]
+
+### O que  aprendi hoje: 
+jogo de investigação que revisa comandos SQL.
+![Alt text](sql.PNG)
+
+### O que achei mais difícil:
+lembrar de todos os comandos de SQL.
+
+### O que mais gostei:
+modo de aprender mas ao mesmo tempo se divertindo!
+
+### depois da aula:
+![Alt text](ORDER.PNG)
+![Alt text](UPADATE.PNG)
+![Alt text](NULL.PNG)
+![Alt text](DELETE.PNG)
