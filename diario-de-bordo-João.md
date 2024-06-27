@@ -170,3 +170,24 @@ Tudo
 ### Sentimento do dia:
 ![Alt Text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzBuMjd0NnkyaHpzc3Eyb3djb2hybHRxemM1djhsNXNtbjZjd215bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT77Y8eeEhBA8NQwLK/giphy.gif)
 
+---
+
+## Data: [20-06-2024]
+
+### O que aprendi hoje:
+O jogo da investigação futurista com sql codificado em java
+![Alt text](Capturar2.PNG)
+
+### O que achei mais difícil:
+
+nada
+### O que mais gostei:
+do jogo
+### Exercícios do dia 
+
+
+
+### Sentimento do dia:
+![Alt Text](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnh0ajVvNjV5OWtwdG93NWhoZWJya2lxODcwMGdwZDF4YXN4NDh4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEduXKKfBX6PPLiGQ/giphy.webp)
+
+---
