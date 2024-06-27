@@ -136,6 +136,52 @@ eu gostei de fazer as perguntas, por mais que tenha alguma coisa complicada aos 
 
 ### Exercicios do dia:
 ![Alt text](image-2.png)
+![Alt text](image-4.png)
+![Alt text](image-5.png)
+![Alt text](image-6.png)
+![Alt text](image-7.png)
+![Alt text](image-8.png)
+![Alt text](image-9.png)
+![Alt text](image-10.png)
+![Alt text](image-11.png)
+![Alt text](image-12.png)
+![Alt text](image-13.png)
+![Alt text](image-14.png)
+![Alt text](image-15.png)
+![Alt text](image-16.png)
+![Alt text](image-17.png)
+### Sentimento do dia:
+![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTU4bzQzYmdyNWxmbGZ2MWNjY2hhc2t5NDdwd2c3cmdlYzUwbXRzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tXL4FHPSnVJ0A/giphy.webpf)
+
+---
+
+## Data: [27/06/2024]
+
+### O que aprendi hoje:
+depois do intervalo voltamos e fazermos os exercicios de banco de dados.
+
+### O que achei mais difícil:
+eu achei meio complicado o ultimo exercicio.
+
+### O que mais gostei:
+eu gostei de fazer os execicios de orden by.
+
+### Exercicios do dia:
+
+![Alt text](image-4.png)
+![Alt text](image-5.png)
+![Alt text](image-6.png)
+![Alt text](image-7.png)
+![Alt text](image-8.png)
+![Alt text](image-9.png)
+![Alt text](image-10.png)
+![Alt text](image-11.png)
+![Alt text](image-12.png)
+![Alt text](image-13.png)
+![Alt text](image-14.png)
+![Alt text](image-15.png)
+![Alt text](image-16.png)
+![Alt text](image-17.png)
 ### Sentimento do dia:
 ![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTU4bzQzYmdyNWxmbGZ2MWNjY2hhc2t5NDdwd2c3cmdlYzUwbXRzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tXL4FHPSnVJ0A/giphy.webpf)
 
