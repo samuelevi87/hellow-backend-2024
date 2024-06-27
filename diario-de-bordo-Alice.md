@@ -148,3 +148,21 @@ Conseguir entender os exercicios e consegui-los fazer
 
 
 ---
+
+## Data: [27-06-2024]
+
+### O que aprendi hoje:
+Hoje usamos o "jogo da investigação futurista" para treinarmos os conceitos de SQL. Os comandos : select,where asc,desc,order by,from 
+### Atividades de revisão do SQL:
+![Alt text](image-6.png)
+### O que achei mais difícil:
+No começo foi mais dificil, ams fui pegando o jeito e comecei a compreender os codigos 
+
+### O que mais gostei:
+Que peguei o jeito da coisa, e o jogo em si é bem legal 
+
+### Sentimento do dia:
+![Alt Text](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmV1aGppMHdkMWozcHE4c3Z0MmM2eXEzM3hwOXViYXp3bGZnbnM5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3fQueO8cHyZl2Pvi/giphy.webp)  
+
+
+---
