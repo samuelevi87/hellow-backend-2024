@@ -192,14 +192,14 @@ Fazer os exercícios.
 ## Data: [27-06-2024]
 
 ### O que aprendi hoje:
-Revizar os conceitos de SQL da aula passada
+Revizar os conceitos de SQL da aula passada, após ao intervalo, nós entramos na plataforma w3school e completamos as atividades
 
 ### O que achei mais difícil:
 a fase: Verifique as estações que têm capacidade para mais de 100 tripulantes.
-Liste as estações offline por ordem de última manutenção. Complete a query:
+Liste as estações offline por ordem de última manutenção. No w3School achei nada muito dificil
 
 ### O que mais gostei:
-Gostei de tudo.
+Eu curti de fazer as atividades na pratica.
 
 ### Sentimento do dia:
 ![Alt Text](URL_DO_GIF)
@@ -207,4 +207,19 @@ Gostei de tudo.
 
 ## Exercícios do dia
 ![Alt text](investigandoprint.png)
+![Alt text](image-4.png)
+![Alt text](image-5.png)
+![Alt text](image-6.png)
+![Alt text](image-7.png)
+![Alt text](image-8.png)
+![Alt text](image-10.png)
+![Alt text](image-11.png)
+![Alt text](image-12.png)
+![Alt text](image-13.png)
+![Alt text](image-14.png)
+![Alt text](image-15.png)
+![Alt text](image-16.png)
+![Alt text](image-17.png)
+![Alt text](image-18.png)
+![Alt text](image-9.png)
 ---
