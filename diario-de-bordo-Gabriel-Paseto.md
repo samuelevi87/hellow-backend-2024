@@ -225,3 +225,23 @@
 ![Alt text](image-21.png)
 
 ![Alt text](image-23.png)
+
+## Data: [04-07-2024]
+
+### O que aprendi hoje:
+**Mais coisas sobre banco de dados**
+
+### O que achei mais difícil:
+**Algumas questoes que nao tinham sido explicadas antes**
+
+### O que mais gostei:
+**De finalmente poder entender coisas que eu nao tinha entendido no passado**
+
+### Exercicio do dia
+
+![Alt text](image-24.png)
+
+### Sentimento do dia:
+![Alt Text](https://media4.giphy.com/media/2QYXlNR3pw0OtNC9Ex/giphy.webp?cid=ecf05e47gs5xy7qrwjia9jnp2r9aux8dyfhbo8787te3lg9m&ep=v1_gifs_search&rid=giphy.webp&ct=g)
+
+---
