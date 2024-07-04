@@ -189,3 +189,23 @@ Após o recreio acessamos o w3schools e fizemos alguns exercicios da aula passad
 ![Alt text](image-18.png)
 ---
 
+
+## Data: [04-07-2024]
+
+### O que aprendi hoje:
+finalizamos os exercicios da aula passada(w3schools) sobre banco de dados.
+### O que achei mais difícil:
+certos exercicios que tive mais dificuldade em entender
+
+### O que mais gostei:
+que consegui compreender a maioria dos exercicios 
+### Sentimento do dia:
+![Alt Text](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExenluNXBxMzE1eGFtZ29qcTZwbThqdGZxbXdyd2wzb3NkZ3MwZzkwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cA8avT0IRUuTGhbx9V/giphy.webp)
+
+### Exercicios do dia :
+
+![Alt text](image-19.png)
+
+![Alt text](image-20.png)
+
+![Alt text](image-21.png)
