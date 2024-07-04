@@ -6,7 +6,7 @@ import java.util.List;
  * @author Samuel Levi Araújo Alves @see <a href="https://www.linkedin.com/in/samuel-levi-alves/">samuel-levi-alves</a>
  * @version 1.0.0
  */
-public class BancoDePerguntas {
+public class FROBancoDePerguntas {
     private List<Pergunta> perguntas;
 
     /**

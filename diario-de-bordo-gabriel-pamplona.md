@@ -202,3 +202,21 @@ SQL Database
 
 ![Alt text](image-18.png)
 
+
+---
+
+
+## Data: [04/07/2024]
+
+### O que aprendi hoje:
+sobre varios codigos
+
+### O que achei mais difícil:
+saber qual codigo faz o que
+
+### O que mais gostei:
+sobre aprender mais sobre programacao
+
+### Sentimento do dia:
+![Alt Text](https://media1.tenor.com/m/GW7As_sqhnUAAAAC/cat-ia-dancing-cat-dancing.gif)
+Escolha um GIF que melhor represente seu sentimento sobre a aula de hoje. Você pode usar sites como Giphy para encontrar o GIF perfeito.
