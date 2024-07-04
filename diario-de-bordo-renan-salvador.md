@@ -190,3 +190,22 @@ De jogar o jogo que nosso professor produziu
 ### Exercicio do dia
 ![Alt text](image-9.png)
 ### Sentimento do dia:
+
+---------
+
+# Diário de Bordo - [Hellow 2024/Trilha DEV Backend]
+
+## Data: [04-07-2024]
+
+### O que aprendi hoje:
+As funções agregadas de banco de dados.
+
+### O que achei mais difícil:
+talvez entender o "limit"
+
+### O que mais gostei:
+de fazer o jogo BancoDePerguntas 3 VEZESSSSSSSSSSSSSSSSSSS
+
+### Exercicio do dia
+![Alt text](image-19.png)
+### Sentimento do dia:
