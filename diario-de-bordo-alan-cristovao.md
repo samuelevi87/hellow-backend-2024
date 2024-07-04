@@ -177,35 +177,6 @@ da explicaçao do professor
 
 ---
 
-# Diário de Bordo - [Hellow 2024/Trilha DEV Backend]
-
-## Data: [27-06-2024]
-
-### O que aprendi hoje:
-**Revisar os conceitos de SQL da aula passada**
-![Alt text](image-8.png), depois do intervalo voltamos a fazer os exercícios da aula anterior.
-
-### O que achei mais difícil:
-**entender os exercícios**
-
-### O que mais gostei:
-**entender como faz os exercicios**
-
-### Sentimento do dia:
-![Alt Text](https://media0.giphy.com/media/tXL4FHPSnVJ0A/200.webp?cid=790b7611awwfqbi4fanqg69gf1yezjjatydvv4z91pde2fm6&ep=v1_gifs_trending&rid=200.webp&ct=g)
-
-### Exercícios do dia:!
-![Alt text](image-9.png)
-![Alt text](image-10.png)
-![Alt text](image-11.png)
-![Alt text](image-12.png)
-![Alt text](image-13.png)
-![Alt text](image-14.png)
-![Alt text](image-15.png)
-![Alt text](image-16.png)
-![Alt text](image-17.png)
-
-
 
 
 ---
