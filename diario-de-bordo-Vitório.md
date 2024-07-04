@@ -206,3 +206,20 @@ comer e jogar
 ![Alt text](image-10.png)
 
 ![Alt text](image-9.png)
+
+## Data: [04-07-2024]
+
+### O que aprendi hoje:
+Fiz um questionário 
+
+### O que achei mais difícil:
+Explique quais partes da aula de hoje foram mais desafiadoras para você e por quê. Isso pode incluir tópicos que você achou complexos, perguntas que permaneceram sem resposta ou habilidades que você sentiu que precisava desenvolver mais.
+
+### O que mais gostei:
+Compartilhe o que você mais gostou na aula de hoje. Isso pode ser um tópico específico que foi discutido, uma atividade prática que foi realizada, ou mesmo uma história ou exemplo que o professor compartilhou.
+
+### Sentimento do dia:
+![Alt Text](URL_DO_GIF)
+Escolha um GIF que melhor represente seu sentimento sobre a aula de hoje. Você pode usar sites como Giphy para encontrar o GIF perfeito.
+---
+![Alt text](image-11.png)

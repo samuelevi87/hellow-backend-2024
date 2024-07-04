@@ -75,7 +75,7 @@ public class BancoDePerguntas {
         // Adição de novas perguntas com COUNT
         perguntas.add(new Pergunta("Conte o número total de estações. Complete a query:\nSELECT ___(*) \nFROM estacoes;", "COUNT"));
         perguntas.add(new Pergunta("Quantas estações estão offline? Complete a query:\nSELECT ___(*) \nFROM estacoes \nWHERE status = 'offline';", "COUNT"));
-        perguntas.add(new Pergunta("Conte o número de manutenções realizadas. Complete a query:\nSELECT ___(*) \nFROM manutencoes;", "COUNT"));
+        perguntas.add(new Pergunta("Conte o número de manutenções realizadas. Complete a query:\nSELECT ___(*) \nFR"COUNT")OM manutencoes;", );
         perguntas.add(new Pergunta("Quantos eventos de intrusão foram registrados? Complete a query:\nSELECT ___(*) \nFROM eventos \nWHERE descricao LIKE '%intrusão%';", "COUNT"));
         perguntas.add(new Pergunta("Conte o número de tripulantes em uma estação específica. Complete a query:\nSELECT ___(*) \nFROM tripulantes \nWHERE estacao_id = 4;", "COUNT"));
         // Adição de novas perguntas com AVG
