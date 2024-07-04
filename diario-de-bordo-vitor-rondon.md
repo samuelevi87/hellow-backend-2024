@@ -234,3 +234,22 @@ DATABASE
 ![Alt text](image-21.png)
 
 
+---
+
+## Data: [DD-MM-AAA]
+
+### O que aprendi hoje:
+sobre (min, max, count, sum)
+
+### O que achei mais difícil:
+os cogigos
+
+### O que mais gostei:
+dos codigos
+
+### Sentimento do dia:
+![Alt Text](https://media1.tenor.com/m/JMJHzfB_960AAAAC/shigure-ui-dance.gif)
+
+
+
+![Alt text](image-22.png)

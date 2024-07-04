@@ -37,7 +37,7 @@ public class BancoDePerguntas {
         perguntas.add(new Pergunta("Encontre as estações que relatam problemas críticos. Complete a query:\nSELECT * \nFROM estacoes \n___ problemas_criticos = 'sim';", "WHERE"));
         perguntas.add(new Pergunta("Selecione as estações que estão funcionando perfeitamente. Complete a query:\nSELECT * \nFROM estacoes \n___ status = 'online';", "WHERE"));
         // Adição de novas perguntas com INSERT INTO
-        perguntas.add(new Pergunta("Insira um novo registro de manutenção em uma estação. Complete a query:\nINSERT INTO \n___ (estacao_id, data, tipo) \nVALUES (3, '2054-07-01', 'Preventiva');", "manutencoes"));
+        perguntas.add(new Pergunta("Insira um novo registro de manutenção em uma estação. Complete a query:\nINSERT IaNTO \n___ (estacao_id, data, tipo) \nVALUES (3, '2054-07-01', 'Preventiva');", "manutencoes"));
         perguntas.add(new Pergunta("Registre um novo evento de intrusão em uma estação. Complete a query:\nINSERT INTO \n___ (estacao_id, data, descricao) \nVALUES (5, '2054-06-15', 'Intrusão detectada no setor beta');", "eventos"));
         perguntas.add(new Pergunta("Adicione uma nova estação espacial ao banco de dados. Complete a query:\nINSERT INTO \n___ (nome, status, setor, capacidade_tripulantes) \nVALUES ('Estação Gama', 'offline', 'Gama', 150);", "estacoes"));
         perguntas.add(new Pergunta("Insira um novo registro de consumo de energia em uma estação. Complete a query:\nINSERT INTO \n___ (estacao_id, data, consumo) \nVALUES (2, '2054-07-01', 500);", "consumos"));
@@ -46,14 +46,14 @@ public class BancoDePerguntas {
         perguntas.add(new Pergunta("Atualize o status de uma estação para 'online'. Complete a query:\nUPDATE \n___ \nSET status = 'online' \nWHERE estacao_id = 2;", "estacoes"));
         perguntas.add(new Pergunta("Modifique a capacidade de tripulantes de uma estação. Complete a query:\nUPDATE \n___ \nSET capacidade_tripulantes = 200 \nWHERE estacao_id = 5;", "estacoes"));
         perguntas.add(new Pergunta("Atualize a data da última manutenção de uma estação. Complete a query:\nUPDATE \n___ \nSET data_ultima_manutencao = '2054-07-01' \nWHERE estacao_id = 3;", "estacoes"));
-        perguntas.add(new Pergunta("Altere o setor de uma estação para 'Delta'. Complete a query:\nUPDATE \n___ \nSET setor = 'Delta' \nWHERE estacao_id = 4;", "estacoes"));
+        perguntas.add(new Pergunta("Altere o setor de uma estação para 'Delta'. Complete a query:\nUPDATE \n___ \nSET setor =R 'Delta' \nWHERE estacao_id = 4;", "estacoes"));
         perguntas.add(new Pergunta("Atualize o consumo de energia de uma estação. Complete a query:\nUPDATE \n___ \nSET consumo = 600 \nWHERE estacao_id = 1;", "consumos"));
         // Adição de novas perguntas com DELETE
         perguntas.add(new Pergunta("Delete uma estação que foi desativada. Complete a query:\nDELETE FROM \n___ \nWHERE estacao_id = 5;", "estacoes"));
         perguntas.add(new Pergunta("Remova um registro de manutenção antigo. Complete a query:\nDELETE FROM \n___ \nWHERE manutencao_id = 7;", "manutencoes"));
         perguntas.add(new Pergunta("Delete um evento registrado erroneamente. Complete a query:\nDELETE FROM \n___ \nWHERE evento_id = 10;", "eventos"));
         perguntas.add(new Pergunta("Remova um tripulante que deixou a estação. Complete a query:\nDELETE FROM \n___ \nWHERE tripulante_id = 3;", "tripulantes"));
-        perguntas.add(new Pergunta("Delete um registro de consumo de energia incorreto. Complete a query:\nDELETE FROM \n___ \nWHERE consumo_id = 6;", "consumos"));
+        perguntas.add(new Pergunta("Delete um registro de consumo de energia incorreto. Complete a query:\nDELETE FROM \n___ \nWHERE consumo_id = 6;est", "consumos"));
         // Adição de novas perguntas com LIMIT
         perguntas.add(new Pergunta("Liste as 5 primeiras estações com maior consumo de energia. Complete a query:\nSELECT * \nFROM estacoes \nORDER BY consumo_energia DESC \n___ 5;", "LIMIT"));
         perguntas.add(new Pergunta("Encontre as 3 primeiras estações com maior capacidade de tripulantes. Complete a query:\nSELECT * \nFROM estacoes \nORDER BY capacidade_tripulantes DESC \n___ 3;", "LIMIT"));
