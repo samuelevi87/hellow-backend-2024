@@ -140,6 +140,31 @@ Dos exercícios
 
 
 
+### O que aprendi hoje:
+avg, min, max, sum, limit, order by
+
+### O que achei mais difícil:
+interprertar as perguntas
+
+### O que mais gostei:
+aprender
+
+### Exercícios do dia
+
+![Alt text](image-11.png)
+![Alt text](image-12.png)
+![Alt text](image-13.png)
+![Alt text](image-14.png)
+![Alt text](image-15.png)
+![Alt text](image-16.png)
+![Alt text](image-17.png)
+![Alt text](image-18.png)
+![Alt text](image-19.png)
+
+### Sentimento do dia:
+![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExem93azRqcWJ3MGJpcTNiYWNwdGgxdHoyYjF2ZmUxYWJ4dnV1MGpkaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/v5s1WhJibscgveoNH9/giphy.webp)
+
+
 
 
 
