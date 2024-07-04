@@ -223,3 +223,25 @@ Eu curti de fazer as atividades na pratica.
 ![Alt text](image-18.png)
 ![Alt text](image-9.png)
 ---
+
+# Diário de Bordo - [Hellow 2024/Trilha DEV Backend]
+
+## Data: [04-07-2024]
+
+### O que aprendi hoje:
+Hoje eu revi em forma de exercicios o que aprendi na aula passada pelo w3school.
+
+### O que achei mais difícil:
+ao iniciar as atividades eu achei dificil a parte de selecionar a certa pasta, registro, arquivos ou quantidade dessas coisas, achei dificil achar os nomes dessas coisas assim.
+
+### O que mais gostei:
+quando eu peguei o jeito de fazer, quando eu achei a logica.
+
+### Sentimento do dia:
+![Alt Text]()
+Escolha um GIF que melhor represente seu sentimento sobre a aula de hoje. Você pode usar sites como Giphy para encontrar o GIF perfeito.
+
+### Exercícios do dia
+
+![Alt text](image-20.png)
+---
