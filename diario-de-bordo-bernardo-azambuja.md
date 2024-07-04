@@ -127,3 +127,21 @@ De aprender QLS.
 ### Sentimento do dia:
 ![Alt Text](URL_DO_GIF)
 Escolha um GIF que melhor represente seu sentimento sobre a aula de hoje. Você pode usar sites como Giphy para encontrar o GIF perfeito.
+
+# Diário de Bordo - [Hellow 2024/Trilha DEV Backend]
+
+## Data: [04-07-2024]
+
+### O que aprendi hoje:
+Base de banco de dados
+![Alt text](image-18.png)
+
+### O que achei mais difícil:
+Select
+
+### O que mais gostei:
+Do lanche
+
+### Sentimento do dia:
+![Alt Text](URL_DO_GIF)
+Escolha um GIF que melhor represente seu sentimento sobre a aula de hoje. Você pode usar sites como Giphy para encontrar o GIF perfeito.
