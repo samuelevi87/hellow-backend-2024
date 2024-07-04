@@ -202,7 +202,7 @@ Liste as estações offline por ordem de última manutenção. No w3School achei
 Eu curti de fazer as atividades na pratica.
 
 ### Sentimento do dia:
-![Alt Text](URL_DO_GIF)
+![Alt Text](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnd5bW0wdnFmNWxudmhtZ2t0ZzUxdXoyY2llNjl2ajY0OGJpOGx3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Tw0rSdQs4fbJC/giphy.webp)
 
 
 ## Exercícios do dia
@@ -238,7 +238,7 @@ ao iniciar as atividades eu achei dificil a parte de selecionar a certa pasta, r
 quando eu peguei o jeito de fazer, quando eu achei a logica.
 
 ### Sentimento do dia:
-![Alt Text]()
+![Alt Text](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWl4YzR2Z3N6NzF4ZW1uMjFhZHVzOW5hZ2F5Ymwwa2V3b2pzMjZ1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pYWyPf8dQWmGI/giphy.webp)
 Escolha um GIF que melhor represente seu sentimento sobre a aula de hoje. Você pode usar sites como Giphy para encontrar o GIF perfeito.
 
 ### Exercícios do dia
