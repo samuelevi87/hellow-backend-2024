@@ -174,5 +174,23 @@ do jogo investigação futuristica
 
 ### Sentimento do dia:
 ![animados](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHp4b2hxYXB2dTI3dzZ6cWQzdGd0Y3A0ZXc5aW9icGEzZnVtZHR2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UFGj6EYw5JhMQ/giphy.webp)
+ 
+
+ ## Data: [04-07-2024]
+
+### O que aprendi hoje:
+ jogo Investigação futurista  usando os comandos:where,select,order by,asc e desc
+
+
+### O que achei mais difícil:
+em lembrar qual era o descendente e ascendente
+
+### O que mais gostei:
+do jogo investigação futuristica
+### atividades do dia:
+![Alt text](image-24.png)
+
+### Sentimento do dia:
+![animados](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHp4b2hxYXB2dTI3dzZ6cWQzdGd0Y3A0ZXc5aW9icGEzZnVtZHR2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UFGj6EYw5JhMQ/giphy.webp)
 
 
