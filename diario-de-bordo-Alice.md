@@ -193,12 +193,12 @@ Após o recreio acessamos o w3schools e fizemos alguns exercicios da aula passad
 ## Data: [04-07-2024]
 
 ### O que aprendi hoje:
-finalizamos os exercicios da aula passada(w3schools) sobre banco de dados.
+finalizamos os exercicios da aula passada(w3schools) sobre banco de dados,e depois do recreio fizemos mais alguns exercicios de revisao.
 ### O que achei mais difícil:
-certos exercicios que tive mais dificuldade em entender
+certos exercicios que tive mais dificuldade em entender,nao tinha entendido muito bem mas depois peguei o jeito.
 
 ### O que mais gostei:
-que consegui compreender a maioria dos exercicios 
+que consegui compreender a maioria dos exercicios, da explicacao do professor que acabou ajudando muito, para eu compreender os exercicios 
 ### Sentimento do dia:
 ![Alt Text](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExenluNXBxMzE1eGFtZ29qcTZwbThqdGZxbXdyd2wzb3NkZ3MwZzkwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cA8avT0IRUuTGhbx9V/giphy.webp)
 
@@ -209,3 +209,5 @@ que consegui compreender a maioria dos exercicios
 ![Alt text](image-20.png)
 
 ![Alt text](image-21.png)
+
+![Alt text](image-22.png)
