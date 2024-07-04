@@ -206,13 +206,13 @@ Após o recreio acessamos o w3schools e fizemos vários exercicíos.
 ## Data: [04-05-2024]
 
 ### O que aprendi hoje:
-Finalizamos os exercicios no plataforma W3schools.
+Finalizamos os exercicios no plataforma W3schools, e fizemos um exercicio de revisão de min , max , count , sum , limit.
 
 ### O que achei mais difícil:
 Em certos exercicios senti mais dificuldade.
 
 ### O que mais gostei:
-Que consegui finalizar os 50 exercicios quase sem o auxilio do professor .
+Que consegui finalizar todos os exercicios quase sem ajuda do professor . 
 
 ### Sentimento do dia:
 ![Alt Text](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGY3ODc3MGx1NHo5bG0wZ3o1eWl3YzFycDZqNHozczVtNTViOGJvZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11sBLVxNs7v6WA/giphy.webp)
@@ -224,3 +224,5 @@ Que consegui finalizar os 50 exercicios quase sem o auxilio do professor .
 ![Alt text](image-20.png)
 
 ![Alt text](image-21.png)
+
+![Alt text](image-22.png)
