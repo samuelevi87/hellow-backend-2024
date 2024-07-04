@@ -38,3 +38,50 @@ nada eu sou bom
 ![Alt text](Capturar.JPG)
 
 ![Alt Text](https://media.giphy.com/media/aLaUvXKMZIdH9RoxLs/giphy.gif?cid=790b7611vzbykumaf49o3powhj3v2kipmjwtt8vlrx148tzl&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
+
+
+
+
+
+
+
+
+# Diário de Bordo - [Hellow 2024/Trilha DEV Backend]
+
+## Data: [27-06-2024]
+
+### O que aprendi hoje:
+a encontrar, ordenar, etc.
+![Alt text](image-5.png)
+
+depois do intervalo
+![Alt text](![Alt text](Capturar-2.PNG))
+### O que achei mais difícil:
+nada eu sou bom
+
+### O que mais gostei:
+tudo
+### Sentimento do dia:
+![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWlyeml4bTF3aDdsZHc3ajBoNG4xbGJ3MndycmpvbWNhbG1lOTV5ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/0h56Kd7co6uHmNmMPL/giphy.gif)
+
+
+# Diário de Bordo - [Hellow 2024/Trilha DEV Backend]
+
+## Data: [04-07-2024]
+
+### O que aprendi hoje:
+programação
+
+### O que achei mais difícil:
+tudo
+![Alt text](image-7.png)
+### O que mais gostei:
+tudo
+
+### Sentimento do dia:
+![Alt text](https://media.giphy.com/media/1YeKAMmdGI4dEUU8Wk/giphy.gif?cid=790b7611pzayp2rig7afsr4yu31sva4nb21u7g4oilc7lkuu&ep=v1_gifs_search&rid=giphy.gif&ct=g)INICIO
+
+
+
+![Alt text](https://media.giphy.com/media/BtEOBvqYDLwkApYJjT/giphy.gif)FINAL
