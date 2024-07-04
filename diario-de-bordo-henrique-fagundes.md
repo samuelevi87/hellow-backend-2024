@@ -184,7 +184,24 @@ Gostei da lore do jogo que o professor fez.
 ![aa](https://media1.tenor.com/m/b-JGz__Q_YMAAAAd/teardown-explosion.gif)
 
 ---
+## Data: [04-07-2024]
 
+### O que aprendi hoje:
+Apenas reforçamos o aprendizado de MySQL.
+
+### O que achei mais difícil:
+Achei mais difícil descobrir o nome das tabelas da atividade.
+
+### O que mais gostei:
+Gostei da explicação em slides que o professor fez.
+
+### Sentimento do dia:
+![abcd](https://media1.tenor.com/m/xvPt2z_D0fAAAAAC/all-the-things-database.gif)
+
+### Exercícios do dia:
+![Alt text](image-22.png)
+
+---
 ## Data: [DD-MM-AAAA]
 
 ### O que aprendi hoje:
@@ -199,3 +216,5 @@ Compartilhe o que você mais gostou na aula de hoje. Isso pode ser um tópico es
 ### Sentimento do dia:
 ![Alt Text](URL_DO_GIF)
 Escolha um GIF que melhor represente seu sentimento sobre a aula de hoje. Você pode usar sites como Giphy para encontrar o GIF perfeito.
+
+### Exercícios do dia:
