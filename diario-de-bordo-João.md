@@ -205,3 +205,42 @@ TUDO
 ![Alt Text](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnh0ajVvNjV5OWtwdG93NWhoZWJya2lxODcwMGdwZDF4YXN4NDh4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEduXKKfBX6PPLiGQ/giphy.webp)
 
 ---
+
+## Data: [20-06-2024]
+
+### O que aprendi hoje:
+Sobre banco de dados
+
+### O que achei mais difícil:
+Nada
+
+### O que mais gostei:
+Tudo
+### Exercícios do dia 
+
+![Alt text](Capturar1.PNG)
+![Alt text](Capturar.PNG)
+
+### Sentimento do dia:
+![Alt Text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzBuMjd0NnkyaHpzc3Eyb3djb2hybHRxemM1djhsNXNtbjZjd215bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT77Y8eeEhBA8NQwLK/giphy.gif)
+
+---
+
+## Data: [04-07-2024]
+
+### O que aprendi hoje:
+Mais coisas sobre banco de dados
+
+### Exercícios do dia
+![Alt text](Capturar16.PNG)
+=======
+
+### O que achei mais difícil:
+Algumas coisas
+### O que mais gostei:
+TUDO
+
+### Sentimento do dia:
+![Alt Text](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnh0ajVvNjV5OWtwdG93NWhoZWJya2lxODcwMGdwZDF4YXN4NDh4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEduXKKfBX6PPLiGQ/giphy.webp)
+
+---
