@@ -209,5 +209,32 @@ Jogar o jogo do Banco de dados!
 
 ![Alt text](image-14.png)
 
+![Alt text](image-15.png)
+
+![Alt text](image-16.png)
+
+![Alt text](image-17.png)
 ### Sentimento do dia:
 ![Alt text](https://media.giphy.com/media/Rlwz4m0aHgXH13jyrE/giphy.gif?cid=ecf05e47cutmzza2esi881c16hgnk4qmqewnamcwqb88mmqm&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
+---
+
+## Data: [04-07-2024]
+
+### O que aprendi hoje:
+Terminei os exercicios do W3school.
+
+### O que achei mais difícil:
+Os exercicios de Join.
+
+### O que mais gostei:
+Eu gostei de fazer os exercícios de database.
+
+### Exercicios do dia
+![Alt text](image-15.png)
+
+![Alt text](image-16.png)
+
+![Alt text](image-17.png)
+### Sentimento do dia:
+![Alt text]()
