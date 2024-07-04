@@ -250,3 +250,20 @@ joga
 ![Nada](https://media.giphy.com/media/yFQ0ywscgobJK/giphy.gif?cid=790b7611wm1v5jhex40ypgfkb8034zmnv0sj7ea0fuu1kni7&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 ---
+
+## Data: [04-07-2024]
+
+### O que aprendi hoje:
+codigos do SQL
+
+### O que achei mais difícil:
+nada
+
+### O que mais gostei:
+jogar os exercios que o profesor fez
+
+### Sentimento do dia:
+![nada](https://media.giphy.com/media/GRk3GLfzduq1NtfGt5/giphy.gif?cid=ecf05e473sm4svl8mm1kw5pkn72c23xtzh76vf14d8txfiyv&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
+
+---
