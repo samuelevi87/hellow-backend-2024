@@ -186,3 +186,27 @@ eu gostei de fazer os execicios de orden by.
 ![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTU4bzQzYmdyNWxmbGZ2MWNjY2hhc2t5NDdwd2c3cmdlYzUwbXRzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tXL4FHPSnVJ0A/giphy.webpf)
 
 ---
+
+## Data: [27/06/2024]
+
+### O que aprendi hoje:
+ fizermos os exercicios de banco de dados e aprendemos Fundamentos-de-Banco-de-Dados.
+
+### O que achei mais difícil:
+no inicio achei meio complicado mais depois que eu consegui pegar o jeito do exercicios de bancos de dados tudo ficou mais faci, e nao podemos esquecere de repetir varias vezes.
+
+### O que mais gostei:
+de pegar o jeito dos exercicios.
+
+
+### Exercicios do dia:
+
+(![Alt text](image-19.png))
+
+### Sentimento do dia:
+![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTU4bzQzYmdyNWxmbGZ2MWNjY2hhc2t5NDdwd2c3cmdlYzUwbXRzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tXL4FHPSnVJ0A/giphy.webpf)
+
+---
+
+
+---
