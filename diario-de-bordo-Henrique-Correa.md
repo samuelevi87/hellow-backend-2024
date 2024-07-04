@@ -192,3 +192,25 @@ Depois do intervalo o que eu mais gostei foi como o SQL faz várias funções co
 ![Alt text](https://media.giphy.com/media/fUQ4rhUZJYiQsas6WD/giphy.gif?cid=790b7611a3dh258hrxp1kxy3cufjfhcn9hs8fshf9sq0j84s&ep=v1_gifs_trending&rid=giphy.gif&ct=g)
 
 ---
+## Data: [04-07-2024]
+
+### O que aprendi hoje:
+Hoje eu aprendi como usar os comandos SUM, MIN, MAX, AVG, COUNT e LIMIT.
+
+### O que achei mais difícil:
+Usar corretamente cada comando nos exercícios do Intellij
+
+### O que mais gostei:
+Oque eu mais gostei foi os slides sobre os comandos do SQL.
+
+### Sentimento do dia:
+![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmg1bDRoYWxrcThpbTN4dHI3Y2VxMTZneW5xcjl1ajh0ejBuZzJuYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/k1Psl92gw7YPSPYFKm/giphy.gif)
+
+### W3school atividades
+![Alt text](image-17.png)
+![Alt text](image-18.png)
+![Alt text](image-19.png)
+
+### Intellij questões
+![Alt text](image-20.png)
+---
