@@ -222,13 +222,13 @@ Jogar o jogo do Banco de dados!
 ## Data: [04-07-2024]
 
 ### O que aprendi hoje:
-Terminei os exercicios do W3school.
+Terminei os exercicios do W3school e depois fiz exercicios de Funções Agregadas e LIMIT.
 
 ### O que achei mais difícil:
-Os exercicios de Join.
+Os exercicios de Join e de SQL.
 
 ### O que mais gostei:
-Eu gostei de fazer os exercícios de database.
+Eu gostei de fazer os exercícios de database e os exercicios de funcões agregadas.
 
 ### Exercicios do dia
 ![Alt text](image-15.png)
@@ -237,4 +237,4 @@ Eu gostei de fazer os exercícios de database.
 
 ![Alt text](image-17.png)
 ### Sentimento do dia:
-![Alt text]()
+![Alt text](https://media.giphy.com/media/HMpcgxAZs5YYHsbe8P/giphy.gif?cid=790b7611jg4lcvoc2kmain2p8htv6k52vwo3or1mqhw71gy3&ep=v1_gifs_search&rid=giphy.gif&ct=g)
