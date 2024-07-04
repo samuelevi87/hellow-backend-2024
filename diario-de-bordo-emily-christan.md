@@ -76,7 +76,7 @@ Que a gente jogou.
 ![Feliz](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2gwaXRmZmJsYjg2eXdqdnVwbTF6b2RmcHR4M2x2cTNoOHdqNnltOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EOpZ7XsVfTN2E/giphy.gif)
 
 ---
- Diário de Bordo - [Hellow 2024/Trilha DEV Backend]
+
 ## Data: [23-05-2024]
 
 ### O que aprendi hoje:
@@ -182,3 +182,27 @@ Após o recreio acessamos o w3 school e fizemos os exercicios.
 ![Alt text](image-19.png)
 
 ![Alt text](image-20.png)
+
+---
+
+## Data: [04-07-2024]
+
+### O que aprendi hoje:
+Finalizei os exercicios sobre banco de dados, e depois do intervalo começamos os exercicios no Java.
+
+### O que achei mais difícil:
+Eu achei mais dificil entender como resolvia os exercicios, pois tive dificuldade.Os exercicios no Java no começo tive bastante dificuldade, mas com a ajuda dos meus colegas do lado eu compreendi com muito mais facilidade.
+
+### O que mais gostei:
+Que eu conclui os exercicios no W3 School. E também que hoje eu consegui fazer 60 exercicios no Java, fiquei muito orgulhosa de mim.
+
+### Sentimento do dia:
+![Alt text](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXN1andicnJlOTh2ZWdhMGE5ZG1zNmExMWZteHhtMnZtOWFhMnhmMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/b5LTssxCLpvVe/giphy.webp)
+
+### Exercicios do dia 
+
+![Alt text](image-21.png)
+
+![Alt text](image-22.png) 
+
+![Alt text](image-23.png)
