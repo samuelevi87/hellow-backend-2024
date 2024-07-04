@@ -181,3 +181,24 @@ Depois do intervalo:
 ![Alt Text](https://media1.tenor.com/m/WtVnnj9BBpsAAAAC/xmas-happy.gif)
 
 ---
+# Diário de Bordo - [Hellow 2024/Trilha DEV Backend]
+
+## Data: [04-07-2024]
+
+### O que aprendi hoje:
+Revisei o conteúdo de banco de dados
+
+### O que achei mais difícil:
+A decorar o ASC e o DESC
+
+### O que mais gostei:
+De responder as perguntas novas
+
+### Exercicios do Dia
+
+![Alt text](image-10.png)
+
+### Sentimento do dia:
+![Alt Text](https://media.tenor.com/WvBQgmJ6iAEAAAAi/pain.gif)
+
+---
