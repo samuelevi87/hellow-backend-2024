@@ -165,3 +165,23 @@
 ![Alt text](image-16.png)
 ![Alt text](image-18.png)
 ![Alt text](image-17.png)
+
+---
+
+# Diário de Bordo - [Hellow 2024/Trilha DEV Backend]
+
+## Data: [04/07/2024]
+
+### O que aprendi hoje:
+**revisar os conceitos de SQL da aula passada**
+
+### O que achei mais difícil:
+**responder as questoes**
+
+### O que mais gostei:
+**responder as qustoes**
+### Sentimento do dia:
+![Alt Text](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3lkcmJocm9yNTh0cTRqODA5b3F6eWU2MTNmd2NjNjV3eHloOGw0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1LweXxLwVT0J2/giphy.webp)
+### Exerícios do dia
+
+![Alt text](image-19.png)
