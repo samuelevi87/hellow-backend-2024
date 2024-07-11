@@ -197,3 +197,23 @@ De jogar o com os comandos SQL.
 ### Sentimento do dia:
 ![Bem](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHFjanNldDAzdWR5cmwyanA4bTJoMzcwNnl1azh3dG81NDQxZ3Z5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fUQ4rhUZJYiQsas6WD/giphy.webp)
 
+
+---
+
+## Data: [04-07-2004]
+
+### O que aprendi hoje:
+hoje fizemos uma atividade sobre o banco de dados.
+
+### O que achei mais difícil:
+Lembrar dos comnados.
+
+![Alt text](image-18.png)
+
+### O que mais gostei:
+De fazer as atividades.
+
+### Sentimento do dia:
+![Alt Text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ25oMG5tbHMxdWQ1c2xoNzdqeThpN3NhNXF6MGJnemFiMGR6eDZoaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/v5s1WhJibscgveoNH9/giphy.webp)
+
+
