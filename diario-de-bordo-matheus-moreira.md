@@ -207,3 +207,18 @@ A História do jogo.
 
 ### Sentimento do dia:
 ![Alt Text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHFjanNldDAzdWR5cmwyanA4bTJoMzcwNnl1azh3dG81NDQxZ3Z5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fUQ4rhUZJYiQsas6WD/giphy.webp)
+
+
+## Data: [04-07-2024]
+
+### O que aprendi hoje:
+Hoje nos aprendemos mais algums comandos do SQL.
+
+### O que achei mais difícil:
+as atividades -_-
+
+### O que mais gostei:
+de tudo.
+
+### Sentimento do dia:
+![Alt Text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2FoMWUzNnVwcnhhemN5eWI5em1sdm9oN2djdG9taG1zZjIxZmNhNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tsX3YMWYzDPjAARfeg/giphy.webp)
