@@ -224,3 +224,27 @@ TUDO
 ![Alt Text](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnh0ajVvNjV5OWtwdG93NWhoZWJya2lxODcwMGdwZDF4YXN4NDh4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEduXKKfBX6PPLiGQ/giphy.webp)
 
 ---
+
+## Data: [01-08-2024]
+
+### O que aprendi hoje:
+coisas sobre IA
+
+### Exercícios do dia
+<video src="500597bb-1503-4df8-8c6b-e01a55912666.mp4" controls title="Title"></video>
+
+![Alt text](rosto.jpg)
+
+imagem(leonardo.ai)
+áudio(ttsmaker)
+vídeo(hedra)
+
+=======
+
+### O que achei mais difícil:
+Algumas coisas
+### O que mais gostei:
+TUDO
+
+### Sentimento do dia:
+![Alt Text](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnh0ajVvNjV5OWtwdG93NWhoZWJya2lxODcwMGdwZDF4YXN4NDh4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEduXKKfBX6PPLiGQ/giphy.webp)
