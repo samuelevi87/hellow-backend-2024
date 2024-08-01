@@ -145,3 +145,20 @@ Do lanche
 ### Sentimento do dia:
 ![Alt Text](URL_DO_GIF)
 Escolha um GIF que melhor represente seu sentimento sobre a aula de hoje. Você pode usar sites como Giphy para encontrar o GIF perfeito.
+
+## Data: [01-08-2024]
+
+### O que aprendi hoje:
+Revisão de conceitos de logica e geração de um video de um conceito que aprendemos hoje.
+
+### O que achei mais difícil:
+Fazer um comando para IA gerar a imagem que eu queria.
+
+### O que mais gostei:
+De brincar de gerar imagens
+### Sentimento do dia:
+![Alt Text](URL_DO_GIF)
+Escolha um GIF que melhor represente seu sentimento sobre a aula de hoje. Você pode usar sites como Giphy para encontrar o GIF perfeito.
+![Alt Text](https://ideogram.ai/assets/progressive-image/balanced/response/8aHYoSkxT3mwj21S0D5k6w)
+![Alt Text](https://ideogram.ai/assets/image/lossless/response/MCOwgV6TQEipBZ9hKwlS7w)![Alt text](Default_An_elderly_man_with_a_long_white_beard_and_a_prominent_2.jpg)
+ <audio src="ttsmaker-file-2024-8-1-16-18-11.mp3" controls title="Title"></audio> <video src="b2af15b4-4298-4fce-96cf-45c0b0e52979%20(3).mp4" controls title="Title"></video>
