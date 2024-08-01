@@ -148,3 +148,21 @@ De aprender sobre bancos de dados.
 ![Alt Text](https://media.giphy.com/media/dHVmCgdJ4VXYM11bWU/giphy.gif?cid=790b7611xewifzfqolh9a9p3wziu4qlx8g95ig4gb6wunitw&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 ![Alt text](Capturar-2.PNG)
+
+---
+## Data: [01-08-2024]
+
+### O que aprendi hoje:
+Hoje tive uma revisão dos assuntos que aprendi até agora e aprendi a usar IA para gerar vídeos.
+
+### O que achei mais difícil:
+O que achei mais difícil foi ter uma imagem perfeita para gerar o vídeo.
+
+### O que mais gostei:
+O que mais gostei foi o professor ter nos mostrado as ferramentas de IA
+
+### Sentimento do dia:
+![Alt Text](https://media.giphy.com/media/hZfm9Pj95F9Mk/giphy.gif?cid=790b76110bs13hd7ry8cgrry6uxh6h74sfeoyp66u65itxmq&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
+(<video src="39cd129a-a2b8-4b32-b642-7fbb503cee7d-1.mp4" controls title="Title"></video>)
+
