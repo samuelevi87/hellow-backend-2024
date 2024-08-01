@@ -211,5 +211,8 @@ brincar com ia
 ### Sentimento do dia:  
 felicidade
 
+### atividades do dia
 
 <video src="ea4f9636-32eb-4105-acc0-4d36daed3aaf%20(1).mp4" controls title="Title"></video>
+
+<audio src="ttsmaker-file-2024-8-1-16-21-46.mp3" controls title="Title"></audio>
