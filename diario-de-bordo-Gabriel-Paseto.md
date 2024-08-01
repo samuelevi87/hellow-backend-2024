@@ -245,3 +245,46 @@
 ![Alt Text](https://media4.giphy.com/media/2QYXlNR3pw0OtNC9Ex/giphy.webp?cid=ecf05e47gs5xy7qrwjia9jnp2r9aux8dyfhbo8787te3lg9m&ep=v1_gifs_search&rid=giphy.webp&ct=g)
 
 ---
+## Data: [11-07-2024]
+
+### O que aprendi hoje:
+**Um pouco mais sobre sql**
+
+### O que achei mais difícil:
+**Algumas questoes da prova.**
+
+### O que mais gostei:
+**De poder responder a prova corretamente.**
+
+### Sentimento do dia:
+![Alt Text](https://media1.giphy.com/media/96suQaNpBRyE/200.webp?cid=790b7611d4rhahr5j4zy4uwzkouooggcewsiiuq9ezn6t4fx&ep=v1_gifs_search&rid=200.webp&ct=g)
+
+### Atividades do dia
+
+![Alt text](image-25.png)
+---
+
+## Data: [01-08-2024]
+
+### O que aprendi hoje:
+**A usar algumas inteligencias artificiais**
+
+### O que achei mais difícil:
+**Alguns passos que nao tinha entendido**
+
+### O que mais gostei:
+**De poder aprender isso, e poder usar nos dias.**
+
+### Sentimento do dia:
+![Alt Text](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHBid3BtbGdobDZ5bml3MHR4MjRvcXhnMXBmNmFkdHl2YTk2MTZidyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3ndAvMC5LFPNMCzq7m/giphy.webp)
+
+### Atividades do dia
+
+![Alt text](rosto.jpg)
+
+<audio src="ttsmaker-file-2024-8-1-16-17-10.mp3" controls title="Title"></audio>
+
+<video src="459f6e8c-1387-48cb-853c-57d47871f70d.mp4" controls title="Title"></video>
+
+
+---
