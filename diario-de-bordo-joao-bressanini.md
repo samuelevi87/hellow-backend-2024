@@ -238,3 +238,26 @@ Eu gostei de fazer os exercícios de database e os exercicios de funcões agrega
 ![Alt text](image-17.png)
 ### Sentimento do dia:
 ![Alt text](https://media.giphy.com/media/HMpcgxAZs5YYHsbe8P/giphy.gif?cid=790b7611jg4lcvoc2kmain2p8htv6k52vwo3or1mqhw71gy3&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
+---
+
+## Data: [01-08-2024]
+
+### O que aprendi hoje:
+Fizemos revisões dos exercicios passados e usamos diversas inteligencias artificiais.
+
+### O que achei mais difícil:
+Transformar o audio e a imagem em uma imagem falando.
+
+### O que mais gostei:
+De fazer a atividade da imagem que fala.
+
+### Sentimento do dia:
+![Alt text](https://media.giphy.com/media/3ndAvMC5LFPNMCzq7m/giphy.gif?cid=82a1493bqu3kj1gnmtm0nfuskh4zvxid7x0kt1nbdcqzz8cv&ep=v1_gifs_trending&rid=giphy.gif&ct=g)
+
+## Atividades do dia
+<video src="2024-08-01/15b7d371-a26f-4be9-98d4-b2dc37d3a61d%20(2).mp4" controls title="Title"></video>
+
+![Alt text](2024-08-01/Default_Create_a_highly_realistic_image_of_a_young_mans_face_w_3.jpg)
+
+<audio src="2024-08-01/ttsmaker-file-2024-8-1-16-22-1.mp3" controls title="Title"></audio>
