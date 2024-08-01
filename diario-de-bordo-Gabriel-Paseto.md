@@ -281,10 +281,6 @@
 ### Atividades do dia
 
 ![Alt text](rosto.jpg)
-
-<audio src="ttsmaker-file-2024-8-1-16-17-10.mp3" controls title="Title"></audio>
-
 <video src="459f6e8c-1387-48cb-853c-57d47871f70d.mp4" controls title="Title"></video>
-
-
+<audio src="2024-08-01%20-%20Arquivos%20do%20dia/ttsmaker-file-2024-8-1-16-17-10.mp3" controls title="Title"></audio>
 ---
