@@ -213,4 +213,27 @@ Oque eu mais gostei foi os slides sobre os comandos do SQL.
 
 ### Intellij questões
 ![Alt text](image-20.png)
+
+---
+
+## Data: [01-08-2024]
+
+### O que aprendi hoje:
+Fizemos uma revisão sobre os comandos java e SQL e usamos inteligência artificial para criar uma imagem e faze-la falar um parágrafo. 
+
+### O que achei mais difícil:
+Não achei nada muito difícil.
+
+### O que mais gostei:
+Eu gostei da imagens feitas por IA.
+
+### Sentimento do dia:
+![Alt Text](https://media.giphy.com/media/2A75RyXVzzSI2bx4Gj/giphy.gif?cid=790b76116plx4cp1hd76ozqeysmq6z25csflv0aac86h5yvn&ep=v1_gifs_trending&rid=giphy.gif&ct=g)
+
+### Atividades do dia
+![Alt text](2024-08-01/Default_A_refined_portrait_of_a_young_man_with_a_neatly_groome_3.jpg)
+
+<audio src="2024-08-01/ttsmaker-file-2024-8-1-16-19-40.mp3" controls title="Title"></audio>
+
+<video src="2024-08-01/d923103c-43ea-4e08-9459-d49497fb24c7.mp4" controls title="Title"></video>
 ---
