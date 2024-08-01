@@ -213,7 +213,7 @@ Fizemos uma revisão de banco de dados e lógica de programação, devido às f�
 Achei legal a IA fazendo a imagem falar, porque ela até preenche o background conforme a pessoa se mexe no vídeo.
 
 ### Sentimento do dia:
-![Alt Text](URL_DO_GIF)
+![Alt Text](https://media1.tenor.com/m/CYh3fnAc9LcAAAAd/ai-robot.gif)
 
 ### Exercícios do dia:
 ### Imagem gerada por IA
@@ -224,8 +224,6 @@ Achei legal a IA fazendo a imagem falar, porque ela até preenche o background c
 
 ### Vídeo gerado por IA
 <video src="2024-08-01/434470bf-4b55-4b61-83e9-5dac44bb2a17.mp4" controls title="Title"></video>
-
-
 
 ---
 ## Data: [DD-MM-AAAA]
