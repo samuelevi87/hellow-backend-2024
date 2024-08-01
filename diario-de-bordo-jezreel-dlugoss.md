@@ -245,3 +245,25 @@ Escolha um GIF que melhor represente seu sentimento sobre a aula de hoje. Você 
 
 ![Alt text](image-20.png)
 ---
+
+## Data: [01-08-2024]
+
+### O que aprendi hoje:
+Hoje fizemos a revisão de todos os assuntos que apredemos anteriormente, além que demos uma brincada usando a inteligencia artificial
+
+### O que achei mais difícil:
+em relação a tudo não achei nada muito dificil.
+
+### O que mais gostei:
+Fazer o video usando inteligencia artificial
+
+### Sentimento do dia:
+![Alt Text](https://media1.tenor.com/m/iR3MzE06ToYAAAAC/dunking-luigi.gif)
+Escolha um GIF que melhor represente seu sentimento sobre a aula de hoje. Você pode usar sites como Giphy para encontrar o GIF perfeito.
+
+### Atividade do Dia
+![Alt text](<2024-08-01/imagemAi (1).jpg>)
+![Alt text](<2024-08-01/imagemAi (2).jpg>)
+<video src="2024-08-01/AIAtividade.mp4" controls title="Title"></video>
+![Alt text](2024-08-01/ImagemAI.jpeg)
+---
