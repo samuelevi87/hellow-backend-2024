@@ -194,3 +194,45 @@ do jogo investigação futuristica
 ![animados](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHp4b2hxYXB2dTI3dzZ6cWQzdGd0Y3A0ZXc5aW9icGEzZnVtZHR2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UFGj6EYw5JhMQ/giphy.webp)
 
 
+ ## Data: [11-07-2024]
+
+### O que aprendi hoje:
+ comandos sql na prova
+
+
+### O que achei mais difícil:
+decorar pra que servia alguns comandos
+
+### O que mais gostei:
+de fazer a prova
+### atividades do dia:
+![Alt text](image-25.png)
+
+### Sentimento do dia:
+![animados]()
+
+
+ ## Data: [01-08-2024]
+
+### O que aprendi hoje:
+a mecher em IA
+
+
+### O que achei mais difícil:
+nao achei nada dificil
+
+### O que mais gostei:
+de gerar o video por IA
+
+### Sentimento do dia:
+![animados](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHp4b2hxYXB2dTI3dzZ6cWQzdGd0Y3A0ZXc5aW9icGEzZnVtZHR2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UFGj6EYw5JhMQ/giphy.webp)
+
+### atividades do dia:
+### foto gerada por IA:
+![Alt text](rosto.webp)
+### video gerado por IA:
+<video src="ad20366f-5643-4091-b271-867846407c1a%20(1).mp4" controls title="Title"></video
+### audio gerado por IA:
+<audio src="ttsmaker-file-2024-8-1-16-20-32.mp3" controls title="Title"></audio>
+
+
