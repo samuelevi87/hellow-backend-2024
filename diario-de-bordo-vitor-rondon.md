@@ -253,3 +253,28 @@ dos codigos
 
 
 ![Alt text](image-22.png)
+
+
+---
+## Data: [01-08-2024]
+
+### O que aprendi hoje:
+fazer uma imagem falar e revisamos as nossas aulas
+
+### O que achei mais difícil:
+nada.
+
+### O que mais gostei:
+tudo
+
+### Sentimento do dia:
+![Alt Text](https://media1.tenor.com/m/rnxxDS9kD3kAAAAd/pacarana-rat.gif)
+
+
+atividade do dia
+
+
+(<video src="d4e38142-824f-44fd-be11-56cf37408666.mp4" controls title="Title"></video>)
+
+
+(<audio src="ttsmaker-file-2024-8-1-16-44-5.mp3" controls title="Title"></audio>)
