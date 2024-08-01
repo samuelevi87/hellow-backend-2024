@@ -216,9 +216,15 @@ Achei legal a IA fazendo a imagem falar, porque ela até preenche o background c
 ![Alt Text](URL_DO_GIF)
 
 ### Exercícios do dia:
-![Alt text](Default_Create_a_highly_detailed_portrait_of_a_young_mans_face_1.jpg)
-<audio src="ttsmaker-file-2024-8-1-16-17-20.mp3" controls title="Title"></audio>
-<video src="434470bf-4b55-4b61-83e9-5dac44bb2a17.mp4" controls title="Title"></video>
+### Imagem gerada por IA
+![Alt text](2024-08-01/Default_Create_a_highly_detailed_portrait_of_a_young_mans_face_1.jpg)
+
+### Áudio gerado por IA
+<audio src="2024-08-01/ttsmaker-file-2024-8-1-16-17-20.mp3" controls title="Title"></audio>
+
+### Vídeo gerado por IA
+<video src="2024-08-01/434470bf-4b55-4b61-83e9-5dac44bb2a17.mp4" controls title="Title"></video>
+
 
 
 ---
