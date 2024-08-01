@@ -196,3 +196,20 @@ modo de aprender mas ao mesmo tempo se divertindo!
 ![Alt text](alias.PNG)
 ![Alt text](where.PNG)
 ![Alt text](1.PNG)
+
+## Data: [01-08-2024]
+
+### O que  aprendi hoje:
+revisão
+
+### O que achei mais difícil:
+nada, por ser revisão
+
+### O que mais gostei:
+brincar com ia
+
+### Sentimento do dia:  
+felicidade
+
+
+<video src="ea4f9636-32eb-4105-acc0-4d36daed3aaf%20(1).mp4" controls title="Title"></video>
