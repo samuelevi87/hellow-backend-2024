@@ -201,6 +201,47 @@ da explicaçao do professor
 ### Exercícios do dia:!
 ![Alt text](image-18.png)
 
+---
 
 
+# Diário de Bordo - [Hellow 2024/Trilha DEV Backend]
 
+## Data: [11-07-2024]
+
+### O que aprendi hoje:
+**NAda** 
+
+### O que achei mais difícil:
+**A prova**
+
+### O que mais gostei:
+**A nota da prova**
+
+### Sentimento do dia:
+![Alt Text](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWFic3cwY2c4d3ZpYXBlcnczMmNiOWIzc2xma3d0ZjI0cTRieWlxdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3ohhwF34cGDoFFhRfy/giphy.webp)
+
+### Exercícios do dia:!
+![Alt text](image-20.png)
+
+---
+
+
+# Diário de Bordo - [Hellow 2024/Trilha DEV Backend]
+
+## Data: [01-08-2024]
+
+### O que aprendi hoje:
+**Usar algumas inteligencias artificiais** 
+
+### O que achei mais difícil:
+**A aula foi suave**
+
+### O que mais gostei:
+**De ver a intenligencia artificial criando imagens**
+
+### Sentimento do dia:
+![Alt Text](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzRvNzRlZDhpbjFicDJxYXFkMHUwMjM5ZXY2eW05YzdnbHFzMjY3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ndAvMC5LFPNMCzq7m/giphy.webp)
+
+### Exercícios do dia:!
+<video src="fa779be5-0ed5-4c67-8749-3df34cb31f86.mp4" controls title="Title"></video>
+<audio src="ttsmaker-file-2024-8-1-16-18-23.mp3" controls title="Title"></audio>
