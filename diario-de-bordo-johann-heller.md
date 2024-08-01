@@ -185,3 +185,45 @@
 ### Exerícios do dia
 
 ![Alt text](image-19.png)
+
+---
+
+# Diário de Bordo - [Hellow 2024/Trilha DEV Backend]
+
+## Data: [11/07/2024]
+
+### O que aprendi hoje:
+**resumo e prova**
+
+### O que achei mais difícil:
+**a prova**
+
+### O que mais gostei:
+****
+### Sentimento do dia:
+![Alt Text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGkyb3BkcDdjYTlmM2w3cGJkNGFmaXRtMHhvZXhoMmk1b3IybDRyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kreQ1pqlSzftm/giphy.webp)
+### Exerícios do dia
+![Alt text](image-20.png)
+---
+
+# Diário de Bordo - [Hellow 2024/Trilha DEV Backend]
+
+## Data: [01/08/2024]
+
+### O que aprendi hoje:
+**a usar a usar algumas inteligencias artificias**
+
+### O que achei mais difícil:
+**a aula foi de boas**
+
+### O que mais gostei:
+**de usar as IAs**
+
+### Sentimento do dia:
+![Alt Text](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGFlMTl6MDcxZXdyN3F0MHYza3p5NHYxYmpyaDBiaDRxemh0b2t2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FVOU6vzPq3XtNfgA66/giphy.webp)
+
+### Exerícios do dia
+
+![Alt text](Default_A_weary_yet_joyful_face_of_a_45yearold_man_with_deepse_0.jpg)
+<audio src="ttsmaker-file-2024-8-1-16-16-37.mp3" controls title="Title"></audio>![Alt text](Default_A_closeup_portrait_of_a_focused_programmer_with_a_dete_3.jpg)![Alt text](Default_Create_an_image_of_a_young_adult_hacker_likely_in_thei_0.jpg)
+<video src="f62700ad-f00d-4fd7-a4bf-23d27591c8bb%20(1).mp4" controls title="Title"></video>
