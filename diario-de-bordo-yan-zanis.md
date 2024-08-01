@@ -85,3 +85,30 @@ tudo
 
 
 ![Alt text](https://media.giphy.com/media/BtEOBvqYDLwkApYJjT/giphy.gif)FINAL
+
+
+
+
+# Diário de Bordo - [Hellow 2024/Trilha DEV Backend]
+
+## Data: [01-08-2024]
+
+### O que aprendi hoje:
+a usar inteligencia artificial
+
+### O que achei mais difícil:
+o yuri me mandando sopa de macaco
+
+### O que mais gostei:
+rir com o professor e meus colegas
+
+### Sentimento do dia:
+![Alt Text](https://media.giphy.com/media/KR1C9HQphtDVe/giphy.gif?cid=790b7611trqke5bfcjstz71sevdkbsac8sskxzisdy12kx0f&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
+
+
+
+### Atividades do dia
+
+<video src="3c756a30-942f-4141-8d69-a65425beb374.mp4" controls title="Title"></video>
+<audio src="ttsmaker-file-2024-8-1-16-17-47.mp3" controls title="Title"></audio>
