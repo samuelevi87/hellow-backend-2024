@@ -136,7 +136,7 @@ De programar o trageto do pesonagem do jogo
 ### Oque eu mais gostei
 ![Alt text](Capturar.PNG)
 ---
-## Data: [DD-MM-AAA]
+## Data: [20-06-2024]
 
 ### O que aprendi hoje:
 A mexer com os bancos de dados e a usar o MySQL
@@ -200,5 +200,22 @@ De responder as perguntas novas
 
 ### Sentimento do dia:
 ![Alt Text](https://media.tenor.com/WvBQgmJ6iAEAAAAi/pain.gif)
+
+---
+## Data: [01-08-2024]
+
+### O que aprendi hoje:
+A fazer imagens falando sobre SQL.
+
+### O que achei mais difícil:
+Nada, foi bem tranquilo.
+
+### O que mais gostei:
+De aprender a fazer as imagens e os audios por AI
+### Exercicios do dia:
+<video src="a6e177af-f418-4812-93c6-e5eecb1e086a.mp4" controls title="Title"></video>
+
+### Sentimento do dia:
+![Alt Text](https://media.tenor.com/LltXMTmbSiwAAAAi/robots-thegude.gif)
 
 ---
