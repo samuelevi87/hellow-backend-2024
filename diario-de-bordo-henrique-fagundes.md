@@ -202,6 +202,25 @@ Gostei da explicação em slides que o professor fez.
 ![Alt text](image-22.png)
 
 ---
+## Data: [01-08-2024]
+
+### O que aprendi hoje:
+Fizemos uma revisão de banco de dados e lógica de programação, devido às férias, e fizemos uma imagem falar usando IA.
+
+### O que achei mais difícil:
+
+### O que mais gostei:
+Achei legal a IA fazendo a imagem falar, porque ela até preenche o background conforme a pessoa se mexe no vídeo.
+
+### Sentimento do dia:
+![Alt Text](URL_DO_GIF)
+
+### Exercícios do dia:
+![Alt text](image-23.png)
+<audio src="ttsmaker-file-2024-8-1-16-17-20.mp3" controls title="Title"></audio>
+<video src="434470bf-4b55-4b61-83e9-5dac44bb2a17.mp4" controls title="Title"></video>
+
+---
 ## Data: [DD-MM-AAAA]
 
 ### O que aprendi hoje:
