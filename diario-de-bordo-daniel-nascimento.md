@@ -234,5 +234,9 @@ De relembrar do comandos.
 
 <video src="db38f953-5618-47c4-ade6-23030a037434.mp4" controls title="Title"></video>
 
+![Alt text](<2024-08-01 - Arquivos do dia/crie-um-retrato-de-um-rosto-de-um-homem--xldOhwLQpynH6X3KAzrUw-81j_YKReRJuY7Oi2iTnXBw.jpeg>)
+
+<audio src="2024-08-01%20-%20Arquivos%20do%20dia/ttsmaker-file-2024-8-1-16-17-28.mp3" controls title="Title"></audio>
+
 ### Sentimento do dia:
 ![Bem](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDJ2YnJ6ajU3aGprdWcxZmVsODN1Z2xxN2Zvbm5udDFpa2p6emJwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UO5elnTqo4vSg/giphy.webp)
