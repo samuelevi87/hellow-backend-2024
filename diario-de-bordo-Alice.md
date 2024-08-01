@@ -211,3 +211,42 @@ que consegui compreender a maioria dos exercicios, da explicacao do professor qu
 ![Alt text](image-21.png)
 
 ![Alt text](image-22.png)
+
+## Data: [11-07-2024]
+
+### O que aprendi hoje:
+Fizemos alguns exercicos para relembrar os comandos de SQL para a prova e depois do recreio fizemos a prova
+### O que achei mais difícil:
+de enviar a prova 
+### O que mais gostei:
+De ter entendido os codigos de SQL e ter tirado 10 na prova
+### Sentimento do dia:
+![Alt Text](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXA4aDdiNDF1cWFwdjEwZ3RlenpucjFmdmJ1bTE2cWE2ZjZmdDN1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/geslvCFM31sFW/giphy.webp)
+
+![Alt text](image-23.png)
+---
+
+## Data: [01-08-2024]
+
+### O que aprendi hoje:
+Fizemos uma revisão dos conteudos passados e depois do recreio aprendemos a gerar uma imagem que fala que a minha imagem estava explicando a funçao do UPDATE do SQL.
+
+### O que achei mais difícil:
+Colocar as imagens no diario de bordo
+
+### O que mais gostei:
+De criar a imagem que fala achei muito legal.
+
+### Sentimento do dia:
+![Alt Text](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZrNXpzNzB4dTk3dTM3YWYyN2wxM2FzeHJoN294eHpqZ2J5aGQzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nDSlfqf0gn5g4/giphy.webp)
+
+
+### Atividades do dia :
+
+<video src="2024-08-01/bdeec4ec-bd7f-4176-9dec-d6ef683055ed.mp4" controls title="Title"></video>
+
+![Alt text](2024-08-01/ROSTO.webp)
+
+<audio src="2024-08-01/ttsmaker-file-2024-8-1-16-23-26.mp3" controls title="Title"></audio>
+
+---
