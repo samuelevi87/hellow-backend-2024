@@ -1,7 +1,7 @@
 c
 
 ---
-## Data: [11 e 18-4-2020]
+## Data: [11 e 18-4-202]
 
 ### O que aprendi hoje:
 aprendi oque é o github os comandos dele e para que ele serve
@@ -138,7 +138,7 @@ Dos exercícios
 ### Sentimento do dia:
 ![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY215eWpjem1raThrdGRmMGcxNTFrN3VzOGpjcDc4MzdkcTltMnVzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7vDoUoDZHoUQxMPkd7/giphy.webp)
 
-
+## Data: [04-07-2024]
 
 ### O que aprendi hoje:
 avg, min, max, sum, limit, order by
@@ -167,4 +167,40 @@ aprender
 
 
 
+## Data: [01-08-2024]
+
+### O que aprendi hoje:
+Fazer uma foto falar
+
+### O que achei mais difícil:
+Nada
+
+### O que mais gostei:
+usar o leonardo IA
+### Sentimento do dia:
+![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDFpbDczYWFvaTVtZ3EyZjgwbm1qc3M4dGwxbmt6bXNuZ255cmVvOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZqlvCTNHpqrio/giphy.webp)
+
+### Atividades do dia
+### Video gerado por IA:
+<video src="da679c87-9fac-4391-a95b-a85e4ac77e72%20(1)%20-%20Copia.mp4" controls title="Title"></video>
+
+### Foto gerada por IA:
+![Alt text](Default_A_regal_wise_and_aged_kings_face_with_a_strong_jawline_2-1.jpg)
+
+### audio gerado por IA:<audio 
+<audio src="ttsmaker-file-2024-8-1-16-19-23-2.mp3" controls title="Title"></audio>
+
+## Data: [11-07-2024]
+
+### O que aprendi hoje:
+Comandos SQL
+### O que achei mais difícil:
+A prova
+### O que mais gostei:
+Da minha nota
+### Sentimento do dia:
+![](https://media1.giphy.com/media/kEKcOWl8RMLde/giphy.webp?cid=82a1493bjnncuexennguxhh1ltrc7pnstjof0qzk0rn33fcr&ep=v1_gifs_trending&rid=giphy.webp&ct=g)
+
+### Prova do dia
+![Alt text](image-21.png)
 
