@@ -203,7 +203,7 @@ Após o recreio acessamos o w3schools e fizemos vários exercicíos.
 ![Alt text](image-18.png)
 
 ---
-## Data: [04-05-2024]
+## Data: [04-07-2024]
 
 ### O que aprendi hoje:
 Finalizamos os exercicios no plataforma W3schools, e fizemos um exercicio de revisão de min , max , count , sum , limit.
@@ -226,3 +226,45 @@ Que consegui finalizar todos os exercicios quase sem ajuda do professor .
 ![Alt text](image-21.png)
 
 ![Alt text](image-22.png)
+
+## Data: [11-07-2024]
+
+### O que aprendi hoje:
+ Antes do recreio fizemos uma revisão par prova e depois do recreio fizemos a prova 
+### O que achei mais difícil:
+Enviar a prova .
+
+### O que mais gostei:
+Tirei 10 .
+
+### Sentimento do dia:
+![Alt Text](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczJzczBqajgwNjN5aDU0eXFobTZtaDZ4d2prbGplZHVsMmM5YWl6diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aQYR1p8saOQla/giphy.webp)
+
+### Atividades do dia 
+
+![Alt text](image-23.png)
+
+---
+## Data: [01-08-2024]
+
+### O que aprendi hoje:
+Fizemos uma revisão e aprendemos a gerar uma imagem que fala .
+
+### O que achei mais difícil:
+Salvar as imagens .
+
+### O que mais gostei:
+Fazer uma imagem falar . 
+
+### Sentimento do dia:
+![Alt Text](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2x4ZTJoMmg1enhqYTlkdTJ6cTE1N3N3c2tkM2d3MTEydmE1dHdqZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vqJAJMr4klojK/giphy.webp)
+
+### Atividades do dia 
+
+![Alt text](<Default_A_soft_delicate_and_ethereal_portrait_of_a_feminine_fa_0 (1)-1.jpg>)
+
+<audio src="ttsmaker-file-2024-8-1-16-20-35.mp3" controls title="Title"></audio>
+
+<video src="56743e3a-1e2d-43c4-8d64-c5ce25659553.mp4" controls title="Title"></video>
+
+---
