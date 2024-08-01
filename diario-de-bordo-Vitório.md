@@ -223,3 +223,27 @@ Compartilhe o que você mais gostou na aula de hoje. Isso pode ser um tópico es
 Escolha um GIF que melhor represente seu sentimento sobre a aula de hoje. Você pode usar sites como Giphy para encontrar o GIF perfeito.
 ---
 ![Alt text](image-11.png)
+
+
+## Data: [01/08/2024]
+
+### O que aprendi hoje:
+revisão de conceitos lógicos e a fazer videos IA
+
+### Atividades do dia
+<video src="520cf523-315f-42e4-ac09-9c3c4685f69a%20(14).mp4" controls title="Title"></video>
+![Alt text](Default_A_decadent_goldenbrown_Portuguesestyle_folhado_doce_pa_3.jpg)
+![Alt text](Default_A_futuristic_hightech_background_with_a_subtle_grid_pa_3.jpg)
+### O que achei mais difícil:
+revisão de conceitos lógicos e a fazer videos IA
+
+### O que mais gostei:
+revisão de conceitos lógicos e a fazer videos IA
+
+### Sentimento do dia:
+![Alt Text](URL_DO_GIF)
+Escolha um GIF que melhor represente seu sentimento sobre a aula de hoje. Você pode usar sites como Giphy para encontrar o GIF perfeito.
+
+
+---
+
