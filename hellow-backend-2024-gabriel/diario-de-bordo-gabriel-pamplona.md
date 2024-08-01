@@ -75,3 +75,26 @@ A parte das perguntas que o prof passou
 ### Sentimento do dia:
 ![Alt Text](https://media1.tenor.com/m/PQ0j-WG-UdQAAAAC/easy.gif)
 Escolha um GIF que melhor represente seu sentimento sobre a aula de hoje. Você pode usar sites como Giphy para encontrar o GIF perfeito.
+
+
+---
+
+
+## Data: [01/08/2024]
+
+### O que aprendi hoje:
+aprendi a fazer imagem e colocar audio 
+
+### O que achei mais difícil:
+colocar audio na imagem
+
+### O que mais gostei:
+tudo
+
+### Sentimento do dia:
+![Alt Text](https://media1.tenor.com/m/eq8260kT5GAAAAAC/dog-angry.gif)
+Escolha um GIF que melhor represente seu sentimento sobre a aula de hoje. Você pode usar sites como Giphy para encontrar o GIF perfeito.
+
+atividade do dia
+
+(<video src="3d615fa1-d793-488b-bcf2-68e9076fe568.mp4" controls title="Title"></video>)
