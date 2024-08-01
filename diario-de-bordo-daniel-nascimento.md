@@ -217,3 +217,22 @@ De fazer as atividades.
 ![Alt Text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ25oMG5tbHMxdWQ1c2xoNzdqeThpN3NhNXF6MGJnemFiMGR6eDZoaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/v5s1WhJibscgveoNH9/giphy.webp)
 
 
+---
+
+## Data: [01-08-2024]
+
+### O que aprendi hoje:
+Hoje relembramos os comandos do java e banco de dados e fizemos uma imagem esplicando sobre o java.
+
+### O que achei mais difícil:
+nada.
+
+### O que mais gostei:
+De relembrar do comandos.
+
+### vídeo ###
+
+<video src="db38f953-5618-47c4-ade6-23030a037434.mp4" controls title="Title"></video>
+
+### Sentimento do dia:
+![Bem](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDJ2YnJ6ajU3aGprdWcxZmVsODN1Z2xxN2Zvbm5udDFpa2p6emJwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UO5elnTqo4vSg/giphy.webp)
