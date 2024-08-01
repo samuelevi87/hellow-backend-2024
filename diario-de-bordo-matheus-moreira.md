@@ -244,4 +244,5 @@ De usar a ia.
 <audio src="2024-08-01/ttsmaker-file-2024-8-1-16-20-48.mp3" controls title="Title"></audio>
 
 ### Sentimento do dia:
+
 ![Alt Text](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW42dnlxemN4Ym5qZzg4NW16ajNiZTV5Y2hvazgzb3pmeHJlNXJlaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qiMbLh4WHEZyw/giphy.webp)
