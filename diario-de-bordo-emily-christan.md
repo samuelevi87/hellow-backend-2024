@@ -206,3 +206,42 @@ Que eu conclui os exercicios no W3 School. E também que hoje eu consegui fazer 
 ![Alt text](image-22.png) 
 
 ![Alt text](image-23.png)
+
+---
+
+## Data: [11-07-2024]
+
+### O que aprendi hoje:
+Antes do intervalo fizemos uma revisão para a prova com um jogo, logo depois realizamos a prova.
+### O que achei mais difícil:
+Não tive dificudade com nada.
+
+### O que mais gostei:
+Por que tirei 10 na prova!
+### Sentimento do dia:
+![Orgulhos](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDVjZng3aHA3a21ucTU1bXZ3MGQxeTFzMjczMjBranNncW9pb3Y3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZbZtUXMVV19TbSEJUH/giphy.webp)
+
+---
+
+## Data: [01-08-2024]
+
+### O que aprendi hoje:
+A gerar imagens com aúdio, com pessoas falando.
+
+### O que achei mais difícil:
+Eu não achei nada difícil.
+
+### O que mais gostei:
+Eu achei muito legal gerar fotos com IA.
+
+### Sentimento do dia:
+![Feliz](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmlhY2JjZWY1ajlpcWd3M3dqYTNkZGM2anIwaGJmazE3bnozdnoyMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YnBntKOgnUSBkV7bQH/giphy.webp)
+
+
+### Aividades do dia:
+![Alt text](2024-08-01/rosto.webp)
+
+<audio src="2024-08-01/ttsmaker-file-2024-8-1-16-21-48.mp3" controls title="Title"></audio>
+
+<video src="2024-08-01/aa6a474d-d76f-4225-a20e-1c7e6d25b10a.mp4" controls title="Title"></video>
+
