@@ -98,3 +98,5 @@ Escolha um GIF que melhor represente seu sentimento sobre a aula de hoje. Você 
 atividade do dia
 
 (<video src="3d615fa1-d793-488b-bcf2-68e9076fe568.mp4" controls title="Title"></video>)
+
+<audio src="ttsmaker-file-2024-8-1-16-20-27.mp3" controls title="Title"></audio>
