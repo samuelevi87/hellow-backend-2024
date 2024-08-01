@@ -209,3 +209,33 @@ de fazer o jogo BancoDePerguntas 3 VEZESSSSSSSSSSSSSSSSSSS
 ### Exercicio do dia
 ![Alt text](image-19.png)
 ### Sentimento do dia:
+
+
+-------
+
+## Data: [01-08-2024]
+
+### O que aprendi hoje:
+Revisão de conceitos lógicos e fazer videos e audios IA
+
+### O que achei mais difícil:
+Conceitos lógicos e fazer videos e audios IA
+
+### O que mais gostei:
+Os videos e imagens IA
+
+### Exercicio do dia
+![Alt text](image-21.png)
+![Alt text](image-22.png)
+![Alt text](image-23.png)
+<audio src="ttsmaker-file-2024-8-1-16-25-20.mp3" controls title="Title"></audio> <video src="d512fa06-ddf1-48c8-9b99-3d330093a02c%20(5).mp4" controls title="Title"></video>
+
+
+
+
+
+
+
+
+### Sentimento do dia:
+![Alt text](https://media1.tenor.com/m/Max8rdOVzJUAAAAd/shocked-surprised.gif)
