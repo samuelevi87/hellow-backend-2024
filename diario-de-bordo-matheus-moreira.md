@@ -236,7 +236,12 @@ Hoje não teve nada difício.
 De usar a ia.
 
 ### Vídeo feito com ia:
-<video src="ab85b9c1-4dde-4fdf-b54e-8307aa761430.mp4" controls title="Title"></video>
+<video src="ab85b9c1-4dde-4fdf-b54e-8307aa761430.mp4" controls title="
+"></video>
+
+![Alt text](2024-08-01/rosto.webp)
+
+<audio src="2024-08-01/ttsmaker-file-2024-8-1-16-20-48.mp3" controls title="Title"></audio>
 
 ### Sentimento do dia:
 ![Alt Text](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW42dnlxemN4Ym5qZzg4NW16ajNiZTV5Y2hvazgzb3pmeHJlNXJlaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qiMbLh4WHEZyw/giphy.webp)
