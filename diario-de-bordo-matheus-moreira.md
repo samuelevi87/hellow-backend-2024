@@ -222,3 +222,21 @@ de tudo.
 
 ### Sentimento do dia:
 ![Alt Text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2FoMWUzNnVwcnhhemN5eWI5em1sdm9oN2djdG9taG1zZjIxZmNhNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tsX3YMWYzDPjAARfeg/giphy.webp)
+
+
+## Data: [01-08-2024]
+
+### O que aprendi hoje:
+Hoje nós usamos ia pra fazer um vídeo.
+
+### O que achei mais difícil:
+Hoje não teve nada difício.
+
+### O que mais gostei:
+De usar a ia.
+
+### Vídeo feito com ia:
+<video src="ab85b9c1-4dde-4fdf-b54e-8307aa761430.mp4" controls title="Title"></video>
+
+### Sentimento do dia:
+![Alt Text](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW42dnlxemN4Ym5qZzg4NW16ajNiZTV5Y2hvazgzb3pmeHJlNXJlaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qiMbLh4WHEZyw/giphy.webp)
