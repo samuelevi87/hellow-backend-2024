@@ -1,0 +1,164 @@
+# Diário de Bordo - [Hellow 2024/Trilha DEV Backend]
+
+## Data: [DD-MM-AAA]
+
+### O que aprendi hoje:
+Descreva em detalhes o que você aprendeu durante a aula de hoje. Tente ser o mais específico possível, mencionando conceitos, técnicas ou insights que foram importantes para você.
+
+### O que achei mais difícil:
+Explique quais partes da aula de hoje foram mais desafiadoras para você e por quê. Isso pode incluir tópicos que você achou complexos, perguntas que permaneceram sem resposta ou habilidades que você sentiu que precisava desenvolver mais.
+
+### O que mais gostei:
+Compartilhe o que você mais gostou na aula de hoje. Isso pode ser um tópico específico que foi discutido, uma atividade prática que foi realizada, ou mesmo uma história ou exemplo que o professor compartilhou.
+
+### Sentimento do dia:
+![Alt Text](URL_DO_GIF)
+Escolha um GIF que melhor represente seu sentimento sobre a aula de hoje. Você pode usar sites como Giphy para encontrar o GIF perfeito.
+
+---
+## Data: [11 e 18-04-2024]
+
+### O que aprendi hoje:
+Aprendi a clonar o repositorio a lançar ele para o git,alguns comandos no git entre outras coisas.
+
+### O que achei mais difícil:
+Decorar os comandos do git.
+
+### O que mais gostei:
+O don't pad, tambem gostei do primeiro dia pois podemos jogar kour.io.
+
+### Sentimento do dia:
+![Normal](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDh6N3Z0cHBtZTN3MTZ4dDkyYmV5NWd4cmxmcHY4bGk3aG91anlueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohc1efuII5OH9tLJm/giphy.gif)
+
+## Data: [25-04-2024]
+
+Aprendi a linguagem de java, variáveis e tipos de dados e começamos nosso Diário de Bordo.
+### O que aprendi hoje:
+
+### O que achei mais difícil:
+As regras do java são um pouco complicadas mas no fim da pra entender.
+### O que mais gostei:
+Ultilizar os comandos do java.
+
+### Sentimento do dia:
+![Feliz](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXozdW41ZzJhbmRzazBjaTYwanA3MTdpeXNwdzV2d3I5bTdnNjczeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/guufsF0Az3Lpu/giphy.gif)
+## Data: [09-05-2024]
+
+### O que aprendi hoje:
+Aprendi a fazer jogos dentro do java,e estruturas condicionais.
+### O que achei mais difícil:
+Comer um tijolo com presunto e descobrir os erros.
+
+### O que mais gostei:
+De fazer alterações no jogo do prof e tambem o abordagem de ensino do professor.
+
+### Sentimento do dia:
+![](https://i.pinimg.com/originals/73/c9/f8/73c9f8f4c8f51c1144d551d9fdd42a23.gif)
+Eu sem descobrir os erros
+
+## Data: [DD-MM-AAA]
+
+### O que aprendi hoje:
+Que ponto e virgula é importante.
+
+### O que achei mais difícil:
+Lembrar do ponto e virgula.
+
+### O que mais gostei:
+De conhecer o ponto e virgula.
+
+### Sentimento do dia:
+![Alt Text](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnVycjEzODB3c3Y0OGo4YWN2ejN5Ynp3N3IxYmVyMmd5cTZxc3V6dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/135Bh75GkIjblm/200.webp)
+
+Eu indo come o lanche
+# Diário de Bordo - [Hellow 2024/Trilha DEV Backend]
+
+## Data: [06-06-2024]
+
+### O que aprendi hoje:
+Estrutura de repetição.
+### O que achei mais difícil:
+O conteúdo visto no dia.
+
+### O que mais gostei:
+Do lanche.
+
+### Sentimento do dia:
+![Alt Text](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWhhdXRreDUza2Mxb3R5aGpqNnF1YXJsdjdnMDVvMWl0djhhZXNlNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11uoNyauChZR16/giphy.webp)
+
+## Data: [DD-MM-AAA]
+
+### O que aprendi hoje:
+Revisar os conceitos de sql da aula passada e o jogo da investigação futurista
+![Alt text](image.png)
+
+### O que achei mais difícil:
+Nada achei bem ludico e tranquilo
+### O que mais gostei:
+De terminar
+## Data: [DD-MM-AAA]
+
+### O que aprendi hoje:
+Exercicios de SLQ .
+
+![Alt text](image-1.png)
+![Alt text](image-2.png)
+![Alt text](image-3.png)
+![Alt text](image-4.png)
+![Alt text](image-5.png)
+![Alt text](image-6.png)
+![Alt text](image-7.png)
+![Alt text](image-8.png)
+![Alt text](image-9.png)
+![Alt text](image-10.png)
+![Alt text](image-11.png)
+![Alt text](image-12.png)
+![Alt text](image-13.png)
+![Alt text](image-14.png)
+![Alt text](image-15.png)
+![Alt text](image-16.png)
+![Alt text](image-17.png)
+### O que achei mais difícil:
+Ler tudo.
+
+### O que mais gostei:
+De aprender QLS.
+
+### Sentimento do dia:
+![Alt Text](URL_DO_GIF)
+Escolha um GIF que melhor represente seu sentimento sobre a aula de hoje. Você pode usar sites como Giphy para encontrar o GIF perfeito.
+
+# Diário de Bordo - [Hellow 2024/Trilha DEV Backend]
+
+## Data: [04-07-2024]
+
+### O que aprendi hoje:
+Base de banco de dados
+![Alt text](image-18.png)
+
+### O que achei mais difícil:
+Select
+
+### O que mais gostei:
+Do lanche
+
+### Sentimento do dia:
+![Alt Text](URL_DO_GIF)
+Escolha um GIF que melhor represente seu sentimento sobre a aula de hoje. Você pode usar sites como Giphy para encontrar o GIF perfeito.
+
+## Data: [01-08-2024]
+
+### O que aprendi hoje:
+Revisão de conceitos de logica e geração de um video de um conceito que aprendemos hoje.
+
+### O que achei mais difícil:
+Fazer um comando para IA gerar a imagem que eu queria.
+
+### O que mais gostei:
+De brincar de gerar imagens
+### Sentimento do dia:
+![Alt Text](URL_DO_GIF)
+Escolha um GIF que melhor represente seu sentimento sobre a aula de hoje. Você pode usar sites como Giphy para encontrar o GIF perfeito.
+![Alt Text](https://ideogram.ai/assets/progressive-image/balanced/response/8aHYoSkxT3mwj21S0D5k6w)
+![Alt Text](https://ideogram.ai/assets/image/lossless/response/MCOwgV6TQEipBZ9hKwlS7w)![Alt text](Default_An_elderly_man_with_a_long_white_beard_and_a_prominent_2.jpg)
+ <audio src="ttsmaker-file-2024-8-1-16-18-11.mp3" controls title="Title"></audio> <video src="b2af15b4-4298-4fce-96cf-45c0b0e52979%20(3).mp4" controls title="Title"></video>
