@@ -233,10 +233,12 @@ coisas sobre IA
 ### Exercícios do dia
 <video src="500597bb-1503-4df8-8c6b-e01a55912666.mp4" controls title="Title"></video>
 
+<audio src="ttsmaker-file-2024-8-1-16-24-2.mp3" controls title="Title"></audio>
+
 ![Alt text](rosto.jpg)
 
-imagem(leonardo.ai)
-áudio(ttsmaker)
+imagem(leonardo.ai),
+áudio(ttsmaker) e
 vídeo(hedra)
 
 =======
