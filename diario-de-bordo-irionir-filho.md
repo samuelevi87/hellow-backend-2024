@@ -95,7 +95,7 @@ nada.
 dos exercicios que foram de minecraft.
 
 ### Sentimento do dia:
-![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTY1NXhqcnZseGZhaHc5bzlzN25hdmFsa2p3eG0zNWNoMmJreWRoeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/D2hncA3u88gmeCFeoh/giphy.webp)
+
 Escolha um GIF que melhor represente seu sentimento sobre a aula de hoje. Você pode usar sites como Giphy para encontrar o GIF perfeito.
 ### Certificado
 ![Alt text](certificado.jpg)
@@ -151,7 +151,7 @@ eu gostei de fazer as perguntas, por mais que tenha alguma coisa complicada aos 
 ![Alt text](image-16.png)
 ![Alt text](image-17.png)
 ### Sentimento do dia:
-![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTU4bzQzYmdyNWxmbGZ2MWNjY2hhc2t5NDdwd2c3cmdlYzUwbXRzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tXL4FHPSnVJ0A/giphy.webpf)
+![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXVmMTFncHVqMnB3cnpsbmJ4MmJmOXQ0c2RmbnNvYWdkazk3dzFnNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q7ozWVYCR0nyW2rvPW/giphy.webp)
 
 ---
 
@@ -183,7 +183,7 @@ eu gostei de fazer os execicios de orden by.
 ![Alt text](image-16.png)
 ![Alt text](image-17.png)
 ### Sentimento do dia:
-![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTU4bzQzYmdyNWxmbGZ2MWNjY2hhc2t5NDdwd2c3cmdlYzUwbXRzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tXL4FHPSnVJ0A/giphy.webpf)
+![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3h0aHJlOXowbGIxYmZqZzU0OGc4ZW9sYWk2ZWpqMGdzendhaWRoZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S4H2ZREgH8c2EG6TmV/giphy.webp)
 
 ---
 
@@ -204,9 +204,29 @@ de pegar o jeito dos exercicios.
 (![Alt text](image-19.png))
 
 ### Sentimento do dia:
-![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTU4bzQzYmdyNWxmbGZ2MWNjY2hhc2t5NDdwd2c3cmdlYzUwbXRzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tXL4FHPSnVJ0A/giphy.webpf)
+![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDFpbDczYWFvaTVtZ3EyZjgwbm1qc3M4dGwxbmt6bXNuZ255cmVvOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZqlvCTNHpqrio/giphy.webp)
 
 ---
+
+
+## Data: [27/06/2024]
+
+### O que aprendi hoje:
+ fizermos a revisao de todos os assuntos que aprendemos anteriomente e tambem usamos a inteligencia artificial para criar imagem, texto, e audio.
+
+### O que achei mais difícil:
+de achar uma imagem daora.
+
+### O que mais gostei:
+de fazer os audios e imagens.
+
+
+### Exercicios do dia:
+![Alt text](2024-08-01/Default_Cristiano_Ronaldo_also_known_as_CR7_sitting_in_a_moder_1.jpg)
+<video src="2024-08-01/d2ffb61a-b138-4e98-b944-00ebd8135cfb%20(1).mp4" controls title="Title"></video>
+<audio src="2024-08-01/ttsmaker-file-2024-8-1-16-24-4.mp3" controls title="Title"></audio>
+### Sentimento do dia:
+(![Alt text](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXlseW9objJjcGJwYWdrY3EzcWRta2ltYXlyanBvMTRuMmxoNWgxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3fQf1OEAq0iri9RC/giphy.webp))
 
 
 ---
