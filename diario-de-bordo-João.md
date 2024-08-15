@@ -250,3 +250,21 @@ TUDO
 
 ### Sentimento do dia:
 ![Alt Text](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnh0ajVvNjV5OWtwdG93NWhoZWJya2lxODcwMGdwZDF4YXN4NDh4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEduXKKfBX6PPLiGQ/giphy.webp)
+
+---
+
+## Data: [08-08-2024]
+
+### O que aprendi hoje:
+sistemas de empresas 
+
+### O que achei mais difícil:
+quase tudo
+
+### O que mais gostei:
+quase tudo também🤠👍
+ 
+### Sentimento do dia:
+![Alt Text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnlqZDgwcWVrejR2dGM4c2tpZ3JwcjZzazZrbzI5bTdvb25kaDB4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kA3zmMZ6K7qhdy98Z0/giphy.webp)
+
+---
