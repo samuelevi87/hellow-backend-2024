@@ -249,7 +249,7 @@ De usar a ia.
 
 
 
-## Data: [15-08-2024]
+## Data: [08-08-2024]
 
 ### O que aprendi hoje:
 hoje nós fomos la fora pois estava acontecendo o mundo senai.
@@ -263,4 +263,26 @@ De andar pelo senai.
 ### Sentimento do dia:
 
 ![Alt Text](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGVmZng5YmhycTdteW5ub2cxb29vYWl5aW1sanp2ZjhqNHVwNjF3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3fQf1OEAq0iri9RC/giphy.webp)
+
+
+
+## Data: [15-08-2024]
+
+### O que aprendi hoje:
+hoje fizemos a apresentção da nossa jornada no hellow.
+
+### O que achei mais difícil:
+nada pois usamos IA.
+
+### O que mais gostei:
+De criar a apresentação.
+
+### Sentimento do dia:
+![Alt Text](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTRxenJsanpoMGQ3dG5jZzliaGVpMzFkZXMzdjhkMmc5dzFzdXo4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FlWgXEtj5aM5G/giphy.webp)
+
+### Atividades do dia:
+https://minha-jornada-no-curso-d-5m9gbj0.gamma.site/
+
+
+
 
