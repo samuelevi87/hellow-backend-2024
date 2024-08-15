@@ -240,3 +240,21 @@ De relembrar do comandos.
 
 ### Sentimento do dia:
 ![Bem](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDJ2YnJ6ajU3aGprdWcxZmVsODN1Z2xxN2Zvbm5udDFpa2p6emJwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UO5elnTqo4vSg/giphy.webp)
+
+
+---
+
+
+## Data: []
+
+### O que aprendi hoje:
+Hoje teve o mundo senai com esventos no senai todo.
+
+### O que achei mais difícil:
+nada.
+
+### O que mais gostei:
+De ver os eventos.
+
+### Sentimento do dia:
+![Alt Text] (https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmN3M2tscnp1bXU3NmE0MTJqd3VuMWtvcHB2eXlzdWtjZnRkbmFzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fUQ4rhUZJYiQsas6WD/giphy.webp)
