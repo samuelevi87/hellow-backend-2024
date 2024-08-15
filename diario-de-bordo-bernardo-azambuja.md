@@ -162,3 +162,17 @@ Escolha um GIF que melhor represente seu sentimento sobre a aula de hoje. Você 
 ![Alt Text](https://ideogram.ai/assets/progressive-image/balanced/response/8aHYoSkxT3mwj21S0D5k6w)
 ![Alt Text](https://ideogram.ai/assets/image/lossless/response/MCOwgV6TQEipBZ9hKwlS7w)![Alt text](Default_An_elderly_man_with_a_long_white_beard_and_a_prominent_2.jpg)
  <audio src="ttsmaker-file-2024-8-1-16-18-11.mp3" controls title="Title"></audio> <video src="b2af15b4-4298-4fce-96cf-45c0b0e52979%20(3).mp4" controls title="Title"></video>
+
+ ## Data: [15-08-2024]
+
+### O que aprendi hoje:
+Que é muito importante prgramação em todas as áreas.
+
+### O que achei mais difícil:
+Nada foi uma aula bem divertida.
+
+### O que mais gostei:
+Ficar fora de sala.
+
+### Sentimento do dia:
+Feliz
