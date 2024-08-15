@@ -245,3 +245,24 @@
 
 ### Sentimento do dia:
 ![Alt Text](<Gato Bravo.jfif>)
+
+---
+
+# Diário de Bordo - [Hellow 2024/Trilha DEV Backend]
+
+## Data: [15/08/2024]
+
+### O que aprendi hoje:
+**A usar o Gamma pra fazer um site**
+
+### O que achei mais difícil:
+**tava tranquilo a aula**
+
+### O que mais gostei:
+**Fazer um site bem feito com facilidade**
+
+### Sentimento do dia:
+![Alt Text](https://i.pinimg.com/564x/55/74/22/5574223f43b98b8de093459157989133.jpg)
+
+### Exerícios do dia
+https://minha-jornada-curso-hell-oktaq3m.gamma.site/
