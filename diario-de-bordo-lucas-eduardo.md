@@ -267,3 +267,40 @@ jogar os exercios que o profesor fez
 
 
 ---
+
+## Data: [07-08-2024]
+
+### O que aprendi hoje:
+vi varios projetos muito legais no mundo senai
+
+### O que achei mais difícil:
+nada
+
+### O que mais gostei:
+braçoo robotico e oculos de realidade aumentada
+
+### Sentimento do dia:
+![nada](https://media.giphy.com/media/gQJyPqc6E4xoc/giphy.gif?cid=790b7611cfgcq4ymg2ig9t5vcpebygfmp89bt7atc7glgci5&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
+
+---
+
+## Data: [15-08-2024]
+
+### O que aprendi hoje:
+Fazer uma apresentação
+
+### O que achei mais difícil:
+nada
+
+### O que mais gostei:
+Ediat miha apresentação
+
+### Sentimento do dia:
+![nada](https://media.giphy.com/media/fvA1ieS8rEV8Y/giphy.gif?cid=790b7611jr5cn8l75vi9cclzd9mta24j6xda7p2jjnii2jfd&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
+## Atividades do dia:
+https://gamma.app/docs/Minha-Jornada-no-Curso-Hellow-Backend-0mx42uqjy4i4m01
+
+---
+
