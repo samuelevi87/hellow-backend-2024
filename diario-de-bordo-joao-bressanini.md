@@ -261,3 +261,19 @@ De fazer a atividade da imagem que fala.
 ![Alt text](2024-08-01/Default_Create_a_highly_realistic_image_of_a_young_mans_face_w_3.jpg)
 
 <audio src="2024-08-01/ttsmaker-file-2024-8-1-16-22-1.mp3" controls title="Title"></audio>
+
+---
+
+## Data: [08-08-2024]
+
+### O que aprendi hoje:
+Eu aprendi varias coisas no Mundo SENAI, e um exemplo é como é a trajetória de um produto desde a matéria prima até nossa casa.
+
+### O que achei mais difícil:
+Achei todos os projetos bem explicados e nenhum foi dificil de entender.
+
+### O que mais gostei:
+De jogar com o óculos de realidade virtual.
+
+### Sentimento do dia:
+![Alt text](https://media.giphy.com/media/11sBLVxNs7v6WA/giphy.gif?cid=790b7611vavfya0zuersdmrt3ctggirmjpetskkxf78ln62m&ep=v1_gifs_search&rid=giphy.gif&ct=g)
