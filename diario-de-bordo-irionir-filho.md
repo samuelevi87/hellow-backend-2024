@@ -230,3 +230,22 @@ de fazer os audios e imagens.
 
 
 ---
+
+
+
+# Data: [15/08/2024]
+
+### O que aprendi hoje:
+ hoje formos no mundo senai e aprendemos sobre a industria.
+
+### O que achei mais difícil:
+eu achei muito deficil o desafio do fone sem fio, que tinhamos que passa a informação para outro e depois o ultimo tinha que escreve oque tinha compreendido disto tudo.
+
+### O que mais gostei:
+foi a apresentação do 304 e parte dos jogos de algumas apresentações.
+
+### Sentimento do dia:
+(![Alt text](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXlseW9objJjcGJwYWdrY3EzcWRta2ltYXlyanBvMTRuMmxoNWgxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3fQf1OEAq0iri9RC/giphy.webp))
+
+
+---
