@@ -248,7 +248,7 @@ Escolha um GIF que melhor represente seu sentimento sobre a aula de hoje. Você 
 ## Data: [15/08/2024]
 
 ### O que aprendi hoje:
-programação é importante em muitas areas
+programação é importante em muitas areas ----- https://minha-jornada-no-hellow--9uvz99j.gamma.site/
 
 ### Atividades do dia
 ficar fora da sala
