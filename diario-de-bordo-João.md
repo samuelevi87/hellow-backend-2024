@@ -268,3 +268,20 @@ quase tudo também🤠👍
 ![Alt Text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnlqZDgwcWVrejR2dGM4c2tpZ3JwcjZzazZrbzI5bTdvb25kaDB4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kA3zmMZ6K7qhdy98Z0/giphy.webp)
 
 ---
+## Data: [15-08-2024]
+
+### O que aprendi hoje:
+como usar o gamma
+
+### O que achei mais difícil:
+poucas coisas
+
+### O que mais gostei:
+tudo
+ 
+### Sentimento do dia:
+![Alt Text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnlqZDgwcWVrejR2dGM4c2tpZ3JwcjZzazZrbzI5bTdvb25kaDB4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kA3zmMZ6K7qhdy98Z0/giphy.webp)
+
+### Atividades do dia
+Site:
+https://gamma.app/docs/Minha-Jornada-no-Hellow-Backend-z179n6umxgwn5af
