@@ -219,3 +219,17 @@ De aprender a fazer as imagens e os audios por AI
 ![Alt Text](https://media.tenor.com/LltXMTmbSiwAAAAi/robots-thegude.gif)
 
 ---
+## Data: [08-08-2024]
+
+### O que aprendi hoje:
+Que eu posso fazer várias coisas bem lgeais sobre programação
+### O que achei mais difícil:
+Entender como funciona a esteira automática
+
+### O que mais gostei:
+De ver como funciona o braço mecanico
+
+### Sentimento do dia:
+![Alt Text](https://media1.tenor.com/m/58aK1XJmJ4YAAAAd/monkey-monke.gif)
+
+ ---
