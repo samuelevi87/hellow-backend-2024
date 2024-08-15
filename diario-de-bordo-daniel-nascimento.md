@@ -258,3 +258,24 @@ De ver os eventos do senai.
 
 ### Sentimento do dia:
 ![Bem](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWh6bjBidzYwOTFmZXp6bGRkZmVkemdsMm1oam5yN2ZzNHQ2ZjcyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/guufsF0Az3Lpu/giphy.webp)
+
+
+---
+
+## Data: [15-08-2024]
+
+### O que aprendi hoje:
+Hoje nós fizemos a apresentação da nossa jornada para o incerramento do hellow.
+
+### O que achei mais difícil:
+Ter que fazer a apresentação.
+
+### O que mais gostei:
+De criar a apresentação.
+
+### Sentimento do dia:
+![Bem](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2htMGk2NWl6cG80MnQ5b2RkeGtiaHNvNXB4c2I5djg5YjN5MHBrNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A38YkEn7xhCehkX2sV/giphy.webp)
+
+### Atividades do Dia
+Apresentação:
+https://gamma.app/docs/Minha-Jornada-no-Curso-Hellow-Backend-kxykpmwc9v75ixi
