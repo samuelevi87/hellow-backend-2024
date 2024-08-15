@@ -166,3 +166,15 @@ O que mais gostei foi o professor ter nos mostrado as ferramentas de IA
 
 (<video src="39cd129a-a2b8-4b32-b642-7fbb503cee7d-1.mp4" controls title="Title"></video>)
 
+---
+## Data: [08-08-2024]
+
+### O que aprendi hoje:
+Eu aprendi sobre diversos projetos e ideias desenvolvidos na área da insústria
+### O que achei mais difícil:
+Foi entender como funcionava o trabalho da esteira
+### O que mais gostei:
+Foi da apresentação do braço robótico
+
+### Sentimento do dia:
+![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDY1bHg5bGFxY2Rpd2xqcmZiNW5sYWExYmI4ZGVpMW1namtwb29jOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3ohzdIuqJoo8QdKlnW/giphy.gif)
