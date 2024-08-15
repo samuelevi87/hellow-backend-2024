@@ -301,3 +301,20 @@
 
 
 ---
+## Data: [15-08-2024]
+
+### O que aprendi hoje:
+**A usar um aplicativo muito util, chamado Gamma**
+
+### O que achei mais difícil:
+**Algumas coisas que nao tinha entendido**
+
+### O que mais gostei:
+**De poder achar um site que me ajuda em apresentaçoes de escola.**
+
+### Sentimento do dia:
+![Alt Text](https://media1.giphy.com/media/wZWKSfPaFhNSw/200.webp?cid=ecf05e47cnzh3q357a2ldvfk5mekwtsxanjjfiesehlvdevu&ep=v1_gifs_search&rid=200.webp&ct=g)
+
+https://minha-jornada-backend-yqopcjn.gamma.site/
+
+---
