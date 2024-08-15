@@ -245,3 +245,17 @@ Eu achei muito legal gerar fotos com IA.
 
 <video src="2024-08-01/aa6a474d-d76f-4225-a20e-1c7e6d25b10a.mp4" controls title="Title"></video>
 
+---
+
+## Data: [08-08-2024]
+
+### O que aprendi hoje:
+Nós fomos conhecer os projetos, eu vi uma caneta 3D, um óculos de realidade virtual e um braço robótico.
+
+### O que achei mais difícil:
+Eu achei difícil manusear a caneta 3D.
+### O que mais gostei:
+Que eu consegui pegar o Bis no braço robótico.
+
+### Sentimento do dia:
+![Alt Text](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXprZXVjcGozdmlzdm8yMzdlbHFzNDE4eHo4Z3AzODBpeTN5cmJ2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8fN1HVjVkjAK9zGU3y/giphy.webp)
