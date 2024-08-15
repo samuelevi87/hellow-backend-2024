@@ -254,3 +254,23 @@ Usar um óculos de realidade virtual, ver os projetos de vários alunos diferent
 
 
 ---
+## Data: [15-08-2024]
+
+### O que aprendi hoje:
+Aprendi a criar uma apresentação em forma de site, criei um texto pelo chat gpt e o humanizei para o site.
+
+### O que achei mais difícil:
+Foi deixar o texto próximo com o meu jeito de falar.
+
+### O que mais gostei:
+Gostei muito do site de criar as apresentações.
+
+### Sentimento do dia:
+![Alt Text](https://media.giphy.com/media/IwTWTsUzmIicM/giphy.gif?cid=790b7611fzu38pjvr544l1fjv0qbzyin81bl2jgi3r0m1n2e&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
+### Atividade do dia
+
+Site:
+https://jornada-de-descobertas-e-oewadvt.gamma.site/
+
+---

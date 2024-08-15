@@ -27,9 +27,9 @@
 
 ## Empresas que eu gostaria de Trabalhar 💼
 ![Work](https://www.infomoney.com.br/wp-content/uploads/2019/08/carteira-de-trabalho-7.jpg?fit=900%2C600&quality=70&strip=all)
-  - **Empresa1:** []
-  - **Empresa2:** []
-  - **Empresa3:** []
+  - **Empresa1:** [Ailos]
+  - **Empresa2:** [Microsoft]
+  - **Empresa3:** [Apple]
 
 ## Habilidades que eu quero Desenvolver🛠️
 ![Skills](https://cate.prefeitura.sp.gov.br/wp-content/uploads/2020/03/GettyImages-1164414770_editada.jpg)
