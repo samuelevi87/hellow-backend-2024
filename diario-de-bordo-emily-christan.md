@@ -259,3 +259,23 @@ Que eu consegui pegar o Bis no braço robótico.
 
 ### Sentimento do dia:
 ![Alt Text](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXprZXVjcGozdmlzdm8yMzdlbHFzNDE4eHo4Z3AzODBpeTN5cmJ2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8fN1HVjVkjAK9zGU3y/giphy.webp)
+
+---
+
+## Data: [15-08-2024]
+
+### O que aprendi hoje:
+Começamos a fazer a apresentação que vamos apresentar no final do curso.
+
+### O que achei mais difícil:
+Eu tive que ajustar algumas partes, tirando isso não foi muito difícil.
+
+### O que mais gostei:
+De começar a fazer a apresentação, porque é uma satisfação contar o que aprendi até aqui.
+
+### Sentimento do dia:
+![Alt Text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmQ3OHUwdnVmZmV2eXg0emZucjhnM3ozdWNhZHJ6MXUwMzJwc2lyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QTfznySa0YG5rro0gs/giphy.webp)
+
+### Atividades do dia:
+### Site: 
+https://gamma.app/docs/Minha-Jornada-no-Curso-Hellow-Backend-3horpa2hhnbbdes?mode   
