@@ -17,7 +17,7 @@ os comandos do github
 )
 # 
 
-## Data: [02-05-2020]
+## Data: [02-05-2024]
 
 ### O que aprendi hoje:
 aprendi oque é o github os comandos dele e para que ele serve
