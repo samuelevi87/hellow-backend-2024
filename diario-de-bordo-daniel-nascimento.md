@@ -245,7 +245,7 @@ De relembrar do comandos.
 ---
 
 
-## Data: []
+## Data: [08-08-2024]
 
 ### O que aprendi hoje:
 Hoje teve o mundo senai com esventos no senai todo.
@@ -254,7 +254,8 @@ Hoje teve o mundo senai com esventos no senai todo.
 nada.
 
 ### O que mais gostei:
-De ver os eventos.
+De ver os eventos do senai.
 
 ### Sentimento do dia:
-![Alt Text] (https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmN3M2tscnp1bXU3NmE0MTJqd3VuMWtvcHB2eXlzdWtjZnRkbmFzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fUQ4rhUZJYiQsas6WD/giphy.webp)
+![Bem](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWh6bjBidzYwOTFmZXp6bGRkZmVkemdsMm1oam5yN2ZzNHQ2ZjcyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/guufsF0Az3Lpu/giphy.webp)
+
