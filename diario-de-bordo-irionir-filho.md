@@ -233,7 +233,7 @@ de fazer os audios e imagens.
 
 
 
-# Data: [15/08/2024]
+# Data: [08/08/2024]
 
 ### O que aprendi hoje:
  hoje formos no mundo senai e aprendemos sobre a industria.
@@ -249,3 +249,21 @@ foi a apresentação do 304 e parte dos jogos de algumas apresentações.
 
 
 ---
+
+
+# Data: [15/08/2024]
+
+### O que aprendi hoje:
+ hoje aprendemos a criar um site no gama e estamos produzindo um para apresentar no último dia do hellow backend de 2024.
+
+### O que achei mais difícil:
+eu estou achando meio dificil a produzir o site para aprensentar.
+
+### O que mais gostei:
+eu gostei de jogar ping pong hoje e ver meus amigos.
+
+### Sentimento do dia:
+(![Alt text](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXlseW9objJjcGJwYWdrY3EzcWRta2ltYXlyanBvMTRuMmxoNWgxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3fQf1OEAq0iri9RC/giphy.webp))
+
+### Exercicios do dia:
+![Alt text](https://gamma.app/docs/Minha-Jornada-no-curso-Hellow-Backend-em-2024-oza716efw1zhwuk)
