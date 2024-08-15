@@ -1,7 +1,7 @@
 c
 
 ---
-## Data: [11 e 18-4-202]
+## Data: [11 e 18-4-2024]
 
 ### O que aprendi hoje:
 aprendi oque é o github os comandos dele e para que ele serve
@@ -201,3 +201,15 @@ Das impressoras 3d
 ### Sentimento do dia:
 ![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTRyeW5hZ3AxdXFnbXpuMHl6dm56MnFsZTIycmE1N3RyeTlkMjlqaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hWhzyAxIu6rVS5AKbP/giphy.webp)
 
+## Data: [15-08-2024]
+
+### O que aprendi hoje:
+Criar um site com o gamma
+### O que achei mais difícil:
+nada
+### O que mais gostei:
+Usar ia
+### Sentimento do dia:
+![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ptYTB5cjF5bGhjZGRnMW5ycDVuMmFncHN4ZDRmZXJ5NTBhN2syNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MC6eSuC3yypCU/giphy.webp)
+
+### Atividades do dia:https://minha-jornada-no-hellow--kb5ko19.gamma.site/
