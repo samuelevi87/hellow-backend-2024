@@ -259,3 +259,21 @@ da caneta 3D
 
 ### Sentimento do dia:
 ![Alt Text](https://media1.tenor.com/m/rNCdBEqBKjoAAAAd/sad-cat.gif)
+
+-----------------
+
+# Data: [15-08-2024]
+
+### O que aprendi hoje:
+A criar um site no Gamma
+
+### O que achei mais difícil:
+A publicar o meu site no atroz site do Gamma, pois estava dando erro
+### O que mais gostei:
+Passar trabalho ajustando as imagens no site
+
+### Exercicio do dia
+site : https://aprendendo-com-hellow-20-lqzhcca.gamma.site/
+### Sentimento do dia:
+![Alt Text](https://media1.tenor.com/m/z3AQ3qjnLeQAAAAC/crap-oh-no.gif)
+
