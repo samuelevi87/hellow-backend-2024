@@ -245,3 +245,22 @@ da explicaçao do professor
 ### Exercícios do dia:!
 <video src="fa779be5-0ed5-4c67-8749-3df34cb31f86.mp4" controls title="Title"></video>
 <audio src="ttsmaker-file-2024-8-1-16-18-23.mp3" controls title="Title"></audio>
+
+---
+
+
+# Diário de Bordo - [Hellow 2024/Trilha DEV Backend]
+
+## Data: [08-08-2024]
+
+### O que aprendi hoje:
+**Oque eles ensiaram** 
+
+### O que achei mais difícil:
+**Usa o robo**
+
+### O que mais gostei:
+**As meninas que estavam apresentando os trabalhos**
+
+### Sentimento do dia:
+![Alt Text](https://media4.giphy.com/media/m5SLTWdACYbUe9Ge9F/giphy.webp?cid=790b7611hpjznos3g0f19qfhlo0lkm9qrxh671ft6w8lgy3y&ep=v1_gifs_search&rid=giphy.webp&ct=g)
