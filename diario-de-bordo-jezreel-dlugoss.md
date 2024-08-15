@@ -267,3 +267,20 @@ Escolha um GIF que melhor represente seu sentimento sobre a aula de hoje. Você 
 <video src="2024-08-01/AIAtividade.mp4" controls title="Title"></video>
 ![Alt text](2024-08-01/ImagemAI.jpeg)
 ---
+
+## Data: [08-08-2024]
+
+### O que aprendi hoje:
+Hoje participamos do Mundo SENAI, aprendemos algumas coisas sobre a industria, aprendendo como certas coisas funcionam na produção de produtos que chegam em nossas casas.
+
+### O que achei mais difícil:
+Pelo fato de ser um evento, tendo apresentações sobre a industria, achei nada muito dificil.
+
+### O que mais gostei:
+Do braço robótico.
+
+### Sentimento do dia:
+![Alt Text](https://media1.tenor.com/m/6I85un7McVcAAAAd/lebron-james-lebron.gif)
+Escolha um GIF que melhor represente seu sentimento sobre a aula de hoje. Você pode usar sites como Giphy para encontrar o GIF perfeito.
+
+---
