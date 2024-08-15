@@ -197,6 +197,8 @@ modo de aprender mas ao mesmo tempo se divertindo!
 ![Alt text](where.PNG)
 ![Alt text](1.PNG)
 
+--
+
 ## Data: [01-08-2024]
 
 ### O que  aprendi hoje:
@@ -216,3 +218,19 @@ felicidade
 <video src="ea4f9636-32eb-4105-acc0-4d36daed3aaf%20(1).mp4" controls title="Title"></video>
 
 <audio src="ttsmaker-file-2024-8-1-16-21-46.mp3" controls title="Title"></audio>
+
+--
+
+## Data: [08-08-2024]
+
+### O que  aprendi hoje:
+sistemas de empresas capazes de identificar peso cor entre outras varias coisas.
+### O que achei mais difícil:
+um braço robo que capaz de fazer carros... em miniatura.
+
+### O que mais gostei:
+sistema controlador de estoque, margem de preço entre outras coisas.
+
+### Sentimento do dia:
+![Alt Text](https://media4.giphy.com/media/3oEdv1MYRY3ZN0Hv56/200.webp?cid=790b76117go4lgdt8fdmzcedkblpzttjgsux7uq0mfc7m3gr&ep=v1_gifs_trending&rid=200.webp&ct=g)
+
