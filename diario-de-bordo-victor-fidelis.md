@@ -190,17 +190,14 @@ usar o leonardo IA
 ### audio gerado por IA:<audio 
 <audio src="ttsmaker-file-2024-8-1-16-19-23-2.mp3" controls title="Title"></audio>
 
-## Data: [11-07-2024]
+## Data: [08-08-2024]
 
 ### O que aprendi hoje:
-Comandos SQL
+Como as fábricas de automóveis usam os robôs
 ### O que achei mais difícil:
-A prova
+Enteder metrologia
 ### O que mais gostei:
-Da minha nota
+Das impressoras 3d
 ### Sentimento do dia:
-![](https://media1.giphy.com/media/kEKcOWl8RMLde/giphy.webp?cid=82a1493bjnncuexennguxhh1ltrc7pnstjof0qzk0rn33fcr&ep=v1_gifs_trending&rid=giphy.webp&ct=g)
-
-### Prova do dia
-![Alt text](image-21.png)
+![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTRyeW5hZ3AxdXFnbXpuMHl6dm56MnFsZTIycmE1N3RyeTlkMjlqaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hWhzyAxIu6rVS5AKbP/giphy.webp)
 
