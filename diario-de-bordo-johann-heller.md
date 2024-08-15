@@ -227,3 +227,21 @@
 ![Alt text](Default_A_weary_yet_joyful_face_of_a_45yearold_man_with_deepse_0.jpg)
 <audio src="ttsmaker-file-2024-8-1-16-16-37.mp3" controls title="Title"></audio>![Alt text](Default_A_closeup_portrait_of_a_focused_programmer_with_a_dete_3.jpg)![Alt text](Default_Create_an_image_of_a_young_adult_hacker_likely_in_thei_0.jpg)
 <video src="f62700ad-f00d-4fd7-a4bf-23d27591c8bb%20(1).mp4" controls title="Title"></video>
+
+---
+
+# Diário de Bordo - [Hellow 2024/Trilha DEV Backend]
+
+## Data: [08/08/2024]
+
+### O que aprendi hoje:
+**andamos pelo senai**
+
+### O que achei mais difícil:
+**nada, foi de boas a aula**
+
+### O que mais gostei:
+**Usar o VR**
+
+### Sentimento do dia:
+![Alt Text](<Gato Bravo.jfif>)
