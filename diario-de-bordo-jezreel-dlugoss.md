@@ -284,3 +284,23 @@ Do braço robótico.
 Escolha um GIF que melhor represente seu sentimento sobre a aula de hoje. Você pode usar sites como Giphy para encontrar o GIF perfeito.
 
 ---
+
+## Data: [08-08-2024]
+
+### O que aprendi hoje:
+Hoje fazemos um site ou apresentação para o dia do encerramento do Hellow
+
+### O que achei mais difícil:
+Não achei nada muito dificil.
+
+### O que mais gostei:
+Gostei de fazer o site usando gamma, não precisando se esforçar muito e deixando a inteligencia artificial fazer grande parte do esforço
+
+### Sentimento do dia:
+![Alt Text](https://media1.tenor.com/m/kj33C8rH_aYAAAAC/cona-black-mane-cona.gif)
+
+
+### Atividade do Dia
+Site:
+https://aprendendo-o-hellow-back-zenxhrk.gamma.site/
+---
