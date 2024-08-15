@@ -292,3 +292,25 @@ vimos varias exposiçoes
 KILLER INSTINCT
 ### Sentimento do dia:
 ![Alt Text](https://media1.tenor.com/m/CCWnyEcXL8AAAAAC/hihihiha-clash-royale.gif)
+ 
+ ---
+ ## Data: [15-08-2024]
+
+### O que aprendi hoje:
+aprendemos a fazer uma apresentaçao
+
+### O que achei mais difícil:
+nada.
+
+### O que mais gostei:
+da apresentaçao pois foi NÓS q fizemos ela
+
+### Sentimento do dia:
+![Alt Text](https://media1.tenor.com/m/ndDZN81xVPcAAAAC/byuntear-meme.gif)
+
+
+Atividades do dia
+
+Apresentação:
+
+https://gamma.app/docs/Minha-Jornada-no-Curso-Hellow-Backend-39lic1nyb7qk3hn
