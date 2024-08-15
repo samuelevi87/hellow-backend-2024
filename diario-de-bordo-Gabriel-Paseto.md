@@ -284,3 +284,20 @@
 <video src="459f6e8c-1387-48cb-853c-57d47871f70d.mp4" controls title="Title"></video>
 <audio src="2024-08-01%20-%20Arquivos%20do%20dia/ttsmaker-file-2024-8-1-16-17-10.mp3" controls title="Title"></audio>
 ---
+
+## Data: [08-08-2024]
+
+### O que aprendi hoje:
+**Aprendi a programar um braço mecânico, usado em empresas.**
+
+### O que achei mais difícil:
+**Conseguir pensar em uma estatégia de fazer o braço mecânico fazer a sequencia que foi pedida.**
+
+### O que mais gostei:
+**De poder jogar no óculos VR, de poder fazer a sequencia do braço robótico, foi muito legal.**
+
+### Sentimento do dia:
+![Alt Text](https://media0.giphy.com/media/urRohGOkNhYdHWjJy6/giphy.webp?cid=ecf05e479facqzo61hunhh37j1qc14to5r57xgalqbllu3ap&ep=v1_gifs_search&rid=giphy.webp&ct=g)
+
+
+---
