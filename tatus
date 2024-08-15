@@ -1,0 +1,209 @@
+[33mcommit e0026a8bebbd5f752b70a1c14f71906c297abee2[m[33m ([m[1;36mHEAD -> [m[1;32mdavi[m[33m, [m[1;31morigin/davi[m[33m)[m
+Author: DAVI BAUER <davi_bauer1@estudante.sesisenai.org.br>
+Date:   Thu Aug 1 16:52:36 2024 -0300
+
+    Revisão do sql e AI
+
+[33mcommit 0752425e61540c14773ee2803304511c45db5507[m
+Author: DAVI BAUER <davi_bauer1@estudante.sesisenai.org.br>
+Date:   Thu Aug 1 16:38:36 2024 -0300
+
+    Revisão AI
+
+[33mcommit 29a72a13a0a15c99bc39e594226195a445311416[m
+Author: DAVI BAUER <davi_bauer1@estudante.sesisenai.org.br>
+Date:   Thu Jul 4 16:48:26 2024 -0300
+
+    Revisão do banco de dados
+
+[33mcommit ddaf4dc0b506a093a912ac0483f77fd447695f2d[m
+Merge: f243139 c60a57a
+Author: DAVI BAUER <davi_bauer1@estudante.sesisenai.org.br>
+Date:   Thu Jul 4 13:42:43 2024 -0300
+
+    Merge branch 'main' of https://github.com/samuelevi87/hellow-backend-2024 into davi
+
+[33mcommit c60a57a980c3d32be99f2c1ab6a4be730abe5b77[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Samuel Levi <samuel.levi.alves@outlook.com>
+Date:   Thu Jul 4 13:23:07 2024 -0300
+
+    Adicionando novas perguntas e partes da história, para incluir os statements: INSERT INTO, UPDATE, DELETE, LIMIT, MIN, MAX, COUNT, AVG e SUM
+
+[33mcommit f24313942d6cd0fa2a8284c969a85507f2ab2526[m
+Author: DAVI BAUER <davi_bauer1@estudante.sesisenai.org.br>
+Date:   Thu Jun 27 16:51:06 2024 -0300
+
+    Exercicios do W3Schools
+
+[33mcommit 2f78361e46ca54bb8ed9096f0f92a06e5f228f44[m
+Merge: de48a1d 3c6fe30
+Author: DAVI BAUER <davi_bauer1@estudante.sesisenai.org.br>
+Date:   Thu Jun 27 13:55:11 2024 -0300
+
+    Merge branch 'main' of https://github.com/samuelevi87/hellow-backend-2024 into davi
+
+[33mcommit 3c6fe30218baf4c1ed948105bf4b3f073b232f1a[m
+Author: Samuel Levi <samuel.levi.alves@outlook.com>
+Date:   Thu Jun 27 13:09:32 2024 -0300
+
+    Adicionando cores ao jogo.
+
+[33mcommit 5bf35f5d5bbabc4a0ed1f6498166a2c57e5d0db5[m
+Author: Samuel Levi <samuel.levi.alves@outlook.com>
+Date:   Thu Jun 27 12:58:49 2024 -0300
+
+    Adicionando o Jogo: Investigação Futurista
+
+[33mcommit de48a1d3341e3f889fd30503d914051332bc2f1e[m
+Author: DAVI BAUER <davi_bauer1@estudante.sesisenai.org.br>
+Date:   Thu Jun 20 17:18:30 2024 -0300
+
+    Diario de bordo
+
+[33mcommit 912e67df328184c235dea7111680c5b5a555acfd[m
+Author: DAVI BAUER <davi_bauer1@estudante.sesisenai.org.br>
+Date:   Thu Jun 13 16:43:28 2024 -0300
+
+    Jogo de minecraft
+
+[33mcommit 91ffe5ab47649b4a26469a9ccfeb840e1dfae57e[m
+Author: DAVI BAUER <davi_bauer1@estudante.sesisenai.org.br>
+Date:   Thu Jun 13 16:32:33 2024 -0300
+
+    Jogo de minecraft
+
+[33mcommit 84d46cc7977602295393727ac951bc06b948eccc[m
+Author: DAVI BAUER <davi_bauer1@estudante.sesisenai.org.br>
+Date:   Thu May 23 17:16:43 2024 -0300
+
+    ResolvendoEerciciosDoDiarioDeBordo
+
+[33mcommit d13189fbaf505af55d82c6edb78446910638ee86[m
+Author: Samuel Levi <68257385+samuelevi87@users.noreply.github.com>
+Date:   Thu May 23 12:35:40 2024 -0300
+
+    Create Correção Exercícios.md
+
+[33mcommit 9a34982b5b459df8651c503b51b3e76c375f5f3e[m
+Author: DAVI BAUER <davi_bauer1@estudante.sesisenai.org.br>
+Date:   Thu May 16 17:09:57 2024 -0300
+
+    Estrutura de repetição
+
+[33mcommit 54cbf10590b1d2dc1fdd10fba4123d454785377c[m
+Merge: c0a8c72 7e69fb3
+Author: DAVI BAUER <davi_bauer1@estudante.sesisenai.org.br>
+Date:   Thu May 16 13:40:03 2024 -0300
+
+    Merge branch 'main' of https://github.com/samuelevi87/hellow-backend-2024 into davi
+
+[33mcommit 7e69fb39c64eee57e54d69030138ee2e71fe58f5[m
+Author: Samuel Levi <samuel.levi.alves@outlook.com>
+Date:   Thu May 16 13:20:08 2024 -0300
+
+    Criação do Pacote EstruturaDeRepeticao.
+    ModeloExerciciosEstruturaRepeticao.java - Clase para ser copiada pelos alunos e renomeada para o nome + ExerciciosEstruturaRepeticao.
+    2024-05-16-Instruções-Exercícios-EstruturasRepetição.md -> Enunciado dos Exercícios.
+    JogoAventuraLoops - Instruções.md -> Instruções do Jogo Aventura dos Loops.
+    JogoAventuraLoops.java -> Classe do Jogo Aventura dos Loops.
+
+[33mcommit 794c5b313c211f6662f1c402acecd3fdfaba633a[m
+Author: Samuel Levi <samuel.levi.alves@outlook.com>
+Date:   Thu May 16 13:15:55 2024 -0300
+
+    Ajustes na documentação do Jogo Decida o Caminho
+
+[33mcommit c0a8c721c02d09f06a2aff9881aecb9fbeb4b867[m
+Author: DAVI BAUER <davi_bauer1@estudante.sesisenai.org.br>
+Date:   Thu May 9 16:59:00 2024 -0300
+
+    Estruturas Condicionais
+
+[33mcommit 73cf40fd17e633dac6ba738185c9f419a144d687[m
+Merge: 790d62b 49a319a
+Author: DAVI BAUER <davi_bauer1@estudante.sesisenai.org.br>
+Date:   Thu May 9 14:05:43 2024 -0300
+
+    Merge branch 'main' of https://github.com/samuelevi87/hellow-backend-2024 into davi
+
+[33mcommit 49a319a1bb44dcfa6188b0f53bde24311af47c5e[m
+Author: Samuel Levi <samuel.levi.alves@outlook.com>
+Date:   Thu May 9 12:12:35 2024 -0300
+
+    Adicionando o Jogo Decida o Caminho, para apresentar o conceito de condicionais
+
+[33mcommit f384fb79239197f1df9057d9b5eaf019ed7d4ba9[m
+Author: Samuel Levi <samuel.levi.alves@outlook.com>
+Date:   Thu May 9 12:02:28 2024 -0300
+
+    Arquivos para aula de estruturas condicionais
+
+[33mcommit 790d62b0b02d8946266aa6c81a2e8aee54a5b07c[m
+Author: DAVI BAUER <davi_bauer1@estudante.sesisenai.org.br>
+Date:   Thu May 2 16:39:59 2024 -0300
+
+    Lista de exercicios
+
+[33mcommit 830499e344ba0255364816699c3b184e2fcb51aa[m
+Author: DAVI BAUER <davi_bauer1@estudante.sesisenai.org.br>
+Date:   Thu Apr 25 16:59:36 2024 -0300
+
+    Diário do dia 25
+
+[33mcommit fe11c616cb5a8689b388ee1b12531691bdb9f2ae[m
+Author: DAVI BAUER <davi_bauer1@estudante.sesisenai.org.br>
+Date:   Thu Apr 25 14:41:49 2024 -0300
+
+    m
+
+[33mcommit 380a2052da6b03834c0a60c0e5c5682701454ee1[m
+Merge: 6f4fadf 82a8463
+Author: DAVI BAUER <davi_bauer1@estudante.sesisenai.org.br>
+Date:   Thu Apr 25 13:40:21 2024 -0300
+
+    Merge branch 'main' of https://github.com/samuelevi87/hellow-backend-2024 into davi
+
+[33mcommit 82a846319ad3dadc873ebcdab37a3a673e488414[m
+Author: SAMUEL LEVI ARAUJO ALVES <samuel.araujo@edu.sc.senai.br>
+Date:   Thu Apr 25 13:00:45 2024 -0300
+
+    Adicionando o modelo de Diário de Bordo
+
+[33mcommit 6f4fadfe1a913503598747e0e6e03145a000da3d[m
+Author: DAVI BAUER <davi_bauer1@estudante.sesisenai.org.br>
+Date:   Thu Apr 18 16:53:57 2024 -0300
+
+    Finalizando o Currículo
+
+[33mcommit 25d037e62dfeade68a2417a7e64e8f040dc8e847[m
+Author: DAVI BAUER <davi_bauer1@estudante.sesisenai.org.br>
+Date:   Thu Apr 11 17:22:12 2024 -0300
+
+    Atualizando o currículo
+
+[33mcommit 1616b9a50691a59a7bcee08bdbec3506ce475d36[m
+Merge: a25f38e c10c4f3
+Author: Samuel Levi <68257385+samuelevi87@users.noreply.github.com>
+Date:   Thu Apr 11 12:46:52 2024 -0300
+
+    Merge pull request #1 from samuelevi87/samuelevi87-patch-1
+    
+    Rename README.md to modelo-curriculo.md
+
+[33mcommit c10c4f3402ed1692990e29a4f986a053e0283cde[m
+Author: Samuel Levi <68257385+samuelevi87@users.noreply.github.com>
+Date:   Thu Apr 11 12:46:35 2024 -0300
+
+    Rename README.md to modelo-curriculo.md
+
+[33mcommit a25f38e0ff90c11ca6fa5e7bc8e3ca699de9ed34[m
+Author: Samuel Levi <samuel.levi.alves@outlook.com>
+Date:   Thu Apr 11 12:29:55 2024 -0300
+
+    Alteração do Readme.MD
+
+[33mcommit 28b7289a58db2f0480a8b88f0810c28add93d8c2[m
+Author: Samuel Levi <68257385+samuelevi87@users.noreply.github.com>
+Date:   Thu Apr 11 12:25:49 2024 -0300
+
+    Initial commit

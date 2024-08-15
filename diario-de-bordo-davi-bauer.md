@@ -233,3 +233,23 @@ De ver como funciona o braço mecanico
 ![Alt Text](https://media1.tenor.com/m/58aK1XJmJ4YAAAAd/monkey-monke.gif)
 
  ---
+ ## Data: [15-08-2024]
+
+### O que aprendi hoje:
+A fazer slides por AI
+### O que achei mais difícil:
+Trocar as imagens dos slides
+
+### O que mais gostei:
+De fazer os slides
+
+### Sentimento do dia:
+![Alt Text](https://media.tenor.com/VhCWjJwTXNAAAAAi/happy-happy-happy.gif)
+
+### Exercicios do Dia
+Site:
+https://jornada-backend-programa-8no0kpq.gamma.site/
+Apresentação
+https://gamma.app/docs/Jornada-no-Mundo-da-Programacao-Backend-zqzzb6o5tid7i0m?mode=doc
+
+---
