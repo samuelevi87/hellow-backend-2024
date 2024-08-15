@@ -162,3 +162,18 @@ Foi da apresentação do braço robótico
 
 ### Sentimento do dia:
 ![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDY1bHg5bGFxY2Rpd2xqcmZiNW5sYWExYmI4ZGVpMW1namtwb29jOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3ohzdIuqJoo8QdKlnW/giphy.gif)
+
+---
+## Data: [15-08-2024]
+
+### O que aprendi hoje:
+Hoje aprendi como fazer um site no gamma para fazer minha apresentação
+
+### O que achei mais difícil:
+Foi mexer com algumas coisas do gamma.
+
+### O que mais gostei:
+O que mais gostei foi de fazer um site e ver toda minha jornada no curso lá
+
+### Sentimento do dia:
+![Alt Text](https://media.giphy.com/media/11sBLVxNs7v6WA/giphy.gif?cid=790b7611eo3bpnwtjr2f46w7ukcb7wtg259mx1bgx9ehb0gj&ep=v1_gifs_search&rid=giphy.gif&ct=g)
