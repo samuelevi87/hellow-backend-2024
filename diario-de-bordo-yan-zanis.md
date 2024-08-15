@@ -133,3 +133,30 @@ ganhar do outro Yan
 
 ### Sentimento do dia:
 ![Alt Text](https://media.giphy.com/media/cduvyBIqpxwWj4j6Bx/giphy.gif?cid=ecf05e47h9dx5xsehlk16t6x9iqyz20a5l2b0kg36myfe1bh&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
+
+
+
+
+
+
+# Diário de Bordo - [Hellow 2024/Trilha DEV Backend]
+
+## Data: [15-08-2024]
+
+### O que aprendi hoje:
+a fazer um site
+
+### O que achei mais difícil:
+nada
+### O que mais gostei:
+fazer o gamma
+
+### Sentimento do dia:
+![Alt Text](https://media.giphy.com/media/26tPo9rksWnfPo4HS/giphy.gif?cid=82a1493bzd93cgfytr5m18k00r7k3x9n1yzo7oo6o0d2razn&ep=v1_gifs_trending&rid=giphy.gif&ct=g)
+
+### Atividades do dia
+
+
+site:
+https://jornada-aprendizado-z90mv1n.gamma.site/
