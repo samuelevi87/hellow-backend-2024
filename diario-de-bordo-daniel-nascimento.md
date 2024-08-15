@@ -258,4 +258,3 @@ De ver os eventos do senai.
 
 ### Sentimento do dia:
 ![Bem](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWh6bjBidzYwOTFmZXp6bGRkZmVkemdsMm1oam5yN2ZzNHQ2ZjcyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/guufsF0Az3Lpu/giphy.webp)
-
