@@ -245,5 +245,21 @@ revisão de conceitos lógicos e a fazer videos IA
 Escolha um GIF que melhor represente seu sentimento sobre a aula de hoje. Você pode usar sites como Giphy para encontrar o GIF perfeito.
 
 
+## Data: [15/08/2024]
+
+### O que aprendi hoje:
+programação é importante em muitas areas
+
+### Atividades do dia
+ficar fora da sala
+
+### O que mais gostei:
+oculos VR!!!!
+
+### Sentimento do dia:
+![Alt Text](URL_DO_GIF)
+Escolha um GIF que melhor represente seu sentimento sobre a aula de hoje. Você pode usar sites como Giphy para encontrar o GIF perfeito.
+
+
 ---
 
