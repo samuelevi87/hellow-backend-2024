@@ -264,3 +264,25 @@ da explicaçao do professor
 
 ### Sentimento do dia:
 ![Alt Text](https://media4.giphy.com/media/m5SLTWdACYbUe9Ge9F/giphy.webp?cid=790b7611hpjznos3g0f19qfhlo0lkm9qrxh671ft6w8lgy3y&ep=v1_gifs_search&rid=giphy.webp&ct=g)
+
+---
+
+
+# Diário de Bordo - [Hellow 2024/Trilha DEV Backend]
+
+## Data: [015-08-2024]
+
+### O que aprendi hoje:
+**Como criar apresentações com IA** 
+
+### O que achei mais difícil:
+**Aula de boas**
+
+### O que mais gostei:
+**De poder fazer um site bem feito com facilidade**
+
+### Sentimento do dia:
+![Alt Text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExejJxNGhobDhtaXk2endueWtsdDE4Z2dvbTd0M3Y4d2xtbnRoejk0ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4KHGH8uk0EdJDS777T/200.webp)
+
+### Exercícios do dia:!
+https://jornada-backend-j2th13e.gamma.site/
