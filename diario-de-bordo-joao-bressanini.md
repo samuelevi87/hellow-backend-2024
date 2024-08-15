@@ -277,3 +277,22 @@ De jogar com o óculos de realidade virtual.
 
 ### Sentimento do dia:
 ![Alt text](https://media.giphy.com/media/11sBLVxNs7v6WA/giphy.gif?cid=790b7611vavfya0zuersdmrt3ctggirmjpetskkxf78ln62m&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
+---
+
+## Data: [08-08-2024]
+
+### O que aprendi hoje:
+Eu aprendi a como mexer no gama para fazer slides ou sites.
+
+### O que achei mais difícil:
+Nada foi dificil de entender
+
+### O que mais gostei:
+De fazer os slides.
+### Sentimento do dia:
+![Alt text](https://media.giphy.com/media/gKHGnB1ml0moQdjhEJ/giphy.gif?cid=790b7611hdfb9jvvd9w0y5lnkzpj9smhp805u3of8mt1w1s6&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
+### Atividades
+
+https://gamma.app/docs/Minha-Jornada-no-Curso-Hellow-Backend-xn7sdgfx8c3s3cl
