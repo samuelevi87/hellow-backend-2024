@@ -202,7 +202,7 @@ que consegui compreender a maioria dos exercicios, da explicacao do professor qu
 ### Sentimento do dia:
 ![Alt Text](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExenluNXBxMzE1eGFtZ29qcTZwbThqdGZxbXdyd2wzb3NkZ3MwZzkwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cA8avT0IRUuTGhbx9V/giphy.webp)
 
-### Exercicios do dia :
+### Atividades  do dia :
 
 ![Alt text](image-19.png)
 
@@ -256,7 +256,7 @@ De criar a imagem que fala, achei muito legal.
 Bom hoje não tivemos o curso em si, e sim o "evento mundo senai".Que achei muito interresante e aprendi coisas que não sabia, e vi o quão trabalhoso é, e que cada movimento deve ser programado e cálcuado, para não ter erro.
 
 ### O que achei mais difícil:
-Bom dificil, mesmo foi mecher com a caneta de impressão 3D, pois era dificil fazer ela parar e o fazer o desenho.
+Bom dificil mesmo foi mecher com a caneta de impressão 3D, pois era dificil fazer ela parar e o fazer o desenho.
 
 ### O que mais gostei:
 Nossa gostei de tanta coisas,mas o que mais gostei foi do conhecimento que retirei do evento "mundo senai", e também teve muitas bancas que eu gostei como a caneta de impressão 3D, a bancada smart 4.0 e etc... 
@@ -264,5 +264,23 @@ Nossa gostei de tanta coisas,mas o que mais gostei foi do conhecimento que retir
 ### Sentimento do dia:
 ![Alt Text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm1heGY3cHA5bDZnem0wYXVwODRjb2d6cmxwajV2azR6bzA4MThuMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GxqAQIbKXwBVbVNuzu/giphy.webp)
 
+
+## Data: [15-08-2024]
+
+### O que aprendi hoje:
+Bom hoje estamos fazendo nosso projeto de apresentenção para a nossa formatura.
+### O que achei mais difícil:
+Até então nada, mas acho que vou ter mais dificuldade na parte de colar imagem.
+
+### O que mais gostei:
+ Estou gostando muito de fazer o projeto de apresentação, e de estar conseguindo me virar sozinha.
+
+### Sentimento do dia:
+![Alt Text](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDBwcDNwem93c2JmcHl2MmZkNTYybTNvMHBxeHhxcWx6MHM4Y3VvMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ornjGU4aAW64iiPvy/giphy.webp)
+
+
+## Atividades do dia :
+
+https://minha-jornada-hellow-bac-5caospm.gamma.site/
 
 ---
