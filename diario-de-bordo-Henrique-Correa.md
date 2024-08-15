@@ -236,4 +236,21 @@ Eu gostei da imagens feitas por IA.
 <audio src="2024-08-01/ttsmaker-file-2024-8-1-16-19-40.mp3" controls title="Title"></audio>
 
 <video src="2024-08-01/d923103c-43ea-4e08-9459-d49497fb24c7.mp4" controls title="Title"></video>
+
+---
+## Data: [08-08-2024]
+
+### O que aprendi hoje:
+Nós participamos do mundo Senai, vimos várias apresentações e aprendi melhor sobre como funciona o controle de sistemas de uma empresa.
+
+### O que achei mais difícil:
+Nada foi muito difícil.
+
+### O que mais gostei:
+Usar um óculos de realidade virtual, ver os projetos de vários alunos diferentes e dos brindes que ganhamos.
+
+### Sentimento do dia:
+![Alt Text](https://media.giphy.com/media/85OCkXGbehmyU3g7S8/giphy.gif?cid=790b7611gkgu5dzq1743avxembrm416hmu5pdll1m5nih8ae&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
+
 ---
