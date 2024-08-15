@@ -246,3 +246,21 @@ De usar a ia.
 ### Sentimento do dia:
 
 ![Alt Text](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW42dnlxemN4Ym5qZzg4NW16ajNiZTV5Y2hvazgzb3pmeHJlNXJlaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qiMbLh4WHEZyw/giphy.webp)
+
+
+
+## Data: [15-08-2024]
+
+### O que aprendi hoje:
+hoje nós fomos la fora pois estava acontecendo o mundo senai.
+
+### O que achei mais difícil:
+nada pois nós só ficamos olhando as apresentações.
+
+### O que mais gostei:
+De andar pelo senai.
+
+### Sentimento do dia:
+
+![Alt Text](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGVmZng5YmhycTdteW5ub2cxb29vYWl5aW1sanp2ZjhqNHVwNjF3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3fQf1OEAq0iri9RC/giphy.webp)
+
