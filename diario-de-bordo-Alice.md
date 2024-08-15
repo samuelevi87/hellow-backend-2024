@@ -195,7 +195,7 @@ Após o recreio acessamos o w3schools e fizemos alguns exercicios da aula passad
 ### O que aprendi hoje:
 finalizamos os exercicios da aula passada(w3schools) sobre banco de dados,e depois do recreio fizemos mais alguns exercicios de revisao.
 ### O que achei mais difícil:
-certos exercicios que tive mais dificuldade em entender,nao tinha entendido muito bem mas depois peguei o jeito.
+certos exercicios que tive mais dificuldade em entender,não tinha entendido muito bem mas depois peguei o jeito.
 
 ### O que mais gostei:
 que consegui compreender a maioria dos exercicios, da explicacao do professor que acabou ajudando muito, para eu compreender os exercicios 
@@ -217,9 +217,9 @@ que consegui compreender a maioria dos exercicios, da explicacao do professor qu
 ### O que aprendi hoje:
 Fizemos alguns exercicos para relembrar os comandos de SQL para a prova e depois do recreio fizemos a prova
 ### O que achei mais difícil:
-de enviar a prova 
+De enviar a prova 
 ### O que mais gostei:
-De ter entendido os codigos de SQL e ter tirado 10 na prova
+De ter entendido os codigos de SQL, e ter tirado 10 na prova
 ### Sentimento do dia:
 ![Alt Text](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXA4aDdiNDF1cWFwdjEwZ3RlenpucjFmdmJ1bTE2cWE2ZjZmdDN1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/geslvCFM31sFW/giphy.webp)
 
@@ -229,13 +229,13 @@ De ter entendido os codigos de SQL e ter tirado 10 na prova
 ## Data: [01-08-2024]
 
 ### O que aprendi hoje:
-Fizemos uma revisão dos conteudos passados e depois do recreio aprendemos a gerar uma imagem que fala que a minha imagem estava explicando a funçao do UPDATE do SQL.
+Fizemos uma revisão dos conteúdos passados e depois do recreio aprendemos a gerar uma imagem que fala, e a minha imagem estava explicando a função do UPDATE do SQL.
 
 ### O que achei mais difícil:
 Colocar as imagens no diario de bordo
 
 ### O que mais gostei:
-De criar a imagem que fala achei muito legal.
+De criar a imagem que fala, achei muito legal.
 
 ### Sentimento do dia:
 ![Alt Text](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZrNXpzNzB4dTk3dTM3YWYyN2wxM2FzeHJoN294eHpqZ2J5aGQzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nDSlfqf0gn5g4/giphy.webp)
@@ -248,5 +248,21 @@ De criar a imagem que fala achei muito legal.
 ![Alt text](2024-08-01/ROSTO.webp)
 
 <audio src="2024-08-01/ttsmaker-file-2024-8-1-16-23-26.mp3" controls title="Title"></audio>
+
+
+## Data: [08-08-2024]
+
+### O que aprendi hoje:
+Bom hoje não tivemos o curso em si, e sim o "evento mundo senai".Que achei muito interresante e aprendi coisas que não sabia, e vi o quão trabalhoso é, e que cada movimento deve ser programado e cálcuado, para não ter erro.
+
+### O que achei mais difícil:
+Bom dificil, mesmo foi mecher com a caneta de impressão 3D, pois era dificil fazer ela parar e o fazer o desenho.
+
+### O que mais gostei:
+Nossa gostei de tanta coisas,mas o que mais gostei foi do conhecimento que retirei do evento "mundo senai", e também teve muitas bancas que eu gostei como a caneta de impressão 3D, a bancada smart 4.0 e etc... 
+
+### Sentimento do dia:
+![Alt Text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm1heGY3cHA5bDZnem0wYXVwODRjb2d6cmxwajV2azR6bzA4MThuMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GxqAQIbKXwBVbVNuzu/giphy.webp)
+
 
 ---
