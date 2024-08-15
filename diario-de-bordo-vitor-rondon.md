@@ -278,3 +278,17 @@ atividade do dia
 
 
 (<audio src="ttsmaker-file-2024-8-1-16-44-5.mp3" controls title="Title"></audio>)
+
+---
+## Data: [08-08-2024]
+
+### O que aprendi hoje:
+vimos varias exposiçoes
+
+### O que achei mais difícil:
+
+
+### O que mais gostei:
+KILLER INSTINCT
+### Sentimento do dia:
+![Alt Text](https://media1.tenor.com/m/CCWnyEcXL8AAAAAC/hihihiha-clash-royale.gif)
