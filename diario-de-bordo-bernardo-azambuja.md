@@ -176,3 +176,23 @@ Ficar fora de sala.
 
 ### Sentimento do dia:
 Feliz
+
+# Diário de Bordo - [Hellow 2024/Trilha DEV Backend]
+
+## Data: [15-08-2024]
+
+### O que aprendi hoje:
+Como criar sites com gamma app.
+
+### O que achei mais difícil:
+Que a qualidade das imagens estava muito ruim.
+
+### O que mais gostei:
+De ver o site pronto.
+
+### Sentimento do dia:
+Normal
+
+### Atividade do dia:
+Site:
+https://minha-jornada-no-hellow--mywadwz.gamma.site/
