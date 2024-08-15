@@ -234,3 +234,21 @@ sistema controlador de estoque, margem de preço entre outras coisas.
 ### Sentimento do dia:
 ![Alt Text](https://media4.giphy.com/media/3oEdv1MYRY3ZN0Hv56/200.webp?cid=790b76117go4lgdt8fdmzcedkblpzttjgsux7uq0mfc7m3gr&ep=v1_gifs_trending&rid=200.webp&ct=g)
 
+--
+
+### O que  aprendi hoje:
+criar um site e imagem através de IA.
+
+### O que achei mais difícil:
+mexer no gama, como trocar imagens por exemplo.
+
+### O que mais gostei:
+a criação do site.
+
+### Sentimento do dia:
+![Alt Text](https://media0.giphy.com/media/l0IybQ6l8nfKjxQv6/200.webp?cid=82a1493bxy2y8lazvb8pojchlz3asscqpi6k4vvhpn3tlzpu&ep=v1_gifs_trending&rid=200.webp&ct=g)
+
+
+### atividades do dia
+https://gamma.app/docs/Minha-Jornada-no-Hellow-Backend-sqdjcpg6j28sigr
+
