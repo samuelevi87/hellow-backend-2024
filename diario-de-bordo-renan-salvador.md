@@ -239,3 +239,23 @@ Os videos e imagens IA
 
 ### Sentimento do dia:
 ![Alt text](https://media1.tenor.com/m/Max8rdOVzJUAAAAd/shocked-surprised.gif)
+
+
+
+
+-------------
+
+## Data: [08-08-2024]
+
+### O que aprendi hoje:
+diversos tipos de dinamicas e explicações no MUNDO SENAI
+### O que achei mais difícil:
+andar demais nas mudanças de estações KKKKKK
+
+### O que mais gostei:
+da caneta 3D
+
+### Exercicio do dia
+
+### Sentimento do dia:
+![Alt Text](https://media1.tenor.com/m/rNCdBEqBKjoAAAAd/sad-cat.gif)
