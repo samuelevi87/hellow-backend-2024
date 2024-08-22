@@ -268,3 +268,33 @@ Fazer uma imagem falar .
 <video src="56743e3a-1e2d-43c4-8d64-c5ce25659553-1.mp4" controls title="Title"></video>
 
 ---
+## Data: [08-08-2024]
+
+### O que aprendi hoje:
+Nós fomos conhecer o projeto do mundo senai .
+
+### O que achei mais difícil:
+Manusear a caneta 3D.
+
+### O que mais gostei:
+Conhecer vários projetos legais . 
+
+### Sentimento do dia:
+![Alt Text](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHhqeHcwdXNnODRiYWU0bHNoMnUya291djV5ODAyeGN2NngxY3ltNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MeIucAjPKoA120R7sN/giphy.webp)
+
+---
+## Data: [15-08-2024]
+
+### O que aprendi hoje:
+começamos a fazer a apresentação de formatura do curso . 
+
+### O que achei mais difícil:
+Que tive que ajustar algumas coisas que estavam dando erro , tirando isso não teve nada de muito dificil .
+
+### O que mais gostei:
+de fazer a apresentação, por que fico feliz vendo que aprendi coisa novas  .
+
+### Sentimento do dia:
+![Alt Text](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2QxcHY1YTdoMmkwOXl0YjRhNzNzb3Z1bWN2MXV1cHV3dWMzaWNzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwK1cdxXADARO/giphy.webp)
+
+---
