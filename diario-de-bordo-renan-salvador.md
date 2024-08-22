@@ -277,3 +277,24 @@ site : https://aprendendo-com-hellow-20-lqzhcca.gamma.site/
 ### Sentimento do dia:
 ![Alt Text](https://media1.tenor.com/m/z3AQ3qjnLeQAAAAC/crap-oh-no.gif)
 
+
+
+---------------
+
+## Data: [22-08-2024]
+
+### O que aprendi hoje
+A apresentar na frente de toda turma
+
+### O que achei mais difícil:
+Ter que apresentar meu diario de bordo de todo o curso até o presente momento na frente de toda turma.
+
+### O que mais gostei:
+Eu gostaria de não ter apresentado meu trabalho, o nervosismo foi imenso
+
+### Exercicio do dia
+https://aprendendo-com-hellow-20-lqzhcca.gamma.site/
+
+### Sentimento do dia:
+![Alt Text](https://media1.tenor.com/m/MEq6CyJEZVAAAAAC/anxiety.gif)
+
