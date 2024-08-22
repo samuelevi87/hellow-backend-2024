@@ -260,6 +260,20 @@ oculos VR!!!!
 ![Alt Text](URL_DO_GIF)
 Escolha um GIF que melhor represente seu sentimento sobre a aula de hoje. Você pode usar sites como Giphy para encontrar o GIF perfeito.
 
+## Data: [22/08/2024]
+
+### O que aprendi hoje:
+;3
+
+### Atividades do dia
+apresentamos nossa jornada do Hellow-Blumenau para o nosso professor e amigos.
+
+### O que mais gostei:
+presentear meu professor com um item colecionável de máquina de escrever antiga.
+
+### Sentimento do dia:
+![Alt Text](URL_DO_GIF)
+Escolha um GIF que melhor represente seu sentimento sobre a aula de hoje. Você pode usar sites como Giphy para encontrar o GIF perfeito.
 
 ---
 
