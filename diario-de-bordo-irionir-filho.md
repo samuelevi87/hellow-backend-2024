@@ -267,3 +267,19 @@ eu gostei de jogar ping pong hoje e ver meus amigos.
 
 ### Exercicios do dia:
 ![Alt text](https://gamma.app/docs/Minha-Jornada-no-curso-Hellow-Backend-em-2024-oza716efw1zhwuk)
+
+
+# Data: [DD-MM-AAA]
+
+### O que aprendi hoje:
+hoje eu estou fazendo minha penultima aula deste curso maravilhoso, espero que tenha outras como esta, mas vamos direto ao assunto, hoje nós finalizamos a nossa jornada no curso hellow backend e fizemos a apresentação sobre nossa incrível jornada no curso hellow backend. 
+
+### O que achei mais difícil:
+Para mim parte mais complicada foi fazer a apresentação da nossa jornada no curso hellow bsckend.
+### O que mais gostei:
+eu gostei  de fazer o texto motivador para todo mundo do curso hellow backend de 2024. 
+### Sentimento do dia:
+![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWszMzF3NDRybGVoMm53ZW5jaGZwd2JmY2F4cHI2enIxejNiYjBvNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pynZagVcYxVUk/giphy.webp)
+
+
+---
