@@ -236,3 +236,16 @@ de gerar o video por IA
 <audio src="ttsmaker-file-2024-8-1-16-20-32.mp3" controls title="Title"></audio>
 
 
+## Data: [08-08-2024]
+
+### O que aprendi hoje:
+como e usado  braço robotico na fabricas automotivas
+
+### O que achei mais difícil:
+entender alguns stands
+### O que mais gostei:
+das impressoras 3d e do mortal kombat que tinha em um stand
+### Sentimento do dia:
+![animados](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHRkdnJhc2dpaThkdDR6cG8wejR6NHNjYWVkbWpucHg0bDhmM29qYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Dg4TxjYikCpiGd7tYs/giphy.webp)
+
+
