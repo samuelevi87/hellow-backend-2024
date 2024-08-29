@@ -298,6 +298,5 @@ de fazer a apresentação, por que fico feliz vendo que aprendi coisa novas  .
 ![Alt Text](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2QxcHY1YTdoMmkwOXl0YjRhNzNzb3Z1bWN2MXV1cHV3dWMzaWNzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwK1cdxXADARO/giphy.webp)
 
 ### Atividade 
-https://gamma.app/docs/Minha-Jornada-no-Curso-Hellow-Backend-b0jjteihgmzluo0s
-
+https://gamma.app/docs/Minha-Jornada-no-Curso-Hellow-Backend-b0jjteihgmzluo0
 ---
